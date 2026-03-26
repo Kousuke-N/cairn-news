@@ -1,0 +1,45 @@
+# パーソナル朝刊 - 情報ソース設定
+# 自由に追加・編集してください
+
+user_profile:
+  role: フロントエンドエンジニア（エンタメ業界）
+  github_username: Kousuke-N
+  interests:
+    - フロントエンド（Angular, etc.）
+    - 生成AI・LLM
+    - エンタメ業界の企画・トレンド
+    - カメラ・写真
+    - ゲーム
+    - スパイスカレー
+
+tech:
+  rss:
+    - url: https://zenn.dev/feed
+      label: Zenn
+    - url: https://b.hatena.ne.jp/hotentry/it.rss
+      label: はてブ IT
+  github_stars: true
+  web_search_queries:
+    - "フロントエンド 最新ニュース"
+    - "生成AI LLM ニュース 最新"
+
+news:
+  rss:
+    - url: https://news.yahoo.co.jp/rss/topics/top-picks.xml
+      label: Yahoo!ニュース
+  web_search_queries:
+    - "今日のニュース 主要"
+    - "日本 ニュース 今日"
+
+entertainment:
+  web_search_queries:
+    - "エンタメ 話題 今日"
+    - "バズっている 企画"
+  rss: []
+
+hobby:
+  web_search_queries:
+    - "カメラ 新製品 ニュース"
+    - "ゲーム 新作 ニュース"
+    - "スパイスカレー レシピ 話題"
+  rss: []

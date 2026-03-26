@@ -1,0 +1,26 @@
+# ユーザーの好み設定（フィードバックから自動更新される）
+# 手動で編集してもOK
+
+# カテゴリごとの分量調整（デフォルト: 1.0、増やしたい場合 > 1.0、減らしたい場合 < 1.0）
+category_weight:
+  tech: 1.0
+  news: 1.0
+  entertainment: 1.0
+  hobby: 1.0
+
+# 深掘りしてほしいトピック（大記事に昇格しやすくなる）
+deep_dive_topics: []
+# 例:
+# - 生成AI
+# - Angular
+
+# 興味が薄いトピック（小記事に降格しやすくなる）
+low_interest_topics: []
+
+# 承認済みの追加データソース（フィードバックで承認されたもの）
+# ここに追加されたソースは次回から sources.yaml に自動マージされる
+approved_sources: []
+# 例:
+# - url: https://example.com/feed
+#   label: Example Feed
+#   category: tech
