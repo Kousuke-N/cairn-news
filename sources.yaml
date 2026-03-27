@@ -19,6 +19,11 @@ tech:
     - url: https://b.hatena.ne.jp/hotentry/it.rss
       label: はてブ IT
   github_stars: true
+  additional_rss:
+    - url: https://storybook.js.org/blog/rss.xml
+      label: Storybook Blog
+    - url: https://www.anthropic.com/news
+      label: Anthropic Blog
   web_search_queries:
     - "フロントエンド 最新ニュース"
     - "生成AI LLM ニュース 最新"
