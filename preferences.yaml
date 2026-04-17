@@ -3,7 +3,7 @@
 
 # カテゴリごとの分量調整（デフォルト: 1.0、増やしたい場合 > 1.0、減らしたい場合 < 1.0）
 category_weight:
-  tech: 1.2
+  tech: 1.4
   news: 1.0
   entertainment: 1.0
   hobby: 1.0
