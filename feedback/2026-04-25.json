@@ -1,0 +1,13 @@
+{
+  "date": "2026-04-25",
+  "source_page_id": "32fa41a3-cf9b-81f3-afff-c778423ed0bc",
+  "volume": "more",
+  "increase_categories": ["tech"],
+  "decrease_categories": [],
+  "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+  "approved_sources": [
+    {"url": "https://storybook.js.org/blog/rss.xml", "label": "Storybook Blog", "category": "tech"},
+    {"url": "https://www.anthropic.com/news", "label": "Anthropic Blog", "category": "tech"}
+  ],
+  "comments": []
+}
