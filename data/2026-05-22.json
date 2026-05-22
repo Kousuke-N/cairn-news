@@ -1,0 +1,562 @@
+{
+  "date": "2026-05-22",
+  "notion_page_id": "368a41a3-cf9b-8194-b343-d6794cf3151c",
+  "articles": [
+    {
+      "title": "Anthropic's Code with Claude showed off coding's future—whether you like it or not",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "category": "tech",
+      "source": "MIT Technology Review",
+      "summary": "5/19〜20ロンドン開催の開発者イベント。参加者の約半数が「直近1週間でClaudeが書いたPRをそのままマージした」と挙手。Dreaming・Outcomes・マルチエージェントオーケストレーション・Claude Finance・Add-insの5新機能を発表。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "生成AI・LLMへの強い関心に直結。エージェントの自己改善ループ（Dreaming）・成功基準定義（Outcomes）はAngular開発での活用に直接影響する"
+    },
+    {
+      "title": "Code with Claude 2026: 5 New Agent Features Anthropic Just Shipped",
+      "url": "https://www.mindstudio.ai/blog/code-with-claude-2026-new-agent-features",
+      "category": "tech",
+      "source": "MindStudio Blog",
+      "summary": "Code with Claude London 2026で発表された5新機能の詳細解説。Dreaming・Outcomes・マルチエージェントオーケストレーション・Claude Finance・Add-ins。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "MIT Technology Review記事に統合済みのため単独不採用"
+    },
+    {
+      "title": "Anthropic's Code with Claude Announces Managed Agents, Proactive Workflows, Capability Curve",
+      "url": "https://www.infoq.com/news/2026/05/code-with-claude/",
+      "category": "tech",
+      "source": "InfoQ",
+      "summary": "Code with Claude 2026でのアナウンスをInfoQが技術的視点で解説。Claude Managed Agentsの強化、セルフホストサンドボックス、MCPトンネルなど。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "2026-05-20データに記録済み（不採用）のURLを再取得。MIT Technology Review記事に統合"
+    },
+    {
+      "title": "Vite 8 Is Here — And It Changes Everything About Frontend Builds",
+      "url": "https://dev.to/gabrielenache/vite-8-is-here-and-it-changes-everything-about-frontend-builds-45ci",
+      "category": "tech",
+      "source": "DEV Community",
+      "summary": "Rust製バンドラー「Rolldown」を統一採用し本番ビルドを最大30倍高速化。Lightning CSSへ移行、tsconfig pathsサポート、ブラウザコンソールログ転送機能追加。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "フロントエンドエンジニアとしてVite 8はAngularプロジェクトのビルド環境に直接影響する重要アップデート"
+    },
+    {
+      "title": "Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds",
+      "url": "https://www.infoq.com/news/2026/05/vite-v8-rust/",
+      "category": "tech",
+      "source": "InfoQ",
+      "summary": "InfoQがVite 8のアーキテクチャ変更を技術的に詳述。Rolldown採用でRampが57%・Beehiivが64%のビルド時間削減を報告。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "DEV Community記事と内容が重複するため不採用"
+    },
+    {
+      "title": "GitHub pauses Copilot sign-ups as AI coding drives up compute demand",
+      "url": "https://thenewstack.io/github-copilot-signups-paused/",
+      "category": "tech",
+      "source": "The New Stack",
+      "summary": "GitHubがCopilot Pro/Pro+/Studentプランの新規サインアップを一時停止。エージェンティックワークフロー急増でコンピュート需要が限界に。ProプランからOpus 4.7が除外。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "フロントエンドエンジニアが日常使いするGitHub Copilotの重大な方針変更。AIコーディングツールの供給制約という新しい現実"
+    },
+    {
+      "title": "Updates to available models in Copilot on web",
+      "url": "https://github.blog/changelog/2026-05-20-updates-to-available-models-in-copilot-on-web/",
+      "category": "tech",
+      "source": "GitHub Changelog",
+      "summary": "GeminiモデルとGPT-5.2 Codex等が削除され、ClaudeとOpenAIのモデルが継続。5/17にGPT-5.3-CodexがEnterprise/BusinessのLTSモデルに指定。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "GitHub Copilot停止記事に内容を統合"
+    },
+    {
+      "title": "Copilot cloud agent: Fast, cost-efficient models for simple tasks",
+      "url": "https://github.blog/changelog/2026-05-18-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks/",
+      "category": "tech",
+      "source": "GitHub Changelog",
+      "summary": "Claude Haiku 4.5とGPT-5.4-miniがCopilotクラウドエージェントに追加。低コスト・高速なオプションでタスク複雑さに応じたモデル選択が可能に。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "GitHub Copilot停止記事に統合"
+    },
+    {
+      "title": "Angular 22 Release Guide: What's New in Signal-First Architecture",
+      "url": "https://arc.dev/employer-blog/angular-latest-version-your-friendly-guide-to-new-features-and-updates-in-2026/",
+      "category": "tech",
+      "source": "Arc.dev Blog",
+      "summary": "Angular 22の主要新機能をまとめた解説。Selectorless Components・Signal Forms・Zoneless・debounced()シグナル・Vitest統合などLTSとして長期採用できる節目リリース。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "Angular 22は5/20に大記事化済みだが移行ガイド観点での新しい視点を提供。小記事として補足"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "summary": "ChatGPTのデフォルトモデルをGPT-5.5 Instantに更新。ハルシネーション52.5%削減・応答30%短縮。API経由でchat-latestとして利用可能。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "LLM競争の現状を把握するための情報として。主要モデルのデフォルト更新は業界動向として重要"
+    },
+    {
+      "title": "KPMG and Anthropic Sign Global Alliance and Launch Digital Gateway Powered by Claude",
+      "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/kpmg-and-anthropic-sign-global-alliance-and-launch-digital-gateway-powered-by-claude.html",
+      "category": "tech",
+      "source": "KPMG Press Release",
+      "summary": "KPMGとAnthropicがグローバルアライアンス締結。27.6万人以上の従業員全員にClaudeアクセス。税務・PEファンド向けから順次展開。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "Claudeの大規模企業展開の最新事例。LLMのエンタープライズインフラ化を示す指標として"
+    },
+    {
+      "title": "PwC and Anthropic expand alliance to embed Claude in key businesses",
+      "url": "https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html",
+      "category": "tech",
+      "source": "PwC Newsroom",
+      "summary": "PwCとAnthropicがアライアンス拡大。Claude CodeとCoworkを全世界展開し3万人のPwCプロフェッショナルをClaude認定研修。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "KPMG記事と内容が近く枠調整で不採用"
+    },
+    {
+      "title": "【2026年版】フロントエンド技術選定：React・Vue・Angularの現在地と「AI時代の生存戦略」",
+      "url": "https://zenn.dev/nijima/articles/651ed3c1f2ded5",
+      "category": "tech",
+      "source": "Zenn",
+      "summary": "2026年のフロントエンドフレームワーク比較。ReactがシェアNo.1を維持中、AI時代のAngularのシグナルベースリアクティビティの方向性を俯瞰した日本語解説記事。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "今週のAngular 22関連記事と内容が重複。枠調整で不採用"
+    },
+    {
+      "title": "防災庁設置法案、参議院で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126311000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "防災庁設置法案が5月22日に参議院で審議入り。衆院通過済みの法案で高市首相「復興庁との統合は現時点で検討せず」。縦割り解消・政府一体での防災対応が目的。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "本日審議入りという時事性のある重要法案"
+    },
+    {
+      "title": "株価 終値で最高値更新 イラン戦闘の終結へ進展の見方",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128361000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "5/22の日経平均終値は前日比1,654円高の6万3,339円で史上最高値を更新。AI・半導体関連株が上昇を牽引。イラン交渉進展観測が幅広く買いを呼び込んだ。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "5/20の6万円割れから2営業日での史上最高値更新という劇的反転。イラン情勢をdeep_dive対象としているユーザーへの最重要フォローアップ"
+    },
+    {
+      "title": "NYダウ 3か月ぶり最高値更新 米イラン協議の進展観測で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128321000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "米国株式市場でダウ平均が3か月ぶりに最高値を更新。米・イラン核・停戦交渉が最終段階との観測が世界の株式市場に好影響。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "日経最高値大記事に統合済み"
+    },
+    {
+      "title": "トランプ氏、対イラン交渉「最終段階」 ホルムズ海峡の早期開放迫る",
+      "url": "https://www.nikkei.com/article/DGXZQOGN20D120Q6A520C2000000/",
+      "category": "news",
+      "source": "日本経済新聞",
+      "summary": "トランプ大統領が米・イラン核交渉を「最終段階」と発言。ホルムズ海峡早期開放を要求。イランは「戦争終結の保証を先行させる」と要求しており交渉は依然難航中。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "日経最高値大記事にイラン情勢を統合済み"
+    },
+    {
+      "title": "最先端AIめぐり当面の対応を要請 「システム停止も」金融庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128621000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "金融庁と日銀が5/22、フロンティアAIのサイバー悪用に対する金融システムリスクを警告し、金融機関に9項目の緊急対応を要請。システム停止判断を含む。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "AIが金融システムリスクとして当局に公式認定された歴史的な日。テック×ニュースの交点として重要"
+    },
+    {
+      "title": "NPT再検討会議2026、最終日に合意への協議難航 成果文書採択が焦点",
+      "url": "https://www.hiroshimapeacemedia.jp/?p=160680",
+      "category": "news",
+      "source": "中国新聞ヒロシマ平和メディアセンター",
+      "summary": "NPT再検討会議が5/22に最終日。成果文書草案の主要対立点は削除されたが米中露の溝が解消されず3回連続の決裂が懸念される。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "5/20からフォローアップしてきたNPT。本日が最終日で採択の可否が判明する"
+    },
+    {
+      "title": "スピードスケート 高木美帆さんに国民栄誉賞の授与検討 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128421000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "政府が高木美帆選手への国民栄誉賞授与を検討。冬季五輪歴代最多10個のメダル。高市政権発足後初の国民栄誉賞となる見通し。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "本日発表の社会的ニュース"
+    },
+    {
+      "title": "ゼレンスキー大統領、ロシア治安機関を攻撃 約100人死傷と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128291000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "ウクライナがヘルソン州のロシアFSB司令部をドローンで攻撃し約100人の死傷者を発表。停戦交渉難航中も軍事攻勢は継続。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "ウクライナ戦況の重要フォローアップ。停戦と攻撃が並走する矛盾した状況の継続"
+    },
+    {
+      "title": "4月の消費者物価指数、生鮮除く総合1.4%上昇 3か月連続で2%下回る",
+      "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html",
+      "category": "news",
+      "source": "総務省統計局",
+      "summary": "2026年4月の全国消費者物価指数（生鮮除く）は前年同月比1.4%上昇。3か月連続で2%を下回り市場予想も下回った。日銀の追加利上げ判断に影響する可能性。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日銀政策・イラン情勢緩和との関連で重要な経済指標"
+    },
+    {
+      "title": "日韓首脳会談、エネルギー安定確保など幅広い分野で連携確認",
+      "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202605/video-310710.html",
+      "category": "news",
+      "source": "政府広報オンライン",
+      "summary": "高市首相が5/19に韓国・安東で李在明大統領と首脳会談。サプライチェーン・エネルギー・北朝鮮問題・安全保障で戦略的協力を確認。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "5/20の外交フォローアップとして重複感あり。枠調整で不採用"
+    },
+    {
+      "title": "トランプ大統領、台湾総統と協議の意向 中国が「断固反対」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128111000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "トランプ大統領が台湾の頼清徳総統と協議する意向を示し中国外務省が強く反発。台湾への武器売却問題が背景。米中首脳会談後も台湾問題は棚上げのまま。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "米中台の三角緊張の最新動向として重要"
+    },
+    {
+      "title": "本田圭佑、NHKでW杯日本代表戦を解説 地上波全試合を担当",
+      "url": "https://www.soccer-king.jp/news/world/wc/20260521/2161955.html",
+      "category": "news",
+      "source": "サッカーキング",
+      "summary": "6/12開幕のFIFAワールドカップ2026で本田圭佑がNHK地上波の日本代表全試合解説を担当することが決定。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "W杯開幕前の情報として今週は優先度が低め。枠調整で不採用"
+    },
+    {
+      "title": "東京・豊島区、15の民泊事業者に1年間の業務停止命令へ",
+      "url": "https://news.web.nhk.or.jp/newsweb/na/nb-1000128738",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "豊島区が定期報告義務を果たさない15の民泊事業者に業務停止命令を方針決定。民泊施設数が1年で28%増加。",
+      "relevance": "low",
+      "selected": false,
+      "reason_selected": "地域行政ニュースとして優先度が低め。不採用"
+    },
+    {
+      "title": "米軍、空母をカリブ海に展開 トランプ氏「キューバ人を助けたい」",
+      "url": "https://www.nikkei.com/article/DGXZQOGN21DC20R20C26A5000000/",
+      "category": "news",
+      "source": "日本経済新聞",
+      "summary": "米軍が原子力空母ニミッツをカリブ海に展開。トランプ政権がキューバの反米政権に軍事的圧力。イラン対応で可用戦力が逼迫する中での展開。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "重要ニュースだが今週の主要テーマ（イラン・NPT・日経最高値）との兼ね合いで枠調整不採用"
+    },
+    {
+      "title": "『スター・ウォーズ／マンダロリアン・アンド・グローグー』本日日米同時公開！ジャパンプレミアでペドロ・パスカルら来日",
+      "url": "https://starwars.disney.co.jp/movie/mandalorian-grogu/news/20260520_03",
+      "category": "entertainment",
+      "source": "スター・ウォーズ公式サイト",
+      "summary": "SW7年ぶりの劇場新作が5/22日米同時公開。ジャパンプレミアにはペドロ・パスカルとジョン・ファヴロー監督が来日。全米初動8,000万〜1億ドル予測。RT 93%スタート。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "本日公開という最高の時事性。5/20で予告済みの「配信→劇場逆流戦略」の実証日として"
+    },
+    {
+      "title": "カンヌ映画祭2026、是枝裕和・濱口竜介・深田晃司3監督が同時コンペ参加。授賞式は明日5月23日",
+      "url": "https://madamefigaro.jp/culture/260514-cannes-film-festival-2026-04/",
+      "category": "entertainment",
+      "source": "madame FIGARO.jp",
+      "summary": "第79回カンヌ国際映画祭コンペ部門に日本映画3本同時選出。是枝裕和『箱の中の羊』・濱口竜介（初仏語作品）・深田晃司『ナギダイアリー』。授賞式は5/23。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "授賞式が明日に迫ったカンヌの大詰め。エンタメ業界企画職として日本映画の国際展開の歴史的転換点として最重要"
+    },
+    {
+      "title": "『ザ・スーパーマリオギャラクシー・ムービー』全世界興収1532億円突破、ゲーム原作映画歴代2位に浮上",
+      "url": "https://www.oricon.co.jp/news/2455665/full/",
+      "category": "entertainment",
+      "source": "オリコン",
+      "summary": "全世界累計興収約1,532億円を記録しゲーム原作映画歴代2位に。実写版マイクラを超えマリオシリーズがTOP2を独占。国内でも60億円突破。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "ゲームIPが映画産業を席巻する構造変化の象徴。セレンディピティとも連動"
+    },
+    {
+      "title": "BTS ジン、2ndミニアルバム『Echo』が世界26カ国でYouTubeトレンド1位",
+      "url": "https://www.msn.com/ja-jp/news/entertainment/bts-%E3%82%B8%E3%83%B3-2nd%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0-echo-itunes%E3%81%A7%E3%83%88%E3%83%83%E3%83%97%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%82%92%E5%B8%AD%E5%B7%BB-%E6%B5%B7%E5%A4%96%E3%81%A7%E3%82%82%E5%A4%A7%E5%A5%BD%E8%A9%95/ar-AA1EWvTu",
+      "category": "entertainment",
+      "source": "MSN Japan（Kstyle）",
+      "summary": "5/16カムバックのBTSジン2ndミニアルバム「Echo」が世界26カ国でYouTubeトレンド1位。全曲がWorldwide iTunesソングスチャートTOP10入り。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "K-POPの最重要グループの最新チャート結果。グローバルK-POPトレンド把握に必須"
+    },
+    {
+      "title": "BABYMONSTER「CHOOM」MVが公開約14日で1億再生突破",
+      "url": "https://www.cdjournal.com/news/babymonster/126650",
+      "category": "entertainment",
+      "source": "CDJournal",
+      "summary": "BABYMONSTERの3rdミニアルバムMVが14日間で1億再生突破。初日販売枚数387,871枚で自己最高記録。YouTubeグローバル日間トレンド1位。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "BTSジン記事と内容が近く、枠調整で不採用"
+    },
+    {
+      "title": "NewJeans、コペンハーゲンのスタジオでカムバック準備中？ADORが認める",
+      "url": "https://kstyle.com/article.ksn?articleNo=2278457",
+      "category": "entertainment",
+      "source": "Kstyle",
+      "summary": "コペンハーゲンのスタジオにADOR名義の予約が確認されメンバーが目撃。ADORが「事前プロダクションの一環」とコメント。下半期カムバック濃厚。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "K-POP情報として重要だが今週のエンタメ枠の兼ね合いで不採用"
+    },
+    {
+      "title": "『プラダを着た悪魔2』累計興収34億円・動員227万人を突破、2週連続首位",
+      "url": "https://thetv.jp/news/detail/1398346/",
+      "category": "entertainment",
+      "source": "WEBザテレビジョン",
+      "summary": "公開3週目で累計34億円・動員227万人突破し2週連続週末1位。最終興収50億円超えも視野。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/20朝刊で小記事として掲載済みの継続情報のため不採用"
+    },
+    {
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地- 本日5月22日より全国公開",
+      "url": "https://superbeaver-film.toho-movie.jp/",
+      "category": "entertainment",
+      "source": "SUPER BEAVER FILM 公式",
+      "summary": "SUPER BEAVER結成20周年記念の初ライブ＆ドキュメンタリー映画が本日5/22より全国公開。TOHO映画配給。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "本日公開だが優先度の高いカンヌ・マンダロリアンで枠が埋まったため不採用"
+    },
+    {
+      "title": "『機動警察パトレイバー EZY』File1が2週目突入、著名人14名からコメント",
+      "url": "https://animeanime.jp/article/2026/05/19/99088.html",
+      "category": "entertainment",
+      "source": "アニメ！アニメ！",
+      "summary": "5/15公開の機動警察パトレイバー EZY File1が2週目突入。庵野秀明ら著名クリエイター14名からコメント到着。File2は8/14公開予定。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "アニメ情報として重要だが今週は枠調整で不採用"
+    },
+    {
+      "title": "転生したらスライムだった件 第4期が2026年春アニメ録画ランキング4週連続首位",
+      "url": "https://animatetimes.com/tag/details.php?id=24978",
+      "category": "entertainment",
+      "source": "アニメイトタイムズ",
+      "summary": "転スラ4期が春アニメ録画ランキング4週連続首位を獲得。連続2クール放送で好調継続。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "アニメトレンドとして参考にはなるが今週の優先テーマ外のため不採用"
+    },
+    {
+      "title": "ソニー α7R VI 正式発表 — 6680万画素・積層型センサー搭載",
+      "url": "https://mirrorless-camera.info/news/sony-news/55327.html",
+      "category": "hobby",
+      "source": "ミラーレスカメラ情報",
+      "summary": "ソニーα7R VI（6680万画素・積層型Exmor RS）の発表まとめ。6/5発売・74万円前後。連写最高30コマ/秒・8Kオーバーサンプリング。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "α7R VIは5/19朝刊で大記事・5/20で中記事として掲載済み。同一トピックのため不採用"
+    },
+    {
+      "title": "パナソニック LUMIX DC-TX3 発売 — 1型裏面照射型センサー＋光学15倍ズームの高級コンデジ",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2103444.html",
+      "category": "hobby",
+      "source": "デジカメ Watch",
+      "summary": "パナソニックLUMIX DC-TX3が5/21発売。1型BSIセンサー・15倍ズーム。約12万9,000円。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/19朝刊の小記事（videosalon.jp URL）で掲載済みの同一製品のため不採用"
+    },
+    {
+      "title": "カメラグランプリ2026 — ソニーが大賞・レンズ賞で2冠",
+      "url": "https://kunkoku.jp/camera-gp2026.html",
+      "category": "hobby",
+      "source": "ソニーが基本的に好き。| ソニーショップくんこく",
+      "summary": "カメラグランプリ2026でソニーα7 Vが大賞、FE 50-150mm F2 GMがレンズ賞でソニー2冠。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/16朝刊で掲載済みの情報のため不採用"
+    },
+    {
+      "title": "キヤノン EOS R6 V 正式発表 — 動画特化の新「V」シリーズ、7Kオープンゲート・12bit RAW内部収録",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2108429.html",
+      "category": "hobby",
+      "source": "デジカメ Watch",
+      "summary": "キヤノンEOS R6 Vが5/13発表。冷却ファン内蔵で7Kオープンゲート・12bit RAW内部収録。36,300円（直販）。6月下旬発売予定。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "EOS R6 V関連記事は5/16朝刊で掲載済み（別URL）のため不採用"
+    },
+    {
+      "title": "Forza Horizon 6 本日発売 — 日本舞台のオープンワールドレース、Game Passでも即プレイ可",
+      "url": "https://www.gamespark.jp/article/2026/05/19/166588.html",
+      "category": "hobby",
+      "source": "Game*Spark",
+      "summary": "Forza Horizon 6が5/19にXbox・PC向けリリース。メタスコア92点。日本を舞台に550台以上の車種。Game Pass即日対応。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/20朝刊のGame Pass Wave 2大記事に統合済みのため不採用"
+    },
+    {
+      "title": "Xbox Game Pass 5月Wave 2 — Forza Horizon 6・Remnant 2・Luna Abyssなど続々追加",
+      "url": "https://news.xbox.com/ja-jp/2026/05/21/xbox-game-pass-may-2026-wave-2/",
+      "category": "hobby",
+      "source": "Xbox Wire Japan",
+      "summary": "Game Pass 5月Wave 2の追加タイトル一覧。Forza Horizon 6・Remnant 2・Luna Abyss・FINAL FANTASY VI（6/2）など。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/20朝刊で大記事として掲載済みのため不採用"
+    },
+    {
+      "title": "Nintendo Switch 2が5月25日から1万円値上げ — 49,980円→59,980円に価格改定",
+      "url": "https://www.gizmodo.jp/2026/05/nintendo-switch-2-59980.html",
+      "category": "hobby",
+      "source": "Gizmodo Japan",
+      "summary": "5/25よりSwitch 2が1万円値上げ（49,980円→59,980円）。メモリ高騰・為替が理由。購入検討者は今週末が旧価格ラスト。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "5/19で言及済みだが値上げ3日前として改めて注意喚起の実用的価値が高い"
+    },
+    {
+      "title": "Nintendo Switch 2『ヨッシーとフカシギの図鑑』本日発売",
+      "url": "https://www.nintendo.com/jp/games/switch2/aakga/index.html",
+      "category": "hobby",
+      "source": "任天堂公式",
+      "summary": "Switch 2向け新作ゲーム「ヨッシーとフカシギの図鑑」が5/21発売。グッド・フィール開発、最大4人マルチ対応。DL版6,980円。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "昨日発売のSwitch 2新作として新鮮な情報"
+    },
+    {
+      "title": "2026年5月～9月発売予定のPS5新作ゲーム24選",
+      "url": "https://www.famitsu.com/article/202605/72904",
+      "category": "hobby",
+      "source": "ファミ通",
+      "summary": "007 First Light・冒険家エリオットの千年物語・ほの暮しの庭など2026年5〜9月のPS5注目新作24本を厳選紹介。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "ゲームユーザーとして今後の購入計画に役立つ情報"
+    },
+    {
+      "title": "ビリヤニ大澤姉妹店「BIRYANI MASTER」が神田にオープン — 予約不要・1,000円台から",
+      "url": "https://magazine.tabelog.com/articles/493170",
+      "category": "hobby",
+      "source": "食べログマガジン",
+      "summary": "「ビリヤニ大澤」姉妹店「BIRYANI MASTER」が5/7に東京・神田にオープン。予約不要・1,000円台からという大衆化された価格設定で開店初日から行列。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "スパイスカレー好きとして「ビリヤニPOPs化元年」の象徴的な新店。実際に訪れやすい条件が揃っている"
+    },
+    {
+      "title": "2026年ブレイク必至のビリヤニおすすめ2軒 — 5,000軒食べ歩く達人が選出",
+      "url": "https://magazine.tabelog.com/articles/484646",
+      "category": "hobby",
+      "source": "食べログマガジン",
+      "summary": "ビリヤニ専門家が2026年ブレイク必至の名店2軒を選出。完全予約制の専門店など。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/20朝刊の除外URLリストに含まれていた記事のため不採用"
+    },
+    {
+      "title": "TOKAIカレーなるフェス 名古屋・矢場公園で開催",
+      "url": "https://currynarufes.com/",
+      "category": "hobby",
+      "source": "TOKAIカレーなるフェス公式",
+      "summary": "4/29〜5/4に名古屋・矢場公園で開催された中部地区最大級のカレーイベント。スパイスカレー・欧風・インドカレーなど多ジャンルが集結。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "既に終了したイベントのため不採用"
+    },
+    {
+      "title": "ニコン Z9 II の正式発表は2027年まで延期の可能性 — 開発遅延の最新情報",
+      "url": "https://cameota.com/nikon/47932.html",
+      "category": "hobby",
+      "source": "CAMEOTA.com",
+      "summary": "ニコンZ9後継機「Z9 II」の発表が2027年まで延期の可能性。重要コンポーネントの調達遅延が原因。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "カメラ趣味として重要な情報。半導体不足→カメラ開発スケジュール変更という連鎖のセレンディピティとも連動"
+    },
+    {
+      "title": "5日間のドミノ逆転——「6万円割れ・三重苦」が「史上最高値」になるまで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128361000",
+      "category": "serendipity",
+      "source": "NHKニュース",
+      "summary": "5/20の「6万円割れ・三重苦」から2営業日で史上最高値更新へ。地政学リスクという1変数が市場全体のドミノを逆方向に倒した複雑系の体験。",
+      "relevance": "high",
+      "selected": true,
+      "size": "serendipity",
+      "reason_selected": "セレンディピティ: 先週紹介した連鎖が逆回転した1週間を記録。複雑系の美しさと予測不可能性の体験として"
+    },
+    {
+      "title": "ニコン Z9 II 延期——Samsung HBM→AI需要→カメラ開発スケジュールという連鎖の末端",
+      "url": "https://cameota.com/nikon/47932.html",
+      "category": "serendipity",
+      "source": "CAMEOTA.com",
+      "summary": "ニコンZ9 II延期の裏にある半導体→AI需要→カメラ開発スケジュール変更という連鎖の構造分析。",
+      "relevance": "high",
+      "selected": true,
+      "size": "serendipity",
+      "reason_selected": "セレンディピティ: 5/13の「Samsung→LLM速度」連鎖の続編として「AI→カメラ」経路を追加"
+    },
+    {
+      "title": "スーパーマリオが映画産業の歴代2位に——「ゲームIPが映画を食べる」時代の到来",
+      "url": "https://www.oricon.co.jp/news/2455665/full/",
+      "category": "serendipity",
+      "source": "オリコン",
+      "summary": "スーパーマリオギャラクシー・ムービーが1,532億円でゲーム原作映画歴代2位に。マリオシリーズがTOP2独占。ゲームIPが映画産業を制する構造変化。",
+      "relevance": "high",
+      "selected": true,
+      "size": "serendipity",
+      "reason_selected": "セレンディピティ: エンタメ業界企画職として「ゲームIPが映画産業を食べる」という10年単位の構造変化の象徴として"
+    }
+  ]
+}
