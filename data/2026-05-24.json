@@ -1,0 +1,602 @@
+{
+  "date": "2026-05-24",
+  "notion_page_id": "36aa41a3-cf9b-8112-a95f-ed5fa4c2c288",
+  "articles": [
+    {
+      "title": "Anthropic、6月15日からAgent SDK課金を独立——Claude Code利用が事実上値上げ、SpaceXとの計算資源提携でレート制限倍増",
+      "url": "https://thenewstack.io/anthropic-agent-sdk-credits/",
+      "category": "tech",
+      "source": "The New Stack",
+      "summary": "6月15日より、claude -p・Agent SDK・Claude Code GitHub Actionsなどプログラム的Claude利用が月額サブスクの共有プールから分離。Pro($20/月)等の専用クレジット枠に移行。超過はAPI従量課金に。SpaceX Colossus 1提携で利用制限は2倍に。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "Claude Code利用開発者として6月15日の課金変更は緊急の実務情報。SpaceX提携による制限倍増・Claude Mythosとまとめて大記事化"
+    },
+    {
+      "title": "Anthropic: SpaceX Colossus 1との計算資源提携でClaude利用制限を2倍に——5時間あたり制限アップ・ピーク制限撤廃",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "category": "tech",
+      "source": "Anthropic",
+      "summary": "SpaceXのColossus 1データセンター（220,000基超のNVIDIA GPU、300MW超）との計算資源契約を締結。Pro/Max/Team/Enterpriseプランで5時間あたり利用制限を2倍に引き上げ、ピーク時間帯制限も撤廃。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "課金変更大記事に統合"
+    },
+    {
+      "title": "Claude Mythos Preview: AIが1,596件のOSS脆弱性を自律発見——FreeBSD 17年前のRCEにエクスプロイト構築成功",
+      "url": "https://red.anthropic.com/2026/cvd/",
+      "category": "tech",
+      "source": "Anthropic Red Team",
+      "summary": "Claude Mythosが1,596件の脆弱性を自律発見（うち97件確認済み、88件パッチ済み）。FreeBSDの17年前のRCE脆弱性発見・エクスプロイト構築にも成功。AIによる自律的セキュリティ研究の新局面を示す。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "課金変更大記事に統合"
+    },
+    {
+      "title": "TypeScript 7.0 Beta登場——Go移植で10倍速、tsgoがtscを置き換えへ",
+      "url": "https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx",
+      "category": "tech",
+      "source": "Visual Studio Magazine",
+      "summary": "TypeScript 7.0 Betaが4月21日に公開。JS実装の最終版6.0に続き、Go言語移植でビルド速度10倍を達成。Bloomberg・Figma・Vercelが検証。tsgoがtscを置き換える形で提供予定。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "フロントエンドエンジニアとして日常ツールTypeScriptの史上最大の変更。Angular 22のVitestデフォルト化と合わせてツールチェーン刷新の全体像を示す"
+    },
+    {
+      "title": "TSKaigi 2026まとめ（5/22-23）——TypeScript Go移植・tsdown・Stage 3 Decoratorsが主要セッション",
+      "url": "https://typescript-jpc.connpass.com/event/379564/",
+      "category": "tech",
+      "source": "TSKaigi / connpass",
+      "summary": "5月22〜23日開催のTypeScript専門カンファレンス。tsdownによるビルド1秒化、Stage 3 Decorators実践、TypeScriptでのAIエージェントフルスタック実装、Goコンパイラ設計史が主要セッション。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "直近2日開催の日本最大TypeScript専門カンファレンス。フロントエンドエンジニアとして最も関連性が高いイベント"
+    },
+    {
+      "title": "Angular 22 Signal-First時代の全体像——Selectorless・OnPushデフォルト・MCP Server統合",
+      "url": "https://medium.com/angular-engineering/angular-22-the-shift-to-signal-first-zoneless-and-performance-driven-architecture-b0d5a68f51e6",
+      "category": "tech",
+      "source": "Medium / Angular Engineering",
+      "summary": "Angular 22における主要変更を解説。Selectorlessコンポーネント、Signals API完全安定化、OnPushデフォルト化、MCP Server統合によるAIコーディング支援強化。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "昨日のAngular 22 Signal Forms大記事の補完情報。Selectorlessなど未紹介の変更点を小記事で補足"
+    },
+    {
+      "title": "Ignite UI for Angular 22.1リリース——Signals対応・Zoneless環境でのUI安定動作",
+      "url": "https://blogs.jp.infragistics.com/entry/Ignite-UI-for-Angular-22-1-Release-Updates-and-Whats-New",
+      "category": "tech",
+      "source": "インフラジスティックス・ジャパン",
+      "summary": "エンタープライズUIライブラリのAngular 22対応完了。Zoneless環境でのデータグリッド等の安定動作確認。Angular 22移行検討企業のUIライブラリ対応状況。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "Angularエンジニアとしてライブラリ対応状況の把握は実務選定に直結"
+    },
+    {
+      "title": "Claude for Microsoft 365 GA——Excel・Word・PowerPointで全有料プラン対応",
+      "url": "https://gadgetbond.com/anthropic-claude-microsoft-365-general-availability/",
+      "category": "tech",
+      "source": "GadgetBond",
+      "summary": "5月7日にAnthropicがOffice全スイートにネイティブ統合を正式リリース。4アドインがクロスアプリでコンテキストを引き継ぐ構成。OutlookはPublic Beta。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "生成AI・LLMへの関心に合致。Claudeの実用展開範囲の大幅拡張。5/7以降初掲載"
+    },
+    {
+      "title": "Angular v19 EOL May 19・Angular 22移行指針",
+      "url": "https://www.herodevs.com/blog-posts/angular-v19-goes-eol-may-19-angular-22-is-coming-the-same-month-here-is-how-to-navigate-both",
+      "category": "tech",
+      "source": "HeroDevs Blog",
+      "summary": "Angular v19 EOLとAngular 22移行の詳解",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/23朝刊でAngular v19 EOLは既に掲載済みのため不採用"
+    },
+    {
+      "title": "TypeScript 6.0 Ships as Final JavaScript-Based Release",
+      "url": "https://visualstudiomagazine.com/articles/2026/03/23/typescript-6-0-ships-as-final-javascript-based-release-clears-path-for-go-native-7-0.aspx",
+      "category": "tech",
+      "source": "Visual Studio Magazine",
+      "summary": "TypeScript 6.0はJS実装の最終版として位置づけられる「ブリッジ」リリース。7.0 Betaの背景知識として重要。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "5/16朝刊掲載済みのため不採用"
+    },
+    {
+      "title": "日本の生成AIニュースまとめ（2026年5月第2週）",
+      "url": "https://note.com/dsg_id/n/n17e11f5c7093",
+      "category": "tech",
+      "source": "DESIGN STUDIO garden / note",
+      "summary": "5月第2週の日本語圏生成AIニュースまとめ",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "まとめ記事のため個別記事を優先。不採用"
+    },
+    {
+      "title": "週刊AIニュース（5月4〜11日）",
+      "url": "https://note.com/chaen_channel/n/n82bd7ae55ae4",
+      "category": "tech",
+      "source": "チャエン / note",
+      "summary": "Anthropic評価額9000億ドル・SpaceX提携・Claude for M365 GAの週次まとめ",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "まとめ記事のため個別記事を優先。不採用"
+    },
+    {
+      "title": "Anthropic June 15 Billing Change: Agent SDK Gets Separate Credit Pool",
+      "url": "https://codersera.com/blog/anthropic-june-2026-billing-change-claude-code/",
+      "category": "tech",
+      "source": "CoderSera",
+      "summary": "6月15日のAnthropicサブスク変更を開発者視点で詳説。クレジット申請手順・Claude Code GHアクション影響・実質値上げ計算例。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "大記事に統合。参考資料として記録"
+    },
+    {
+      "title": "Claude Mythos IEEE Spectrum分析",
+      "url": "https://spectrum.ieee.org/anthropic-claude-mythos-preview-code",
+      "category": "tech",
+      "source": "IEEE Spectrum",
+      "summary": "Claude Mythosの技術的分析。AIが攻撃側・防御側双方で使われる時代における開発者のセキュリティ意識変革を論じる。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "大記事に統合。参考資料として記録"
+    },
+    {
+      "title": "Signal Forms stable in Angular v22（X/Twitter速報）",
+      "url": "https://x.com/AngularLovePL/status/2051940535837876570",
+      "category": "tech",
+      "source": "angular.love (X/Twitter)",
+      "summary": "Signal FormsがAngular v22でstable化。リリースは2026年6月第1週予定。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/23朝刊のAngular 22 Signal Forms大記事に統合済みのため不採用"
+    },
+    {
+      "title": "米イラン「大筋合意」急転直下——ホルムズ再開・60日停戦延長、原油ブレント103ドルに急落",
+      "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear",
+      "category": "news",
+      "source": "Axios",
+      "summary": "Axiosが入手した合意草案: ①ホルムズ海峡の機雷除去・通航完全開放、②60日間の核交渉期間（濃縮凍結・核物質のロシア移送）、③イランへの石油輸出制裁一部免除が三本柱。イスラエルがヒズボラ停戦条項に懸念表明。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "deep_dive_topic「イラン情勢・エネルギー市場」の最重要展開。昨日「突破口なし」から「大筋合意」への急転直下。大記事化"
+    },
+    {
+      "title": "トランプ「米イラン合意は大筋交渉済み」——第5回交渉直後にSNS発表",
+      "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+      "category": "news",
+      "source": "CNBC",
+      "summary": "トランプ大統領が第5回ローマ交渉後にSNSで「合意は大筋で交渉済み」と表明。パキスタンのムニル陸軍参謀長が主要仲介役。5月24日中にも発表の可能性。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "イラン大記事に統合"
+    },
+    {
+      "title": "原油価格、イラン合意期待で急落——WTI96ドル・ブレント103ドル台",
+      "url": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+      "category": "news",
+      "source": "CNBC",
+      "summary": "WTI96.60ドル、ブレント103.54ドルと週間ベースで下落。ホルムズ封鎖で一時120ドル近辺から軟化。IEAは夏季需要期の「レッドゾーン」入りリスクを警告。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "イラン大記事に統合"
+    },
+    {
+      "title": "米イラン交渉「大筋合意」背景とPBS詳報",
+      "url": "https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated",
+      "category": "news",
+      "source": "PBS NewsHour",
+      "summary": "5月23日の第5回協議後、トランプ発表の詳細背景。核濃縮とホルムズ通航料が最後の難題。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "イラン大記事に統合"
+    },
+    {
+      "title": "IMF世界成長率3.1%に下方修正——中東エネルギーショックが主因",
+      "url": "https://www.imf.org/en/blogs/articles/2026/04/14/war-darkens-global-economic-outlook-and-reshapes-policy-priorities",
+      "category": "news",
+      "source": "IMF（国際通貨基金）",
+      "summary": "2026年4月の経済見通しで世界成長率を3.1%に下方修正。ホルムズ封鎖によるエネルギー価格高騰が最大リスク。最悪シナリオでは成長率2%・インフレ6%超の見通し。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "イラン情勢・エネルギー市場注目トピックと直結した国際経済リスク情報"
+    },
+    {
+      "title": "三菱総研: 中東供給制約が世界経済に与える影響分析",
+      "url": "https://www.mri.co.jp/knowledge/insight/ecooutlook/2026/20260520.html",
+      "category": "news",
+      "source": "三菱総合研究所（MRI）",
+      "summary": "5月20日公表。ホルムズ海峡の供給制約がユーロ圏エネルギー集約産業と日本の成長率鈍化に与える影響を分析。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "IMF記事に統合。参考資料として記録"
+    },
+    {
+      "title": "実質賃金25年度0.5%減、4年連続マイナス——エネルギー・食料品高止まりが賃上げを相殺",
+      "url": "https://www.nikkei.com/article/DGXZQOUA217IV0R20C26A5000000/",
+      "category": "news",
+      "source": "日本経済新聞",
+      "summary": "2025年度の実質賃金は前年度比0.5%減と4年連続マイナス。エネルギー・食料品価格の高止まりが賃上げ効果を相殺。2026年1〜2月は単月でプラス転換、年度通算ではプラス回復が期待される。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日本の家計・消費動向を示す重要な経済指標"
+    },
+    {
+      "title": "高市首相・植田日銀総裁が会談——参院選前に金融政策「適切な実行」を要請",
+      "url": "https://japantoday.com/category/politics/takaichi-snap-election-risks-political-vacuum-policy-delay",
+      "category": "news",
+      "source": "Japan Today",
+      "summary": "5月23日に首相官邸で会談。物価動向と経済政策について意見交換。金融政策の「適切な実行」を要請。利上げ時期を巡る政府と日銀の温度差が焦点。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日本の金融・経済政策の最前線。参院選前の政府と日銀の関係を示す重要動向"
+    },
+    {
+      "title": "参院選7月20日投開票予定——争点は物価高・安全保障・改憲",
+      "url": "https://www.soumu.go.jp/senkyo/27sansokuhou/index.html",
+      "category": "news",
+      "source": "総務省 / Japan Times",
+      "summary": "2026年7月20日に参議院通常選挙の投開票が予定。高市政権が衆院選圧勝の勢いを維持できるか。物価高・安全保障・改憲が主な争点。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日本の次の主要政治イベント。直近の政治動向として把握すべき"
+    },
+    {
+      "title": "中国・山西省炭鉱ガス爆発で82人死亡——2024年に危険炭鉱指定済みの施設",
+      "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015129971000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "5月22日夜、山西省長治市の劉神裕炭鉱でガス爆発。247人作業中に発生し82人死亡・120人以上負傷。習近平が責任者の厳重処罰を指示。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "中国の重大社会事故。エネルギー産業（石炭）絡みでエネルギー市場注目ユーザーにも関連"
+    },
+    {
+      "title": "国連2026年世界経済成長率2.5%に下方修正",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/48f1dec852cc00a8.html",
+      "category": "news",
+      "source": "ジェトロ（国連ビジネス短信）",
+      "summary": "国連経済社会局が2026年世界成長率を2.5%に下方修正（前回比0.2ポイント）。中東情勢によるエネルギー供給制約が主因。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "IMF記事と内容が重複するため不採用"
+    },
+    {
+      "title": "カンヌ2026速報——岡本多緒が日本人初の女優賞、パルムドールはムンジウ『Fjord』",
+      "url": "https://variety.com/2026/film/news/cannes-film-festival-reveals-2026-award-winners-1236757655/",
+      "category": "entertainment",
+      "source": "Variety",
+      "summary": "第79回カンヌ映画祭授賞式。パルムドールはムンジウ監督『Fjord』（2007年以来2度目）。岡本多緒がヴィルジニー・エフィラと共に女優賞を共同受賞。日本人初の快挙。Fatherlandは監督賞（パブリコフスキとカルボ&アンブロッシ共同受賞）。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "カンヌ速報かつ岡本多緒の日本人初女優賞という歴史的快挙。昨日の予測を覆す結果で大記事化"
+    },
+    {
+      "title": "岡本多緒、カンヌ日本人初女優賞「本当に信じられない」",
+      "url": "https://mdpr.jp/cinema/detail/4786495",
+      "category": "entertainment",
+      "source": "モデルプレス",
+      "summary": "濱口竜介監督作「急に具合が悪くなる」でヴィルジニー・エフィラと共同受賞。モデル出身で国際的に活躍する41歳の岡本多緒にとって初のカンヌ参加での快挙。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "カンヌ大記事に統合"
+    },
+    {
+      "title": "カンヌ2026全受賞リスト——グランプリはズビャギンツェフ、審査員賞はグリゼバッハ",
+      "url": "https://deadline.com/2026/05/cannes-2026-winners-live-updating-1236919837/",
+      "category": "entertainment",
+      "source": "Deadline Hollywood",
+      "summary": "全受賞: パルムドール『Fjord』、グランプリ『Minotaur』（ズビャギンツェフ）、審査員賞『The Dreamed Adventure』（グリゼバッハ）、監督賞共同。名誉パルムドールはバルブラ・ストライサンド（欠席・ビデオ参加）。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "カンヌ大記事に統合"
+    },
+    {
+      "title": "カンヌ2026最終結果——日本勢、濱口作品で女優賞獲得、是枝・深田は無冠",
+      "url": "https://www.cinematoday.jp/news/N0154973",
+      "category": "entertainment",
+      "source": "シネマトゥデイ",
+      "summary": "日本から3監督が同時コンペという快挙の中、濱口作品の岡本多緒が女優賞。是枝「箱の中の羊」と深田「ナギダイアリー」は無冠。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "カンヌ大記事に統合"
+    },
+    {
+      "title": "マンダロリアン&グローグー週末最終興収9100〜9400万ドル——逆流戦略初週の成否",
+      "url": "https://deadline.com/2026/05/box-office-mandalorian-and-grogu-1236918713/",
+      "category": "entertainment",
+      "source": "Deadline Hollywood",
+      "summary": "3日間8100〜8200M、4日間（メモリアルデー）9100〜9400万ドル。シネマスコアA-・ロッテントマト批評家63%・観客88%。製作費165Mドルに対し損益分岐点500〜600Mドル。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "5/23朝刊の「配信→劇場逆流戦略」のフォローアップ。初週実績でIPの劇場回帰の成否を検証"
+    },
+    {
+      "title": "aespa 2ndフルアルバム『LEMONADE』5月29日リリース——先行曲「WDA」も話題",
+      "url": "https://aespa-official.jp/news/lemonade-reserve/",
+      "category": "entertainment",
+      "source": "aespa JAPAN OFFICIAL WEBSITE",
+      "summary": "5月29日に2ndフルアルバム『LEMONADE』リリース（日本版は6月5日）。先行曲「WDA (Whole Different Animal)」は5月11日にリリース済み。本日神奈川ぴあアリーナMMでファンミーティング開催中。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "初ドームツアー完走後の次弾。aespaの勢いを示す直近リリース情報"
+    },
+    {
+      "title": "BTS ARIANGワールドツアー、ラスベガス4公演本日も開催中",
+      "url": "https://www.billboard.com/pro/bts-monthly-touring-report-comeback-shows/",
+      "category": "entertainment",
+      "source": "Billboard",
+      "summary": "3月完全体カムバック以来Billboard月間ツアーチャートでキャリアベスト記録更新。ラスベガス・アリージアントスタジアムで5月23、24、27、28日の4公演。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "本日も開催中のリアルタイム情報。BTS完全体活動の北米クライマックス"
+    },
+    {
+      "title": "NewJeans 5人体制で2026年下半期以降の復帰を準備中",
+      "url": "https://8and.jp/2026/05/23/newjeans%E5%BE%A9%E5%B8%B0%E6%BA%96%E5%82%992026-%E3%83%8F%E3%83%8B%E3%83%BB%E3%83%9F%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%98%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%80%E3%83%8B%E3%82%A8/",
+      "category": "entertainment",
+      "source": "8and（エイトアンド）",
+      "summary": "ADOR復帰表明後、ハニのオーストラリアファンミ・ミンジのモデル活動・ダニエルの英語アルバム制作など個別活動展開中。完全復帰は2026年下半期〜2027年見込み。5/23付最新情報。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "5/23付の最新NewJeans状況。5/22朝刊の「コペンハーゲンMV撮影中」から進展あり"
+    },
+    {
+      "title": "IVE 日本4thEP『LUCID DREAM』5月27日リリース",
+      "url": "https://ive-official.jp/mob/news/newsLis.php?site=DIVE&aff=ROBO004",
+      "category": "entertainment",
+      "source": "IVE JAPAN OFFICIAL SITE",
+      "summary": "5月27日に日本4thEPリリース予定。2月の2ndアルバム「BANG BANG」でPAK達成後の次弾。今週末リリースの直近情報。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "今週末リリースの直近情報。IVEの日本展開が続く"
+    },
+    {
+      "title": "名探偵コナン「ハイウェイの堕天使」興収119億円突破——動員810万人、歴代37位",
+      "url": "https://animeanime.jp/article/2026/05/19/99083.html",
+      "category": "entertainment",
+      "source": "アニメ！アニメ！",
+      "summary": "5月18日時点で119.5億円（動員810万人）。4年連続100億円は邦画史上初の記録を更新中。歴代37位に浮上。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "5/23朝刊の114億円から119億円に更新された最新データ。歴代ランキング上昇も追記"
+    },
+    {
+      "title": "スーパーマリオギャラクシー・ムービー全世界興収歴代2位——実写マイクラ超え",
+      "url": "https://www.gamespark.jp/article/2026/05/18/166547.html",
+      "category": "entertainment",
+      "source": "Game*Spark",
+      "summary": "ゲーム原作映画の全世界興収歴代2位に浮上（1位は前作スーパーマリオ）。日本の累計動員466万人・興収64億円突破（5/15-17時点）。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "ゲームIPの映画化トレンドとして参考になるが今週の優先テーマ外のため不採用"
+    },
+    {
+      "title": "劇場版モノノ怪第三章「蛇神」5月29日公開直前——直前予告解禁",
+      "url": "https://eiga.com/news/20260518/14",
+      "category": "entertainment",
+      "source": "映画.com",
+      "summary": "テレビアニメ「モノノ怪」劇場版3部作完結編が5月29日公開。大奥を舞台に薬売りと蛇神の最終決戦を描く。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "アニメ・映画として参考になるが今週の優先テーマ外のため不採用"
+    },
+    {
+      "title": "バルブラ・ストライサンド、ひざ負傷でカンヌ欠席——ビデオメッセージで名誉パルムドール受賞",
+      "url": "https://variety.com/2026/film/festivals/barbra-streisand-video-message-cannes-film-festival-1236757678/",
+      "category": "entertainment",
+      "source": "Variety",
+      "summary": "カンヌ2026で名誉パルムドールを授与されたバルブラ・ストライサンドがひざ負傷のため欠席。ビデオメッセージで受賞コメント。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "カンヌ大記事に補足情報として一部含む。独立記事としては不採用"
+    },
+    {
+      "title": "マンダロリアン&グローグー追加詳報——THR分析",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-mandalorian-grogu-star-wars-box-office-1236604300/",
+      "category": "entertainment",
+      "source": "The Hollywood Reporter",
+      "summary": "3日間8200万ドル・4日間9700〜9800万ドル。ソロ（4日間103M）を下回る評価も。観客スコア88%・シネマスコアA-は好意的。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "Deadline記事に統合済みのため不採用"
+    },
+    {
+      "title": "NewJeans・aespa・BTS・BLACKPINK ROSÉがRIAJ日本ストリーミングでプラチナ等認定",
+      "url": "https://www.soompi.com/article/1806933wpp/newjeans-aespa-bts-and-blackpinks-rose-earn-riaj-triple-platinum-and-gold-certifications-for-streaming-in-japan",
+      "category": "entertainment",
+      "source": "Soompi",
+      "summary": "RIAJがK-POP各グループに新たな認定を発表。NewJeans「Ditto」がトリプルプラチナ（日本初）、aespa「Next Level」がプラチナ。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "K-POPの日本市場動向として参考になるが今週の優先テーマ外のため不採用"
+    },
+    {
+      "title": "Nintendo Switch 2、5月25日から59,980円——前日に駆け込み購入が殺到・全通販で品薄",
+      "url": "https://ninten-switch.com/switch-2-kakaku-2026-kaitei-shinausu",
+      "category": "hobby",
+      "source": "Nintendo Switch 情報ブログ",
+      "summary": "5月25日より49,980円から59,980円に値上げ。値上げ前日の5/24は楽天・Amazon・ヨドバシ等で在庫切れ続出。マイニンテンドーストアは5/24 19:30に旧価格販売終了し5/25朝から新価格で再開予定。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "5/23の「最後の週末」に続く値上げ当日前夜の市場反応として重要フォローアップ"
+    },
+    {
+      "title": "Switch 2値上げ理由——古川社長が半導体・為替・サプライチェーン変化を説明",
+      "url": "https://www.famitsu.com/article/202605/74473",
+      "category": "hobby",
+      "source": "ファミ通",
+      "summary": "古川俊太郎社長がSwitch 2の1万円値上げ背景を説明。AI需要拡大による半導体価格上昇、円安、グローバルサプライチェーンコストの上昇が複合要因。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "Switch 2値上げ中記事に統合"
+    },
+    {
+      "title": "NIKKOR Z 70-200mm f/2.8 VR S II——約998gの大口径望遠ズームが2026年4月発売",
+      "url": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_70-200mm_f28_vr_s_2/",
+      "category": "hobby",
+      "source": "ニコン公式",
+      "summary": "従来比26%軽量化でクラス最軽量の約998g、AF速度3.5倍向上。メソアモルファスコートによるゴースト・フレア抑制。直販価格443,300円。2026年4月発売済み。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "5/23朝刊で「2〜3ヶ月以内に発表予想」と書いたが実は既に発売済みと判明。重要な情報修正として中記事化"
+    },
+    {
+      "title": "ニコン未発表カメラ「N2527」が認証機関に登録——フルサイズコンパクト機の可能性",
+      "url": "https://digicame-info.com/2026/04/n2527.html",
+      "category": "hobby",
+      "source": "デジカメinfo",
+      "summary": "コードネーム「N2527」のカメラが4月24日付で海外認証機関に登録。Wi-Fi・Bluetooth搭載。フルサイズ固定レンズコンパクト機（X100VI・Leica Q3対抗）の可能性が浮上。登録から発表まで通常3〜6ヶ月で秋ごろ発表予想。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "NIKKOR Z 70-200mm中記事に統合"
+    },
+    {
+      "title": "ニコン新APS-Cカメラはハイエンドモデルになる可能性",
+      "url": "https://digicame-info.com/2026/05/aps-c-46.html",
+      "category": "hobby",
+      "source": "デジカメinfo",
+      "summary": "2026年内に登場が予想されるニコンの新APS-Cカメラはハイエンドモデルの可能性が高い。年内発表3機種計画（FX2機種・DX1機種）との報告も。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "NIKKOR Z 70-200mm中記事に統合。参考記録"
+    },
+    {
+      "title": "007 First Light、今週水曜5/27発売——AUTOMATON試遊で「ヒットマンのDNA」全開と絶賛",
+      "url": "https://automaton-media.com/articles/reportjp/20260501-440869/",
+      "category": "hobby",
+      "source": "AUTOMATON",
+      "summary": "IO Interactive（ヒットマン開発元）制作。潜入・ステルスと直接戦闘を自由に組み合わせられる設計。26歳ボンドのオリジンストーリー。Xbox Game Pass非対応（スタンドアロン購入のみ）。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "5/23朝刊で掲載済みだが今週水曜発売直前の事前レビュー情報として価値あり"
+    },
+    {
+      "title": "BitSummit PUNCH 2026（5/22-24・京都）——Switch 2向け新作インディー多数、任天堂ブースに17タイトル",
+      "url": "https://www.famitsu.com/article/202605/75746",
+      "category": "hobby",
+      "source": "ファミ通",
+      "summary": "5月22〜24日に京都・みやこめっせで開催。任天堂ブースでSwitch 2向け17タイトル展示。ガンヴォルト・白き鋼鉄Xシリーズ新作が電撃発表。本日5/24が最終日。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "本日最終日の直近カンファレンス情報。Switch 2向けインディー展開の最前線"
+    },
+    {
+      "title": "和スパイスカレーが2026年注目トレンド——白だし+クミン・ターメリック・コリアンダーで家庭でも",
+      "url": "https://www.tenpos.com/foodmedia/newstrend/38196/",
+      "category": "hobby",
+      "source": "テンポスフードメディア",
+      "summary": "2026年注目の新ジャンル「和スパイスカレー」。鰹節・昆布出汁とスパイスの融合で旨味・深み・軽やかさを実現。白だし+クミン・ターメリック・コリアンダー3種で家庭再現可能。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "スパイスカレー好きとして2026年の最新カレートレンド。家庭で試せる具体的レシピも含む"
+    },
+    {
+      "title": "ソニーα7R VI詳細レポート——6680万画素積層型センサー搭載で大幅進化",
+      "url": "https://kakakumag.com/camera/?id=22401",
+      "category": "hobby",
+      "source": "価格.comマガジン",
+      "summary": "α7R VIの実機詳細レポート。α7R Vと比較してセンサーが積層型に進化し連写速度が大幅向上。759点AFとリアルタイム認識AF+搭載。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "α7R VIは5/19朝刊で大記事・5/20で中記事掲載済み。同一トピックのため不採用"
+    },
+    {
+      "title": "ソニーα7R VIとFE 100-400mm ハンズオン",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2108973.html",
+      "category": "hobby",
+      "source": "デジカメ Watch",
+      "summary": "α7R VIとFE 100-400mm F4.5 GM OSSの実機ハンズオン。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "α7R VIは掲載済みのため不採用"
+    },
+    {
+      "title": "Switch 2値上げまとめ——59,980円新価格は5月25日から",
+      "url": "https://ninten-switch.com/switch-kaitei-2026-05-matome",
+      "category": "hobby",
+      "source": "Nintendo Switch 情報ブログ",
+      "summary": "Nintendo Switch 2の価格改定まとめ。5/24時点でAmazon・楽天など主要通販は在庫切れ続く。マイニンテンドーストアは5/25朝に新価格で販売再開予定。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "Switch 2値上げ中記事に統合済み"
+    },
+    {
+      "title": "Xbox Game Pass 5月第2弾——FINAL FANTASY VI等追加",
+      "url": "https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/",
+      "category": "hobby",
+      "source": "Xbox Wire",
+      "summary": "5月21日〜追加: ジュラシック・ワールド・エボリューション3、FINAL FANTASY VI、Escape Simulator等。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "5/23朝刊で掲載済みのため不採用"
+    },
+    {
+      "title": "Forza Horizon 6 Game Pass配信・Metacritic 91点",
+      "url": "https://news.xbox.com/ja-jp/2026/05/11/xbox-game-pass-may-2026-wave-1/",
+      "category": "hobby",
+      "source": "Xbox Wire Japan",
+      "summary": "Forza Horizon 6が5月19日よりGame Pass Ultimateでプレイ可能に。Metacriticで91点を獲得。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "5/20朝刊のGame Pass Wave 2大記事で掲載済みのため不採用"
+    },
+    {
+      "title": "Nintendo Switch 2 eShopチャート（5/24）——ヨッシーが首位",
+      "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-may-24-2026/",
+      "category": "hobby",
+      "source": "Nintendo Everything",
+      "summary": "5/24付eShopランキング。ヨッシーとフカシギの図鑑が首位。Tales of Arise – Beyond the Dawn Editionが初登場。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "Switch 2値上げ記事でより重要な情報を優先。eShopチャートは優先度低く不採用"
+    },
+    {
+      "title": "「本命外し」のムンジウ——予測市場4:1を覆したパルムドール、コンテンツ価値の本質",
+      "url": "https://variety.com/2026/film/news/cannes-film-festival-reveals-2026-award-winners-1236757655/",
+      "category": "serendipity",
+      "source": "Variety（カンヌ授賞式速報から着想）",
+      "summary": "昨日本命4:1のFatherlandではなく、巨匠ムンジウの英語デビュー作が受賞。「評価が確立された巨匠の新チャレンジ」が「期待された精巧な新作」を破った。予測市場も機械学習も「心が動く瞬間」は捉えられない。",
+      "relevance": "high",
+      "selected": true,
+      "size": "serendipity",
+      "reason_selected": "セレンディピティ: 昨日の朝刊予測を覆す結果から、コンテンツ評価の不確実性とAI予測の限界を考える"
+    },
+    {
+      "title": "イラン「大筋合意」で昨日のニュースが全部書き直しに——地政学リスクの賞味期限",
+      "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear",
+      "category": "serendipity",
+      "source": "Axios（イラン合意速報から着想）",
+      "summary": "昨日「突破口なし」と報じられたイラン交渉が24時間後に「大筋合意」に変わり、原油が10%下落した。地政学ニュースの「賞味期限」の短さと、最善の情報でも翌日に覆されるリスクについて。",
+      "relevance": "high",
+      "selected": true,
+      "size": "serendipity",
+      "reason_selected": "セレンディピティ: 昨日書いた大記事が24時間で書き直しになった体験から、ニュース消費の正しいメンタルモデルを考える"
+    }
+  ]
+}
