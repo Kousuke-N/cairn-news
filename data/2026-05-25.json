@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "notion_page_id": null,
+  "notion_page_id": "36ba41a3-cf9b-817f-ab97-e38bd650816c",
   "articles": [
     {
       "title": "Vite 8.0 正式リリース——Rolldown（Rust製）をデフォルトバンドラーに採用、最大30倍高速ビルドへ",
