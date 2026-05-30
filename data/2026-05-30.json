@@ -1,0 +1,330 @@
+{
+  "date": "2026-05-30",
+  "notion_page_id": "370a41a3-cf9b-81cd-b2ed-caa4f0d97fab",
+  "articles": [
+    {
+      "title": "Anthropic Series H 650億ドル調達・時価総額9,650億ドルでOpenAI超え",
+      "url": "https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai",
+      "category": "tech",
+      "source": "Axios",
+      "summary": "AnthropicがSeries Hで650億ドルを調達し時価総額9,650億ドルに達し、OpenAIを時価総額で初めて上回った。ソフトバンク・Google・Amazonが主要投資家。1兆ドル到達は年内視野に。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "生成AI業界の勢力図を塗り替える歴史的調達。Anthropic自体への関心も高く、業界動向として最重要"
+    },
+    {
+      "title": "Anthropic nears 1 trillion valuation topping OpenAI 65 billion raise",
+      "url": "https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise",
+      "category": "tech",
+      "source": "Decrypt",
+      "summary": "Decryptによる資金調達詳報。評価額の算出根拠と投資家構成の詳細、OpenAI現在の時価総額との比較分析。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "Anthropic大記事に統合"
+    },
+    {
+      "title": "Claude Code v2.1.157-158——Auto ModeがAmazon Bedrock・Vertex AI・Azureに対応",
+      "url": "https://code.claude.com/docs/en/whats-new",
+      "category": "tech",
+      "source": "Claude Code Docs",
+      "summary": "Claude Code v2.1.157でAuto ModeがAmazon Bedrock・Vertex AI・Azure OpenAI Serviceに対応。v2.1.158でMemory機能のUI改善とデバッグログ強化。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "Claude Code日常利用中のユーザーに直結するアップデート。クラウドプロバイダ対応拡大は業務利用での選択肢を広げる"
+    },
+    {
+      "title": "GPT-5.5 InstantがChatGPTデフォルトモデルに",
+      "url": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "tech",
+      "source": "OpenAI",
+      "summary": "OpenAIがGPT-5.5 InstantをChatGPTの新デフォルトモデルに設定。5/5リリース済みだが今週からChatGPT無料・有料全ユーザーに展開完了。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "AI競合動向として把握必須。ChatGPTユーザー体験への直接影響"
+    },
+    {
+      "title": "台風6号チャンミー 6月1〜2日沖縄直撃・本州も警戒",
+      "url": "https://weathernews.jp/news/202605/300091/",
+      "category": "news",
+      "source": "ウェザーニュース",
+      "summary": "台風6号チャンミーが6月1〜2日に沖縄本島直撃の見込み。最大瞬間風速60m/s超の猛烈な勢力で接近。その後本州太平洋沿岸にも大雨・強風の影響。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "国内直撃台風は生活安全に直結する最重要気象ニュース"
+    },
+    {
+      "title": "台風6号 沖縄・奄美 暴風域に入る恐れ",
+      "url": "https://tenki.jp/bousai/typhoon/2606/",
+      "category": "news",
+      "source": "tenki.jp",
+      "summary": "tenki.jpによる台風6号詳細進路情報。5月30日18時時点の中心気圧915hPa・最大風速55m/s。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "台風大記事に統合"
+    },
+    {
+      "title": "米・イラン停戦覚書 暫定合意の最新情報",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1847223",
+      "category": "news",
+      "source": "沖縄タイムス",
+      "summary": "米イランがウラン濃縮上限・IAEA査察受け入れ・制裁段階的解除を含む停戦覚書に暫定合意。正式署名は数日内の見通し。原油市場に即時反応。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "深掘りトピック「イラン情勢・エネルギー市場」に直結する最重要外交ニュース"
+    },
+    {
+      "title": "米・イラン核合意とエネルギー市場への影響分析",
+      "url": "https://global-scm.com/blog/?p=7276",
+      "category": "news",
+      "source": "Global SCM",
+      "summary": "暫定合意を受けたWTI原油価格の動向と、イラン産原油が市場に戻った際のシナリオ分析。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "イラン記事に統合"
+    },
+    {
+      "title": "参院選2026 7月3日公示・20日投開票が正式決定",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AC%AC27%E5%9B%9E%E5%8F%82%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E9%80%9A%E5%B8%B8%E9%81%B8%E6%8C%99",
+      "category": "news",
+      "source": "Wikipedia（第27回参議院議員通常選挙）",
+      "summary": "第27回参議院議員通常選挙の日程が正式決定。7月3日公示・7月20日投開票。改選125議席を巡る与野党の争点と各党の公認候補状況。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "国内政治の重要マイルストーン。市民として把握必須"
+    },
+    {
+      "title": "大谷翔平 今季10号ホームラン・6年連続2桁本塁打達成",
+      "url": "https://www.nikkei.com/article/DGXZQOKC300UU0Q6A530C2000000/",
+      "category": "news",
+      "source": "日本経済新聞",
+      "summary": "ドジャース大谷翔平が5月29日（現地時間）に今季10号本塁打を記録し、6年連続2桁本塁打を達成。打率.318・OPS.982とバットでも好調を維持。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日本人として注目度の高いスポーツニュース"
+    },
+    {
+      "title": "日本ポップカルチャー展がドイツで最大規模開催",
+      "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015135791000",
+      "category": "news",
+      "source": "NHK Web",
+      "summary": "アニメ・マンガ・ゲームを中心とした日本ポップカルチャーのドイツ最大規模イベントが開幕。訪問者数・出展社数ともに過去最高を更新見込み。",
+      "relevance": "low",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日本文化の国際発信として興味深い"
+    },
+    {
+      "title": "ニュージーランドが「もがみ型」護衛艦を次期フリゲート候補に",
+      "url": "https://news.yahoo.co.jp/articles/9169cc275573e7b4171e40d3afe9f9708c4284b7",
+      "category": "news",
+      "source": "Yahoo!ニュース",
+      "summary": "ニュージーランド海軍が次期フリゲート艦選定でJMU製「もがみ型」護衛艦を最終候補の一つに。日本の防衛装備品輸出の新たな事例として注目。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日本の防衛産業動向として注目度が高い"
+    },
+    {
+      "title": "欧州記録的熱波 ロンドン35度・パリ38度",
+      "url": "https://www.afpbb.com/articles/-/3636648",
+      "category": "news",
+      "source": "AFP BB News",
+      "summary": "欧州全域で記録的な早期熱波が到来。ロンドン35度・パリ38度は5月としての観測史上最高記録を更新。気候変動の影響が示唆される。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "気候変動の影響を示す象徴的なニュース"
+    },
+    {
+      "title": "BoA「Ain't No Hard Feelings」本日5月30日リリース——SM退社後初の単独作品",
+      "url": "https://www.excite.co.jp/news/article/Oricon_2456479/",
+      "category": "entertainment",
+      "source": "Oricon (via excite)",
+      "summary": "K-POPレジェンドBoAがSM Entertainment退社後初の単独楽曲「Ain't No Hard Feelings」を5月30日リリース。25周年を節目に自身のレーベル「HAUS」を設立し、完全自立の音楽活動に踏み出した。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "K-POP・J-POP両方のファンに関心が高く、SM独立という業界的な意義も大きい節目リリース"
+    },
+    {
+      "title": "aespa LEMONADE 初日ハンタ84万枚・iTunes 19か国1位",
+      "url": "https://www.soompi.com/article/1844683wpp/aespa-lemonade-hanteo-first-day-sales",
+      "category": "entertainment",
+      "source": "Soompi",
+      "summary": "aespaの新アルバム「LEMONADE」が初日ハンタチャート84万枚を記録。iTunes 19か国で1位を獲得。aespa自身の初日最多セールス記録を更新。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "aespaは注目K-POPグループ。初日84万枚は業界的にも注目の数字"
+    },
+    {
+      "title": "aespa LEMONADE Release Kicks Off New Era",
+      "url": "https://www.starnewskorea.com/en/music/2026/05/30/2026053010134845121",
+      "category": "entertainment",
+      "source": "Star News Korea",
+      "summary": "LEMONADE発売イベントとfanbase反応のまとめ。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "aespa記事に統合"
+    },
+    {
+      "title": "BTS「SWIM」Spotify5億ストリーム突破",
+      "url": "https://www.koreaherald.com/article/10757114",
+      "category": "entertainment",
+      "source": "Korea Herald",
+      "summary": "BTSの「SWIM」がSpotifyで5億ストリームを突破。BTSソロ活動中のグループ楽曲としては最速記録。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "BTSは世界的注目度が高く、記録更新ニュースとして価値あり"
+    },
+    {
+      "title": "閃光ライオット水増し疑惑 TOKYO FM 21名を処分",
+      "url": "https://www.oricon.co.jp/news/2457871/full/",
+      "category": "entertainment",
+      "source": "Oricon",
+      "summary": "TOKYO FMの音楽オーディション「閃光ライオット」で審査データ水増しが発覚。関係スタッフ21名が処分された。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "音楽業界の不正問題として注目に値するニュース"
+    },
+    {
+      "title": "BOYNEXTDOOR「HOME」6月8日リリース決定",
+      "url": "https://natalie.mu/music/news/671370",
+      "category": "entertainment",
+      "source": "音楽ナタリー",
+      "summary": "K-POP新世代グループBOYNEXTDOORの新シングル「HOME」が6月8日にリリース。日本市場向け展開も予定。",
+      "relevance": "low",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "注目K-POPグループの新作として一定の需要あり"
+    },
+    {
+      "title": "映画「銀魂」4DX上映開始・原作全巻無料配信",
+      "url": "https://eiga.com/news/20260527/24/",
+      "category": "entertainment",
+      "source": "映画.com",
+      "summary": "映画「銀魂」が4DX形式での上映をスタート。公開記念として原作漫画全巻が期間限定で無料配信中。",
+      "relevance": "low",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "アニメ・漫画ファン向けの話題として一定の関心"
+    },
+    {
+      "title": "α7R VI 実機レビュー——6100万画素AIオートフォーカスの完成形",
+      "url": "https://www.dpreview.com/reviews/sony-a7r-vi-review",
+      "category": "hobby",
+      "source": "DPReview",
+      "summary": "DPReviewによるα7R VI詳細レビュー。6100万画素センサーとAIオートフォーカスの組み合わせで「史上最高の高解像機」と評価。動画性能も大幅強化。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "ソニーα7シリーズの最新機種の本格レビュー。カメラへの強い関心に完全に合致"
+    },
+    {
+      "title": "Sony α7R VI hands-on: The ultimate high-resolution camera",
+      "url": "https://www.theshortcut.com/p/sony-a7r-hands-on-review",
+      "category": "hobby",
+      "source": "The Shortcut",
+      "summary": "The Shortcutによるα7R VIハンズオンレビュー。実写サンプルと操作感を中心に評価。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "α7R VI大記事に統合"
+    },
+    {
+      "title": "α7R VI 実写レビュー・作例まとめ",
+      "url": "https://digicame-info.com/2026/05/7r-vi-4.html",
+      "category": "hobby",
+      "source": "デジカメinfo",
+      "summary": "デジカメinfoによる国内実写レビューまとめ。α7R VIの解像感・高感度・AF精度を実写で検証。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "α7R VI大記事に統合"
+    },
+    {
+      "title": "Fable 2027年2月に延期——GTA 6との競合を回避",
+      "url": "https://gameinformer.com/2026/05/29/fable-delayed-to-february-2027",
+      "category": "hobby",
+      "source": "Game Informer",
+      "summary": "Playground Gamesの新生Fableが当初2026年秋予定から2027年2月に延期。公式コメントでは品質向上を理由としているが、GTA 6（2026年秋）との競合回避が背景との見方が強い。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "期待の大作RPGの延期はゲームファン注目ニュース。GTA 6との絡みも興味深い"
+    },
+    {
+      "title": "007 First Light 発売24時間で150万本突破",
+      "url": "https://consequence.net/2026/05/007-first-light-sales-numbers/",
+      "category": "hobby",
+      "source": "Consequence of Sound",
+      "summary": "IO Interactiveの「007 First Light」が発売24時間で150万本を販売。シリーズ新作として過去最高のスタートを記録。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "ゲームの販売実績ニュースとして関心あり"
+    },
+    {
+      "title": "Xbox Games Showcase 2026 Game Passラインナップがリーク",
+      "url": "https://windowsreport.com/upcoming-xbox-game-pass-titles-leaks-could-be-part-of-june-2026-showcase/",
+      "category": "hobby",
+      "source": "Windows Report",
+      "summary": "6月開催のXbox Games Showcase 2026でGame Passに追加予定のタイトルがリーク。AAA複数タイトルが含まれる見込み。",
+      "relevance": "low",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "ゲームファン注目のShowcaseに向けた話題として価値あり"
+    },
+    {
+      "title": "Nintendo Switch 2 秋に未発表の大型タイトルが控える",
+      "url": "https://kotaku.com/nintendo-hints-at-more-big-switch-2-games-this-fall-and-the-ongoing-importance-of-its-last-gen-console-2000695687",
+      "category": "hobby",
+      "source": "Kotaku",
+      "summary": "任天堂がSwitch 2の秋以降ラインナップについて未発表の大型タイトルがあることを示唆。現行Switch（初代）も引き続き重要なプラットフォームとして維持。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "Switch 2への注目度は継続して高く、任天堂の戦略動向として興味深い"
+    },
+    {
+      "title": "Splatoon Raiders公式Switch 2アクセサリー発表",
+      "url": "https://mynintendonews.com/2026/05/28/japan-splatoon-raiders-is-getting-official-switch-2-accessories/",
+      "category": "hobby",
+      "source": "My Nintendo News",
+      "summary": "任天堂がSplatoon Raidsの公式Switch 2対応アクセサリーを発表。日本向けに特化したラインナップで6月末より販売開始予定。",
+      "relevance": "low",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "Switch 2関連グッズ情報として任天堂ファンに刺さる"
+    },
+    {
+      "title": "Sony FE 100-400mm F4.5-5.6 GM OSS II 6月5日発売",
+      "url": "https://www.sony.jp/CorporateCruise/Press/202605/26-0513C/",
+      "category": "hobby",
+      "source": "ソニー公式",
+      "summary": "ソニーが望遠ズームレンズ「FE 100-400mm F4.5-5.6 GM OSS II」を6月5日発売と発表。AFモーター刷新・光学系見直しにより前モデルから大幅性能向上。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "ソニーカメラユーザー向けの重要なレンズリリース情報"
+    },
+    {
+      "title": "Leica メタルグレー新塗装フィニッシュ発表",
+      "url": "https://petapixel.com/2026/05/28/leicas-brand-new-metal-gray-paint-finish-looks-very-stylish/",
+      "category": "hobby",
+      "source": "PetaPixel",
+      "summary": "ライカが高級感のある新カラー「メタルグレー」を発表。既存モデルへの特注対応も受け付ける予定。",
+      "relevance": "low",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "カメラ好きにはライカの新色ニュースとして話題性あり"
+    }
+  ]
+}
