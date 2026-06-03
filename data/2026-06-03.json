@@ -1,0 +1,482 @@
+{
+  "date": "2026-06-03",
+  "notion_page_id": "374a41a3-cf9b-8142-8bc1-c308f2cb7fe3",
+  "articles": [
+    {
+      "title": "Angular v22 正式リリース — Signal Forms安定化・セレクターレスコンポーネント・MCP統合でSignal-First時代本格始動",
+      "url": "https://blog.angular.dev/",
+      "category": "tech",
+      "source": "Angular Blog",
+      "summary": "Angular v22が正式リリース。Signal Formsが安定版に昇格し、セレクターレスコンポーネント・OnPushデフォルト変更検知・ViTest標準テストランナー・Angular MCP Server安定版など「Signal-Firstアーキテクチャ」への本格移行を宣言する集大成リリース。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "deep_dive_topicのAngular Zoneless・Signal Formsに完全一致する最重要リリース。フロントエンドエンジニアとして実務に直結。"
+    },
+    {
+      "title": "AnthropicがProject Glasswing拡張 — Claude MythosをCIインフラ15カ国150組織へ展開",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "category": "tech",
+      "source": "Anthropic",
+      "summary": "AnthropicはProject Glasswingを拡張し電力・水道・医療・通信・ハードウェア分野の約150組織（15カ国以上）にClaude Mythosのアクセスを拡大。初期50社パートナーはすでに1万件超の高・致命的脆弱性を発見済み。今後はOSS維持管理者にも展開予定。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "Anthropicのセキュリティ領域での大規模展開。AIxセキュリティの方向性を示す重要発表。"
+    },
+    {
+      "title": "Claudeサブスクリプション、6月15日から「対話用」「プログラム用」に完全分離 — Agent SDK利用はAPI料金で別枠計算",
+      "url": "https://the-decoder.com/claude-subscriptions-get-separate-budgets-for-programmatic-use-billed-at-full-api-prices/",
+      "category": "tech",
+      "source": "The Decoder",
+      "summary": "2026年6月15日以降、Claude Pro/Max/Team/EnterpriseプランでサブスクがインタラクティブとプログラムAPI用に完全分離。プログラム用（Agent SDK・claude -p・GitHub Actions）は$20〜$200/月の専用クレジットをフルAPI料金で消費。6月8日からメール通知・申請開始。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "Claude Codeをエージェント用途で使うエンジニアに直接影響する料金体系変更。6月15日実施と近々で緊急性が高い。"
+    },
+    {
+      "title": "OpenAI フロンティアモデル（GPT-5.5・GPT-5.4）およびCodexがAmazon Bedrockで一般提供開始",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "category": "tech",
+      "source": "OpenAI",
+      "summary": "6月2日、OpenAIのGPT-5.5・GPT-5.4とコーディングエージェントCodexがAmazon Bedrock経由で一般提供開始。AWSの既存セキュリティ・コンプライアンス・ガバナンスワークフロー上でOpenAIの最前線モデルを利用可能。企業の本番導入障壁を大幅に下げる。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "LLM活用のインフラ変化。AWSエコシステムでOpenAIモデルが使えるようになり選択肢が広がる。"
+    },
+    {
+      "title": "LINEヤフー、AIエージェント新ブランド「Agent i」を提供開始 — 6月中にメモリ機能・複雑タスク実行を追加予定",
+      "url": "https://www.lycorp.co.jp/ja/news/release/020366/",
+      "category": "tech",
+      "source": "LINEヤフー株式会社",
+      "summary": "LINEヤフーが「Yahoo! JAPANのAIアシスタント」と「LINE AI」を統合した新ブランド「Agent i」を展開中。6月中にユーザーの利用状況を学習するメモリ機能と複雑タスク代行機能を追加予定。国内最大規模ユーザー基盤を持つプラットフォームでの本格AIエージェント展開。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "エンタメ・メディア業界に深く関わるLINEヤフーのAIエージェント戦略の最新動向。"
+    },
+    {
+      "title": "Storybook 10.3リリース — React向けMCPサーバー搭載・AIエージェントがコンポーネントを直接参照",
+      "url": "https://storybook.js.org/blog/storybook-10-3/",
+      "category": "tech",
+      "source": "Storybook Blog",
+      "summary": "Storybook 10.3にReact向けMCPサーバーが追加。AIエージェントがコンポーネント・ストーリー・テストに直接アクセスできるように。アクセシビリティ改善、CSF Factories拡張、Vite 8・Next.js 16.2との互換性も追加された。",
+      "relevance": "high",
+      "selected": true,
+      "size": "serendipity",
+      "reason_selected": "フロントエンドのコンポーネント駆動開発哲学にAIエージェント統合が重なる転換点。Angular MCPに続くStorybookMCPはFE×AI融合が既定路線になりつつあることを示す。"
+    },
+    {
+      "title": "AI駆動UIデザイン/フロントエンド開発実践——PoCで終わらないための設計論",
+      "url": "https://zenn.dev/almondo/articles/3263dab4b8b541",
+      "category": "tech",
+      "source": "Zenn",
+      "summary": "AIが生成したUIを本番投入するための設計・実装方法論。UIデザイン生成と実装の同時完了によるコスト削減の可能性と、その前提となるコンポーネント設計・テスト戦略・品質担保の仕組みを解説。PoC段階から運用フェーズまでを見通したアーキテクチャ考察。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "フロントエンドエンジニアがAI活用開発を実務に落とし込む際の実践的視点を提供する直近記事。"
+    },
+    {
+      "title": "Claude Agent SDKの6月15日課金変更：開発者が知るべき5つのポイントと移行プレイブック",
+      "url": "https://theplanettools.ai/blog/claude-agent-sdk-billing-model-deprecation-june-15-2026-migration-playbook",
+      "category": "tech",
+      "source": "ThePlanetTools",
+      "summary": "AnthropicのAgent SDK課金分離に向けた開発者向け移行解説。対象となる利用パターン特定方法、クレジット申請手順（6月8日〜）、コスト試算方法などを整理。The-Decoderと同一トピックのため参考URL。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "The-DecoderのClaudeサブスク記事と同一トピックのため重複除外。"
+    },
+    {
+      "title": "Google Cloud DevOps × AI Agent Hackathon 2026 — 6月7日チームビルディング、賞金総額200万円",
+      "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/devops-ai-agent-hackathon-2026?hl=ja",
+      "category": "tech",
+      "source": "Google Cloud 公式ブログ",
+      "summary": "Google CloudのAIエージェント構築ハッカソン。6月1〜12日はAgentic AI Bootcamp（無料）、6月7日チームビルディング、最終ピッチは渋谷Google Officeで実施。賞金総額200万円。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "イベント情報として参考になるが、既存テック記事の充実度が高いため除外。次回候補。"
+    },
+    {
+      "title": "テラスカイ、AI駆動開発モデル「BLADE」運用開始 — 要件定義〜テスト設計を従来比50%短縮",
+      "url": "https://prtimes.jp/main/html/rd/p/000000260.000009955.html",
+      "category": "tech",
+      "source": "PR TIMES / テラスカイ",
+      "summary": "テラスカイがAI駆動開発モデル「BLADE」運用開始を発表。AIでビジネス目的・要件・テスト・実装のトレーサビリティを確保し、要件定義〜テスト設計を4ヶ月→2ヶ月に短縮。Salesforce開発プロジェクトへ順次展開予定。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "国内AI開発実例として有用だが、本日テック枠が充実しているため除外。"
+    },
+    {
+      "title": "Angular 22のSignal-First時代到来 — Google I/O 2026でのAI・Vibe Coding統合まとめ（日本語）",
+      "url": "https://note.com/masa_cloud/n/n2b07f157af8b",
+      "category": "tech",
+      "source": "note",
+      "summary": "Angular v22の主要機能をGoogle I/O 2026視点で日本語まとめ。Signal Forms・セレクターレス・Vitest・Vibe CodingサポートとAngular MCP Server安定化を解説。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "Angular v22大記事に内包済み。重複のため除外。"
+    },
+    {
+      "title": "OpenAI Rosalind Biodefense発表 — GPT-5.5-Cyberのバイオ防衛向け信頼アクセス拡大",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
+      "category": "tech",
+      "source": "OpenAI",
+      "summary": "OpenAIがGPT-5.5ベースのサイバー・バイオ防衛特化モデルへの信頼アクセスを米国政府・同盟国パートナーに拡大。AnthropicのGlasswingと同様の動き。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "Project Glasswing中記事で同テーマカバー済み。重複のため除外。"
+    },
+    {
+      "title": "台風6号が首都圏を直撃、神奈川東部で線状降水帯発生——大雨ピーク続く",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/06/03/39178.html",
+      "category": "news",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "台風6号の活発な雨雲が6月3日正午ごろ首都圏を直撃。神奈川県東部で線状降水帯が発生し、命に危険が及ぶ最高レベルの災害危険情報が発令。都内では6月の観測史上1位となる記録的大雨を観測。首都圏で約1万2700世帯が停電し、952カ所の郵便局が窓口業務を停止した。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "本日最大の緊急ニュース。首都圏直撃・線状降水帯発生という生活直結の最重要気象情報。"
+    },
+    {
+      "title": "令和8年台風第6号による被害状況等について——国土交通省",
+      "url": "https://www.mlit.go.jp/saigai/saigai_260601.html",
+      "category": "news",
+      "source": "国土交通省",
+      "summary": "国土交通省が台風6号被害状況を複数回発表。東海を中心に記録的大雨。三重県尾鷲市で24時間雨量535.5mm、大台町422mm、御浜町390.5mmを観測。三重県20観測地点のうち10地点で6月の観測史上1位を更新。徳島県では4781世帯・約8675人に避難指示が発令。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "台風大記事に内包。"
+    },
+    {
+      "title": "台風6号影響による高速道路通行止め——東名・新名神など14路線対象",
+      "url": "https://www.e-nexco.co.jp/news/important_info/2026/0601/rpa_00016249.html",
+      "category": "news",
+      "source": "NEXCO東日本",
+      "summary": "台風6号の影響で東名高速・新東名・新名神・中央道など14高速道路で通行止めを実施。三重県では記録的大雨の影響で14時30分時点でも広範囲の通行止めが継続中。沖縄自動車道は倒木・枝葉散乱により解除に時間を要する。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "台風の交通影響。移動・物流に直接関わる生活密着情報。"
+    },
+    {
+      "title": "イランが米国との停戦協議を停止——イスラエルのレバノン攻撃に抗議（CNN）",
+      "url": "https://www.cnn.co.jp/world/35248298.html",
+      "category": "news",
+      "source": "CNN Japan",
+      "summary": "イランの革命防衛隊に近いタスニム通信が6月1日、イスラエルのレバノン攻撃継続を理由に米国との協議停止を報道。イランはガザ・レバノンでの即時停戦とレバノンからのイスラエル軍完全撤退を要求。5月末暫定合意が完全に頓挫した形。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "2026-06-02に中記事として掲載済み（イラン協議停止）。CNNは別ソースだが同一トピックのため除外。"
+    },
+    {
+      "title": "中東情勢の混乱長期化リスク——停戦時期として6月が意識されるも停滞、GDPを下方修正",
+      "url": "https://www.dlri.co.jp/report/macro/581041.html",
+      "category": "news",
+      "source": "第一ライフ資産運用経済研究所",
+      "summary": "イランの協議停止でホルムズ海峡の封鎖継続が長期化の様相。日本のLNG・原油輸入への影響が続き、2026年度GDPは+0.6%に下方修正。6月が停戦タイムラインとして意識されてきたが実現の見通しが立たない。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "2026-06-02のホルムズ小記事・イラン中記事と重複。内容は補完的だが分量制御のため除外。"
+    },
+    {
+      "title": "日本のLNG輸入、ホルムズ海峡依存度は6.3%——代替調達ルートの現状",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/7dc85f3bc19692d8.html",
+      "category": "news",
+      "source": "ジェトロ",
+      "summary": "日本のLNG輸入のホルムズ海峡依存度を分析。LNGは6.3%、うちカタール分5.3%。UAEフジャイラ港やサウジアラビアのヤンブー港を代替調達ルートとして活用中。第2弾国家備蓄原油放出も実施。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "3月のレポートで時事性が低い。2026-06-02のJBpress記事で同テーマカバー済み。"
+    },
+    {
+      "title": "経団連春闘第1回集計：大手賃上げ率5.46%で金額は過去最高——3年連続5%超も実質賃金は4年連続マイナス",
+      "url": "https://www.jiji.com/jc/article?k=2026052700718&g=eco",
+      "category": "news",
+      "source": "時事ドットコム",
+      "summary": "経団連が2026年春闘第1回集計を発表。大手企業の賃上げ率5.46%・金額1万9964円と1976年以降で過去最高。3年連続5%超を達成。ただし実質賃金は物価高で4年連続マイナスの状況が続いており、生活改善の実感には課題が残る。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "日本経済の重要指標。「賃上げ過去最高なのに実質賃金マイナス」というパラドックスが今の経済状況を象徴する。"
+    },
+    {
+      "title": "6月の食品値上げ450品目——5年連続で年間1万品目超が確実",
+      "url": "https://life.oricon.co.jp/rank-foreign-currency-deposits/special/weak-yen/how-long-yen-low/",
+      "category": "news",
+      "source": "オリコン生活ニュース",
+      "summary": "2026年6月は調味料を中心に約450品目の食品値上げが実施される。2026年通年での値上げ品目数は5年連続で1万品目突破が確実視。中東情勢によるエネルギーコスト上昇と円安が主因。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "生活直結の物価情報。経団連春闘の賃上げと合わせて読む経済背景として有用。"
+    },
+    {
+      "title": "福島市の住宅街でクマが4人を襲い重軽傷——市が夜間緊急銃猟を検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137771000",
+      "category": "news",
+      "source": "NHKニュース",
+      "summary": "6月2日午前6時半ごろ、福島市内の企業にクマが侵入し従業員ら4人を重軽傷。福島駅から約3kmの市街地に出没し、市は夜間緊急銃猟または罠による捕獲を検討。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "都市部のクマ被害として社会的注目度が高い。人身被害を伴う社会ニュース。"
+    },
+    {
+      "title": "参院選2026：投開票日は7月20日の見通し、与野党が準備本格化",
+      "url": "https://news.web.nhk/senkyo/schedule/focus/",
+      "category": "news",
+      "source": "NHK選挙",
+      "summary": "2026年7月の参議院議員通常選挙に向け各党が候補者擁立・選挙準備を本格化。高市首相は衆院定数削減についても議論加速を指示。2月の衆院選で与党が政権維持しており、参院選の結果が今後の政権安定に直結する。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "日本内政の最重要イベント。7月20日投開票見通しという具体的な日程情報として価値あり。"
+    },
+    {
+      "title": "ナフサ輸入量が対前年比47%減、米国からは209倍に急拡大——ホルムズ危機の影響",
+      "url": "https://www.nri.com/jp/media/column/kiuchi/20260325.html",
+      "category": "news",
+      "source": "野村総合研究所",
+      "summary": "4月の日本のナフサ輸入量が前年同月比47%減。代替として米国からの輸入が前年の209倍に急拡大。IEA協調放出と並行して国家備蓄第2弾放出も実施。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "3月のレポートで時事性が低い。エネルギー情報は2026-06-02のJBpress記事で既報。"
+    },
+    {
+      "title": "日米の関税・通商交渉——鉄鋼50%・自動車25%・一般品10%の現状",
+      "url": "https://www.cas.go.jp/jp/seisaku/tariff_measures/index.html",
+      "category": "news",
+      "source": "内閣官房",
+      "summary": "米国は現在、日本からの輸入に鉄鋼・アルミ50%、自動車25%、一般品10%の関税を課す。日米は半導体・医薬品・造船など9分野の米国内サプライチェーン構築で連携交渉中。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "重要なテーマだが今日の新規情報でなく参考URL。他のニュースで分量を使い果たすため除外。"
+    },
+    {
+      "title": "BTS FESTA 2026開幕——6月4日から13周年記念コンテンツ連続公開、Run BTS!復活・「Come Over」デジタルリリースも",
+      "url": "https://inmusicblog.com/k-pop/bts-2026-festa-schedule-13th-anniversary/",
+      "category": "entertainment",
+      "source": "In Music Blog",
+      "summary": "BTS結成13周年FESTA 2026が6/4から13日まで開催。6/4ファミリーフォト、6/5「Hooligan」動画、6/8 13 Side Film、6/10〜11 Run BTS! 2.0（復活）、6/12「Come Over」デジタルシングルリリース・釜山公演初日。全7メンバー揃ってのFESTAは軍入隊後初。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "明日6/4から実際のコンテンツが始まる直前情報。2026-06-02の大記事からのアップデートとして小記事で掲載。"
+    },
+    {
+      "title": "BOYNEXTDOOR、デビュー初フルアルバム『HOME』6月8日リリース直前——全9曲トラックリスト解禁、SWEET HOMEコンセプトフィルム公開",
+      "url": "https://www.soompi.com/article/1839535wpp/boynextdoor-announces-comeback-date-with-teaser-for-1st-studio-album-home",
+      "category": "entertainment",
+      "source": "Soompi",
+      "summary": "BOYNEXTDOORが6月8日午後6時（KST）にデビュー初フルアルバム『HOME』をリリース予定。タイトル曲は「VIRAL」。収録全9曲は「06070」「Knock Knock Knock」「ADIOS!」「Upside Down」など全メンバーが作詞参加。SWEET HOMEコンセプトフィルムを順次公開中。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "5日後のリリース直前情報。トラックリスト解禁という新事実も含む最新の鮮度あるニュース。"
+    },
+    {
+      "title": "NewJeans、コペンハーゲン事前制作をADOR公式確認——3人体制カムバックが現実味",
+      "url": "https://en.koreadaily.com/newjeans-comeback-2026-ador-copenhagen-preproduction/",
+      "category": "entertainment",
+      "source": "Korea Daily (English)",
+      "summary": "ADORがNewJeans（ハニ、ヘリン、ヒェイン）のコペンハーゲン訪問を「新たな音楽的旅への事前制作」と公式確認。4月13〜17日にコペンハーゲンのスタジオをADOR名義で予約した記録が明らかに。ミンジ参加は未定、ダニエルは12月に契約解除済みで3人体制。下半期のカムバックが現実味を増している。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "NewJeansのカムバックについてADOR公式確認という重要な進展。2026-06-02の「報道」から「公式確認」への格上げ。"
+    },
+    {
+      "title": "YOASOBI「THE BOOK for,」6月26日リリース——「読むCD」シリーズ最終章、アジア10都市ドームツアー先行抽選も",
+      "url": "https://www.thefirsttimes.jp/news/0000811583/",
+      "category": "entertainment",
+      "source": "THE FIRST TIMES",
+      "summary": "YOASOBIが2026年6月26日に4th EP『THE BOOK for,』をCD・配信で同時リリース。2021年から続く「読むCD」シリーズ最終章で全12曲収録。「for,」は「4th」と「for（〜のために）」の掛け合わせ。CD封入シリアルで2026-2027年アジア10都市ドーム＆スタジアムツアーの先行抽選に申し込み可能。",
+      "relevance": "high",
+      "selected": true,
+      "size": "medium",
+      "reason_selected": "日本エンタメ最重要アーティストYOASOBIのシリーズ完結という特別な意義を持つ大型新作発表。"
+    },
+    {
+      "title": "aespa『LEMONADE』、初日Hanteo売上84万枚超え・世界19地域iT unes首位獲得",
+      "url": "https://www.starnewskorea.com/en/music/2026/05/30/2026053010134845121",
+      "category": "entertainment",
+      "source": "Star News Korea",
+      "summary": "aespaの2ndフルアルバム『LEMONADE』が初日Hanteo売上842,131枚を記録し2026年女性アーティスト歴代2位。グローバルiTunesアルバムチャートで19地域1位、38地域トップ10入り。タイトル曲「LEMONADE」はSpotifyデイリーグローバルチャートでキャリア最高デビューを記録。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "2026-06-01のaespa LEMONADEリリース記事に続く売上速報。84万枚という具体的数字が新情報。"
+    },
+    {
+      "title": "モーニング娘。'26、13歳・鈴木もあが18期生として加入——K-POP好きのハロプロ研修生",
+      "url": "https://natalie.mu/music/news/674522",
+      "category": "entertainment",
+      "source": "音楽ナタリー",
+      "summary": "6月2日、モーニング娘。'26の3人目の18期生として13歳の鈴木もあの加入が発表。2025年2月からハロプロ研修生として活動し、5月の公開診断テストでダンス賞を受賞。趣味は工作、好きな音楽ジャンルはK-POPとコメント。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "6月2日発表の日本エンタメニュース。K-POPが好きという13歳がモーニング娘。に加入するというユニークな背景が注目点。"
+    },
+    {
+      "title": "MUSIC AWARDS JAPAN 2026、6月13日開催——山内健司・米津玄師・MISAMO・Sam Smithらが出演",
+      "url": "https://electricbloomwebzine.com/2026/06/music-awards-japan-2026-premiere-ceremony-performers.html",
+      "category": "entertainment",
+      "source": "Electric Bloom Webzine",
+      "summary": "国際音楽賞「MUSIC AWARDS JAPAN 2026」が6月13日にTOYOTA ARENA TOKYOで開催。米津玄師、藤井風、MISAMOらがパフォーマンス。NHKで19:30〜生放送。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "2026-06-02に小記事として掲載済み（natalie.mu/music/news/670189）。"
+    },
+    {
+      "title": "映画「Michael」6月12日日本公開——公式サイト情報",
+      "url": "https://michael-movie.jp/",
+      "category": "entertainment",
+      "source": "映画「Michael」公式",
+      "summary": "マイケル・ジャクソンの公式伝記映画「Michael」が6月12日（金）より日本全国公開。監督アントワーン・フークア、MJの実の甥ジャファー・ジャクソンが主演。配給：キノフィルムズ。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "2026-06-02に小記事として掲載済み（hollywoodreporter.jp）。"
+    },
+    {
+      "title": "2026年6月カムバックまとめ——BOYNEXTDOOR、MAMAMOO、TREASURE、ENHYPENのHEESEUNGソロなど",
+      "url": "https://www.mainichikpop.com/comeback/3727/",
+      "category": "entertainment",
+      "source": "まいにちKポ",
+      "summary": "2026年6月のK-POPカムバックスケジュール一覧。BOYNEXTDOOR（6/8）、SHINee済（6/1）、MAMAMOO、tripleS、TREASURE、ENHYPENのHEESEUNGがソロ「EVAN」として6月にリリース予定。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "エンタメ担当として業界全体の俯瞰に有用だが、個別記事でカバーされている内容が多い。"
+    },
+    {
+      "title": "Summer Game Fest 2026 開催直前まとめ——6月6日（土）午前6時から約2時間の生放送、EXODUS・Grounded 2確認済み",
+      "url": "https://www.summergamefest.com/events/summer-game-fest",
+      "category": "hobby",
+      "source": "Summer Game Fest 公式",
+      "summary": "Summer Game Fest 2026は日本時間6月6日（土）午前6時よりLAドルビーシアターから約2時間生放送。確認済みタイトル：元BioWare開発陣によるRPG「EXODUS」、Obsidian「Grounded 2」、「Halloween: The Game」など。ニコニコ生放送でも配信予定。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "明後日開催の最大級ゲームショー。Xbox Showcase・Nintendo Direct噂と合わせてゲームショー三連戦として大記事で構成。"
+    },
+    {
+      "title": "Xbox Games Showcase 2026——6月8日（日）深夜2時開催、Gears of War: E-Day Direct続けて30分配信",
+      "url": "https://www.purexbox.com/guides/xbox-games-showcase-2026-date-start-times-what-to-expect-and-more",
+      "category": "hobby",
+      "source": "Pure Xbox",
+      "summary": "Xbox Games Showcase 2026は日本時間6月8日（日）深夜2時より配信。直後にGears of War: E-Day Directが30分続けて配信。Fable（2027年2月発売）、Halo: Campaign Evolved、次期Call of Dutyの新情報が期待される。多プラットフォームで視聴可能。",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "ゲームショー三連戦の大記事に内包。"
+    },
+    {
+      "title": "Nintendo Direct 6月9日開催との噂——ゼルダ40周年、Switch 2向け新タイトル発表か",
+      "url": "https://www.noobfeed.com/news/nintendo-switch-2-2026-zelda-40th-june-direct",
+      "category": "hobby",
+      "source": "NoobFeed",
+      "summary": "インサイダーJeff Grubbが6月9日のNintendo Direct開催を示唆。ゼルダ40周年記念に合わせ「時のオカリナ」Switch 2リメイクが発表される可能性。Switch 2向けソフトの充実にも期待。（未確認情報）",
+      "relevance": "high",
+      "selected": true,
+      "size": "large",
+      "reason_selected": "ゲームショー三連戦の大記事に内包。"
+    },
+    {
+      "title": "God of War Laufey 正式発表——Faye主人公のPS5独占新作、20分超ゲームプレイ初公開",
+      "url": "https://blog.playstation.com/2026/06/02/first-look-at-god-of-war-laufey/",
+      "category": "hobby",
+      "source": "PlayStation Blog",
+      "summary": "6月2日State of Playで「God of War Laufey」を正式発表。クレイトスの妻Fayeが主人公で女神が死後に迷い込む異世界「Everywhen」が舞台。PS5独占・発売日未定。20分以上のゲームプレイ映像が公開された。昨日の発表「Faye（仮）」の正式タイトルと詳細が明らかに。",
+      "relevance": "high",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "昨日大記事で触れた「God of Warスピンオフ」の正式タイトルと詳細が明らかになった続報。小記事で更新。"
+    },
+    {
+      "title": "ニコン 新カメラ2台を認証機関に登録——数か月以内に発売の可能性",
+      "url": "https://mirrorless-camera.info/rumor/nikon-rumor/54968.html",
+      "category": "hobby",
+      "source": "ミラーレスカメラ情報",
+      "summary": "ニコンが海外認証機関に2台の新デジタルカメラ（N2527、N2324）を登録したことが判明。5GHz/2.4GHz Wi-Fi＋Bluetooth搭載。認証登録後は数か月以内の発売が慣例で、フルサイズ・APS-Cそれぞれの新モデルが近く発表される見込み。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "カメラ好きにとって近日中のニコン新製品発表を示す最新リーク情報。"
+    },
+    {
+      "title": "Nintendo Switch 2、5月25日値上げ後も品薄継続——6月は新作25本が控える",
+      "url": "https://ninten-switch.com/switch-2-kakaku-2026-kaitei-shinausu",
+      "category": "hobby",
+      "source": "Nintendo Switch情報ブログ",
+      "summary": "Nintendo Switch 2が5月25日より49,980円から59,980円に価格改定。改定後も通販サイトで品薄状態が続く。6月には新作ソフト25本が発売予定でラインナップが急速に充実中。",
+      "relevance": "medium",
+      "selected": true,
+      "size": "small",
+      "reason_selected": "Switch 2の品薄と6月の新作ソフト充実は、購入検討中のゲーマーに直接関係する実用情報。"
+    },
+    {
+      "title": "2026年カレートレンドは「第2世代キーマカレー」——カレー総合研究所が6月1日セミナーで発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000768.000033279.html",
+      "category": "hobby",
+      "source": "PR TIMES（カレー総合研究所）",
+      "summary": "カレー総合研究所が2026年カレートレンドを「第2世代キーマカレー」と発表。フルパ・マルチ・ネオ・フリースタイルなど多様なキーマが急増。物価高を背景に低コスト・高付加価値を実現するカレーとして注目。参加者急増のため緊急追加相談会も開催。",
+      "relevance": "high",
+      "selected": true,
+      "size": "serendipity",
+      "reason_selected": "スパイスカレーの趣味に直結しつつ、「物価高時代にコスパを保ちながらクオリティを上げる」という2026年の生活経済をフードから読み解くセレンディピティ記事として選定。"
+    },
+    {
+      "title": "Summer Game Fest 2026 確認済みタイトル——EXODUS、Grounded 2、Halloween: The Gameなど",
+      "url": "https://fandomwire.com/all-confirmed-games-for-summer-game-fest-2026/",
+      "category": "hobby",
+      "source": "FandomWire",
+      "summary": "Summer Game Fest 2026で登場確認済みタイトル：元BioWare開発陣RPG「EXODUS」、Obsidian「Grounded 2」、「Halloween: The Game」など。Xbox Showcase後にGears of War: E-Day Directも予定。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "ゲームショー三連戦大記事に内包。"
+    },
+    {
+      "title": "6月のゲーム発表イベントカレンダー——Summer Game Fest、Xbox Showcase、Nintendo Directが集中",
+      "url": "https://www.gamespark.jp/article/2026/06/02/167255.html",
+      "category": "hobby",
+      "source": "Game*Spark",
+      "summary": "6月第1〜2週はゲーム発表の季節。State of Play済（6/2）→Summer Game Fest（6/6）→Xbox Showcase（6/8）→Nintendo Direct噂（6/9）と発表ラッシュが続く。ニコニコ生放送でのSummer Game Fest日本語同時配信も決定。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "ゲームショー三連戦大記事に内包済み。"
+    },
+    {
+      "title": "PlayStation State of Play 2026年6月開催 — God of War Laufey、Marvel's Wolverine等多数発表（TechTimes recap）",
+      "url": "https://www.techtimes.com/articles/317642/20260602/playstation-state-play-june-2026-recap-every-major-announcement-showcase-highlight.htm",
+      "category": "hobby",
+      "source": "TechTimes",
+      "summary": "6月2日PlayStation State of Play recap。God of War Laufey、Marvel's Wolverine 9/15確定、Tomb Raider: Legacy of Atlantis（2027/2/12）、Until Dawn 2（2027年）などが発表された。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "2026-06-02に大記事として掲載済み（PlayStation State of Play）。"
+    },
+    {
+      "title": "Tomb Raider: Legacy of Atlantis 発売日発表——2027年2月12日PS5向け",
+      "url": "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5/",
+      "category": "hobby",
+      "source": "PlayStation Blog",
+      "summary": "Crystal Dynamics開発「Tomb Raider: Legacy of Atlantis」の発売日が2027年2月12日（PS5）に決定。6月2日State of Playで初トレーラー公開。リブートトリアルジーのゲームプレイを踏襲しつつ、ララの大胆なアクションとユーモアを前面に押し出したスタイルに。",
+      "relevance": "medium",
+      "selected": false,
+      "reason_selected": "6/2大記事の補足情報。分量制御のため除外。次回候補。"
+    },
+    {
+      "title": "ソニー α7R VI — 6月5日発売直前、66.8MP積層型センサー（kakakumag）",
+      "url": "https://kakakumag.com/camera/?id=22401",
+      "category": "hobby",
+      "source": "価格.comマガジン",
+      "summary": "明日6月5日発売のα7R VI（市場想定価格約74万円）。66.8MP積層型CMOSセンサー搭載、ブラックアウトフリー約30コマ/秒を実現。",
+      "relevance": "high",
+      "selected": false,
+      "reason_selected": "2026-06-02に中記事として掲載済み（nakamura.yokohama レビュー）。"
+    }
+  ]
+}
