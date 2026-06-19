@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-19",
+  "notion_page_id": "384a41a3-cf9b-8109-b0f6-c63dfdd3cbbb",
+  "summary": {
+    "tech": 5,
+    "news": 7,
+    "entertainment": 6,
+    "hobby": 5,
+    "serendipity": 2
+  },
+  "articles": [
+    {
+      "id": "tech-001",
+      "category": "tech",
+      "size": "large",
+      "title": "GPT-5.6・Gemini 3.5 Pro が今週リリース直前——Claude Fable 5停止中の「フロンティア空白期」",
+      "urls": [
+        "https://zaikei.co.jp/article/20260618/750482.html",
+        "https://ai-revolution.co.jp/media/what-is-gemini-3-5-pro/",
+        "https://gigazine.net/news/20260616-anthropic-ai-controls-open-letter/",
+        "https://helentech.jp/news-gemini-cli-antigravity-migration-86493/"
+      ],
+      "selected": true,
+      "reason": "今週最重要テックトピック。Fable 5停止×GPT-5.6×Gemini 3.5 Pro同時期リリースはAngular/LLM開発者視点で必読。deep_dive対象外だが重要度最高。"
+    },
+    {
+      "id": "tech-002",
+      "category": "tech",
+      "size": "medium",
+      "title": "TypeScript 7.0 RC公開——型パラメータ省略・Const Generics正式採用",
+      "urls": [
+        "https://gihyo.jp/article/2026/06/typescript-7-0-rc"
+      ],
+      "selected": true,
+      "reason": "Angular開発者に直結。TypeScript 7.0の新機能はAngular 20テンプレート型チェックにも影響。"
+    },
+    {
+      "id": "tech-003",
+      "category": "tech",
+      "size": "medium",
+      "title": "Zoneless Angular + Signal Forms 本番移行ガイド",
+      "urls": [
+        "https://medium.com/@flaviusson/zoneless-angular-in-production-what-actually-breaks-and-how-to-fix-it-71873cc6255a"
+      ],
+      "selected": true,
+      "reason": "deep_dive_topics「Angular Zoneless・Signal Forms」に該当。実体験ベースの移行ガイドで実用性高い。"
+    },
+    {
+      "id": "tech-004",
+      "category": "tech",
+      "size": "small",
+      "title": "Claude Code偽ツールマルウェアキャンペーン継続中",
+      "urls": [
+        "https://www.trendmicro.com/ja_jp/research/26/d/weaponizing-trust-claude-code-lures-and-github-release-payloads.html"
+      ],
+      "selected": true,
+      "reason": "Claude Code使用者として要注意のセキュリティ情報。短報として掲載。"
+    },
+    {
+      "id": "tech-005",
+      "category": "tech",
+      "size": "small",
+      "title": "OpenCode + OpenRouter乗り換え体験記",
+      "urls": [
+        "https://zenn.dev/kometan/articles/5b32a9a6188203"
+      ],
+      "selected": true,
+      "reason": "Claude Code代替ツールの実使用報告。Claude停止期間中の代替として関連性高い。"
+    },
+    {
+      "id": "news-001",
+      "category": "news",
+      "size": "large",
+      "title": "米・イラン覚書、本日スイスで正式署名——ホルムズ開放・原油急落、60日交渉の核問題は先送り",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQODL151Q60V10C26A6000000/",
+        "https://www.nikkei.com/article/DGXZQOGN18CPK0Y6A610C2000000/",
+        "https://jbpress.ismedia.jp/articles/-/95451"
+      ],
+      "selected": true,
+      "reason": "deep_dive_topics「イラン情勢・エネルギー市場」に該当。本日署名という速報性もあり大記事に。"
+    },
+    {
+      "id": "news-002",
+      "category": "news",
+      "size": "medium",
+      "title": "日経平均71,250円・連日最高値更新",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUB19130TZ10C26A6000000/"
+      ],
+      "selected": true,
+      "reason": "フジクラAIインフラ株ラリーとの連携記事として主要ニュース。"
+    },
+    {
+      "id": "news-003",
+      "category": "news",
+      "size": "medium",
+      "title": "ウクライナ、モスクワ製油所最大規模ドローン攻撃",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061801070&g=int"
+      ],
+      "selected": true,
+      "reason": "米イラン記事と合わせてエネルギー・地政学視点で重要。"
+    },
+    {
+      "id": "news-004",
+      "category": "news",
+      "size": "medium",
+      "title": "W杯2026・6月19日結果+日本代表チュニジア戦まで2日",
+      "urls": [
+        "https://www.olympics.com/ja/news/fifa-world-cup-2026-live-scores-19-june-results"
+      ],
+      "selected": true,
+      "reason": "本日の結果速報として時事性高い。日本は決勝T進出がかかる重要局面。"
+    },
+    {
+      "id": "news-005",
+      "category": "news",
+      "size": "small",
+      "title": "参院選7/3公示・7/20投開票を閣議決定",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUA220I60S5A620C2000000/"
+      ],
+      "selected": true,
+      "reason": "国内政治の日程確定として押さえておくべき基本情報。"
+    },
+    {
+      "id": "news-006",
+      "category": "news",
+      "size": "small",
+      "title": "大谷翔平今季7勝目・防御率0.97・本塁打15号",
+      "urls": [
+        "https://news.web.nhk.or.jp/newsweb/na/na-k10015153141000"
+      ],
+      "selected": true,
+      "reason": "国民的関心事として簡潔に。"
+    },
+    {
+      "id": "news-007",
+      "category": "news",
+      "size": "small",
+      "title": "フジクラ株ストップ高 AIインフラ株ラリー再加速",
+      "urls": [
+        "https://gentosha-go.com/articles/-/79534"
+      ],
+      "selected": true,
+      "reason": "日経最高値と連携するAIインフラ株の動向。テック×金融の交差点として有益。"
+    },
+    {
+      "id": "entertainment-001",
+      "category": "entertainment",
+      "size": "large",
+      "title": "名探偵コナン「ハイウェイの堕天使」130億円突破——邦画4作連続100億の前人未踏",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/d5291b97221ab6d5f37c139d35360dc582019bb4"
+      ],
+      "selected": true,
+      "reason": "エンタメ業界トレンド視点で最重要。IP設計の教科書事例としてエンタメエンジニア視点でも価値高い。"
+    },
+    {
+      "id": "entertainment-002",
+      "category": "entertainment",
+      "size": "medium",
+      "title": "VIVANT S2 キービジュアル公開＆3段階特別イベント決定",
+      "urls": [
+        "https://www.oricon.co.jp/news/2461051/full/"
+      ],
+      "selected": true,
+      "reason": "エンタメ業界の話題作。TBSのIP展開戦略として業界視点でも注目。"
+    },
+    {
+      "id": "entertainment-003",
+      "category": "entertainment",
+      "size": "medium",
+      "title": "BLEACH千年血戦篇最終クール＋6/21劇場先行上映",
+      "urls": [
+        "https://www.famitsu.com/article/202605/75296"
+      ],
+      "selected": true,
+      "reason": "今週末イベントとして時事性あり。20年越しの完結として話題性高い。"
+    },
+    {
+      "id": "entertainment-004",
+      "category": "entertainment",
+      "size": "medium",
+      "title": "EXO 6年ぶりワールドツアー日本公演決定",
+      "urls": [
+        "https://exo-jp.net/en/news/detail.php?id=1131058"
+      ],
+      "selected": true,
+      "reason": "K-POPエンタメとして日本公演決定は話題性あり。"
+    },
+    {
+      "id": "entertainment-005",
+      "category": "entertainment",
+      "size": "small",
+      "title": "Mrs. GREEN APPLE 物販6/19（本日）スタート",
+      "urls": [
+        "https://realsound.jp/2026/06/post-2428818.html/"
+      ],
+      "selected": true,
+      "reason": "本日開始の時事性。人気アーティストの情報として短報で十分。"
+    },
+    {
+      "id": "entertainment-006",
+      "category": "entertainment",
+      "size": "small",
+      "title": "2026夏アニメ42作品まとめ",
+      "urls": [
+        "https://www.oricon.co.jp/anime/2026_summer/"
+      ],
+      "selected": true,
+      "reason": "7月改編前の情報整理として有用。リンクで十分。"
+    },
+    {
+      "id": "hobby-001",
+      "category": "hobby",
+      "size": "large",
+      "title": "Sony αイベント（6/26・7日後）直前——FX3 II 噂スペック詳報",
+      "urls": [
+        "https://mirrorless-camera.info/rumor/sony-rumor/55047.html"
+      ],
+      "selected": true,
+      "reason": "カメラ趣味の核心。来週イベントの事前情報として詳細掲載価値あり。"
+    },
+    {
+      "id": "hobby-002",
+      "category": "hobby",
+      "size": "medium",
+      "title": "DELTARUNE チャプター5「今週（6/25）配信確定」",
+      "urls": [
+        "https://news.denfaminicogamer.jp/news/2606098z"
+      ],
+      "selected": true,
+      "reason": "ゲーム趣味の最重要ニュース。6/25=6日後の今週配信。"
+    },
+    {
+      "id": "hobby-003",
+      "category": "hobby",
+      "size": "medium",
+      "title": "食べログカレー百名店2026＋第3世代スパイスカレーブーム分析",
+      "urls": [
+        "https://gourmet.watch.impress.co.jp/docs/news/2115875.html"
+      ],
+      "selected": true,
+      "reason": "スパイスカレー趣味に直結。2026年版発表のタイムリーな記事。"
+    },
+    {
+      "id": "hobby-004",
+      "category": "hobby",
+      "size": "small",
+      "title": "GoPro MISSION 1 PRO 本日発売（1インチ8K60fps）",
+      "urls": [
+        "https://dc.watch.impress.co.jp/docs/news/release/2112112.html"
+      ],
+      "selected": true,
+      "reason": "カメラ・動画機材として本日発売の時事性。短報で十分。"
+    },
+    {
+      "id": "hobby-005",
+      "category": "hobby",
+      "size": "small",
+      "title": "6/25はSwitch 2豊作週——DELTARUNE・マリカW・テイルズ同日発売",
+      "urls": [
+        "https://www.famitsu.com/article/202606/76707"
+      ],
+      "selected": true,
+      "reason": "ゲーム趣味として来週の見通し。DELTARUNE記事の補足として。"
+    },
+    {
+      "id": "serendipity-001",
+      "category": "serendipity",
+      "size": "serendipity",
+      "title": "Claude停止・Gemini CLI終了・GPT-5.6直前——AIフロンティアが空白を作る週に何が見える？",
+      "urls": [
+        "https://ai-revolution.co.jp/media/what-is-gemini-3-5-pro/"
+      ],
+      "selected": true,
+      "reason": "tech大記事の別角度切り口。AIツール依存のワークフロー設計リスクを今週リアルタイムで体験できる。"
+    },
+    {
+      "id": "serendipity-002",
+      "category": "serendipity",
+      "size": "serendipity",
+      "title": "コナン130億×DELTARUNE今週配信——「長く待てるIP」の設計思想",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/d5291b97221ab6d5f37c139d35360dc582019bb4"
+      ],
+      "selected": true,
+      "reason": "エンタメ大記事とホビー記事の横断的考察。エンタメ業界エンジニアとして企画思想を考えるきっかけ。"
+    },
+    {
+      "id": "not-selected-001",
+      "category": "hobby",
+      "size": null,
+      "title": "デジカメinfo: ニコン Z50III 新型センサー情報",
+      "urls": [
+        "https://digicame-info.com/2026/05/626.html"
+      ],
+      "selected": false,
+      "reason": "2026-06-16に既出（selected:true）。URLが除外リストに含まれるため非選出。"
+    },
+    {
+      "id": "not-selected-002",
+      "category": "tech",
+      "size": null,
+      "title": "LUMIX L10 実機レビュー（ASCII.jp）",
+      "urls": [
+        "https://ascii.jp/elem/000/004/254/4254321/"
+      ],
+      "selected": false,
+      "reason": "2026-06-18に既出（selected:false）。重複記事のため非選出。"
+    }
+  ]
+}
