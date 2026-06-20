@@ -1,0 +1,636 @@
+{
+  "date": "2026-06-20",
+  "notion_page_id": "385a41a3-cf9b-8124-a7d4-f0ca6b6f2ab5",
+  "summary": {
+    "tech": 4,
+    "news": 4,
+    "entertainment": 5,
+    "hobby": 5,
+    "serendipity": 2
+  },
+  "articles": [
+    {
+      "id": "tech-001",
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude Managed Agents「Dreaming」新機能——事前仮想実行でツール選定を自動最適化",
+      "urls": [
+        "https://claude.com/blog/new-in-claude-managed-agents"
+      ],
+      "selected": true,
+      "reason": "Claude Code/Agent SDK使用者に直結する未カバーの新機能。Dreamingは本番実行前に複数シナリオを仮想シミュレーションしてベスト選択するフェーズ。サブエージェント多用ワークフローで効果が期待される。"
+    },
+    {
+      "id": "tech-002",
+      "category": "tech",
+      "size": "small",
+      "title": "GPT-5.6 来週リリース最有力——ベンチマーク・新機能・Claude代替シナリオ比較",
+      "urls": [
+        "https://www.explainx.ai/blog/gpt-5-6-release-date-features-benchmarks-2026"
+      ],
+      "selected": true,
+      "reason": "06-19に大記事でGPT-5.6の概要をカバー済みだが、本URLはベンチマーク・機能比較の詳細分析として新規角度の補足価値あり。"
+    },
+    {
+      "id": "tech-003",
+      "category": "tech",
+      "size": "small",
+      "title": "Angular 22 企業実装ガイド（MESCIUS）——Signal Forms×Zoneless CDの実装チェックリスト",
+      "urls": [
+        "https://developer.mescius.com/blogs/whats-new-in-angular-22"
+      ],
+      "selected": true,
+      "reason": "Angular 22は06-18で大記事掲載済み。MESCIUS企業視点の実装チェックリストは実務参照価値があり新規URL。deep_dive_topics「Angular Zoneless・Signal Forms」の補足資料として有効。"
+    },
+    {
+      "id": "tech-004",
+      "category": "tech",
+      "size": "small",
+      "title": "Claude Fable 5 輸出規制の法的考察——National Law Review「AIモデル政府制御命令の先例」",
+      "urls": [
+        "https://natlawreview.com/article/ai-company-anthropic-suspends-access-claude-fable-5-claude-mythos-5-following-us"
+      ],
+      "selected": true,
+      "reason": "Fable 5停止は06-17で大記事掲載済み。本記事は輸出規制の法的枠組み分析として新規角度を提供。AIをインフラとして規制する世界の法的根拠を理解する上で参照価値高い。"
+    },
+    {
+      "id": "news-001",
+      "category": "news",
+      "size": "large",
+      "title": "明日13時キックオフ！日本代表×チュニジア——GL突破条件・W杯1000試合目・今日の全組結果",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/cd7416bfaa6577619db57c6e3b00fa63d6560c7d",
+        "https://www.soccer-king.jp/news/japan/national/20260617/2173098.html",
+        "https://news.yahoo.co.jp/articles/68fe75245957ceec0e3405c2ccd4b94b60ca9352",
+        "https://news.web.nhk/newsweb/na/na-k10015155091000",
+        "https://www.olympics.com/ja/news/fifa-world-cup-2026-live-scores-20-june-results"
+      ],
+      "selected": true,
+      "reason": "明日13時（JST）が日本代表W杯の分岐点。GL突破条件・チュニジア解説・今日の試合結果を一括カバーする決戦前夜特集として大記事に。W杯1000試合目という節目でもあり速報性・重要度ともに最高。"
+    },
+    {
+      "id": "news-002",
+      "category": "news",
+      "size": "medium",
+      "title": "大谷翔平 第2子誕生で緊急帰国・一時離脱——今季防御率0.97・本塁打15号・7勝の絶頂期に",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOKC200O50Q6A620C2000000/"
+      ],
+      "selected": true,
+      "reason": "日本国民的関心事。今季絶頂の成績で一時離脱という人間的側面が話題。ドジャース球団の支持発表とともに国内外で大きく報道。"
+    },
+    {
+      "id": "news-003",
+      "category": "news",
+      "size": "medium",
+      "title": "米イラン 覚書最終草案14項目公開＋トランプ「最終判断」一時保留——核・ミサイル問題は60日先送り",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/f19e4af9cc4451d4342fb516bde190aa61f89238",
+        "https://www.jetro.go.jp/biznews/2026/06/aeb4bed01a4ce739.html"
+      ],
+      "selected": true,
+      "reason": "deep_dive_topics「イラン情勢・エネルギー市場」に該当。06-19に署名後の新展開（草案14項目公開＋トランプ保留）として中記事で継続フォロー。"
+    },
+    {
+      "id": "news-004",
+      "category": "news",
+      "size": "small",
+      "title": "円161円台・財務相「断固措置」発言——日銀利上げ後も続く円安への為替介入シグナル",
+      "urls": [
+        "https://www.youtube.com/watch?v=VWn2PRnMsxo"
+      ],
+      "selected": true,
+      "reason": "日銀利上げ後も円安が続く為替動向。財務相の「断固措置」発言は介入警戒シグナルとして市場が注目。短報で把握すべき金融情報。"
+    },
+    {
+      "id": "entertainment-001",
+      "category": "entertainment",
+      "size": "medium",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL——7月7日Prime Video最速配信決定・Science SARU制作",
+      "urls": [
+        "https://www.famitsu.com/article/202606/78491"
+      ],
+      "selected": true,
+      "reason": "伝説的IPの新アニメ化×グローバルアーティスト起用（MILLENNIUM PARADE×Saya Gray×Daniel Caesar）×Prime Video最速配信という多面的な話題性。企画・音楽戦略の参考になる国際展開事例。"
+    },
+    {
+      "id": "entertainment-002",
+      "category": "entertainment",
+      "size": "small",
+      "title": "BLEACH 千年血戦篇——明日6/21先行上映・最終クール7月TV放送スタート",
+      "urls": [
+        "https://anime.eiga.com/news/126560/"
+      ],
+      "selected": true,
+      "reason": "明日6/21が先行上映と時事性が高い。20年越しの完結という稀有なIPフィナーレとして短報で案内。"
+    },
+    {
+      "id": "entertainment-003",
+      "category": "entertainment",
+      "size": "small",
+      "title": "VIVANT S1 地上波再放送6/27（日）スタート——S2放送直前の「おさらい」企画",
+      "urls": [
+        "https://mdpr.jp/drama/detail/4801450"
+      ],
+      "selected": true,
+      "reason": "来週から始まるVIVANT S1再放送のタイムリーな告知。S2（7/26スタート）直前の視聴者獲得・盛り上げ施策として企画参考になる。"
+    },
+    {
+      "id": "entertainment-004",
+      "category": "entertainment",
+      "size": "small",
+      "title": "夏ドラマ2026注目作：松村北斗「告白」単独初主演×今田美桜「クロスロード」初の医師役",
+      "urls": [
+        "https://mdpr.jp/drama/detail/4793109",
+        "https://natalie.mu/eiga/news/672297"
+      ],
+      "selected": true,
+      "reason": "VIVANT・GTO以外の夏ドラマ注目作として2本を合わせて短報。松村北斗の単独初主演・今田美桜の初医師役というキャスティング話題を簡潔にカバー。"
+    },
+    {
+      "id": "entertainment-005",
+      "category": "entertainment",
+      "size": "small",
+      "title": "BOYNEXTDOOR「HOME」オリコン週間アルバム1位——K-POPボーイズグループの新旋風",
+      "urls": [
+        "https://www.allkpop.com/article/2026/06/boynextdoor-tops-oricon-weekly-albums-chart-with-home-proving-power-of-personal-storytelling"
+      ],
+      "selected": true,
+      "reason": "K-POP市場の新勢力台頭。BOYNEXTDOOR（HYBE傘下）のオリコン1位は今後注目すべきグループとして短報で把握。"
+    },
+    {
+      "id": "hobby-001",
+      "category": "hobby",
+      "size": "medium",
+      "title": "Canon EOS R6 V 6/24発売直前＋Sony α6900最新噂——6日後αイベント直前「カメラ激動週」",
+      "urls": [
+        "https://dc.watch.impress.co.jp/docs/news/2108429.html",
+        "https://cameota.com/sony/49284.html"
+      ],
+      "selected": true,
+      "reason": "Canon EOS R6 Vが4日後に発売、Sony αイベントが6日後。α6900噂スペックも登場し「カメラファン激動の一週間」として合わせて中記事に。購入判断の参考として重要。"
+    },
+    {
+      "id": "hobby-002",
+      "category": "hobby",
+      "size": "medium",
+      "title": "DELTARUNE チャプター5 あと5日！——公式ニュースレターで6/25配信を正式確認",
+      "urls": [
+        "https://toby.fangamer.jp/newsletters/ch5-release-date/"
+      ],
+      "selected": true,
+      "reason": "Toby Fox公式ニュースレターで6/25配信が正式確認。チャプター6もほぼ完成済みで2026年内Ch7着手の可能性も言及。カウントダウン5日前として中記事で詳報。"
+    },
+    {
+      "id": "hobby-003",
+      "category": "hobby",
+      "size": "small",
+      "title": "Star Fox 2 Switch 2版 6/25発売——DELTARUNE同日「6/25豊作デー」確定",
+      "urls": [
+        "https://www.nintendo.com/jp/games/switch2/abgwa/index.html"
+      ],
+      "selected": true,
+      "reason": "DELTARUNE Ch5と同日6/25に発売。06-19の「Switch 2豊作週」記事の補強情報。Star Fox新作の詳細として短報で追加。"
+    },
+    {
+      "id": "hobby-004",
+      "category": "hobby",
+      "size": "small",
+      "title": "LUMIX S9 ファームウェアVer.2.0——動画AF・手ブレ補正強化アップデート",
+      "urls": [
+        "https://dc.watch.impress.co.jp/docs/news/2116325.html"
+      ],
+      "selected": true,
+      "reason": "LUMIX S9ユーザーへの重要なFW更新情報。動画性能強化として短報で案内。Sony αイベント直前のカメラ週の文脈とも合う。"
+    },
+    {
+      "id": "hobby-005",
+      "category": "hobby",
+      "size": "small",
+      "title": "CoCo壱番屋「焙煎スパイスカレー」新登場——スパイスカレーブームが大手チェーンに波及",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000073.000108441.html"
+      ],
+      "selected": true,
+      "reason": "スパイスカレー趣味に直結。食べログ百名店（06-16〜18で詳報済み）とは別角度で、ブームが大手チェーンに波及したトレンド指標として短報。"
+    },
+    {
+      "id": "serendipity-001",
+      "category": "serendipity",
+      "size": "serendipity",
+      "title": "Claude Managed Agents「Dreaming」×大谷翔平第2子誕生——「AIが代わりに夢を見ている間に、人間が人生の瞬間に立ち会える」",
+      "urls": [
+        "https://claude.com/blog/new-in-claude-managed-agents"
+      ],
+      "selected": true,
+      "reason": "テック大記事とニュース大記事の横断的考察。AIが認知的作業を代替し始めることで人間が本来いるべき場所に戻れる——という技術の本当の価値を問う視点。エンジニアとして何を自動化し何を人間に残すかという設計哲学として。"
+    },
+    {
+      "id": "serendipity-002",
+      "category": "serendipity",
+      "size": "serendipity",
+      "title": "明日13時の日本代表×5日後のDELTARUNE×6日後のSony αイベント——「3本の締め切りを同時に持てる人間」の週末",
+      "urls": [
+        "https://toby.fangamer.jp/newsletters/ch5-release-date/"
+      ],
+      "selected": true,
+      "reason": "ニュース大記事・ホビー中記事の横断的考察。スポーツ・ゲーム・カメラという全く異なるドメインに同時にカウントダウンを持てる人間の並列性を問う。AIが並列実行する一方で人間固有の「並列した期待」という豊かさを対比させる視点。"
+    },
+    {
+      "id": "not-selected-001",
+      "category": "tech",
+      "size": null,
+      "title": "Claude Fable 5 停止状況（InfoQ）",
+      "urls": [
+        "https://www.infoq.com/news/2026/06/claude-5-release/"
+      ],
+      "selected": false,
+      "reason": "Fable 5停止は2026-06-17で大記事掲載済み。新角度はnatlawreview記事（tech-004）で対応。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-002",
+      "category": "tech",
+      "size": null,
+      "title": "Anthropic Claude Fable 5 公式発表",
+      "urls": [
+        "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      ],
+      "selected": false,
+      "reason": "Fable 5停止は2026-06-17で大記事掲載済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-003",
+      "category": "tech",
+      "size": null,
+      "title": "TypeScript 7.0 RC Go製コンパイラ詳報（TechTimes）",
+      "urls": [
+        "https://www.techtimes.com/articles/318666/20260618/typescript-70-rc-ships-go-compiler-cuts-vs-code-build-time-77-seconds-seven.htm"
+      ],
+      "selected": false,
+      "reason": "TypeScript 7.0 RCは2026-06-19でgihyo.jp記事として掲載済み。同一トピックの別URLのため非選出。"
+    },
+    {
+      "id": "not-selected-004",
+      "category": "tech",
+      "size": null,
+      "title": "Angular 22 Bacancyブログ",
+      "urls": [
+        "https://www.bacancytechnology.com/blog/angular-22"
+      ],
+      "selected": false,
+      "reason": "Angular 22は2026-06-18で大記事掲載済み。MESCIUS記事（tech-003）で代替カバー。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-005",
+      "category": "tech",
+      "size": null,
+      "title": "Angular 22「10年先に感じる」Medium記事",
+      "urls": [
+        "https://medium.com/@amit.mahida9292/angular-22-the-release-that-finally-makes-angular-feel-10-years-ahead-9ea7fdb7b994"
+      ],
+      "selected": false,
+      "reason": "Angular 22は2026-06-18で大記事掲載済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-006",
+      "category": "tech",
+      "size": null,
+      "title": "OpenAI GPT-5.6 6月中リリース（TechTimes）",
+      "urls": [
+        "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm"
+      ],
+      "selected": false,
+      "reason": "2026-06-18に選出済みのURLのため除外リストに含まれる。"
+    },
+    {
+      "id": "not-selected-007",
+      "category": "tech",
+      "size": null,
+      "title": "Gemini 3.5 Pro 6月GA直前（TechTimes）",
+      "urls": [
+        "https://www.techtimes.com/articles/317919/20260606/google-gemini-35-pro-nears-june-launch-2-million-token-context-deep-think-reasoning.htm"
+      ],
+      "selected": false,
+      "reason": "Gemini 3.5 Proは2026-06-19の大記事（tech-001）でai-revolution.co.jpとともにカバー済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-008",
+      "category": "tech",
+      "size": null,
+      "title": "Claude Agent課金変更一時停止（ai-advisors.jp）",
+      "urls": [
+        "https://ai-advisors.jp/media/ai-news/claude-plan-change-20260615/"
+      ],
+      "selected": false,
+      "reason": "課金変更停止は2026-06-18（digitalapplied.com）で掲載済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-009",
+      "category": "tech",
+      "size": null,
+      "title": "Claude Code 6月アップデートまとめ",
+      "urls": [
+        "https://ai-heartland.com/news/claude-code-june-2026-update/"
+      ],
+      "selected": false,
+      "reason": "Claude Code更新情報は2026-06-18（w24 changelog）で掲載済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-010",
+      "category": "tech",
+      "size": null,
+      "title": "TypeScript 7「tsgo」パラダイムシフト（Zenn chot）",
+      "urls": [
+        "https://zenn.dev/chot/articles/30da2a9194a081"
+      ],
+      "selected": false,
+      "reason": "2026-06-18に非選出として記録済みのURLのため除外リストに含まれる。"
+    },
+    {
+      "id": "not-selected-011",
+      "category": "tech",
+      "size": null,
+      "title": "TSKaigi 2026レポート",
+      "urls": [
+        "https://zenn.dev/yasse/articles/a7240304af804c"
+      ],
+      "selected": false,
+      "reason": "TypeScript系カンファレンスレポートとして興味深いが、今号tech枠の優先度外。次号以降で掲載検討。"
+    },
+    {
+      "id": "not-selected-012",
+      "category": "news",
+      "size": null,
+      "title": "W杯 パラグアイ1-0トルコ（Soccer King）",
+      "urls": [
+        "https://www.soccer-king.jp/news/world/wc/20260620/2174622.html"
+      ],
+      "selected": false,
+      "reason": "news-001のW杯大記事に統合済み。別掲不要。"
+    },
+    {
+      "id": "not-selected-013",
+      "category": "news",
+      "size": null,
+      "title": "W杯 ブラジル3-0ハイチ・モロッコ1-0スコットランド結果",
+      "urls": [
+        "https://www.olympics.com/ja/news/fifa-world-cup-2026-live-scores-20-june-results"
+      ],
+      "selected": false,
+      "reason": "news-001のW杯大記事に統合済み（URLとして参照）。別掲不要。"
+    },
+    {
+      "id": "not-selected-014",
+      "category": "news",
+      "size": null,
+      "title": "アメリカW杯グループステージ突破（NHK）",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015155091000"
+      ],
+      "selected": false,
+      "reason": "news-001のW杯大記事に統合済み。別掲不要。"
+    },
+    {
+      "id": "not-selected-015",
+      "category": "news",
+      "size": null,
+      "title": "参院選7/3公示・7/20投開票（自民党）",
+      "urls": [
+        "https://www.jimin.jp/news/information/210967.html"
+      ],
+      "selected": false,
+      "reason": "2026-06-19に同一トピックで掲載済み（soumu.go.jp）。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-016",
+      "category": "news",
+      "size": null,
+      "title": "日経平均6/19終値71,250円",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUB19130TZ10C26A6000000/"
+      ],
+      "selected": false,
+      "reason": "2026-06-19に選出済みのURLのため除外リストに含まれる。"
+    },
+    {
+      "id": "not-selected-017",
+      "category": "news",
+      "size": null,
+      "title": "皇族数確保策・議論の動向（時事通信）",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061000848&g=pol"
+      ],
+      "selected": false,
+      "reason": "2026-06-10付の記事で10日前の古い情報。今号では非選出。"
+    },
+    {
+      "id": "not-selected-018",
+      "category": "news",
+      "size": null,
+      "title": "林総務大臣夕張視察",
+      "urls": [
+        "https://www.nikkei.com/news/category/politics/"
+      ],
+      "selected": false,
+      "reason": "URLがカテゴリページで記事として特定性がなく不採用。"
+    },
+    {
+      "id": "not-selected-019",
+      "category": "entertainment",
+      "size": null,
+      "title": "VIVANT S2新キャスト（eiga.com）",
+      "urls": [
+        "https://eiga.com/news/20260616/5/"
+      ],
+      "selected": false,
+      "reason": "VIVANT S2キャスト情報は2026-06-18（yahoo.co.jp/articles/85f705bb...）で掲載済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-020",
+      "category": "entertainment",
+      "size": null,
+      "title": "VIVANT S1再放送・地上波ラスト復活（natalie.mu）",
+      "urls": [
+        "https://natalie.mu/eiga/news/677005"
+      ],
+      "selected": false,
+      "reason": "entertainment-003（mdpr.jp/drama/detail/4801450）でVIVANT S1再放送をカバー済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-021",
+      "category": "entertainment",
+      "size": null,
+      "title": "GTO 7/20スタート（natalie.mu/eiga/drama/644）",
+      "urls": [
+        "https://natalie.mu/eiga/drama/644"
+      ],
+      "selected": false,
+      "reason": "GTO復活は2026-06-17で大記事掲載済み。今号では夏ドラマ小記事（entertainment-004）で松村北斗・今田美桜を優先。"
+    },
+    {
+      "id": "not-selected-022",
+      "category": "entertainment",
+      "size": null,
+      "title": "無職転生Ⅲ 7/5放送（animeanime.jp）",
+      "urls": [
+        "https://animeanime.jp/article/2026/01/10/95043.html"
+      ],
+      "selected": false,
+      "reason": "2026年1月付の記事で半年前の古い情報。今号では非選出。"
+    },
+    {
+      "id": "not-selected-023",
+      "category": "entertainment",
+      "size": null,
+      "title": "TREASURE「NEW WAV」（oricon.co.jp/news/2460334）",
+      "urls": [
+        "https://www.oricon.co.jp/news/2460334/"
+      ],
+      "selected": false,
+      "reason": "TREASUREは2026-06-17・06-18で掲載済み（oricon/2459911・billboard-japan）。BOYNEXTDOOR記事（entertainment-005）を優先。"
+    },
+    {
+      "id": "not-selected-024",
+      "category": "entertainment",
+      "size": null,
+      "title": "伊藤潤二×IVE「ストレンジ」7/3",
+      "urls": [
+        "https://www.tv-tokyo.co.jp/information/202604/5593.html"
+      ],
+      "selected": false,
+      "reason": "2026年4月付の記事で2ヶ月前の古い情報。今号では非選出。"
+    },
+    {
+      "id": "not-selected-025",
+      "category": "entertainment",
+      "size": null,
+      "title": "実写「ルックバック」9/11公開",
+      "urls": [
+        "https://news.denfaminicogamer.jp/news/260609y"
+      ],
+      "selected": false,
+      "reason": "今号エンタメ枠が充実しているため次号以降で掲載検討。"
+    },
+    {
+      "id": "not-selected-026",
+      "category": "entertainment",
+      "size": null,
+      "title": "ドラゴンボール超「ビルス」2026秋",
+      "urls": [
+        "https://www.animatetimes.com/news/details.php?id=1769325997"
+      ],
+      "selected": false,
+      "reason": "今号エンタメ枠が充実しているため次号以降で掲載検討。"
+    },
+    {
+      "id": "not-selected-027",
+      "category": "entertainment",
+      "size": null,
+      "title": "攻殻機動隊 EDテーマ（denfaminicogamer 2606113k）",
+      "urls": [
+        "https://news.denfaminicogamer.jp/news/2606113k"
+      ],
+      "selected": false,
+      "reason": "2026-06-18に選出済みのURLのため除外リストに含まれる。"
+    },
+    {
+      "id": "not-selected-028",
+      "category": "hobby",
+      "size": null,
+      "title": "Nikon Z9 II 2027年延期",
+      "urls": [
+        "https://www.digitalcameraworld.com/news/camera-rumors/2"
+      ],
+      "selected": false,
+      "reason": "URLが「/2」とページ番号のみで記事として特定性がなく不採用。"
+    },
+    {
+      "id": "not-selected-029",
+      "category": "hobby",
+      "size": null,
+      "title": "DELTARUNE Ch6開発状況（inside-games）",
+      "urls": [
+        "https://www.inside-games.jp/article/2026/06/10/182769.html"
+      ],
+      "selected": false,
+      "reason": "DELTARUNEチャプター6開発状況は2026-06-18（famitsu/77914）で掲載済み。重複のため非選出。"
+    },
+    {
+      "id": "not-selected-030",
+      "category": "hobby",
+      "size": null,
+      "title": "DELTARUNE Ch6（Game*Spark）",
+      "urls": [
+        "https://www.gamespark.jp/article/2026/06/10/167808.html"
+      ],
+      "selected": false,
+      "reason": "同上。内容重複のため非選出。"
+    },
+    {
+      "id": "not-selected-031",
+      "category": "hobby",
+      "size": null,
+      "title": "FF7リバース Switch 2版",
+      "urls": [
+        "https://www.i-mezzo.net/log/2026/06/03222527.html/82369/"
+      ],
+      "selected": false,
+      "reason": "FF7リバースSwitch 2版は2026-06-16のニンダイまとめ記事（game.watch）で言及済み。別掲不要。"
+    },
+    {
+      "id": "not-selected-032",
+      "category": "hobby",
+      "size": null,
+      "title": "ゼノブレイド ジェネシス 2027年",
+      "urls": [
+        "https://www.oricon.co.jp/news/2460215/full/"
+      ],
+      "selected": false,
+      "reason": "ゼノブレイドジェネシスは2026-06-16のニンダイまとめ（game.watch）で言及済み。別掲不要。"
+    },
+    {
+      "id": "not-selected-033",
+      "category": "hobby",
+      "size": null,
+      "title": "ステラーブレイド Switch 2（gamespark）",
+      "urls": [
+        "https://www.gamespark.jp/article/2026/06/10/167775.html"
+      ],
+      "selected": false,
+      "reason": "ステラーブレイドSwitch 2は2026-06-16（famitsu/77795）で掲載済み。同トピックの別URLのため非選出。"
+    },
+    {
+      "id": "not-selected-034",
+      "category": "hobby",
+      "size": null,
+      "title": "食べログカレー百名店2026（girlspremium.jp）",
+      "urls": [
+        "https://girlspremium.jp/articles/view/5105"
+      ],
+      "selected": false,
+      "reason": "2026-06-16に非選出として記録済みのURLのため除外リストに含まれる。"
+    },
+    {
+      "id": "not-selected-035",
+      "category": "hobby",
+      "size": null,
+      "title": "第2世代キーマカレートレンド（mantan-web）",
+      "urls": [
+        "https://mantan-web.jp/prtimes/article/20260520prt00m200000813a.html"
+      ],
+      "selected": false,
+      "reason": "2026-05-20付の記事で1ヶ月前の古い情報。今号ではCoCo壱番屋記事（hobby-005）を優先。"
+    },
+    {
+      "id": "not-selected-036",
+      "category": "hobby",
+      "size": null,
+      "title": "カレー大學解説会（prtimes 000000776）",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000776.000033279.html"
+      ],
+      "selected": false,
+      "reason": "カレー系記事はCoCo壱番屋（hobby-005）を優先。今号ホビー枠に収まらず非選出。"
+    }
+  ]
+}
