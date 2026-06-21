@@ -1,0 +1,316 @@
+{
+  "date": "2026-06-21",
+  "notion_page_id": "386a41a3-cf9b-814b-b8c3-fadc6141f58a",
+  "articles": [
+    {
+      "id": "2026-06-21-001",
+      "title": "Claude Fable 5・Mythos 5 — Anthropicの最強モデルが米政府の輸出規制で世界停止",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "6月9日リリースのFable 5・Mythos 5が6月12日に米輸出規制の対象となり、米国・カナダ・英国以外での利用が一時停止。Anthropicは声明で強く反発し、3週間以内の再開を目指すと発表。Claude Agent SDKの課金モデルも同時に一部凍結された。",
+      "source": "Anthropic Blog"
+    },
+    {
+      "id": "2026-06-21-002",
+      "title": "日銀が31年ぶりに1.0%利上げ断行——日経平均は史上最高値7万1250円に",
+      "url": "https://gentosha-go.com/articles/-/79534",
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "6月8日に2563円暴落した日経平均が、6月14日のイラン停戦合意・6月15〜16日の日銀1%利上げ決定を追い風に急騰。6月19日に史上最高値7万1250円を更新。31年ぶりの高水準金利は住宅ローン・企業債務に影響必至。",
+      "source": "幻冬舎ゴールドオンライン"
+    },
+    {
+      "id": "2026-06-21-003",
+      "title": "W杯2026 日本代表、チュニジアに4-0快勝——グループ首位でベスト16へ視界良好",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155351000",
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "6月21日（日本時間）のFIFAワールドカップ2026 グループD第2戦で日本がチュニジアに4-0大勝。鎌田大地が4分先制、上田綺世が2ゴール、伊東純也が追加点。第1戦オランダ戦2-2に続く好結果で首位に立ち、グループ突破に王手。",
+      "source": "NHK Web"
+    },
+    {
+      "id": "2026-06-21-004",
+      "title": "AIコーディングツール\"7強時代\"——Kiro・Devin Desktop・Copilot Max登場",
+      "url": "https://www.techtimes.com/articles/318546/20260617/aws-summit-new-york-2026-kiro-brings-aerospace-spec-standards-ai-coding.htm",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "AWS SummitでAmazonがKiroを発表（仕様書駆動型）。Cognition AIはDevin Desktopをリリース。GitHub Copilot Maxは月$99で無制限。Claude CodeとCursor/Windsurf/Clineを含む7製品が並立する群雄割拠の市場に。",
+      "source": "TechTimes"
+    },
+    {
+      "id": "2026-06-21-005",
+      "title": "Claude Design 大型アップデート——デザインシステム取り込みとCode双方向連携",
+      "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "AnthropicがClaude Designを刷新。Figmaトークン・Storybook CSFファイルのインポート対応、Claude Codeとの双方向コード同期（Code Round-trip）、トークン過剰消費問題の修正が一気に実装された。",
+      "source": "VentureBeat"
+    },
+    {
+      "id": "2026-06-21-006",
+      "title": "BTS WORLD TOUR釜山2日間完遂——デビュー13周年にサプライズ演出",
+      "url": "https://btsliveviewing.jp/in-busan/",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "6月13〜14日、BTS WORLD TOUR「PERMISSION TO DANCE ON STAGE - IN BUSAN」でデビュー13周年記念公演。全員参加で過去最大規模。新曲披露と軍白制服演出でSNS世界トレンド1位を記録。",
+      "source": "BTS Live Viewing Japan"
+    },
+    {
+      "id": "2026-06-21-007",
+      "title": "YOASOBI 4th EP 6/26発売+日本人初アジア10都市ドームツアー",
+      "url": "https://www.yoasobi-music.jp/live/54776",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "YOASOBIが6月26日に4th EP「夜に駆ける/星が瞬く夜に」をリリース。同時にアジア10都市ドームツアーを発表——日本人アーティスト初の規模。東京ドーム公演は8月に予定。",
+      "source": "YOASOBI Official"
+    },
+    {
+      "id": "2026-06-21-008",
+      "title": "米・イラン停戦覚書合意——ホルムズ海峡開放へ",
+      "url": "https://www.jiji.com/jc/article?k=2026061500135&g=int",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月14日、米・イランが停戦覚書に署名。ホルムズ海峡封鎖懸念が後退し、原油価格がWTI換算で1バレル72ドルに急落。日本の物流・エネルギー企業株が翌日大幅高。",
+      "source": "時事通信"
+    },
+    {
+      "id": "2026-06-21-009",
+      "title": "Nintendo Switch 2「Star Fox」6月25日発売——体験版好評",
+      "url": "https://www.famitsu.com/article/202606/76707",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "Nintendo Switch 2向け「Star Fox Zero: Reborn」が6月25日発売決定。公開中の体験版がeShopダウンロードランキング1位を獲得。ジャイロ操作とモーションコントロールを刷新、ファミ通レビュー36/40点。",
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-06-21-010",
+      "title": "Claude Agent SDK課金分離、施行当日に一時停止",
+      "url": "https://www.digitalapplied.com/blog/anthropic-claude-credit-overhaul-june-15-2026",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "6月15日施行予定のClaude Agent SDK新課金モデルが、輸出規制問題と重なり施行当日に緊急停止。再開時期未定。",
+      "source": "Digital Applied"
+    },
+    {
+      "id": "2026-06-21-011",
+      "title": "Gemini 3.5 Pro GA、時期不透明に",
+      "url": "https://www.techtimes.com/articles/317919/20260606/google-gemini-35-pro-nears-june-launch-2-million-token-context-deep-think-reasoning.htm",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "200万トークンコンテキスト・DeepThink推論搭載のGemini 3.5 ProはGA未発表のまま。競合ラッシュで発表タイミングを見計らっている模様。",
+      "source": "TechTimes"
+    },
+    {
+      "id": "2026-06-21-012",
+      "title": "アドソル日進、Claude Code全社導入を発表",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260618573599/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "東証プライム上場のITコンサル・アドソル日進が全社員へのClaude Code導入を発表。導入第1フェーズで開発生産性30%向上を目標。",
+      "source": "日経"
+    },
+    {
+      "id": "2026-06-21-013",
+      "title": "参院選 7月3日公示・20日投開票",
+      "url": "https://www.jimin.jp/news/information/210967.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "2026年参院選は7月3日公示、20日投開票に決定。経済政策・社会保障・エネルギー政策が争点の見通し。",
+      "source": "自民党"
+    },
+    {
+      "id": "2026-06-21-014",
+      "title": "骨太方針2026、7月閣議決定へ",
+      "url": "https://civic-ai.xyz/articles/honebuto-2026",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "政府の経済財政運営の指針「骨太方針2026」が7月上旬の閣議決定を目指す。AI活用・少子化対策・防衛費増額が柱。",
+      "source": "Civic AI"
+    },
+    {
+      "id": "2026-06-21-015",
+      "title": "知床観光船沈没事故 社長に禁錮5年の実刑判決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152141000",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "2022年知床観光船「KAZU I」沈没事故で、運航会社社長に禁錮5年の実刑判決。遺族・被害者家族へのケアも継続課題。",
+      "source": "NHK Web"
+    },
+    {
+      "id": "2026-06-21-016",
+      "title": "台風7号「メーカラー」発生——今週末に沖縄接近か",
+      "url": "https://tenki.jp/bousai/typhoon/2607/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "台風7号「メーカラー」がフィリピン東方で発生。今週末に沖縄・先島諸島への接近が予測されている。最新情報に注意。",
+      "source": "tenki.jp"
+    },
+    {
+      "id": "2026-06-21-017",
+      "title": "改正ドローン規制法が成立",
+      "url": "https://www.nikkei.com/article/DGXZQOUD161800W6A610C2000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "改正航空法（ドローン規制強化法）が成立。市街地での100g以上無人機の夜間飛行が原則禁止に。2026年9月施行。",
+      "source": "日経"
+    },
+    {
+      "id": "2026-06-21-018",
+      "title": "W杯 日本vsオランダ 2-2（第1戦）",
+      "url": "https://www.tv-tokyo.co.jp/sports/articles/2026/06/041999.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6月15日の第1戦でオランダと2-2ドロー。南野拓実・堂安律が得点。格上相手の勝点1で勢いを維持。",
+      "source": "テレビ東京スポーツ"
+    },
+    {
+      "id": "2026-06-21-019",
+      "title": "食料品消費税1%引き下げ案、与党内に浮上",
+      "url": "https://ebc.com/jp/forex/298829.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "参院選に向け、与党内で食料品消費税を10%→9%に引き下げる案が浮上。財務省は慎重姿勢。",
+      "source": "EBC"
+    },
+    {
+      "id": "2026-06-21-020",
+      "title": "SEVENTEEN V8、6月29日デビュー",
+      "url": "https://danmee.jp/knews/k-pop/seventeenv8-tpnews/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "SEVENTEENのユニット「V8」が6月29日デビュー。ビジュアル系ユニットとしてグループ最多ビュー数を早期記録。",
+      "source": "danmee"
+    },
+    {
+      "id": "2026-06-21-021",
+      "title": "SEVENTEEN全員再契約——PLEDISと5年延長",
+      "url": "https://www.wowkorea.jp/news/read/519282.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "SEVENTEENの全13名がPLEDIS Entertainmentと5年契約を延長。K-POP史上最大規模のグループ一括再契約として話題。",
+      "source": "Wow Korea"
+    },
+    {
+      "id": "2026-06-21-022",
+      "title": "aespa 日本1stミニアルバム「KISS&TELL」7/24発売",
+      "url": "https://aespa-official.jp/news/1st-minialbum-kissntell/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "aespaが日本1stミニアルバム「KISS&TELL」を7月24日にリリース。日本語オリジナル曲を含む全6曲収録。",
+      "source": "aespa Official Japan"
+    },
+    {
+      "id": "2026-06-21-023",
+      "title": "IVE 東京ドーム公演 6/24",
+      "url": "https://www.billboard-japan.com/d_news/detail/160481",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "IVEが6月24日に東京ドームで単独公演。チケット即完売・追加座席も完売と人気沸騰。初の東京ドームソロ公演。",
+      "source": "Billboard JAPAN"
+    },
+    {
+      "id": "2026-06-21-024",
+      "title": "NiziUドームツアー完走＋西野カナ復帰",
+      "url": "https://www.thefirsttimes.jp/report/0000828834/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "NiziUが国内4大ドームツアーを完走。西野カナが約4年ぶりのニューシングルをドーム公演でサプライズ発表し話題。",
+      "source": "THE FIRST TIMES"
+    },
+    {
+      "id": "2026-06-21-025",
+      "title": "TREASURE「MOVE」オリコン週間1位",
+      "url": "https://www.oricon.co.jp/news/2460334/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "TREASUREの日本4thシングル「MOVE」がオリコン週間シングルランキング1位を獲得。累計売上10万枚突破。",
+      "source": "オリコン"
+    },
+    {
+      "id": "2026-06-21-026",
+      "title": "ポケモンチャンピオンズ スマホ版、ファミ通評価8.5",
+      "url": "https://www.famitsu.com/article/202606/78636",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "Nintendo Switch 2向け「ポケモンチャンピオンズ」のスマホ版がリリース。ファミ通レビュー8.5点と高評価。バトルUI改善が好評。",
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-06-21-027",
+      "title": "Insta360 Luna Ultra 国内発売",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2117251.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "Insta360の360度カメラ最上位モデル「Luna Ultra」が日本国内で発売。8K 360度動画対応、価格は119,800円。",
+      "source": "デジカメ Watch"
+    },
+    {
+      "id": "2026-06-21-028",
+      "title": "食べログカレー百名店2026発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001033.000001455.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "食べログ「カレー百名店2026」が発表。スパイスカレー部門では大阪・東京の新規店が多数ランクイン。",
+      "source": "PR TIMES"
+    },
+    {
+      "id": "2026-06-21-s01",
+      "title": "KBSミュージックバンクがW杯中継で2週連続放送休止",
+      "url": "https://www.mainichikpop.com/comeback/3727/",
+      "category": "entertainment",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "KBS2「ミュージックバンク」がFIFAワールドカップ中継のため6月14日・21日と2週連続放送休止。K-POPファンから「カムバックスケジュールが読めない」と困惑の声。",
+      "source": "毎日韓流"
+    },
+    {
+      "id": "2026-06-21-s02",
+      "title": "AIコーディングツール「使い放題」の終焉",
+      "url": "https://wilico.co.jp/en/blog/end-of-flat-rate-ai-github-copilot-llm-billing-shift",
+      "category": "tech",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "GitHub Copilot・Cursor・Windsurf各社が相次いで「使い放題プラン廃止」を発表。LLMコスト増大を背景に業界全体が従量課金へ移行する構造変化が鮮明に。",
+      "source": "Wilico Blog"
+    },
+    {
+      "id": "2026-06-21-s03",
+      "title": "Noam Shazeer、GoogleからOpenAIへ電撃移籍",
+      "url": "https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html",
+      "category": "tech",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "GoogleのGeminiコリードでTransformer論文共著者のNoam Shazeerがわずか1年でOpenAIに移籍。AI業界の人材流動が加速する象徴的事件と注目されている。",
+      "source": "CNBC"
+    }
+  ]
+}
