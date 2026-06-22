@@ -1,0 +1,546 @@
+{
+  "date": "2026-06-22",
+  "notion_page_id": "387a41a3-cf9b-8110-b236-c0652bdf5973",
+  "articles": [
+    {
+      "id": "2026-06-22-001",
+      "title": "Angular 22 × TypeScript 7.0 RC — フロントエンドに重大アップデート到来",
+      "url": "https://blog.ninja-squad.com/2026/06/03/what-is-new-angular-22.0",
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "Angular 22でSignal Forms・httpResourceがStable化、OnPushが変更検知のデフォルトに。TypeScript 7.0 RCはGo製コンパイラで最大10倍高速化・並列型チェック対応。WebMCP（experimental）でAIエージェントがAngularアプリのToolsを直接呼び出し可能に。",
+      "source": "Ninja Squad Blog / TypeScript Blog"
+    },
+    {
+      "id": "2026-06-22-002",
+      "title": "GitHub Copilot Opus 4.6 (fast)、6月29日に全廃止 — 今週中に代替設定を",
+      "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast/",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "GitHub CopilotのChat・インライン編集・Agentモード・コード補完でClaude Opus 4.6 (fast)を6月29日に廃止。Enterpriseは管理者がモデルポリシーで代替モデルを有効化する必要あり。移行先はOpus 4.8またはSonnet 4.6推奨。",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "2026-06-22-003",
+      "title": "Claude Code v2.1.185 — 破壊的コマンドの自動ブロック & Fable 5停止継続",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "v2.1.183でgit reset --hard等の破壊的コマンドをauto modeで自動ブロック・terraform destroyも対象に。v2.1.185でAPI応答待機UXを改善（トリガー時間20秒に変更）。Claude Fable 5は6/22時点も停止継続中。",
+      "source": "Claude Code Docs"
+    },
+    {
+      "id": "2026-06-22-004",
+      "title": "GitHub Copilot デスクトップ版 GA",
+      "url": "https://github.blog/changelog/2026-06-17-github-copilot-app-generally-available/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "macOS/Windows/Linux向けに正式公開。複数リポジトリでの並列エージェント実行・Canvas共有・クラウドスケジューリングが利用可能に。",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "2026-06-22-005",
+      "title": "GPT-5.6、今週リリースの可能性",
+      "url": "https://perplexityaimagazine.com/ai-news/gpt-56-release-date-features-leaks-openai-2026/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Polymarketで6/22〜28ウィンドウに83%の確率でリリース予測。1.5Mトークンコンテキスト・Codex高速化が噂される。",
+      "source": "Perplexity AI Magazine"
+    },
+    {
+      "id": "2026-06-22-006",
+      "title": "GitHub Code Quality、7/20にGA",
+      "url": "https://github.blog/changelog/2026-06-16-github-code-quality-generally-available-july-20-2026/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "静的解析×Copilot統合製品が7/20に正式リリース。PR単位でのコード品質スコアリングと自動修正提案を提供。",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "2026-06-22-007",
+      "title": "CLAUDE.md活用でAIエージェントのトークン代を削減",
+      "url": "https://qiita.com/shinkai_/items/8f88307b7cb13b748e57",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "copilot-instructions.mdとの組み合わせ実践ガイド。不要なシステムプロンプト送信を削減するテクニック集。",
+      "source": "Qiita"
+    },
+    {
+      "id": "2026-06-22-008",
+      "title": "Vite 8 + Rolldown、本番ビルドが最大30倍高速化",
+      "url": "https://vite.dev/blog/announcing-vite8",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Rust製バンドラーRolldownでesbuild+Rollupの二重構成を統一。SPAビルド30秒→10秒以下を実現。フロントエンドスタックの刷新を促す重要リリース。",
+      "source": "Vite Blog"
+    },
+    {
+      "id": "2026-06-22-009",
+      "title": "GitHub Copilot Agent Finder 登場",
+      "url": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "自然言語でタスクを受け取りMCP・スキル・エージェントを自動検索してランク付けするAgent Finderが全プランで利用可能に。",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "2026-06-22-010",
+      "title": "Angular 22 OnPush/httpResource/WebMCP まとめ",
+      "url": "https://javascript-conference.com/blog/angular-22-new-features-onpush-resource-api/",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "Angular 22でOnPush変更検知がデフォルト化、httpResourceとresource()がStableに。WebMCP(navigator.modelContext経由)もexperimentalで追加。",
+      "source": "JavaScript Conference Blog"
+    },
+    {
+      "id": "2026-06-22-011",
+      "title": "Angular 22 実践ガイド：6つのゲームチェンジャー機能",
+      "url": "https://medium.com/@yberkayarda/angular-22-6-game-changing-features-you-need-to-know-c8f752e5c477",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "Selectorlessコンポーネント・Signal Forms・RouterLinkのbrowserUrl入力・@Serviceデコレータ等6大機能をコード例付きで解説。",
+      "source": "Medium"
+    },
+    {
+      "id": "2026-06-22-012",
+      "title": "Claude Code 5段階エージェントと/cdコマンド",
+      "url": "https://qiita.com/kai_kou/items/81cee59a85d82535e986",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "Claude Code v2.1.172でAgentツールが最大5段階ネストに対応。/cdコマンドでコンテキスト保持のままディレクトリ切り替え可能に。",
+      "source": "Qiita"
+    },
+    {
+      "id": "2026-06-22-013",
+      "title": "Claude Fable 5停止継続中（6/22時点）",
+      "url": "https://explainx.ai/blog/is-fable-5-back-2026",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "6/9一般公開→6/12米政府輸出規制で停止。6/21時点でも復旧未定。サブスク特典は6/22で終了しクレジット課金に。",
+      "source": "explainx.ai"
+    },
+    {
+      "id": "2026-06-22-014",
+      "title": "Gemini 3.5 Pro 詳細ガイド：2Mトークン・Deep Think",
+      "url": "https://codersera.com/blog/gemini-3-5-complete-guide-2026/",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "200万トークンコンテキスト・Deep Think推論モード搭載。GA間近（6月末予定）。入力$15/M・出力$60/M。",
+      "source": "Codersera"
+    },
+    {
+      "id": "2026-06-22-015",
+      "title": "W杯日本代表、6/25 vsスウェーデン戦 — グループ突破の条件を整理",
+      "url": "https://www.footballchannel.jp/2026/06/21/post924687/",
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "F組は日本・オランダが勝ち点4で並ぶ（得点差でオランダ1位・日本2位）。引き分け以上でグループ突破確定、勝利なら1位通過で有利なトーナメント枠へ。台風7号と日程が重なる可能性あり西日本の観戦環境に注意。",
+      "source": "フットボールチャンネル"
+    },
+    {
+      "id": "2026-06-22-016",
+      "title": "日銀1.0%利上げ × 住宅ローン — 変動金利は2026年10月に0.25%上昇へ",
+      "url": "https://mogecheck.jp/articles/show/pnl6ZzOV4BDR2k5Ra7PY",
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "変動金利は2026年10月に0.25%引き上げが最有力、返済額反映は2027年1月から。10年固定が3%超視野に。次回利上げは12月が有力視、2027年内にさらなる追加利上げも想定。",
+      "source": "モゲチェック"
+    },
+    {
+      "id": "2026-06-22-017",
+      "title": "台風7号「メーカラー」、25〜27日に沖縄・九州直撃か — 非常に強い勢力で接近",
+      "url": "https://weathernews.jp/news/202606/220011/",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月22日15時現在、中心気圧935hPa・最大風速50m/s。25日に沖縄先島諸島、27日に九州へ接近予想。梅雨前線との相互作用で西日本・東日本でも大雨リスク。W杯最終節（6/25）の国内観戦にも影響の可能性。",
+      "source": "ウェザーニュース"
+    },
+    {
+      "id": "2026-06-22-018",
+      "title": "参院選 7/3公示・7/20投開票",
+      "url": "https://www.nikkei.com/article/DGXZQOUA220I60S5A620C2000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "高市政権の経済政策・物価対策・安保が主な争点。与野党の候補者調整が本格化している。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-22-019",
+      "title": "高市首相、中傷動画問題で秘書陳述書を国会提出へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156071000",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "参院本会議で関与を否定、近日中に秘書陳述書を国会提出する意向。与野党から説明責任を求める声が高まっている。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-22-020",
+      "title": "米イラン停戦後、核問題は60日間の追加交渉へ",
+      "url": "https://plastic-pallet.co.jp/naphtha-turning-point-us-iran-mou-202606/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6/19ジュネーブで署名の米イランMOUはホルムズ海峡再開を定めたが核問題は先送り。機雷除去に40〜50日必要で原油市場の完全正常化にはなお時間を要する。",
+      "source": "市場解説"
+    },
+    {
+      "id": "2026-06-22-021",
+      "title": "皇室典範改正案、6月下旬に閣議決定へ",
+      "url": "https://www.nikkei.com/article/DGXZQOUA094XF0Z00C26A6000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "女性皇族の婚姻後残留・旧宮家男子の養子縁組を軸に超党派で進行中。今国会会期中に閣議決定の方向で調整。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-22-022",
+      "title": "W杯F組グループ状況詳細",
+      "url": "https://news.yahoo.co.jp/articles/eba88b9bfa20e6d4d8f328a4343866978db5e429",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "第2節終了後F組はオランダ（勝点4・得点7）が1位、日本（勝点4・得点6）が2位。スウェーデン3位・チュニジア4位。",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "id": "2026-06-22-023",
+      "title": "日銀利上げで長期金利上昇、住宅ローン固定金利は過去最大級の上昇局面",
+      "url": "https://mogecheck.jp/articles/show/51rzNy7XEJ5o4mQ6ZkVv",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "10年固定の店頭金利が3%超視野に。変動との差が縮まりつつあり借り換えシミュレーションを行うタイミングが来ている。",
+      "source": "モゲチェック"
+    },
+    {
+      "id": "2026-06-22-024",
+      "title": "日銀、6月会合で政策金利を1.0%に引き上げ決定 31年ぶりの高水準",
+      "url": "https://www.dlri.co.jp/report/macro/623090.html",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "1995年以来31年ぶりの高水準。物価高・円安リスクが判断材料。次回利上げは12月が有力視。",
+      "source": "第一生命経済研究所"
+    },
+    {
+      "id": "2026-06-22-025",
+      "title": "日経平均7万1250円、今週（6/22〜）の見通し",
+      "url": "https://diamond.jp/zai/articles/-/1069026",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "6/19終値7万1250円で7日続伸・最高値更新。今週予想レンジ6万8800〜7万7500円。米イラン協議の不透明感がリスク要因。",
+      "source": "ダイヤモンドZAI"
+    },
+    {
+      "id": "2026-06-22-026",
+      "title": "台湾・頼清徳総統が中国に武力攻撃の放棄を要求",
+      "url": "https://www.jiji.com/jc/archives?g=int_archive_0",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "中国は反発を強めており台湾海峡を巡る緊張が続いている。日本を含む国際社会は対話による平和的解決を求めている。",
+      "source": "時事通信"
+    },
+    {
+      "id": "2026-06-22-s01",
+      "title": "欧州で最高気温42度——6月の熱波は「異常」から「日常」になりつつある",
+      "url": "https://weathernews.jp/news/202606/210051/",
+      "category": "news",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "スペイン・フランスで6月下旬に最高気温42度。欧州各地で熱中症死者が報告。日本でも台風が強勢力で接近中。気候変動による極端な気象現象の頻度増加が現実に。",
+      "source": "ウェザーニュース"
+    },
+    {
+      "id": "2026-06-22-027",
+      "title": "IVE 東京ドーム公演 6月24日（水）— 伊藤潤二コラボ主題歌も解禁",
+      "url": "https://thetv.jp/news/detail/1342273/",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "ワールドツアー「SHOW WHAT I AM」日本最終公演。京セラドーム大阪2日間で7万9,000人を動員後の東京公演で即完売。JAPAN 4th EP「LUCID DREAM」タイトル曲「JIGSAW」が伊藤潤二コラボドラマ主題歌に決定。",
+      "source": "WEBザテレビジョン"
+    },
+    {
+      "id": "2026-06-22-028",
+      "title": "ドラマ「VIVANT」続編、7月26日放送開始 — 全主要キャスト続投で2クール連続放送",
+      "url": "https://natalie.mu/eiga/news/676304",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "TBS日曜劇場「VIVANT」続編が7/26（日）よる9時より2クール連続放送開始。堺雅人・阿部寛・二宮和也・二階堂ふみ・松坂桃李ら全員続投。新キャストに宮下今日子とタイ人俳優OHMが参加。今夏最大の注目作。",
+      "source": "映画ナタリー"
+    },
+    {
+      "id": "2026-06-22-029",
+      "title": "EVAN（元ENHYPENヒスン）、本日ソロデビュー",
+      "url": "https://news.yahoo.co.jp/articles/9de789a568c885244f026b347723d2d9b60a3516",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "「RIDE OR DIE」リリース。作詞・作曲・ビジュアル全般に自ら参加したオルタナロック路線でソロアーティストとしてスタート。",
+      "source": "スポーツ報知 / Yahoo!ニュース"
+    },
+    {
+      "id": "2026-06-22-030",
+      "title": "YOASOBI 4th EP「THE BOOK for,」6/26発売",
+      "url": "https://www.hmv.co.jp/news/article/260514112/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "Overwatchコラボ新曲「オリオン」含む全14曲。シリーズ最終作。限定バインダー盤6,000円、シリアルナンバー付きドームツアー先行抽選券入り。",
+      "source": "HMV"
+    },
+    {
+      "id": "2026-06-22-031",
+      "title": "SEVENTEEN V8、6/29デビュー",
+      "url": "https://fan.books.rakuten.co.jp/articles/8000",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "THE 8×VERNONのユニット。ファレル・ウィリアムス参加のハイパーポップ路線で全8曲入り1stミニアルバム「V8」をリリース。",
+      "source": "推し楽（楽天）"
+    },
+    {
+      "id": "2026-06-22-032",
+      "title": "BLEACH 千年血戦篇 最終クール「禍進譚」、7/25放送開始",
+      "url": "https://www.animatetimes.com/news/details.php?id=1782019035",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "テレ東系土曜23時より放送開始。第41話先行カットも解禁。完結へ向かう最終章。",
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-06-22-033",
+      "title": "IVE JAPAN 4th EP「LUCID DREAM」伊藤潤二コラボ詳細",
+      "url": "https://e.usen.com/news/news-release/ivejapan-4th-ep-jigsaw-24---japan-4th-eplucid-dream.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "タイトル曲「JIGSAW」がテレ東系ドラマ24「ストレンジ」主題歌に。伊藤潤二描き下ろしジャケ写も解禁。",
+      "source": "encore（アンコール）"
+    },
+    {
+      "id": "2026-06-22-034",
+      "title": "V8 (SEVENTEEN) DJパーティーで新作先行公開",
+      "url": "https://danmee.jp/knews/k-pop/seventeenv8-tpnews-2/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "リリース前にDJパーティー形式のプレリスニングイベントを開催。ハイパーポップ路線を前面に打ち出し。",
+      "source": "danmee"
+    },
+    {
+      "id": "2026-06-22-035",
+      "title": "YOASOBI×Overwatch コラボ楽曲「オリオン」発表",
+      "url": "https://www.broadwayworld.com/bwwmusic/article/YOASOBI-Confirm-Global-Collaboration-with-OVERWATCH-20260528",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "東京マップを舞台にゲンジ・ハンゾー・桐子の関係を星座オリオンになぞらえて制作。6/30よりゲーム内コラボコンテンツも解放予定。",
+      "source": "BroadwayWorld"
+    },
+    {
+      "id": "2026-06-22-036",
+      "title": "映画「キングダム 魂の決戦」7月17日公開",
+      "url": "https://www.sonypictures.jp/corp/press/2026-03-12",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "第5弾で「合従軍編」を映像化。山﨑賢人・吉沢亮・橋本環奈ら続投。シリーズ累計動員1700万人超の大型作品。",
+      "source": "ソニー・ピクチャーズ"
+    },
+    {
+      "id": "2026-06-22-037",
+      "title": "実写映画「ブルーロック」8/7公開",
+      "url": "https://animatetimes.com/news/details.php?id=1770454466",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "高橋文哉主演、主題歌はAdoの新曲「モンストロ」。W杯イヤーに合わせた公開で注目度大。",
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-06-22-038",
+      "title": "2026夏アニメ一覧 — 43作品が7月より順次放送開始",
+      "url": "https://www.oricon.co.jp/anime/2026_summer/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "「これ描いて死ね」「無職転生V」「コードギアス 奪還のロゼ」TV版など注目作が揃う夏アニメシーズン。",
+      "source": "ORICON NEWS"
+    },
+    {
+      "id": "2026-06-22-039",
+      "title": "YOASOBI「UNDEAD」MV、1億回再生を突破",
+      "url": "https://animeanime.jp/article/2026/06/18/100151.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "「〈物語〉シリーズ オフ＆モンスターシーズン」主題歌が1億再生達成。「THE BOOK for,」にも収録予定。",
+      "source": "アニメ！アニメ！"
+    },
+    {
+      "id": "2026-06-22-040",
+      "title": "SixTONES松村北斗、地上波ドラマ単独初主演 7/11スタート",
+      "url": "https://natalie.mu/eiga/news/676984",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "日テレ「告白－25年目の秘密－」で単独初主演。ヒロインは岡崎紗絵。土曜よる9時放送開始。",
+      "source": "映画ナタリー"
+    },
+    {
+      "id": "2026-06-22-s02",
+      "title": "GTO、28年ぶりに帰ってきた——反町隆史52歳の「鬼塚」が現代教育現場へ",
+      "url": "https://navicon.jp/news/97199/",
+      "category": "entertainment",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "1998年放送の伝説ドラマが7/20に復活（カンテレ・フジ系月曜22時）。52歳の鬼塚英吉がデジタル管理とコンプライアンスで縛られた現代の学校に赴任するという設定。平成コンテンツIPの再評価という文脈でも注目。",
+      "source": "navicon"
+    },
+    {
+      "id": "2026-06-22-041",
+      "title": "Nintendo Switch 2『Star Fox』、いよいよ6月25日（木）発売",
+      "url": "https://www.famitsu.com/article/202606/78931",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "パッケージ6,480円・DL5,480円税込。スターフォックス64のステージ構成を踏襲しつつ現代グラフィックで大幅強化。体験版がeShopランキング1位、ファミ通レビュー36/40点と期待値も高い。",
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-06-22-042",
+      "title": "ゼルダの伝説 時のオカリナ Switch2フルリメイク、2026年内発売決定",
+      "url": "https://game.watch.impress.co.jp/docs/news/2115794.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "6/9のNintendo Directで発表。N64の名作が現代グラフィックへ完全刷新。具体的な発売日は未定。",
+      "source": "GAME Watch"
+    },
+    {
+      "id": "2026-06-22-043",
+      "title": "ソニーα7R VI発売（6/5〜）",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2108287.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "αシリーズ初の積層型CMOSセンサー搭載。6,680万画素・秒30コマ・4K120fps対応。新エンジン「BIONZ XR2」搭載。価格約74万円。",
+      "source": "デジカメ Watch"
+    },
+    {
+      "id": "2026-06-22-044",
+      "title": "キヤノンEOS R6 V、6月下旬発売",
+      "url": "https://prtimes.jp/main/html/rd/p/000001198.000013980.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "7K/4K120fps対応、内蔵ファン搭載の動画特化フルサイズ機。EOS Vシリーズ初のフルサイズ。ボディ363,000円（税込）。",
+      "source": "キヤノン（PRTimes）"
+    },
+    {
+      "id": "2026-06-22-045",
+      "title": "食べログ カレー百名店2026発表",
+      "url": "https://corporate.kakaku.com/news/20260609",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "東京・東日本・西日本から計300店選出。東京初選出に「SPICECURRY KERAKU」（品川）、大阪「ドラマチックカリー ゴールデン中崎」「コイチカレー」など。",
+      "source": "カカクコム"
+    },
+    {
+      "id": "2026-06-22-046",
+      "title": "『Star Fox』体験版が配信スタート",
+      "url": "https://www.famitsu.com/article/202606/77821",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "6/9のNintendo Direct終了後に体験版配信開始。序盤ステージを無料プレイ可能。",
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-06-22-047",
+      "title": "Borderlands 4、6/25に大型DLC「バウンティパック3」配信",
+      "url": "https://borderlands.2k.com/ja-JP/borderlands-4/news/post-launch-roadmap/",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "有料DLC「バウンティパック3」（$5.99）と無料エンドゲームレイドが追加。クロスプラットフォームセーブにも対応。",
+      "source": "Borderlands公式"
+    },
+    {
+      "id": "2026-06-22-048",
+      "title": "パナソニックLUMIX L10 6/18発売",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2109434.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "GH7と同等センサー搭載のライカレンズ一体型カメラ。LEICA DC VARIO-SUMMILUX 24-75mm F1.7-2.8搭載。約21万円。",
+      "source": "デジカメ Watch"
+    },
+    {
+      "id": "2026-06-22-049",
+      "title": "Insta360×ライカ Luna Ultra（重複・前号掲載済み）",
+      "url": "https://satowith.com/article/insta360-luna-ultra-specs.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "前号（2026-06-21）で掲載済みのため除外。",
+      "source": "satowith"
+    },
+    {
+      "id": "2026-06-22-050",
+      "title": "食べログ カレー百名店2026 WEST初選出店",
+      "url": "https://award.tabelog.com/hyakumeiten/curry_west",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "大阪「ドラマチックカリー ゴールデン中崎」「コイチカレー」、京都「スパイスカレー キテレツ」など西日本新鋭店が躍進。",
+      "source": "食べログ"
+    },
+    {
+      "id": "2026-06-22-051",
+      "title": "Switch2向け6/25発売タイトル一覧",
+      "url": "https://www.famitsu.com/schedule/switch2",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "Star Fox以外に「ヨッシーとフカシギの図鑑」「Forza Horizon 6」など計5作品が6/25同日発売。",
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-06-22-s03",
+      "title": "「第2世代キーマカレー」を2026年最大のカレー現象と発表",
+      "url": "https://note.com/currysoken/n/n0850bad2da92",
+      "category": "hobby",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "カレー総合研究所が1,000件超の業界ヒアリングをもとに認定。スパイスの複雑な重ね使いと食材の粒感を残す調理法が特徴。7/18に調理学特化コースも開催予定。",
+      "source": "カレー大學（note）"
+    }
+  ]
+}
