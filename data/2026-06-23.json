@@ -1,0 +1,367 @@
+{
+  "date": "2026-06-23",
+  "notion_page_id": "388a41a3-cf9b-8123-8d78-c4844cd2f002",
+  "articles": [
+    {
+      "id": "2026-06-23-001",
+      "title": "GPT-5.6今週末リリース直前 × Claude Fable 5復旧 — AI競争「空白と再起」の転換点",
+      "url": "https://www.zaikei.co.jp/article/20260622/858192.html",
+      "url_sub": [
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news057.html",
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/"
+      ],
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "GPT-5.6は6/25前後リリースが有力（市場予測90%）、150万トークンコンテキスト・推論強化。Claude Fable 5は国籍ベースのアクセス制御付きで部分復旧も完全復旧は7月以降か（市場予測57%）。TypeScript 7.0 RCはGo製ネイティブコンパイラで最大10倍高速化。",
+      "source": "財経新聞 / ITmedia @IT / Microsoft TypeScript Blog"
+    },
+    {
+      "id": "2026-06-23-002",
+      "title": "Cloudflare、Vite開発元VoidZeroを買収 — フロントエンドツールチェーンの主権が動く",
+      "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-acquires-voidzero-to-build-the-future-of-the-ai-native-web/",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "CloudflareがVite・Vitest・Rolldown・Oxc開発元VoidZeroを買収。100万ドルのエコシステムファンドでOSS継続。AngularがViteに依存しているため帰属変更によるエコシステムへの影響を継続ウォッチが必要。",
+      "source": "Cloudflare Press Release"
+    },
+    {
+      "id": "2026-06-23-003",
+      "title": "GitHub Copilot、AI Credits従量課金に完全移行 — 二重課金の落とし穴に注意",
+      "url": "https://dev.classmethod.jp/articles/shoma-github-copilot-pricing-major-revision-2026-june-1-premium-requests-to-github-ai-credits/",
+      "url_sub": ["https://uravation.com/media/github-copilot-ai-credits-billing-change-june-2026/"],
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "6/1からGitHub CopilotがAI Creditsトークン消費制へ移行（1 AI Credit = 0.01 USD）。Code ReviewがAI Credits＋GitHub Actions minutesの二重消費になる点が落とし穴。チーム・企業プラン管理者は設定確認が必須。",
+      "source": "DevelopersIO / Uravation"
+    },
+    {
+      "id": "2026-06-23-004",
+      "title": "Angular Signal Forms vs Reactive Forms — 2026年の選択基準",
+      "url": "https://medium.com/@Angular_With_Awais/angular-signal-forms-vs-reactive-forms-which-should-you-use-in-2026-8ea7e79198e4",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Signal Formsは型安全・ControlValueAccessor不要・Zoneless相性◎。新規プロジェクトはSignal Forms推奨、既存プロジェクトは段階的移行が現実的という選択基準が整理された比較記事。",
+      "source": "Medium"
+    },
+    {
+      "id": "2026-06-23-005",
+      "title": "Angular v22公式ブログ — Signal-First・Zonelessデフォルト化まとめ",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Angular Blogでv22の全変更点を公式解説。Signal Forms安定化・OnPushデフォルト・セレクタレスコンポーネント・Resource API安定化を網羅。LTS期間は2028年5月まで。",
+      "source": "Angular Blog"
+    },
+    {
+      "id": "2026-06-23-006",
+      "title": "国産LLM「LLM-jp-4」公開、日本語MT-BenchでGPT-4oを超えた",
+      "url": "https://gihyo.jp/article/2026/04/llm-jp-4",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "NII主導・2600名参加コミュニティが12兆トークン学習のLLM-jp-4をOSS公開。8B密モデルと32B MoEの2種で日本語MT-Bench 7.82（32B）を達成しGPT-4oを超えた。",
+      "source": "gihyo.jp"
+    },
+    {
+      "id": "2026-06-23-007",
+      "title": "Angular 22詳細解説 — angulararchitects.io",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "Angular 22の主要新機能を企業視点で詳解。前号の大記事と重複するため非選出。"
+    },
+    {
+      "id": "2026-06-23-008",
+      "title": "OpenAI GPT-5.5 Instant公開",
+      "url": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "GPT-5.6リリース直前の補完モデル。今号のGPT-5.6大記事で文脈をカバー済みのため非選出。"
+    },
+    {
+      "id": "2026-06-23-009",
+      "title": "Signal-First Architecture論文（arXiv）",
+      "url": "https://arxiv.org/pdf/2506.13815",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "学術論文としては興味深いがAngular Signal Formsの実務記事（004）を優先。tech枠が充実のため非選出。"
+    },
+    {
+      "id": "2026-06-23-n01",
+      "title": "台風8号「ヒーゴス」発生 — 台風7号と「ダブル台風」で今週末の列島が危ない",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/06/23/39424.html",
+      "url_sub": ["https://www.fukuishimbun.co.jp/articles/-/2630560"],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "6/23にマリアナ諸島の熱帯低気圧が台風8号に発達しダブル台風に。台風7号（925hPa/50m/s）は25〜27日に沖縄、28日頃関東東方へ。梅雨前線との相互作用で広域大雨リスク。W杯スウェーデン戦・DELTARUNE/Star Fox発売と重なる最悪のタイミング。",
+      "source": "tenki.jp / 福井新聞"
+    },
+    {
+      "id": "2026-06-23-n02",
+      "title": "日経平均2565円安・歴代5位の下落 × ドル円161.93円 — 「歓喜の後の現実」",
+      "url": "https://www.nikkei.com/article/DGXZQOFL2357U0T20C26A6000000/",
+      "url_sub": ["https://www.oanda.jp/lab-education/market_news/2026_06_23_usdjpy/"],
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6/23、日経平均が前日比2565円安（歴代5位）の6万9788円で9日ぶり大幅反落。ドル円は一時161.93円まで円安が進み財務相が「断固たる措置」と介入警戒シグナル。8日続伸・8000円超上昇の反動。",
+      "source": "日経 / OANDA"
+    },
+    {
+      "id": "2026-06-23-n03",
+      "title": "参院選2026公示 — 選挙戦スタート（7/9投開票）",
+      "url": "https://news.web.nhk/senkyo/schedule/focus/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "参院選が6/22に公示され7/9投開票に向けた選挙戦が開始。物価高対策・食料品消費税ゼロ・憲法改正が争点。高市政権初の全国選挙で「強い支持」が初の3割割れと報じられている。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-23-n04",
+      "title": "W杯日本代表・スウェーデン戦は6/26午前8時 — 引き分け以上でグループ突破確定",
+      "url": "https://web.gekisaka.jp/news/japan/national/detail/?453874-453874-fl=",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "グループF最終節（現地6/25、日本時間6/26午前8時）で日本はスウェーデンと対戦。引き分け以上で突破確定。勝利なら1位通過。台風7号の接近と重なるが国内観戦者は事前準備を。",
+      "source": "ゲキサカ"
+    },
+    {
+      "id": "2026-06-23-n05",
+      "title": "大谷翔平17号 & オールスター両リーグ投票首位（231万票）",
+      "url": "https://times.abema.tv/articles/-/10236609",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "2026年シーズン17号本塁打。投手として防御率0.74・6勝2敗と投打ともに絶好調。第2子誕生後も不振なしでオールスターファン投票は231万票で両リーグ首位を維持。",
+      "source": "ABEMA TIMES"
+    },
+    {
+      "id": "2026-06-23-n06",
+      "title": "W杯各国グループステージ最新結果",
+      "url": "https://www.olympics.com/ja/news/fifa-world-cup-2026-schedule-results-scores-standings-list-japan",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "フランスが連勝、ハーランドのノルウェーも勝利。日本代表記事（n04）でコンテキストをカバー済みのため非選出。"
+    },
+    {
+      "id": "2026-06-23-n07",
+      "title": "米・イラン戦争終結覚書（首相官邸）",
+      "url": "https://www.kantei.go.jp/jp/105/statement/2026/0615kaiken.html",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "6/15署名の件は過去号で詳報済み。今号では非選出。"
+    },
+    {
+      "id": "2026-06-23-n08",
+      "title": "NYダウ5万1712ドル続伸",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_06_23_us30/",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "国内市場の大幅下落（n02）と逆行する米市場の動向として興味深いが今号ニュース枠が充実のため非選出。"
+    },
+    {
+      "id": "2026-06-23-n09",
+      "title": "日本経済見通し（大和総研6/23）",
+      "url": "https://www.dir.co.jp/report/research/economics/outlook/20260623_025859.html",
+      "category": "news",
+      "size": "小",
+      "selected": false,
+      "summary": "詳細な経済見通しとして参照価値はあるが今号ニュース枠が充実のため非選出。"
+    },
+    {
+      "id": "2026-06-23-e01",
+      "title": "映画『Michael/マイケル』世界興収9.3億ドル・音楽伝記映画の歴代世界記録を更新",
+      "url": "https://eiga.com/news/20260615/18/",
+      "category": "entertainment",
+      "size": "大",
+      "selected": true,
+      "summary": "6/22時点で世界興収9.3億ドル（ボヘミアン・ラプソディを超え歴代音楽伝記映画世界記録更新）、日本国内2週連続1位・27億円突破。AI/CGによる死後アーティスト復活映画がエンタメIPの在り方を問う生きた事例に。",
+      "source": "映画.com"
+    },
+    {
+      "id": "2026-06-23-e02",
+      "title": "aespa 2ndフルアルバム「LEMONADE」ミリオン達成 & 米Billboard 200 TOP10入り",
+      "url": "https://www.rbbtoday.com/article/2026/06/11/249193.html",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "Circle累計103万枚超でグループ通算8作目のミリオン達成。米Billboard 200で9位に初登場し通算3作目のTOP10入り。7/24に日本初ミニアルバム「KISS N TELL」リリースも控えグローバル快進撃が続く。",
+      "source": "RBB TODAY"
+    },
+    {
+      "id": "2026-06-23-e03",
+      "title": "無職転生Ⅲ 7/5放送開始 — OP大原ゆい子×ED中島美嘉の豪華音楽陣",
+      "url": "https://animatetimes.com/news/details.php?id=1779180528",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "2026年夏アニメ最注目作が7/5（日）スタート。制作スタジオバインド、監督渋谷亮介。OP「決意の唄」大原ゆい子、ED「祈り、終われば」中島美嘉と豪華。第1・2話初回連続放送も決定。",
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-06-23-e04",
+      "title": "Stray Kids 明日6/24「RUN IT」配信 & ワールドツアー発表",
+      "url": "https://daebak.tokyo/2026/06/22/stray-kids-run-it-teaser/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "2026年初カムバック先行曲が明日配信。8月7日新AL「THIS & THAT」。前回56公演35地域の規模から日本ドーム公演への期待も高まる。",
+      "source": "デバク"
+    },
+    {
+      "id": "2026-06-23-e05",
+      "title": "SEVENTEEN V8、6/29デビュー — ファレル・ウィリアムス参加のハイパーポップ路線",
+      "url": "https://mdpr.jp/news/detail/4789814",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "The 8×VERNONユニットが6/29にデビューミニアルバム発売。ファレル・ウィリアムスプロデュースで「浪費した青春」テーマ。7/11〜12単独ライブも決定。",
+      "source": "モデルプレス"
+    },
+    {
+      "id": "2026-06-23-e06",
+      "title": "IVE 東京ドーム本日開催！「LUCID DREAM」世界初フルパフォーマンスへ",
+      "url": "https://natalie.mu/music/news/668082",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "ワールドツアー「SHOW WHAT I AM」日本最終公演が本日東京ドームで開幕。JAPAN 4th EP「LUCID DREAM」タイトル曲JIGSAW（伊藤潤二コラボ）の世界初フルパフォーマンスも期待。",
+      "source": "音楽ナタリー"
+    },
+    {
+      "id": "2026-06-23-e07",
+      "title": "NewJeans、コペンハーゲンでプリプロ中 — 復帰への静かなカウントダウン",
+      "url": "https://news.yahoo.co.jp/articles/07015b599013c2a28ab9c260cfc514963d3f748b",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "ヘリン・ヘイン・ハニがデンマーク・コペンハーゲンのスタジオで目撃。ADORが「新たな音楽的方向性のプリプロ」と公式確認。カムバック日程は未発表だが復帰への動きが加速。",
+      "source": "Yahoo!ニュース（日刊スポーツ）"
+    },
+    {
+      "id": "2026-06-23-e08",
+      "title": "木村拓哉新アルバム「Checkpoint」8/12発売 — さんま・ワンオクTaka・奥田民生参加",
+      "url": "https://natalie.mu/music/news/676952",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "国民的スターの新アルバムとして話題性はあるが今号エンタメ枠が充実のため次号以降で検討。"
+    },
+    {
+      "id": "2026-06-23-e09",
+      "title": "夏アニメ2026全45作品",
+      "url": "https://www.crank-in.net/drama/summer2026",
+      "category": "entertainment",
+      "size": "小",
+      "selected": false,
+      "summary": "同様のURL（oricon）が過去号で非選出として記録済み。重複のため非選出。"
+    },
+    {
+      "id": "2026-06-23-h01",
+      "title": "6/25はゲーム祭り前夜 — DELTARUNE Ch5 × Switch 2『Star Fox』同日リリース予習",
+      "url": "https://gamewith.jp/gamedb/4352/articles/58903",
+      "url_sub": ["https://note.com/pokobara/n/n50f3c24478b3"],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "DELTARUNE Ch5（6/25無料配信）はToby Fox自ら「全体ストーリーにしっくり収まる」和風新ステージ。Switch2版Star Foxは体験版で「Switch 2の性能を初めて実感」「4vs4オンラインが新たな魅力」と絶賛。台風直撃と重なる可能性で自宅ゲーム週末に。",
+      "source": "GameWith / note"
+    },
+    {
+      "id": "2026-06-23-h02",
+      "title": "カメラ3機種「発売直後レビュー」出揃う — α7R VI × EOS R6 V × Luna Ultra",
+      "url": "https://dc.watch.impress.co.jp/docs/review/newproduct/2118277.html",
+      "url_sub": [
+        "https://jp.pronews.com/review/202605132227750114.html",
+        "https://www.itmedia.co.jp/pcuser/articles/2606/15/news091.html"
+      ],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "ソニーα7R VI（74万円）は「一切の妥協なし」の高画素×動画新境地。キヤノンEOS R6 V（363,000円）は7Kオープンゲート動画×内蔵ファンでVlogプロユース最強候補。Insta360 Luna Ultra（119,800円）は「片手8Kジンバルカメラ」として動画制作の常識を変えうると絶賛。",
+      "source": "デジカメWatch / PRONEWS / ITmedia"
+    },
+    {
+      "id": "2026-06-23-h03",
+      "title": "ゼルダの伝説 時のオカリナ Switch2リメイク — 任天堂公式ページ公開",
+      "url": "https://www.nintendo.com/jp/games/switch2/aaqja/index.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "1998年N64版から28年ぶりの完全リメイクが2026年内発売予定。任天堂公式ページで現代グラフィックへの刷新が確認できる公式映像も公開。",
+      "source": "任天堂公式"
+    },
+    {
+      "id": "2026-06-23-h04",
+      "title": "カレー・オブ・ザ・イヤー2026受賞発表",
+      "url": "https://note.com/currysoken/n/n9108dc77ca77",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "カレー大學が2026年の年間最優秀カレーを発表。第2世代キーマカレー台頭を背景に、エンターテインメント性・地域振興・国際化を実現した店舗・商品を選出。",
+      "source": "note（カレー大學）"
+    },
+    {
+      "id": "2026-06-23-h05",
+      "title": "α7R VI海外主要レビューまとめ",
+      "url": "https://digicame-info.com/2026/06/7r-vi-8.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "h02のカメラ3機種レビュー中記事でα7R VIをカバー済みのため非選出。"
+    },
+    {
+      "id": "2026-06-23-h06",
+      "title": "DELTARUNE Ch5詳細（ファミ通77914）",
+      "url": "https://www.famitsu.com/article/202606/77914",
+      "category": "hobby",
+      "size": "小",
+      "selected": false,
+      "summary": "除外URLリスト（2026-06-18掲載済み）のため非選出。"
+    },
+    {
+      "id": "2026-06-23-s01",
+      "title": "参院選公示 × AI輸出規制 — 「テクノロジーが政治になる週」を俯瞰する",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news057.html",
+      "category": "tech",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "高市政権下初の全国選挙が公示された翌日、Claude Fable 5の輸出規制問題が継続中。AIを国家安全保障の文脈で規制管理しようとする動きと民主主義的プロセスが同じ週に起きている。エンジニアとして無関心でいられない技術×政治の交差点。",
+      "source": "ITmedia @IT"
+    },
+    {
+      "id": "2026-06-23-s02",
+      "title": "映画『Michael』世界記録 × GTO28年ぶり復活 — 「死後」に成長するIPとは何か",
+      "url": "https://eiga.com/news/20260615/18/",
+      "category": "entertainment",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "死後17年のMJと離れて28年のGTOが同じ週にトレンドになる。感情的記憶と結びついたIPは適切なフォーマットを得ることで「死後」も成長し続ける。エンタメ業界的にIPの「時間軸設計」を考えるきっかけとして。",
+      "source": "映画.com"
+    },
+    {
+      "id": "2026-06-23-s03",
+      "title": "6/25の「嵐の休日」 — 台風直撃 × W杯決戦 × ゲーム同日発売というカオス",
+      "url": "https://gamewith.jp/gamedb/4352/articles/58903",
+      "category": "hobby",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "6/25に台風7号接近・W杯スウェーデン戦（日本時間6/26）・DELTARUNE Ch5配信・Star Fox発売が重なる。4つの「嵐」の中で人間がどれを選ぶかという問いは、並列した緊張と期待を同時に持つ人間らしさの鏡かもしれない。",
+      "source": "GameWith"
+    }
+  ]
+}
