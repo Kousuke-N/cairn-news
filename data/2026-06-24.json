@@ -1,0 +1,348 @@
+{
+  "date": "2026-06-24",
+  "notion_page_id": "389a41a3-cf9b-81f6-940d-d4926b948084",
+  "articles": [
+    {
+      "id": "2026-06-24-001",
+      "title": "Claude 6/23大規模障害 × GPT-5.6リリース直前 × Fable 5規制継続 — AI可用性「三重苦」の転換点",
+      "url": "https://aitoolsrecap.com/Blog/claude-down-outage-june-23-2026",
+      "url_sub": [
+        "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm",
+        "https://admina.moneyforward.com/jp/blog/claude-fable-5-enterprise-guide"
+      ],
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "昨日6/23 14:19 UTCにClaude全サービスが大規模障害（8,000件超報告、17:44 BSTに解消）。GPT-5.6は6月下旬リリース濃厚（主任科学者「意味のある進化」発言）だが確率は流動的。Claude Fable 5は輸出規制継続で企業向け代替プラン（Opus 4.8/Sonnet 4.6）が急務。AI可用性リスクが業務インシデントとして定着した週。",
+      "source": "AIToolsRecap / TechTimes / Admina by Money Forward"
+    },
+    {
+      "id": "2026-06-24-002",
+      "title": "Angular 22 Signal Forms × Zoneless変更検知 — 2026年フロントエンドの最終選択",
+      "url": "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+      "url_sub": [
+        "https://dev.to/mhmoud_ashour_5547515422e/angular-signals-zoneless-change-detection-the-biggest-performance-upgrade-in-2026-3ipa",
+        "https://frontendminds.com/blog/angular-latest-version-2026"
+      ],
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "Angular 22でSignal Formsが安定版に到達。form()がSignalを受け取りFieldTreeを返す新API設計、minDate/maxDateバリデータ追加、blur時debounceオプション新設。Zoneless変更検知＋OnPushデフォルト化でバンドルサイズ削減・CD実行回数激減。新規プロジェクトはVitest標準テストランナーへ。Angular 19はEOLで22へのアップグレードが急務。",
+      "source": "JavaScript in Plain English / DEV Community / FrontendMinds"
+    },
+    {
+      "id": "2026-06-24-003",
+      "title": "TypeScript 7.0 RC詳解 — GoコンパイラでGA目前、strictがデフォルト化",
+      "url": "https://tomaszs2.medium.com/whats-new-in-typescript-7-0-rc-b6ffecbfa3f2",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "TS 7.0 RCはコアコンパイラをGoで再実装し約10倍高速化。target:es5やmoduleResolution:nodeがハードエラー化、strictがデフォルトtrue。Angular 22はTS 5.9対応済みで7.x対応パッチは7月のAngular 22.xマイナーに予定。GA版は約1ヶ月後。RC環境の今のうちに移行評価を。",
+      "source": "Medium（Tom Smykowski）"
+    },
+    {
+      "id": "2026-06-24-004",
+      "title": "Claude Agent SDK課金変更 × Apple iOS 27統合 — Anthropic製品が2方向に拡大",
+      "url": "https://www.mindstudio.ai/blog/code-with-claude-2026-new-agent-features",
+      "url_sub": [
+        "https://aitoolsrecap.com/Blog/apple-wwdc-2026-xcode-27-claude-gemini-foundation-models-developers"
+      ],
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "6/15からClaude Agent SDKがサブスクリプション上限と切り離され専用クレジットプール運用開始（Pro: $20相当/月）。一方WWDC 2026でApple Foundation ModelsにClaudeが統合され、iOS/macOS/watchOS 27対応SPMモジュールでプロバイダー切り替えがコード変更なしに可能に。Fable 5障害中でも別ルートでの拡大が止まらない。",
+      "source": "MindStudio / AIToolsRecap"
+    },
+    {
+      "id": "2026-06-24-005",
+      "title": "GitHub Copilot AIクレジット制 — ヘビーユーザーは初日予算82%消費の実態",
+      "url": "https://push-based.io/article/github-copilot-ai-credits-the-billing-change-developers-should-notice",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "6/1移行後のAIクレジット制でヘビーユーザーが月間予算の82%を初日に消費した事例が報告。Business/Enterprise向けには9月まで移行促進クレジット（3,000〜7,000/ユーザー/月）があるが終了後の利用パターン見直しが急務。Code Review二重消費問題も継続注意。",
+      "source": "Push Based"
+    },
+    {
+      "id": "2026-06-24-006",
+      "title": "Node.js、年1回リリースモデルへ移行 — Node 27から全リリースがLTS対象に",
+      "url": "https://www.infoq.com/news/2026/06/nodejs-release-changes/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Node 27（2026年10月）から年1回メジャーリリース体制に。偶数/奇数区別を廃止し全リリースをLTS化。6ヶ月Alphaチャンネル導入。Node 26が旧モデル最後。",
+      "source": "InfoQ"
+    },
+    {
+      "id": "2026-06-24-007",
+      "title": "Anthropic、IPO向けS-1を機密ファイリング — 評価額$965B・10月Nasdaq上場目標",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-confidential-1-joins-161008569.html",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "6/1にSEC向け機密S-1提出。評価額約$965B・収益ランレート$47B。Claude障害・Fable 5停止中のIPO準備は投資家の懸念事項に。10月Nasdaq上場目標。",
+      "source": "Yahoo Finance"
+    },
+    {
+      "id": "2026-06-24-008",
+      "title": "Anthropicエンジニアリング責任者「Claude Codeで職場が孤独になった」告白",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-engineering-head-says-claude-143749312.html",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Fiona Fung氏がLenny's Podcastで「Claude Codeとの作業増加で職場が孤独になってきた」と発言。社内でハッカソン・ペアプロランチを導入。AI導入加速に伴う技術者レイオフ約12万人とも重なるモラール問題が表面化。",
+      "source": "Fortune / Yahoo Finance"
+    },
+    {
+      "id": "2026-06-24-009",
+      "title": "2026年フロントエンド総括 — React 19/Vite 7/Tailwind v4がベースライン化",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "2026年フロントエンドはReact 19・Next.js 16・Vite 7・Tailwind CSS v4が標準化。SWC/TurbopackのRustベースツールが本番採用拡大。Signalsベースのリアクティビティとserver-firstアーキテクチャが定着。",
+      "source": "TAOLIS"
+    },
+    {
+      "id": "2026-06-24-n01",
+      "title": "台風7号沖縄直撃前日 × W杯久保建英欠場確定 — 「嵐の前日」6/24の全貌",
+      "url": "https://ryukyushimpo.jp/news/entry-5331247.html",
+      "url_sub": [
+        "https://weathernews.jp/news/202606/240021/",
+        "https://www.soccer-king.jp/news/japan/national/20260624/2176150.html"
+      ],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "強い台風7号（メーカラー、970hPa/35m/s）は6/25に宮古島南東50km、6/26に奄美西南西110kmまで接近。台風8号とのダブル台風で九州〜関東でも大雨リスク。W杯日本代表・久保建英は左膝負傷でスウェーデン戦（6/26午前8時）欠場確定、ナッシュビルでリハビリ継続。引き分け以上でグループ突破確定。",
+      "source": "琉球新報 / ウェザーニュース / サッカーキング"
+    },
+    {
+      "id": "2026-06-24-n02",
+      "title": "日経平均続落613円安 × 孫正義「あと15年」— 株安でも攻め続けるSBG",
+      "url": "https://finance.yahoo.co.jp/news/detail/8ef7456b464f61da26f857a17244a9576bfe2271",
+      "url_sub": [
+        "https://www.hokkaido-np.co.jp/article/1328879/",
+        "https://www.nikkei.com/article/DGXZQOUC228510S6A620C2000000/"
+      ],
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6/24終値69,174円（前日比613円安）、前日2,565円安から続落でAI・半導体高値警戒局面継続。同日SBG株主総会で孫正義会長（68）が引退計画を撤回し「あと10〜15年頑張る」と宣言。東電への出資意欲・AI/データセンター投資継続を強調するも株価は一段安。",
+      "source": "株探ニュース / 北海道新聞 / 日経"
+    },
+    {
+      "id": "2026-06-24-n03",
+      "title": "大谷翔平、試合開始15秒で今季17号先頭打者HR — 連敗ストップに貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156851000",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6/23のツインズ戦で試合開始わずか15秒・2球目をライトスタンドへ。今季17号先頭打者HR。ドジャース連敗ストップに直結。投打ともに絶好調でオールスター両リーグ首位（231万票）を維持。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-24-n04",
+      "title": "W杯スウェーデン戦前日 — 引き分け以上で突破確定、久保欠場の戦術影響は",
+      "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/when-match-japan-sweden-worldcup-2026/bltd435e29772e75893",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "日本対スウェーデンは日本時間6/26午前8時（AT&Tスタジアム）。勝ち点4の日本は引き分け以上で突破確定。久保建英欠場（n01）を踏まえた戦術変更に注目。勝利なら1位通過で有利なトーナメント枠へ。",
+      "source": "Goal.com 日本"
+    },
+    {
+      "id": "2026-06-24-n05",
+      "title": "国旗損壊処罰法案 — 自民・維新・国民民主・参政の4党が共同提出",
+      "url": "https://www.jcp.or.jp/akahata/aik26/2026-06-23/2026062301_03_0.php",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "国旗損壊罪創設法案を4党共同提出（違反→2年以下拘禁or20万円以下罰金）。共産党は憲法19条違反として廃案要求。参院選公示翌日提出のタイミングも波紋を呼ぶ。",
+      "source": "しんぶん赤旗"
+    },
+    {
+      "id": "2026-06-24-n06",
+      "title": "米議会、超党派で住宅供給法案可決 — 数十年ぶりの大規模住宅対策",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "「21世紀ROAD住宅法」が上院85-5で超党派通過。住宅供給拡大・規制緩和・機関投資家の住宅購入制限を包含。トランプ大統領が6/24（米国時間）署名予定。",
+      "source": "NPR"
+    },
+    {
+      "id": "2026-06-24-e01",
+      "title": "Stray Kids「RUN IT」本日配信スタート × ワールドツアー「RUN IT」発表",
+      "url": "https://randomviews.net/archives/43551/",
+      "url_sub": [
+        "https://velleity-note.blog/news-music-culture/korea-stray-kids-run-it-world-tour-2026/"
+      ],
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "2026年初カムバック先行曲「RUN IT」が本日13時（KST）配信開始。3RACHAプロデュース。8月7日新AL「THIS & THAT」発売。新ワールドツアー「RUN IT」は7/25ソウルKSPOドーム開幕、東京・名古屋・大阪・福岡での日本公演も予定。入隊前最後の大型活動として注目最高潮。",
+      "source": "randomviews.net / Velleity Note"
+    },
+    {
+      "id": "2026-06-24-e02",
+      "title": "aespa 日本1stミニアルバム「KISS N TELL」7/24発売 — 2年ぶり日本カムバック",
+      "url": "https://aespa-official.jp/news/1st-minialbum-kissntell/",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "全6曲すべて日本オリジナル楽曲。アニメ「キルアオ」OP「ATTITUDE」、ドラマ「金髪とおにぎり」テーマ「In Halo」収録。3形態、6/30まで早期予約特典あり。6/28「テレ塔ミュージックフェスティバル2026 Summer」出演も決定。約2年ぶりの日本本格活動。",
+      "source": "aespa JAPAN OFFICIAL WEBSITE"
+    },
+    {
+      "id": "2026-06-24-e03",
+      "title": "SEVENTEEN V8 6/29デビュー直前 — Pharrell Williams×Mechatok参加の全8曲",
+      "url": "https://danmee.jp/knews/k-pop/seventeenv8-tpnews/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "THE 8×VERNONユニット。タイトル曲「singasong」はドイツ人DJ Mechatok×ハイパーポップ路線。Pharrell Williams・KIRARA・Dylan Brady（100 gecs）参加の全8曲。タワレコ・HMV特典も展開。",
+      "source": "DANMEE"
+    },
+    {
+      "id": "2026-06-24-e04",
+      "title": "IVE 東京ドーム追加公演本日開催 — 「LUCID DREAM」世界初フルパフォーマンスへ",
+      "url": "https://e.usen.com/news/news-event/ive2ive-world-tour-show-what-i-am-in-japan-japan-4th-eplucid-dream624.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "ワールドツアー「SHOW WHAT I AM」日本最終公演が本日6/24東京ドームで開幕。日本4th EP「LUCID DREAM」タイトル曲「JIGSAW」（伊藤潤二コラボ）の世界初フルパフォーマンスが期待される。前回2公演で95,800人動員。",
+      "source": "USENアンコール"
+    },
+    {
+      "id": "2026-06-24-e05",
+      "title": "無職転生Ⅲ 追加声優に日笠陽子 — 放送11日前、第1・2話連続放送確定",
+      "url": "https://www.animatetimes.com/news/details.php?id=1781925277",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "追加声優に日笠陽子・小西克幸・横尾まりが参加と発表。OP大原ゆい子・ED中島美嘉。7/5（日）TOKYO MX/BS11で初回第1・2話連続放送。原作13巻〜新エピソード。",
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-06-24-e06",
+      "title": "BLEACH 千年血戦篇「禍進譚」7/25最終クール — メインPV解禁で盛り上がり最高潮",
+      "url": "https://animatetimes.com/news/details.php?id=1782019035",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "シリーズ累計1億3,000万部の完結編「禍進譚」が7/25テレ東系放送開始。ABEMAは7/26から毎週日曜配信。メインPVが新たに解禁され夏アニメ期待度で最高水準の注目度。",
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-06-24-e07",
+      "title": "映画ランキング「黒牢城」2位デビュー × 「Michael」2週連続首位",
+      "url": "https://pixiin.com/ranking-japan-boxoffice2026/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "6/19〜21週末、直木賞ミステリー「黒牢城」（米澤穂信原作）が動員19.6万人で初登場2位。「Michael/マイケル」は2週連続首位・累計27億円超。舘ひろし主演「免許返納！？」が3位。",
+      "source": "映画ドラマ評価ピクシーン"
+    },
+    {
+      "id": "2026-06-24-e08",
+      "title": "NewJeans復帰動向 — ADORがコペンハーゲンプリプロ認め、4人体制で模索中",
+      "url": "https://news.yahoo.co.jp/articles/1ac4dd3837b47ad5198c13733aaaec99d0e00748",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "ADORがコペンハーゲンでのスタジオ活動を「プリプロの一環」と公式認定。Hanni・Haerin・HyeinはADOR復帰確認、Minjiは交渉継続中、Danieは2025年12月に契約終了。4人体制での復帰を模索。",
+      "source": "Yahoo!ニュース（聯合ニュース）"
+    },
+    {
+      "id": "2026-06-24-h01",
+      "title": "DELTARUNE チャプター5 × Star Fox Switch2 — 明日同日リリース「伝説の前夜」",
+      "url": "https://news.denfaminicogamer.jp/news/2606098z",
+      "url_sub": [
+        "https://nintendoeverything.com/star-fox-nintendo-switch-2-reviews-roundup/",
+        "https://www.famitsu.com/article/202606/78931"
+      ],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "明日6/25、DELTARUNE Ch5（無料DLC）とStar Fox Switch2が同日リリース。DELTARUNEは和風の世界が舞台でToby Fox「ストーリー全体にとてもしっくり収まる」発言。Ch6も順調でCh7着手も視野。Star Fox海外レビューは「Switch2の性能を存分に活かした映像美」「原作とは別物の名作の予感」と絶賛。台風直撃と重なり自宅プレイ週末が確定的。",
+      "source": "電ファミニコゲーマー / Nintendo Everything / ファミ通"
+    },
+    {
+      "id": "2026-06-24-h02",
+      "title": "食べログカレー百名店2026 — スパイスカレー新店26店が初選出、多様化加速",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2115875.html",
+      "url_sub": [
+        "https://girlspremium.jp/articles/view/5105"
+      ],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "6/9発表のカレー百名店2026でTOKYO・EAST・WESTから各100店選出。初選出26店はスパイスカレー×異ジャンル融合系が目立つ。東京「創作カレーMANOS」（あいがけスパイス）、大阪「ドラマチックカリー ゴールデン中崎」（スパイス×とんかつ）、京都「スパイスカレー キテレツ」（九州ランカ系）など個性派が選出。",
+      "source": "グルメWatch / Girl's Premium"
+    },
+    {
+      "id": "2026-06-24-h03",
+      "title": "ゼルダ 時のオカリナ Switch2リメイク — 28年ぶり最新情報まとめ",
+      "url": "https://news.denfaminicogamer.jp/news/2606094n",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "Nintendo Direct 2026.6.9発表。N64版から28年ぶりのフルリメイク。「時を超えて、蘇る」コピーでティザー映像のみ公開。発売日・価格・ゲームシステム詳細は未発表で今後の情報開示待ち。",
+      "source": "電ファミニコゲーマー"
+    },
+    {
+      "id": "2026-06-24-h04",
+      "title": "カメラグランプリ2026 — 大賞α7 V × 企画賞Sigma BF・富士フイルムX half",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2113634.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "贈呈式（6/1）。大賞ソニーα7 V、レンズ賞FE 50-150mm F2 GMでソニー2冠。企画賞はSigma BF（アルミ削り出しユニボディ）と富士フイルムX halfが共同受賞。ユーザー投票はキヤノンEOS R6 Mark III。",
+      "source": "デジカメWatch"
+    },
+    {
+      "id": "2026-06-24-h05",
+      "title": "α7R VI実写レビュー — 「風景の王」がついに動体撮影にも本格対応",
+      "url": "https://mirrorless-camera.info/review/sony-review/55908.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "6680万画素積層型CMOSで高解像と動体性能を両立。ISO 3200で優れたノイズ耐性、ISO 32000でも実用的。「RシリーズがついにA9系の動体性能を実現」と高評価。実売約74万円。",
+      "source": "ミラーレスカメラ情報"
+    },
+    {
+      "id": "2026-06-24-s01",
+      "title": "孫正義「あと15年」× Claude Code「孤独」告白 — AIが人間の「働く時間」の地図を描き直す",
+      "url": "https://www.hokkaido-np.co.jp/article/1328879/",
+      "url_sub": [
+        "https://finance.yahoo.com/technology/ai/articles/anthropic-engineering-head-says-claude-143749312.html"
+      ],
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "68歳で引退計画を撤回した孫正義とClaude Codeで「職場が孤独になった」と告白したAnthropicエンジニアリング責任者。AIを武器に戦う経営者と、AIと働く現場エンジニアが同じ週に「時間の変容」を口にした。同じAIが二つの違う時間感覚を生み出している2026年。",
+      "source": "北海道新聞 / Yahoo Finance"
+    },
+    {
+      "id": "2026-06-24-s02",
+      "title": "台風進路「70%の確率」× LLMの不確実性 — 人間はいつから「確率」で未来を語るようになったか",
+      "url": "https://weathernews.jp/news/202606/240021/",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "台風上陸「70%」、GPT-5.6リリース「78%」、Claude Fable 5完全復旧「57%」。今週のニュースは確率だらけ。気象予報が「降水確率」を日常化させるまで10年かかった。AIが「確率的推論の生き物」である今、確率で未来を語る能力が現代の情報リテラシーの核心かもしれない。",
+      "source": "ウェザーニュース"
+    },
+    {
+      "id": "2026-06-24-s03",
+      "title": "食べログカレー百名店2026 × スパイスカレーの「第3世代」 — 「レシピ」の呪縛を超えた料理の現在",
+      "url": "https://girlspremium.jp/articles/view/5105",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "百名店初選出にスパイス×とんかつ・スパイス×九州ランカ系など「スパイスを使った何か」が急増。第1世代（インド料理正統）、第2世代（大阪式スープカレー/南インド）を経た第3世代は「スパイスはツールだ」と宣言し既存のカレー定義を解体している。料理の自由化は常にレシピという権威への反抗から始まる。",
+      "source": "Girl's Premium"
+    }
+  ]
+}
