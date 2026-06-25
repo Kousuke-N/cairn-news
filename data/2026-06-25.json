@@ -1,0 +1,346 @@
+{
+  "date": "2026-06-25",
+  "notion_page_id": "38aa41a3-cf9b-8122-9dc5-f52d95eb7410",
+  "articles": [
+    {
+      "id": "2026-06-25-001",
+      "title": "AnthropicがSlack専用AIエージェント「Claude Tag」発表 — 社内では65%のコード変更をClaudeが処理",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "AnthropicはSlack上でAIエージェントとして動作する「Claude Tag」を2026年6月23日に発表。Enterprise/TeamプランのSlackワークスペースで@Claudeとタグ付けするだけで起動。全社員が同一Claudeアイデンティティでタスクを引き継ぎ可能。社内では65%のコード変更をClaude Tagが処理済み。",
+      "source": "Anthropic"
+    },
+    {
+      "id": "2026-06-25-002",
+      "title": "Angular 22.0.2 × AI Agent Skills — Signal Forms安定・OnPushデフォルト・AIツール連携公式化",
+      "url": "https://frontendminds.com/blog/angular-latest-version-2026",
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "Angular 22.0.2リリース。Signal Formsが安定版・OnPushがデフォルト変更検知・TypeScript 6必須化のほか、新たにAngular Agent Skillsが追加。Claude CodeやGitHub CopilotがAngularの専門知識をリアルタイム取得可能になり、AIツール連携が公式サポートされた。",
+      "source": "FrontendMinds"
+    },
+    {
+      "id": "2026-06-25-n01",
+      "title": "W杯日本 vs スウェーデン 本日深夜キックオフ × 台風7号沖縄最接近 — 嵐の中の決戦",
+      "url": "https://news.yahoo.co.jp/articles/0db884f6854b82bb566d56fbf742efa0645f49cf",
+      "url_sub": [
+        "https://tenki.jp/forecaster/tanaka_masashi/2026/06/25/39467.html",
+        "https://news.yahoo.co.jp/articles/7d87d539a13f19c2ef2d3116ba103913cddf244c"
+      ],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "日本対スウェーデン（日本時間26日午前8時、AT&Tスタジアム）。引き分け以上でGL突破確定。同日台風7号が宮古島南東110kmを北東へ進行（985hPa）、26日沖縄本島、27日以降西日本〜東日本の太平洋側にも大雨リスク。日経は前日比+2679円の大幅反発で市場も嵐前の動き。",
+      "source": "Yahoo!ニュース / tenki.jp"
+    },
+    {
+      "id": "2026-06-25-003",
+      "title": "AnthropicがAlibaba傘下QwenによるClaude大規模蒸留攻撃を米上院に告発",
+      "url": "https://cybersecuritynews.com/anthropic-accuses-alibaba/",
+      "url_sub": [
+        "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-alibaba-distillation-campaign.html",
+        "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html"
+      ],
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "AnthropicはAlibaba傘下Qwen AIラボが4/22〜6/5に約2.5万不正アカウントで2880万回Claudeとやり取りし「adversarial distillation」攻撃を行ったと米上院銀行委員会に告発。Claudeのエージェント推論能力を大規模抽出した過去最大のAI知財侵害事件。",
+      "source": "CyberSecurity News / Bloomberg / CNBC"
+    },
+    {
+      "id": "2026-06-25-004",
+      "title": "React CompilerのRust移植がマージ — AI生成12.3万行・最大10倍高速化",
+      "url": "https://github.com/react/react/pull/36173",
+      "url_sub": [
+        "https://news.ycombinator.com/item?id=48473662"
+      ],
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "MetaがReact CompilerのTypeScript→Rust移植PR（#36173）を435コミット・1725テスト全通過でマージ。コードの主体はAI生成。コア変換ロジックで最大10倍、Babelプラグインとして3倍の速度向上。Babel/OXC/SWCインテグレーション同梱。",
+      "source": "GitHub (react/react PR #36173)"
+    },
+    {
+      "id": "2026-06-25-005",
+      "title": "Next.js 16.2 AI対応：AGENTS.md自動生成・dev起動87%高速化・ブラウザエラーのターミナル転送",
+      "url": "https://nextjs.org/blog/next-16-2-ai",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "Next.js 16.2がAIエージェント前提の開発体験へ転換。AGENTS.mdデフォルト生成・ブラウザエラーのターミナル転送・実験的CLIでReact DevToolsのコンポーネントツリー公開。dev起動87%高速化、エージェントのNext.js eval通過率100%。",
+      "source": "Next.js Blog"
+    },
+    {
+      "id": "2026-06-25-n02",
+      "title": "日経平均 前日比+2679円の7万1854円 — 米マイクロン好決算でAI半導体株が急反発",
+      "url": "https://www.nikkei.com/article/DGXZQOFL250M70V20C26A6000000/",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月25日の東京株式市場で日経平均が前日比+2679円（午前終値）で7万1854円を記録。米マイクロン好決算によるナスダック上昇を好感し、アドバンテスト・東京エレクトロン・キオクシアなどAI半導体関連株が急伸。前日613円安からの大幅反発。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-25-n03",
+      "title": "参院選 7月3日公示・20日投開票に閣議決定 — 消費税・安保が争点",
+      "url": "https://www.jimin.jp/news/information/210967.html",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "第28回参院選を7月3日公示・20日投開票とする日程が閣議決定。消費税・社会保障・財政政策・安全保障が主要争点。自民党は全国幹事長会議で臨戦態勢確認。事実上の選挙戦がスタート。",
+      "source": "自由民主党"
+    },
+    {
+      "id": "2026-06-25-e01",
+      "title": "SEVENTEEN V8「singasong」6月29日デビュー直前 — Pharrell Williams参加・DJパーティー型プレリス開催",
+      "url": "https://www.rbbtoday.com/article/2026/06/16/249405.html",
+      "url_sub": [
+        "https://danmee.jp/knews/k-pop/seventeenv8-tpnews-2/"
+      ],
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "SEVENTEENのディエイト＆バーノン新ユニットV8が6月29日デビュー。タイトル曲「singasong」はドイツDJ Mechatokとのハイパーポップ。Pharrell Williams×Bumzuが手がける「Girlsnboys」など全8曲。DJパーティー型の異色プレリスニングイベントも話題に。",
+      "source": "RBB TODAY / DANMEE"
+    },
+    {
+      "id": "2026-06-25-e02",
+      "title": "Stray Kids「RUN IT」米国iTunes 1位獲得 — リリース翌日に史上初の米チャート首位",
+      "url": "https://www.rbbtoday.com/article/2026/06/25/249842.html",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "Stray Kidsが6月24日リリースの新曲「RUN IT」が史上初めて米国iTunes曲チャート1位を獲得。3RACHAプロデュースのブラス×マーチングドラムトラック。8月7日発売新AL「THIS & THAT」先行曲。ワールドツアー「RUN IT」の具体日程も近日発表予定。",
+      "source": "RBB TODAY"
+    },
+    {
+      "id": "2026-06-25-h01",
+      "title": "DELTARUNE Chapter 5「Festival Day」本日リリース — 花屋のダークワールドを舞台にした祭りの章",
+      "url": "https://www.famitsu.com/article/202606/79277",
+      "url_sub": [
+        "https://deltarune.fandom.com/wiki/Chapter_5"
+      ],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "DELTARUNE Chapter 5「Festival Day」が6月24日に全プラットフォーム同時リリース（有料版無料アップデート）。舞台はアズゴアの花屋から生まれたダークワールド「フラワーキング」。お祭りをテーマにChapter 4の暗いトーンから転換。Chapter 6も順調とToby Fox。",
+      "source": "ファミ通.com / Deltarune Wiki"
+    },
+    {
+      "id": "2026-06-25-006",
+      "title": "SakanaAI「Sakana Fugu」一般提供開始 — Fable 5と肩を並べるSWE-Bench 73.7",
+      "url": "https://gigazine.net/gsc_news/en/20260622-sakana-fugu-multi-agent-system-ai/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "東京のSakana AIがマルチエージェントAI基盤「Sakana Fugu」を正式リリース。Fugu UltraはSWE-Bench Proで73.7を記録しClaude Fable 5・GPT-5.5と同等以上を主張。7Bパラメータの指揮者モデルが最適なサブエージェントを自動選択。",
+      "source": "GIGAZINE"
+    },
+    {
+      "id": "2026-06-25-007",
+      "title": "PLaMo 3.0 Prime正式リリース — 政府採用・256Kコンテキスト・入力60円/100万トークン",
+      "url": "https://www.preferred.jp/ja/news/pr20260622",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Preferred Networksの完全国産LLM「PLaMo 3.0 Prime」が正式リリース。Reasoning/Non-Reasoning 2系統・256Kコンテキスト。デジタル庁「源内」採用済み。API料金は入力60円/100万トークン。",
+      "source": "Preferred Networks"
+    },
+    {
+      "id": "2026-06-25-008",
+      "title": "GPT-5.6 リリース6月内確率が83%→18%に急落 — 7月以降ずれ込みが濃厚",
+      "url": "https://www.techtimes.com/articles/318799/20260621/gpt-56-launch-window-starts-monday-alignment-fix-15m-token-context-inside.htm",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "GPT-5.6の6月内リリース確率がPolymarketで83%→18%に急落。1.5Mトークンコンテキスト・アライメント修正が期待されるが7月以降ずれ込み濃厚。OpenAI公式発表は未だなし。",
+      "source": "TechTimes"
+    },
+    {
+      "id": "2026-06-25-n04",
+      "title": "大谷翔平 今季8勝目 — 6回2/3・8奪三振・打でも2安打1打点",
+      "url": "https://www.baseballchannel.jp/mlb/271017/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6/25ツインズ戦で大谷翔平が今季8勝目（6回2/3・89球・8K）。2安打1打点でチームの4-3勝利にも貢献。打率.293・本塁打17本・OPS .966（ナ・リーグ1位）でオールスター選出ほぼ確定。",
+      "source": "ベースボールチャンネル"
+    },
+    {
+      "id": "2026-06-25-n05",
+      "title": "米・イラン 停戦60日延長と核協議開始の覚書案で合意",
+      "url": "https://www.jetro.go.jp/biznews/2026/06/aeb4bed01a4ce739.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "米・イランが停戦60日延長・核協議開始のMOU案で合意。ホルムズ海峡の自由航行確保・段階的制裁緩和を盛り込む。高濃縮ウラン処理は継続交渉。日本のエネルギー安保に直結する交渉前進。",
+      "source": "ジェトロ ビジネス短信"
+    },
+    {
+      "id": "2026-06-25-n06",
+      "title": "副首都法案 自民党合同会議で了承 — 首都機能バックアップを法制化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157951000",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "高市内閣推進の副首都関連法案が自民党合同会議で了承。大規模災害・有事時の行政機能継続のため副首都の役割を法律で定める方向。住民投票規定を修正して折り合い。候補地は今後の議論。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-25-n07",
+      "title": "政府 2040年までに官民370兆円投資の成長戦略 — AI・半導体など17分野",
+      "url": "https://news.yahoo.co.jp/articles/081ddab99936da80ba01db58e4a683639185c092",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "政府が「日本成長戦略」でAI・半導体・造船・量子・創薬など17の戦略分野への官民合計370兆円超の投資計画を固めた。民間資金を呼び込む仕組み作りが課題。今夏策定予定。",
+      "source": "Yahoo!ニュース（共同通信）"
+    },
+    {
+      "id": "2026-06-25-e03",
+      "title": "BLEACH 千年血戦篇「禍進譚」7/25放送開始 — OP jo0ji・ED 9Lana・メインビジュアル解禁",
+      "url": "https://mantan-web.jp/article/20260621dog00m200015000a.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "BLEACH最終クール「禍進譚」が7/25テレ東系放送開始。OP「I-BULL」（jo0ji）、ED「螺旋」（9Lana）。メインビジュアル解禁。7/4から過去クールベストエピ3週連続放送。配信は7/26から毎週日曜12時。",
+      "source": "MANTANWEB"
+    },
+    {
+      "id": "2026-06-25-e04",
+      "title": "無職転生III 7月5日放送開始 — OP大原ゆい子・ED中島美嘉、原作13巻〜",
+      "url": "https://game.watch.impress.co.jp/docs/news/2097168.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "「無職転生III〜異世界行ったら本気だす〜」が7/5よりTOKYO MX・BS11ほかで放送開始。OP大原ゆい子「決意の唄」、ED中島美嘉「祈り、終われば」。原作13巻からの物語。ABEMA同時配信。",
+      "source": "GAME Watch"
+    },
+    {
+      "id": "2026-06-25-e05",
+      "title": "aespa「LEMONADE」グローバルK-チャート3冠 — 通算8作目のミリオンセラー達成",
+      "url": "https://www.rbbtoday.com/article/2026/06/11/249193.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "aespaの2ndフルアルバム「LEMONADE」がグローバルK-チャートで日/週/月間1位を独占。Circle chart 103.7万枚突破で通算8作目のミリオンセラー。米Billboard 200は9位、Spotify自己最高50位。",
+      "source": "RBB TODAY"
+    },
+    {
+      "id": "2026-06-25-e06",
+      "title": "2026夏ドラマ本格始動 — VIVANT続編・GTO復活・伊藤潤二原作「ストレンジ」など",
+      "url": "https://www.oricon.co.jp/drama/2026_summer/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "7月期ドラマに堺雅人主演「VIVANT」続編、28年ぶり「GTO」復活、伊藤潤二原作「ストレンジ」、SixTONES松村北斗主演「告白」など。6/25から先行放送スタートし夏ドラマシーズンが本格始動。",
+      "source": "ORICON NEWS"
+    },
+    {
+      "id": "2026-06-25-e07",
+      "title": "IVE 東京ドーム6/24公演成功 — 「LUCID DREAM」世界初フルパフォーマンス実現",
+      "url": "https://ive-official.jp/mob/news/newsShw.php?site=DIVE&cd=OF10390",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "IVEのワールドツアー「SHOW WHAT I AM」東京ドーム公演が6/24に成功。日本4th EP「LUCID DREAM」（伊藤潤二コラボ「JIGSAW」）を世界初フルパフォーマンス。オリコン週間アルバム3作目の1位達成。",
+      "source": "IVE JAPAN OFFICIAL"
+    },
+    {
+      "id": "2026-06-25-e08",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL 7/7放送 — サイエンスSARU制作・キャスト未公表のまま",
+      "url": "https://www.cinematoday.jp/news/N0154746",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "新作TVアニメ「攻殻機動隊 THE GHOST IN THE SHELL」が7/7カンテレ・フジ系で放送開始。サイエンスSARU制作・円城塔脚本。放送3週間前でもキャスト未公表という異例の展開。Prime Video最速配信。",
+      "source": "シネマトゥデイ"
+    },
+    {
+      "id": "2026-06-25-h02",
+      "title": "Star Fox Switch2 本日発売 — メタスコア81、「スターフォックス64の正統進化」と高評価",
+      "url": "https://news.denfaminicogamer.jp/news/2606254a",
+      "url_sub": [
+        "https://dengekionline.com/article/202606/78840",
+        "https://www.famitsu.com/article/202606/78816"
+      ],
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "Star Fox Switch2が6/25発売。Metacritic平均81点。4vs4オンラインドッグファイト追加、グラフィック刷新。「Switch2の性能を存分に活かした映像美」「スターフォックス64の正統進化」と高評価。6,480円/5,480円（DL）。",
+      "source": "電ファミ / 電撃 / ファミ通"
+    },
+    {
+      "id": "2026-06-25-h03",
+      "title": "ゼルダ 時のオカリナ Switch2リメイク 2026年内発売確定 — 28年ぶりのフルリメイク",
+      "url": "https://www.famitsu.com/article/202606/77809",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "6/9のNintendo Directで発表されたゼルダ時オカリナのSwitch2フルリメイクが2026年内発売と確定。28年ぶりの再登場でシリーズ40周年記念作。「時を超えて、蘇る」コピーのティザーのみ公開。価格・詳細システムは未発表。",
+      "source": "ファミ通.com"
+    },
+    {
+      "id": "2026-06-25-h04",
+      "title": "ソニー α7R VI 正式発売 — 6680万画素×30コマ/秒で「風景の王」が動体性能も両立",
+      "url": "https://www.sony.jp/CorporateCruise/Press/202605/26-0513B/",
+      "url_sub": [
+        "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/"
+      ],
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "ソニーα7R VIが6/5正式発売。6680万画素積層型ExmorRS CMOS + 30コマ/秒ブラックアウトフリー。ダイナミックレンジ最大16段。実売約74万円。「高解像と動体性能を両立した初のRシリーズ」と評価。",
+      "source": "ソニー公式 / GIGAZINE"
+    },
+    {
+      "id": "2026-06-25-h05",
+      "title": "食べログカレー百名店2026 東京 — スパイスカレー初選出に「MANOS」「SPICECURRY KERAKU」など",
+      "url": "https://www.ryutsuu.biz/store/s061012.html",
+      "url_sub": [
+        "https://award.tabelog.com/hyakumeiten/curry_west"
+      ],
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "食べログカレー百名店2026（6/9発表）。東京初選出に「創作カレーMANOS」（旧ヤム邸出身）・「SPICECURRY KERAKU」（小麦不使用週替わり）などスパイス系が複数選出。WESTでも大阪・京都のスパイス融合系新店が多数。",
+      "source": "流通ニュース / 食べログ"
+    },
+    {
+      "id": "2026-06-25-s01",
+      "title": "Frontend Wrapped H1 2026 — AIが「すべての変化の核」になったフロントエンドの半年",
+      "url": "https://blog.logrocket.com/frontend-wrapped-h1-2026-the-nine-biggest-storylines",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "LogRocketまとめ。React Compiler Rust移植・Next.js 16.2 AI対応・TanStackスイート化・RSCセキュリティ問題など9大ストーリー。AIツール前提の開発体験への転換が全体を貫くテーマ。H2を迎えるAngularエンジニアとして押さえておくべき全体像。",
+      "source": "LogRocket Blog"
+    },
+    {
+      "id": "2026-06-25-s02",
+      "title": "フジロック2026 — The xx × Khruangbin × XGが同じステージに立つ「音楽の脱ジャンル化」の象徴",
+      "url": "https://qetic.jp/music/fuji-rock-2026_linup-v01/472822/",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "フジロック2026（7/24〜26日苗場）でXGと藤井風がThe xx・Khruangbin・Massive Attackと並ぶラインナップ。K-POPがロック系フェスに入ってきた意味——音楽の「ジャンルの境界」が溶ける速度がフジロックのブッキングに可視化された。",
+      "source": "Qetic"
+    },
+    {
+      "id": "2026-06-25-s03",
+      "title": "国産AI元年の今 — PLaMo政府採用・SakanaAI Fugu・Alibaba蒸留攻撃が同じ週に起きた意味",
+      "url": "https://www.preferred.jp/ja/news/pr20260622",
+      "url_sub": [
+        "https://gigazine.net/gsc_news/en/20260622-sakana-fugu-multi-agent-system-ai/"
+      ],
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "PLaMo政府採用・SakanaAI FuguがFable 5と同等性能・AnthropicがAlibaba不正蒸留を告発——同じ週に「国産AIが世界級に」「外資AIは盗まれる対象に」という2つのニュースが重なった。データ主権という観点でAI選定を見直す転換点かもしれない。",
+      "source": "Preferred Networks / GIGAZINE"
+    }
+  ]
+}
