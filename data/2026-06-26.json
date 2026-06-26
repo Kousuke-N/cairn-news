@@ -1,0 +1,375 @@
+{
+  "date": "2026-06-26",
+  "notion_page_id": "38ba41a3-cf9b-8183-9134-c9c5618f62be",
+  "articles": [
+    {
+      "id": "2026-06-26-001",
+      "title": "ChatGPT スーパーアプリへ大刷新 — Canva等90社統合・GPT-4.5退役・GPT-5.6リリース直前",
+      "url": "https://enterprisedna.co/resources/news/openai-chatgpt-superapp-agents-enterprise-pivot-2026/",
+      "url_sub": [
+        "https://releasebot.io/updates/openai/chatgpt"
+      ],
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "OpenAIがChatGPTを「Aria」コードネームでスーパーアプリへ刷新。Canva・Booking.com・Expedia・Figma・Spotifyなど90社以上がローンチパートナー。アフィリエイト収益モデルを導入し企業向け売上40%→50%へ。GPT-4.5は6/27退役、Codexのデスクトップデプロイは週間アクティブ500万超・6倍成長。",
+      "source": "Enterprise DNA / Releasebot"
+    },
+    {
+      "id": "2026-06-26-002",
+      "title": "Claude WIF（Workload Identity Federation）正式GA — 静的APIキーが不要になる",
+      "url": "https://claude.com/blog/workload-identity-federation",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "AnthropicがClaude PlatformでWIF（Workload Identity Federation）を正式GA。AWS IAM・Google Cloud・GitHub Actions・Kubernetes・Microsoft Entra IDなど主要OIDCプロバイダと連携し短命トークンで認証可能に。sk-ant-...形式の静的APIキーを使わずCI/CDパイプラインやクラウドサービスからClaudeを安全に呼び出せる。",
+      "source": "Anthropic Claude Blog"
+    },
+    {
+      "id": "2026-06-26-003",
+      "title": "Biome v2+ 型認識リンティング追加 — ESLint+Prettierの完全代替へ前進",
+      "url": "https://dev.to/pockit_tools/biome-the-eslint-and-prettier-killer-complete-migration-guide-for-2026-27m",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "Biome v2以降で型認識リンティング（type-aware linting）追加。ESLintより10〜25倍・Prettier+ESLint比約25倍高速。週次npmダウンロード880万件。Rust製ツールチェーン（Biome・Oxlint・Rolldown）がJavaScriptエコシステムを塗り替えつつある。Angular 22×Vite 8.1×Biome v2が2026年後半の新標準開発環境候補に。",
+      "source": "DEV Community"
+    },
+    {
+      "id": "2026-06-26-004",
+      "title": "TypeScript 7.0 RC — MS公式ブログでGoコンパイラ詳報、VS Codeビルド77秒→7.5秒",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Microsoft公式ブログでTypeScript 7.0 RCのGoコンパイラ詳細を解説。型チェック速度が最大10倍、VS Codeの150万行コードベースで77秒→7.5秒。安定版は約1ヶ月後（7月中旬）予定。npm install typescript@rcで先行評価可能。",
+      "source": "Microsoft TypeScript Blog"
+    },
+    {
+      "id": "2026-06-26-005",
+      "title": "Node.js 26 — Temporal APIがデフォルト有効化、V8 14.6搭載",
+      "url": "https://nodejs.org/en/blog/release/v26.0.0",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Node.js 26がCurrentリリース（LTSは2026年10月予定）。Temporal APIがデフォルト有効化され、不変でタイムゾーン演算を正確に扱える現代的な日付APIとして利用可能に。DateオブジェクトやLuxon/date-fnsの代替候補。V8を14.6、Undiciを8.0に更新。",
+      "source": "Node.js Official Blog"
+    },
+    {
+      "id": "2026-06-26-n01",
+      "title": "W杯2026 日本1-1スウェーデン — グループ2位突破！次戦6/30午前2時、相手はブラジル",
+      "url": "https://www.nikkei.com/article/DGXZQODL258HC0V20C26A6000000/",
+      "url_sub": [
+        "https://www.soccer-king.jp/news/japan/national/20260626/2177044.html"
+      ],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "FIFAワールドカップ2026グループF第3戦（現地6/25、日本時間6/26午前8時）で日本はスウェーデンと1-1の引き分け。56分前田大然が先制も62分エランガに同点弾。1勝2分・勝ち点5でグループ2位通過。3大会連続決勝T進出。次戦は6/30日本時間午前2時、ヒューストンNRGスタジアムでブラジルと対戦。",
+      "source": "日本経済新聞 / サッカーキング"
+    },
+    {
+      "id": "2026-06-26-n02",
+      "title": "日経平均 歴代3位の暴落3005円安 × ホンダ上場来初赤字謝罪 — 「暴風雨の金曜日」",
+      "url": "https://online.nikkei-cnbc.co.jp/vod/66266",
+      "url_sub": [
+        "https://news.web.nhk/newsweb/na/na-k10015161331000",
+        "https://www.nikkei.com/article/DGXZQOUC242700U6A620C2000000/"
+      ],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "6/26終値前日比3005円（4.15%）安の6万9360円。下げ幅歴代3位。一時3700円超下落し6万9000円を割り込む場面も。ホンダ株主総会ではEV損失1兆5778億円・上場来初赤字（4239億円）で三部社長が謝罪。取締役続投は可決。日産との協業「発表は間近」と明言。前夜の米NYダウは最高値更新と逆行。",
+      "source": "日経CNBC / NHKニュース / 日本経済新聞"
+    },
+    {
+      "id": "2026-06-26-n03",
+      "title": "台風7号 沖縄を通過し近畿・関西でも大雨 — 鴨川・高野川に氾濫警報、交通障害続出",
+      "url": "https://haleilo.com/11434/",
+      "url_sub": [
+        "https://tenki.jp/forecaster/yosh_ika/2026/06/26/39483.html"
+      ],
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "台風7号（メーカラー）が6/26に沖縄本島に最接近後、東シナ海を北上。近畿・関西でも大雨が始まり、京都の鴨川・高野川・大阪の寝屋川流域に氾濫危険警報。近鉄奈良線・けいはんな線・南海高野線で運転見合わせ。台風8号（ヒーゴス）も並行し週明け以降は東日本にも影響拡大見込み。",
+      "source": "丸山建設 / tenki.jp"
+    },
+    {
+      "id": "2026-06-26-n04",
+      "title": "参院選 7月3日公示まであと7日 — 各党が候補者擁立を完了、選挙戦本格化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014842961000",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "参院選（7/3公示・7/20投開票）まであと7日。消費税・社会保障・外交安保・AI産業政策が争点。1人区の動向が与野党の勝敗を左右する見通し。今週末から選挙戦が実質的にスタート。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-26-n05",
+      "title": "円161円台で推移 — 162円台への接近で為替介入警戒感高まる",
+      "url": "https://zai.diamond.jp/category/zaifxnews",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "ドル円は161.72円付近で推移。日経平均大幅下落でもリスクオフの円買いは限定的。162円台への接近で政府・日銀による為替介入への警戒が高まっている。米国金利動向とドル買い圧力が引き続き相場を左右。",
+      "source": "ザイFX！"
+    },
+    {
+      "id": "2026-06-26-n06",
+      "title": "ホンダ 日産との協業「発表は間近」 — 三部社長が株主総会で明言",
+      "url": "https://www.nikkei.com/article/DGXZQOUC242700U6A620C2000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "ホンダ三部社長が定時株主総会で日産との協業について「発表は間近だ」と明言。2025年末の経営統合破談後も技術・生産協力を模索。EV戦略見直しの一環で新たな提携形態を近日発表予定。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-26-n07",
+      "title": "ウクライナ クリミア補給路を集中攻撃 — 燃料販売停止に追い込む",
+      "url": "https://www.nikkei.com/article/DGXZQOCD2409N0U6A620C2000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "ウクライナ軍が中距離ドローンでクリミア半島への補給ルートや燃料施設を集中攻撃。島内のガソリン販売停止に。橋・鉄道への破壊工作が相次ぎロシア占領下クリミアが孤立を深める。国防相「クリミアが島と化す可能性」。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-26-e01",
+      "title": "VIVANT続編 7/26より日曜劇場で2クール連続放送決定 — 堺雅人・阿部寛・二宮和也ら再集結",
+      "url": "https://natalie.mu/eiga/news/666253",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "2023年夏の社会現象ドラマ『VIVANT』続編が7/26TBS日曜劇場で放送開始。日曜劇場史上異例の2クール（約半年）連続放送。堺雅人・阿部寛・二階堂ふみ・二宮和也・松坂桃李ら再集結。前作の未回収の謎（乃木憂助の「テント」・黒須の正体など）の解明も期待。前作無料配信も再開。",
+      "source": "映画ナタリー"
+    },
+    {
+      "id": "2026-06-26-e02",
+      "title": "BTS、FIFA W杯決勝ハーフタイムショーにマドンナ・シャキーラと共演決定",
+      "url": "https://e.usen.com/news/news-event/bts2026-fifa.html",
+      "url_sub": [
+        "https://topics.smt.docomo.ne.jp/article/wowkorea/entertainment/wowkorea-20260620wow008"
+      ],
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "BTSが7/19（日本時間7/20未明）FIFA W杯決勝（メットライフスタジアム）のハーフタイムショーにマドンナ・シャキーラとともにヘッドライナーで出演決定。全員兵役完了後の完全体での最初の大舞台復帰。K-POPアーティストがW杯決勝の公式顔として登場する歴史的イベント。",
+      "source": "encore（USEN）/ WoW!Korea"
+    },
+    {
+      "id": "2026-06-26-e03",
+      "title": "GTO 7/20放送開始 — 反町隆史が52歳の鬼塚英吉を演じる28年ぶり復活",
+      "url": "https://eiga.com/news/20260430/1/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "藤沢とおる原作ドラマ『GTO』が1998年から28年ぶりに復活。反町隆史主演で「教師フィードバック制度」のデジタル化された学校が舞台。脚本・遊川和彦、監督・中島悟ら98年版スタッフが再集結。カンテレ・フジ系毎週月曜22時。",
+      "source": "映画.com"
+    },
+    {
+      "id": "2026-06-26-e04",
+      "title": "LE SSERAFIM Spotify月間リスナー2038万人突破 — 第4世代K-POPで圧倒的トップ",
+      "url": "https://korepo.com/archives/1680394",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "LE SSERAFIMのSpotify月間リスナー数が2038万人を達成し第4世代K-POPで断トツ。新曲「BOOMPALA」が英国オフィシャルチャート4部門にランクイン。7月から世界23都市32公演ツアー『2026 LE SSERAFIM TOUR 'PUREFLOW'』開幕。",
+      "source": "コレポ！"
+    },
+    {
+      "id": "2026-06-26-e05",
+      "title": "幼女戦記Ⅱ 7/8放送開始 — 杉田智和・日笠陽子が新キャスト参戦、PV第1弾解禁",
+      "url": "https://www.famitsu.com/article/202606/77172",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "人気ダークファンタジーアニメ『幼女戦記』第2期が7/8より放送開始。新キャスト杉田智和・日笠陽子参戦。OPはMYTH & ROID継続「Why? RED induction」。制作NUT。ターニャのキービジュアルとPV第1弾が解禁。ABEMA最速配信。",
+      "source": "ファミ通.com"
+    },
+    {
+      "id": "2026-06-26-e06",
+      "title": "NewJeans 2026年後半カムバック見通し — ダニエル離脱確定、4〜5人体制で模索",
+      "url": "https://dime.jp/genre/2065675/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "NewJeansはHYBE/ADOR復帰確定がハニ・ヘリン・ヘイン。ミンジは交渉継続中、ダニエルは12月に専属契約終了。2024年6月「Supernatural」以来2年以上新曲不在。2026年後半または2027年にかけての段階的復帰が濃厚。",
+      "source": "@DIME アットダイム"
+    },
+    {
+      "id": "2026-06-26-h01",
+      "title": "DELTARUNE Chapter 5 発売後レビュー — 「嵐の前の静けさ、最後のクラシックな冒険」",
+      "url": "https://kotaku.com/deltarune-chapter-5-the-festival-the-kotaku-review-2000710566",
+      "url_sub": [
+        "https://note.com/gonucho/n/nd06093dacf9d"
+      ],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "Kotakuが「激動が始まる前の最後の穏やかな冒険」と評価。Toby Fox「10年前に考えたこのクレイジーなものを楽しんでほしい」とコメント。チャプター6の開発は順調で年末にはチャプター7の制作着手も。日本語プレイレポートでも「クリス・スージー・ラルセイ・ノエルへの愛着がさらに深まる」と好評。",
+      "source": "Kotaku / note（ヘルミナ）"
+    },
+    {
+      "id": "2026-06-26-h02",
+      "title": "Sony α キャッシュバックキャンペーン本日（6/26）開始 — 最大3万円還元、8/3まで",
+      "url": "https://asobinet.com/info-cb-sony-alpha-2026-summer/",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "ソニーαの受賞記念キャッシュバックキャンペーンが6/26〜8/3まで実施。対象製品単品購入で最大30,000円還元。α7R VI（実売約74万円）をはじめとした最新αシリーズが対象。α7R VI購入を検討している人は今日から8/3がベストタイミング。",
+      "source": "とるなら（asobinet）"
+    },
+    {
+      "id": "2026-06-26-h03",
+      "title": "Leica SL3-P 本日発売 — 4490万画素×秒40コマAF×8Kオープンゲート、直販110万円",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2119936.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "6/26発売のLeica SL3-Pは有効4490万画素BSIセンサー+新ハイブリッドAFシステム。秒40コマAF追従連写・8Kオープンゲート記録・ProRes対応。赤いLeicaロゴを配さないブラック統一デザインが特徴。直販110万円。",
+      "source": "デジカメWatch"
+    },
+    {
+      "id": "2026-06-26-h04",
+      "title": "大阪スパイスカレー新店 — カレー通が厳選するベスト5（2026年版）",
+      "url": "https://www.walkerplus.com/article/139474/",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "大阪のスパイスカレー新店をカレー通とグルメライターが厳選して紹介。個性的なスパイス使いと独自スタイルを持つ新店がランキング形式で紹介。食べ歩き・スパイスカレー自作好き向けに参考になる関西スパイスカレー最前線。",
+      "source": "ウォーカープラス"
+    },
+    {
+      "id": "2026-06-26-h05",
+      "title": "ゼルダの伝説 時のオカリナ Switch2 — 電撃オンラインが詳報、2026年内発売確定",
+      "url": "https://dengekionline.com/article/202606/77849",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "Nintendo Direct 2026.6.9発表のゼルダ時のオカリナSwitch2版。1998年N64版から28年ぶり、3DS版から15年ぶりのリメイク。幼少期リンクが森の奥で横たわる新映像公開中。Switch 2専用タイトルで2026年内発売予定。ゲームシステム詳細は今後発表。",
+      "source": "電撃オンライン"
+    },
+    {
+      "id": "2026-06-26-s01",
+      "title": "W杯引き分け × 日経3000円暴落 × 台風直撃 — 「すべてが同時に起きる日」という経験の構造",
+      "url": "https://www.nikkei.com/article/DGXZQODL258HC0V20C26A6000000/",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "今日1日のニュースには「祝福と暴落と嵐」が同時に詰まっている。喜び・恐れ・憂い・楽しみという4色の感情が同じ日に降り注ぐとき、人間はどれを優先するか。「今日をどう過ごすか」という問いへの答えが、その人の情報の優先順位を教えてくれる。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-26-s02",
+      "title": "BTSがW杯決勝のハーフタイムに立つ日 — K-POP15年の果てにある「ジャンルの解体」",
+      "url": "https://e.usen.com/news/news-event/bts2026-fifa.html",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "BTSがマドンナとシャキーラとともにW杯決勝ハーフタイムショーに立つ。これは「K-POPが認知された」という話ではなく、「K-POPを排除するジャンル論理がもはや成立しない」という事実の可視化。エンタメ業界でIPや音楽を企画する立場として、「ジャンルの外から来た者が文化の中心を担う」構造は次のコンテンツ設計の参照点になる。",
+      "source": "encore（USEN）"
+    },
+    {
+      "id": "2026-06-26-s03",
+      "title": "DELTARUNEをプレイ中に台風と暴落が来た — フィクションの旅が「現実の重力」から守ってくれるか",
+      "url": "https://kotaku.com/deltarune-chapter-5-the-festival-the-kotaku-review-2000710566",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "台風が関西に向かい日経が3000円落ちてW杯引き分けが報じられた日にDELTARUNEをプレイしている人がいる。フィクションの旅の中にいるとき外の世界のノイズは「通知」という形でしか届かない。現実の重力に引き戻される瞬間は来るが、フィクションが「現実を整えるための休息」として機能するなら、それは逃避ではなく能動的な選択だ。",
+      "source": "Kotaku"
+    },
+    {
+      "id": "2026-06-26-ns01",
+      "title": "SEVENTEEN V8「singasong」チャレンジSNS展開（allkpop）",
+      "url": "https://www.allkpop.com/article/2026/06/seventeens-new-unit-v8-drops-a-catchy-sneak-peek-of-singasong-challenge",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "6/29デビュー直前のSNSチャレンジ展開。SEVENTEEN V8の情報は2026-06-24・25で十分カバー済みのため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns02",
+      "title": "映画 Michael 初週末10.9億円・日本公開No.1（ソニーミュージック）",
+      "url": "https://www.sonymusic.co.jp/artist/MichaelJackson/info/584237",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "映画Michaelの国内興収詳細。過去号で世界興収9.3億ドルとして大記事掲載済みのため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns03",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL PV第3弾（ファミ通）",
+      "url": "https://www.famitsu.com/article/202605/74292",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-25に選出済みのトピック（cinematoday）と重複のため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns04",
+      "title": "ChatGPT Superapp補足：Anthropic WIF + Apple iOS 27統合（Releasebot）",
+      "url": "https://releasebot.io/updates/anthropic/claude",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "Apple Foundation Models統合は2026-06-24（mindstudio）で掲載済みのため非選出。WIF GAは2026-06-26-002で採用。"
+    },
+    {
+      "id": "2026-06-26-ns05",
+      "title": "Angular 22 最重要新機能まとめ（angulararchitects.io）",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "Angular 22は2026-06-23・24で大記事掲載済み。このURL自体も2026-06-23でselected:falseとして記録済み。重複のため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns06",
+      "title": "2026年フロントエンドH1総括（taolis.net）",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-24に選出済みのURL。重複のため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns07",
+      "title": "DELTARUNE Chapter 5 ファミ通詳報（famitsu 202606/77914）",
+      "url": "https://www.famitsu.com/article/202606/77914",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-23でselected:falseかつ除外URLリストとして記録済み（2026-06-18掲載済み）のため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns08",
+      "title": "Star Fox Switch 2 電ファミレビュー（denfaminicogamer）",
+      "url": "https://news.denfaminicogamer.jp/news/2606254a",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-25に選出済みのURL。重複のため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns09",
+      "title": "大谷翔平 二刀流絶好調（ABEMA TIMES）",
+      "url": "https://times.abema.tv/articles/-/10236609",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-23に選出済みのURL（n05）。重複のため非選出。"
+    },
+    {
+      "id": "2026-06-26-ns10",
+      "title": "Insta360 Luna Ultra 国内発売（デジカメWatch）",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2117251.html",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-23でdc.watch.impress.co.jp/docs/review/newproduct/2118277.htmlとして選出済みトピック。重複のため非選出。"
+    }
+  ]
+}
