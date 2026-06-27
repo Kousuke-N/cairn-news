@@ -1,0 +1,568 @@
+{
+  "date": "2026-06-27",
+  "notion_page_id": "38ca41a3-cf9b-81ad-a441-e1d393773eb6",
+  "articles": [
+    {
+      "id": "2026-06-27-t01",
+      "title": "Angular v22 × Google I/O 2026 — Agent Skills・Zoneless安定化・Signal Forms GAで「AIエージェント統合フロントエンド」の実像",
+      "url": "https://blog.angular.dev/angular-v22-and-google-io-2026-agent-skills-ai-integration",
+      "url_sub": [
+        "https://www.infoq.com/news/2026/06/angular-agent-skills-google-io/",
+        "https://qiita.com/HeroDevs-Japan/items/angular22-zoneless-signal-forms-guide",
+        "https://www.telerik.com/blogs/google-io-2026-angular-recap"
+      ],
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "Google I/O 2026でAngularチームが発表した最重要アップデートは3本柱：**①Agent Skills（エージェントスキル）**、**②Zoneless安定化**、**③Signal Forms GA**だ。\n\n**①Agent Skills（最注目）**：AngularアプリケーションをAIエージェントのスキルとして登録できる新しいAPI。GoogleのAgent SDKと連携し、AngularコンポーネントがAIエージェントの「ツール」として機能する。例えば「予約フォームを完成させる」「フィルタを適用する」といったUIタスクをエージェントが自律実行できるようになる。InfoQは「フロントエンドとAIエージェントの統合の最前線」と評価。エンタメ業界でのユースケースとして、視聴者リアクションをリアルタイムでUIに反映するエージェント駆動のインタラクティブ配信プラットフォームへの応用が期待される。CLIに `ng generate agent-skill` コマンドが追加予定で、NgConf 2026（9月）でのさらなる詳細発表も予告されている。\n\n**②Zoneless（zone.js不要）が安定版へ**：Angular長年の技術的負債だったzone.jsが完全オプションに。OnPushとSignalを組み合わせた場合のBundle Sizeが約30KB削減。変更検知の予測可能性が向上し、SSRとの相性も改善。Storybook 9との連携でコンポーネント開発体験が大幅向上する。HeroDevs-JapanのQiita解説では「既存プロジェクトへの段階移行ガイド」が詳しく解説されており、Angular 22以降は`provideZonelessChangeDetection()`一行で有効化可能。\n\n**③Signal Forms GA**：Reactiveな型付きフォームAPIが正式版に。`FormControl<string>`のような型推論が完全サポートされ、非同期バリデーションのSignalベース実装が可能になった。従来のtemplate-drivenとreactive formsの混在問題を解消する「第3のフォームAPI」として完成。Telerikのまとめによれば、Signal FormsはZoneless環境との相性が特に良く、「Angular 22 + Zoneless + Signal Forms」の組み合わせが2026年後半の新標準開発環境になるとの見方が多い。",
+      "source": "Angular Blog / InfoQ / Qiita（HeroDevs Japan） / Telerik"
+    },
+    {
+      "id": "2026-06-27-n01",
+      "title": "山梨県東部・富士五湖 震度6弱 — 約100年ぶりの大規模地震、気象庁「富士山に変化なし」",
+      "url": "https://www3.nhk.or.jp/news/html/20260626/k10015164000000.html",
+      "url_sub": [
+        "https://tenki.jp/forecaster/yosh_ika/2026/06/27/39495.html"
+      ],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "6/26夜（日本時間）、山梨県東部・富士五湖地域で最大震度6弱を観測する地震が発生した。震源は富士山の北東麓付近、深さ約10km、マグニチュード6.3（暫定値）。この地域での震度6弱以上の地震は約100年ぶりとされる。\n\n**富士山への影響**：気象庁は6/27の記者会見で「富士山の地震計・傾斜計・GPS観測データに変化はない」と明言。噴火の前兆として知られる急激な地殻変動や低周波地震の増加は確認されていない。ただし「引き続き注意深く監視を継続する」と述べており、警戒は維持されている。火山活動との直接の関連は現時点で否定的だが、富士山周辺の地質は複雑なため専門家の継続的な観測が続く。\n\n**被害状況と交通への影響**：山梨県内で複数棟の家屋が全壊・一部破損。負傷者数十名（軽傷が大半）。富士急行線は一時全線運転見合わせ（6/27午前に暫定再開）。東名高速道路は一部区間で崖崩れによる通行止め。富士山登山道は「施設安全確認のため」引き続き規制中で、7月10日の開山式への影響が懸念される。河口湖・山中湖周辺の観光施設も臨時休業が続いている。\n\n**地質的背景**：富士五湖周辺は伊豆・小笠原プレートとフィリピン海プレートの複雑な境界域に位置する。今回の地震は「フィリピン海プレートの沈み込みに伴うプレート内地震」の可能性が指摘されており、1923年関東大震災後に同様のメカニズムで発生した地震と類似した震源特性を持つという。余震は6/27午前時点でM3〜4台が複数発生しており、しばらくは注意が必要。",
+      "source": "NHK / 気象庁 / tenki.jp"
+    },
+    {
+      "id": "2026-06-27-n02",
+      "title": "米・イラン「覚書後初協議」スイスで開幕 — ホルムズ海峡危機と日本の原油9割依存という構造的脆弱性",
+      "url": "https://www3.nhk.or.jp/news/html/20260627/k10015164500000.html",
+      "url_sub": [
+        "https://global-scm.com/blog/hormuz-strait-japan-oil-dependency-2026/"
+      ],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "6/27、スイス・ジュネーブで米国とイランの核・安全保障協議が再開された。今年4月の「スペイン覚書」（ウラン濃縮制限と段階的制裁解除の大枠合意）締結後、初の直接交渉。イラン核問題の行方と、日本のエネルギー安保の急所であるホルムズ海峡問題が連動する形で注目を集めている。\n\n**今回の協議の焦点**：①ウラン濃縮度を現在の60%から4%以下に引き下げるタイムライン、②IAEA（国際原子力機関）の常駐査察団の受け入れ範囲と頻度、③凍結資産（推計1600億ドル以上）の解除スケジュール。米国務省は「前向きな対話」と評価する一方、イラン外相は「具体的な成果には忍耐が必要」と述べ、双方の立場の開きは依然大きい。次回協議は7月中を目標とする方向で調整中とされる。\n\n**ホルムズ海峡と日本のエネルギー安保**：日本は原油輸入の約91%を中東に依存し（2025年実績）、その大半がホルムズ海峡経由で運搬される。特にサウジアラビア・UAE産原油はアラビア湾岸ルートを利用するため、ホルムズ封鎖は「日本のエネルギー安保の根幹を揺るがす」直接リスクだ。Global SCMのレポートでは、フーシ派による紅海・スエズルート攻撃がすでに迂回コストを押し上げており、ホルムズ海峡の戦略的重要性が一段と高まっていると分析している。\n\n**日本政府の対応**：経産省は「エネルギー安全保障計画2030」見直しを加速。カタール・UAE・サウジとの長期購入契約拡大交渉、LNG（液化天然ガル）のオーストラリア・米国産比率引き上げが進む。しかし「ホルムズ依存の構造的解消」は数年単位の課題であり、短期的な代替手段は限定的だ。イラン核交渉の成否が、日本のエネルギーコスト・為替・インフレに直結するという現実は変わらない。",
+      "source": "NHK / Global SCM"
+    },
+    {
+      "id": "2026-06-27-n03",
+      "title": "W杯日本 × ブラジル — 6/30午前2時、DAZN無料ライブ中継でラウンド16",
+      "url": "https://sports.yahoo.co.jp/worldcup2026/news/20260627-00000001",
+      "url_sub": [
+        "https://www.phileweb.com/news/d-av/202606/27/6578.html"
+      ],
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "FIFAワールドカップ2026ラウンド16。日本（グループF2位通過・1勝2分）対ブラジル（グループE1位通過）の一戦が6/30日本時間午前2時、ヒューストンNRGスタジアムで開催。DAZNが同試合を無料ライブ配信。アカウント不要でブラウザ視聴可能。W杯本大会での日本×ブラジルは史上初対戦。3大会連続ベスト16進出中の日本が初の8強入りを狙う歴史的一戦。",
+      "source": "Yahoo!スポーツ / phile web"
+    },
+    {
+      "id": "2026-06-27-n04",
+      "title": "台風8号・7号ダブル台風 — 関東上陸後も東日本で大雨継続、7号接近で週明けも警戒",
+      "url": "https://tenki.jp/forecaster/yosh_ika/2026/06/27/39490.html",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "台風8号（ヒーゴス）は6/25に千葉県に上陸後、温帯低気圧に変わりながら東日本を縦断。一方台風7号が九州〜近畿に接近中で、梅雨前線と連動した大雨が続く。気象庁は6/28〜7/1にかけて「線状降水帯が発生する可能性」を指摘。先週の近畿・関西被害に続き東日本の河川氾濫リスクが高く、週末・週明けの不要不急の外出は控えるべき状況が続く。",
+      "source": "tenki.jp"
+    },
+    {
+      "id": "2026-06-27-t02",
+      "title": "TypeScript 6.0 正式リリース — Native ESM完全対応・Eraseable Syntax・package.json exports統合",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "MicrosoftがTypeScript 6.0を正式リリース。主要変更：①package.json exportsフィールドへの完全対応でESM型解決が標準化、②「Eraseable Syntax」（型注釈をランタイムで消去可能な新記法）が実験的追加、③JSDoc型チェックの大幅強化。同時にTypeScript 7.0 RC（Goコンパイラ版）も公開済みで、安定版は1ヶ月後を予定。6.0と7.0は並行運用されるロードマップ。",
+      "source": "Microsoft TypeScript Blog"
+    },
+    {
+      "id": "2026-06-27-t03",
+      "title": "Claude Fable 5・Mythos 5 発表 + Claude Code メジャーアップデート — Anthropic、AIエージェント競争を全方位強化",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "url_sub": [
+        "https://code.claude.com/docs/en/whats-new"
+      ],
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "AnthropicがClaude Fable 5（最上位マルチモーダル）とMythos 5（創造的・長文生成特化）を発表。Fable 5はコーディング・数学・推論ベンチマークで各社最高水準を更新。同日Claude Code（CLIエージェント）も大型アップデート：サブエージェント並列起動・Workflowスクリプト機能・Agent SDKの正式強化が公開。OpenAI GPT-5.6遅延発表のタイミングと重なり、競争が一層激化している。",
+      "source": "Anthropic / Claude Code Docs"
+    },
+    {
+      "id": "2026-06-27-e01",
+      "title": "VIVANT続編 7/26放送直前 — 劇場版2027年計画が浮上、「完全おさらいコラム」で未解決の謎を総点検",
+      "url": "https://news.yahoo.co.jp/articles/vivant2-movie-2027-report",
+      "url_sub": [
+        "https://natalie.mu/eiga/column/676447"
+      ],
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "7/26放送開始の日曜劇場『VIVANT』続編まで約4週間。ナタリー映画の「完全おさらいコラム」が前作の未回収の謎を総整理（乃木憂助×「テント」の関係、黒須の二重スパイ疑惑）。複数媒体が劇場版（2027年公開計画）への布石として続編を読み解く視点も提示。前作未視聴の場合はTVer・Paravi（無料配信延長中）での今週中予習を強く推奨。",
+      "source": "Yahoo!ニュース / 映画ナタリー"
+    },
+    {
+      "id": "2026-06-27-h01",
+      "title": "DELTARUNE Chapter5 Steam同接29万人達成 — シリーズ過去最高、Chapter 6開発も順調",
+      "url": "https://automaton-media.com/articles/newsjp/deltarune-chapter5-steam-29man/",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "6/25発売のDELTARUNE Chapter5（フリー）がSteam同時接続プレイヤー29万人を記録。Chapter 3&4の約15万人を大幅更新しシリーズ最高。automaton-mediaの分析では「Switch版同時発売が初の北米・欧州大型展開につながった」と評価。Toby FoxはChapter 6の開発が「予定通り進んでいる」と報告、年末時点でChapter 7制作着手も視野に。",
+      "source": "Automaton Media"
+    },
+    {
+      "id": "2026-06-27-h02",
+      "title": "Canon EOS R6 Mark V 6/26発売 + 夏キャッシュバック — 新センサー・4K120P・獣AI AFで「最強オールラウンダー」更新",
+      "url": "https://kakaku.com/item/K0001726543/",
+      "url_sub": [
+        "https://www.re-camera-shop.com/news/2026-summer-cashback-canon/"
+      ],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "6/26発売のEOS R6 Mark V（実売33万円前後）は新開発3030万画素積層CMOSセンサーを搭載。4K 120Pのオーバーサンプリング動画と獣認識（昆虫まで拡張）AIAFが目玉。加えてキヤノン夏キャッシュバックキャンペーン（〜8/31）で最大2万円還元。マップカメラでも独自ポイントバックを実施中。動画×静止画を問わないオールラウンダーとして最有力候補に。",
+      "source": "カカクコム / re-camera-shop"
+    },
+    {
+      "id": "2026-06-27-t04",
+      "title": "React Compiler 安定版 + React Foundation設立 — マニュアルmemo不要時代の幕開け",
+      "url": "https://react.dev/blog/2026/06/react-compiler-stable-react-foundation",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "React 19.2でReact Compilerが安定版に昇格。useMemo/useCallbackの手動記述が不要になる自動最適化が本番利用可能に。同日React Foundation設立が発表され、React・Next.js・Remixのガバナンスと資金調達を一元管理する体制へ。",
+      "source": "React Blog"
+    },
+    {
+      "id": "2026-06-27-t05",
+      "title": "Storybook 9 リリース — CIでコンポーネントテスト単独実行可能に、Angular 22対応",
+      "url": "https://storybook.js.org/blog/storybook-9/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Storybook 9正式リリース。Vitest・Playwright統合によりCIパイプラインでコンポーネントテストをStorybook単体で完結可能に。Angular 22 Zoneless対応・React 19対応を強化。a11yテスト自動化もアドオン不要で標準化。",
+      "source": "Storybook Blog"
+    },
+    {
+      "id": "2026-06-27-t06",
+      "title": "OpenAI + Broadcom「Jalapeño」AI推論チップ発表 — NVIDIA H100比で推論コスト70%削減を謳う",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "OpenAIとBroadcomが共同設計した推論専用ASICチップ「Jalapeño」を発表。NVIDIA H100比で推論コスト最大70%削減と省電力化を実現すると主張。まずOpenAI内部クラウドで段階展開し、将来的なAPIコスト削減につながるか注目。",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": "2026-06-27-n05",
+      "title": "参院選 7/3公示まで6日 — 週末から実質選挙戦、AI・消費税・少子化が争点に",
+      "url": "https://www3.nhk.or.jp/news/html/20260627/k10015163800000.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "参院選（7/3公示・7/20投開票）まであと6日。今週末から各党が街頭演説を本格化。AI産業政策・消費税率・少子化対策・安全保障が主要争点。1人区での与野党対決が勝敗を左右する構図。",
+      "source": "NHK"
+    },
+    {
+      "id": "2026-06-27-n06",
+      "title": "日経平均 今週乱高下・週末終値6万9360円 — 6/26の3005円安から小幅反発も回復は限定的",
+      "url": "https://diamond.jp/articles/-/362841",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "今週（6/23〜6/27）の日経平均は大幅乱高下。6/26に歴代3位の3005円安（終値6万9360円）を記録後、6/27は小幅反発。週間では約2200円の大幅下落。ホンダの上場来初赤字・米FOMC観測・円安進行が重なった。",
+      "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "id": "2026-06-27-n07",
+      "title": "ドル円 161円台・39年ぶり円安水準が視野に — 政府・日銀の介入警戒感が高まる",
+      "url": "https://minkabu.jp/news/3941226",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "ドル円は週末161.72円付近で推移。39年ぶりの水準となる162円台への接近で政府・日銀による為替介入への市場警戒感が急速に高まる。日経平均の大幅下落でもリスクオフ円買いは限定的で、ドル買い圧力が続く構図。",
+      "source": "minkabu"
+    },
+    {
+      "id": "2026-06-27-e02",
+      "title": "YOASOBI「THE BOOK for,」6/26発売 — 海外向けベスト盤に英語・スペイン語版を収録",
+      "url": "https://lisani.jp/0000294581/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "YOASOBIの海外向けベスト盤「THE BOOK for,」が6/26リリース。「アイドル」「怪物」「夜に駆ける」などの代表曲の英語・スペイン語バージョンを収録。iTunesほか各種ストリーミングで配信開始。",
+      "source": "lisani.jp"
+    },
+    {
+      "id": "2026-06-27-e03",
+      "title": "BLEACH 千年血戦篇-禍進譚- 7/25放送 — ユーハバッハの真の能力・石田雨竜の謎、いよいよ解明へ",
+      "url": "https://denfaminicogamer.jp/news/260621h",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "BLEACH 千年血戦篇の最終章「禍進譚」が7/25よりフジTV深夜枠で放送開始。石田雨竜の「クインシー側についた理由」とユーハバッハの「全知全能の力」の帰結がいよいよ描かれる。スタジオピエロ制作、全20話予定。",
+      "source": "電ファミニコゲーマー"
+    },
+    {
+      "id": "2026-06-27-h03",
+      "title": "DJI Osmo Pocket 4 Pro 6/29日本発表予定 — 1インチ裏面照射型CMOSで「本格映像向き」に進化か",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2119455.html",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "DJI Osmo Pocket 4 Proが6/29に日本向け正式発表予定。デジカメWatchのリーク情報では1インチ裏面照射型CMOSセンサー搭載、4K 120P対応で従来のポケットカメラの枠を超える本格映像機材に進化か。旅行・Vlog用途に最有力選択肢になりうる。",
+      "source": "デジカメWatch"
+    },
+    {
+      "id": "2026-06-27-h04",
+      "title": "食べログ カレー百名店2026 — スパイスカレー新規選出が急増、東京・大阪の新興店が大量初選出",
+      "url": "https://genicpress.com/tabelog-curry-100-meiten-2026-spice/",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "食べログ「カレー百名店2026 by 食べログ」が発表。スパイスカレー系からの新規選出が前年比大幅増加し、東京・大阪の新興スパイスカレー店が多数初選出。genicpressが初選出店の特集記事を公開中。",
+      "source": "genicpress"
+    },
+    {
+      "id": "2026-06-27-s01",
+      "title": "Star Fox Switch2 — 40年越しIPの復活、「懐かしさと驚き」を共存させるゲームデザインの技法",
+      "url": "https://www.famitsu.com/article/202606/78816",
+      "url_sub": [
+        "https://game.watch.impress.co.jp/docs/review/rev1/2118406.html"
+      ],
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "「Star Fox」シリーズ最新作がSwitch2独占タイトルとして登場。ファミ通の詳細レビューでは「SNES・N64時代のレールシューター文脈を継承しつつSwitch2の高速処理でフレームレートが安定」と評価。GAME Watchのレビューは「懐かしいIPに現代のゲームデザイン感覚を接ぎ木した、大人向けの1本」と表現。40年前に生まれたIPがSwitch2で甦る——この事実は、エンタメ業界でIP資産の長寿命化を考えるすべての人に刺さる。コンテンツが一度死んでも、適切なタイミングと解釈によって再起動できる。それがゲームでも映像でも音楽でも同じ原理が働いていることに気づかせてくれる1本だ。",
+      "source": "ファミ通 / GAME Watch"
+    },
+    {
+      "id": "2026-06-27-s02",
+      "title": "リズム天国 ミラクルスターズ 7/2発売 — 9年ぶりの完全新作、「笑えること」を最優先設計したゲームの正直さ",
+      "url": "https://www.famitsu.com/article/202606/78822",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "前作「リズム天国 ザ・ベスト＋」（2015年）から9年ぶりの完全新作がSwitch2向けに7/2発売。ファミ通プレビューでは全50ステージ中30ステージ以上が新規作曲と確認。Nintendo内製のリズムゲームとして「難易度よりも笑えること」を最優先設計した、という開発哲学が興味深い。W杯直前・地震・台風が重なる週末に「笑いながらリズムを刻む」という体験の価値を思い出させてくれる。スコアや上達よりも「その瞬間の笑い」を目標にするゲームは、実は珍しい。",
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-06-27-s03",
+      "title": "震度6弱 × ダブル台風 × W杯前夜 × 参院選 — 「情報が多すぎる週末」の優先順位の付け方",
+      "url": "https://www3.nhk.or.jp/news/html/20260626/k10015164000000.html",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "6/27（土）の日本には山梨震度6弱・ダブル台風・W杯日本戦直前・参院選カウントダウン・円安・株安という6つの大波が同時に押し寄せている。これほど「情報量が多い週末」は珍しい。こういうときの情報整理の鉄則は「自分の行動を変えるかどうか」で選別すること——台風→週末の外出計画を見直す。地震→富士五湖旅行を延期か確認。W杯→6/30午前2時の目覚ましをセットする。参院選→期日前投票に行くかどうか決める。それだけでいい。すべてを追いかけようとすると、何も処理できない。",
+      "source": "NHK"
+    },
+    {
+      "id": "2026-06-27-ns01",
+      "title": "TypeScript 7.0 RC vs 6.0 比較（typescript.news）",
+      "url": "https://typescript.news/ts7-rc-vs-6-comparison-2026/",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-26-004（TypeScript 7.0 RC）で掲載済み。また今号t02でTS 6.0安定版として採用済みのため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns02",
+      "title": "Anthropic Economic Index June 2026 レポート（anthropic.com）",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "AI経済インデックス調査。Claude Fable 5関連でt03にまとめて掲載、独立記事は過剰のため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns03",
+      "title": "Gemini 3.5 Flash発表（9to5google.com）",
+      "url": "https://9to5google.com/2026/06/26/gemini-3-5-flash-announced/",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "今週GoogleのAI発表は複数あり、Gemini 3.5 Flashは性能面でのユーザー直接インパクトが限定的。Claude Fable5・OpenAI Jalapeñoを選出済みのため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns04",
+      "title": "GPT-5.6 遅延報道（techtimes）",
+      "url": "https://www.techtimes.com/articles/gpt56-delay-2026-06.htm",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "OpenAIの遅延報道は不確実情報で、JalapeñoチップをOpenAI記事として採用済みのため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns05",
+      "title": "Anthropic ソウルオフィス開設（anthropic.com/news）",
+      "url": "https://www.anthropic.com/news/seoul-office-2026",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "Anthropicの海外展開ニュース。Claude Fable5関連記事t03にまとめたため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns06",
+      "title": "Angular Official Agent Skills 詳細（infoq.com）",
+      "url": "https://www.infoq.com/news/2026/06/angular-agent-skills-google-io/",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "t01（Angular大記事）のurl_subとして統合済みのため独立記事として非選出。"
+    },
+    {
+      "id": "2026-06-27-ns07",
+      "title": "米・イラン協議後のホルムズ危機（global-scm.com）",
+      "url": "https://global-scm.com/blog/hormuz-strait-japan-oil-dependency-2026/",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "n02（イラン情勢大記事）のurl_subとして統合済みのため独立記事として非選出。"
+    },
+    {
+      "id": "2026-06-27-ns08",
+      "title": "山梨地震「富士山変化なし」気象庁（tenki.jp）",
+      "url": "https://tenki.jp/forecaster/yosh_ika/2026/06/27/39495.html",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "n01（山梨地震大記事）のurl_subとして統合済みのため独立記事として非選出。"
+    },
+    {
+      "id": "2026-06-27-ns09",
+      "title": "W杯DAZN無料中継詳細（phileweb）",
+      "url": "https://www.phileweb.com/news/d-av/202606/27/6578.html",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "n03（W杯中記事）のurl_subとして統合済みのため独立記事として非選出。"
+    },
+    {
+      "id": "2026-06-27-ns10",
+      "title": "ウクライナ停戦交渉難航（jiia.or.jp）",
+      "url": "https://www.jiia.or.jp/column/ukraine-peace-talks-2026-06.html",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "重要だが先週複数回掲載済み（2026-06-26-n07相当）。今週の大きな進展なしのため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns11",
+      "title": "ホンダ・日産 SDV ECU共通化2029年目標（nhk）",
+      "url": "https://www3.nhk.or.jp/news/html/20260626/k10015161331000.html",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-26-n06（ホンダ日産小記事）で「発表間近」として採用済みのため、SDV詳報の重複を避け非選出。"
+    },
+    {
+      "id": "2026-06-27-ns12",
+      "title": "W杯日本グループ突破分析（soccer-king）",
+      "url": "https://www.soccer-king.jp/news/japan/national/20260626/2177046.html",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "n03（W杯中記事）で網羅済み。速報分析は2026-06-26でも掲載済みのため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns13",
+      "title": "茨城・石岡市長が議会解散（jiji.com）",
+      "url": "https://www.jiji.com/jc/article?k=2026062600849",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "地方政治ニュース。ユーザーの関心プロファイルとの一致度が低いため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns14",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL 7/7放送（famitsu 78491）",
+      "url": "https://www.famitsu.com/article/202606/78491",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-20 entertainment-001でselected:trueとして掲載済み。URLが一致のため重複除外。"
+    },
+    {
+      "id": "2026-06-27-ns15",
+      "title": "GTO 7/20放送開始 公式（ktv.jp/gto2026/）",
+      "url": "https://ktv.jp/gto2026/",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-26-e03（GTO小記事）として採用済みのため重複のため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns16",
+      "title": "SEVENTEEN V8 6/29デビューEP「singasong」（koreajoongangdaily.com）",
+      "url": "https://koreajoongangdaily.joins.com/2026/06/26/entertainment/kpop/SEVENTEEN-V8-singasong/",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-24・25で複数掲載済み。6/29のデビュー当日に改めてレビュー記事が出れば選出候補。"
+    },
+    {
+      "id": "2026-06-27-ns17",
+      "title": "BTS W杯決勝ハーフタイムショー確定（billboard.com）",
+      "url": "https://www.billboard.com/music/pop/bts-world-cup-2026-halftime-show-confirmed/",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-26-e02（BTS中記事）として採用済み。Billboardの角度はurlが追加されているが内容重複のため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns18",
+      "title": "Stray Kids「RUN IT」iTunes 41か国1位（allkpop）",
+      "url": "https://www.allkpop.com/article/2026/06/stray-kids-run-it-itunes-41-countries",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "K-POPチャートニュース。今週K-POP枠はBTS・SEVENTEENで充当済みのため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns19",
+      "title": "NewJeans 2026下半期カムバック濃厚（rbbtoday）",
+      "url": "https://www.rbbtoday.com/article/2026/02/03/232450.html",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-26-e06（NewJeans小記事）として採用済みかつ記事日付が2026/02と古い。非選出。"
+    },
+    {
+      "id": "2026-06-27-ns20",
+      "title": "無職転生III 7/5放送・人気投票1位（animatetimes 1768047480）",
+      "url": "https://www.animatetimes.com/news/details.php?id=1768047480",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "夏アニメの有力作品だが放送開始まで1週間以上あり、7/4号での選出を検討。今号はBLEACH・VIVANT優先のため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns21",
+      "title": "映画Michael 2週連続1位・累計27億円（oricon 2462980）",
+      "url": "https://www.oricon.co.jp/news/2462980/",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-26-ns02で非選出（世界興収で過去号掲載済み）と同じ理由。国内興収更新は差分小のため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns22",
+      "title": "2026夏アニメ全50作品（oricon.co.jp/anime/2026_summer/）",
+      "url": "https://www.oricon.co.jp/anime/2026_summer/",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の除外URL一覧に含まれる（2026-06-20以降で掲載済み）。重複除外。"
+    },
+    {
+      "id": "2026-06-27-ns23",
+      "title": "YOASOBI 6/29 CDTVライブ出演（usen encore）",
+      "url": "https://e.usen.com/news/news-music/yoasobi-cdtv-2026.html",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "YOASOBI新作e02で採用済み。CDTVライブは追加情報として付加価値が限定的なため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns24",
+      "title": "GTO・VIVANT・BLEACH放送カレンダー（docomo）",
+      "url": "https://topics.smt.docomo.ne.jp/article/tv-calendar-summer2026",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "各作品を個別記事（e01, e03）で採用済みのため、まとめ記事は重複となり非選出。"
+    },
+    {
+      "id": "2026-06-27-ns25",
+      "title": "VIVANT完全おさらいコラム（natalie.mu/eiga/column/676447）",
+      "url": "https://natalie.mu/eiga/column/676447",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "e01（VIVANT中記事）のurl_subとして統合済みのため独立記事として非選出。"
+    },
+    {
+      "id": "2026-06-27-ns26",
+      "title": "ゼルダの伝説 時のオカリナ Switch2（nintendo.com）",
+      "url": "https://www.nintendo.com/jp/software/switch2/zelda-ocarina/",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-23-h03・2026-06-25-h03として既に2回掲載済み。過去7日間の除外URL一覧に含まれるため重複除外。"
+    },
+    {
+      "id": "2026-06-27-ns27",
+      "title": "Panasonic LUMIX L10 6/18発売（panasonic.jp）",
+      "url": "https://panasonic.jp/dc/p-db/DC-L10.html",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "発売日が6/18（9日前）と鮮度が低く、今号はCanon R6 V・DJI Osmo Pocketを選出。非選出。"
+    },
+    {
+      "id": "2026-06-27-ns28",
+      "title": "Nikon Creators応援サマーキャンペーン（nikon.com）",
+      "url": "https://www.nikon.com/ja/campaign/nikon-creators-summer-2026/",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "キャンペーン情報。Canon R6 Vキャッシュバック（h02）でカメラキャンペーン枠を使用済みのため非選出。"
+    },
+    {
+      "id": "2026-06-27-ns29",
+      "title": "2026年カメラ夏キャッシュバックまとめ（re-camera-shop）",
+      "url": "https://www.re-camera-shop.com/news/2026-summer-cashback/",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "h02（Canon EOS R6 V中記事）のurl_subとして統合済みのため独立記事として非選出。"
+    },
+    {
+      "id": "2026-06-27-ns30",
+      "title": "Switch2注目新作5〜9月（famitsu 72453）",
+      "url": "https://www.famitsu.com/article/202606/72453",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "Switch2新作まとめ記事。リズム天国・Star Foxを個別選出済みのため、まとめ記事は非選出。"
+    },
+    {
+      "id": "2026-06-27-ns31",
+      "title": "DELTARUNE Chapter5 note プレイレポート（note.com/gonucho/nd06093dacf9d）",
+      "url": "https://note.com/gonucho/n/nd06093dacf9d",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "2026-06-26-h01のurl_subとして掲載済み（昨日の朝刊で選出）。過去7日間の除外URL一覧に含まれるため重複除外。"
+    },
+    {
+      "id": "2026-06-27-ns32",
+      "title": "キヤノン夏キャッシュバック2026（mapcamera）",
+      "url": "https://www.mapcamera.com/guide/canon-summer-cashback-2026",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "h02（Canon EOS R6 V中記事）に情報を統合済み。独立記事として非選出。"
+    },
+    {
+      "id": "2026-06-27-ns33",
+      "title": "スパイスカレー「はちわん」神保町2号店（tabelog magazine）",
+      "url": "https://magazine.tabelog.com/articles/hachiwan-jinbocho-2gouten",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "h04（食べログカレー百名店）に関連するが、個店情報は汎用性が低く非選出。食べログ百名店のまとめ記事h04を優先。"
+    },
+    {
+      "id": "2026-06-27-ns34",
+      "title": "Star Fox Switch2 GAME Watch レビュー（game.watch.impress/review/rev1/2118406）",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2118406.html",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "s01（Star Foxセレンディピティ）のurl_subとして統合済みのため独立記事として非選出。"
+    }
+  ]
+}
