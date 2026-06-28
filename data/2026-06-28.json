@@ -1,0 +1,401 @@
+{
+  "date": "2026-06-28",
+  "notion_page_id": "38da41a3-cf9b-8103-aea7-d9d179aac7ea",
+  "articles": [
+    {
+      "id": "2026-06-28-t01",
+      "title": "Gemini 3.5 Flash コンピューターユース統合 — Googleが「チャットボットからエージェントへ」の転換を宣言",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "url_sub": [
+        "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+        "https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool"
+      ],
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "2026年6月24日、GoogleがGemini 3.5 Flashにコンピューターユース機能を標準統合。Anthropicが独立モデルとして提供するComputerUseとは異なり主力モデルへ直接組み込んだ点が「転換点」と評される。ブラウザ・モバイル・デスクトップを横断する自律操作エージェントを単一モデルで構築可能になり、100万トークンコンテキストとの組み合わせで長時間の複雑タスク処理が現実的に。OSWorld-Verifiedで78.4%、MCP Atlasで83.6%を記録し、価格はGPT-5.5の約3分の1。TechCrunchは「Googleは次のAIの波をエージェントに賭けた」と総括。The Next Webの分析では機密操作への明示的確認要求と間接プロンプトインジェクション検知による自動停止など企業向け安全機能も実装済み。Angular Agent Skillsなどフロントエンドとエージェント統合が加速する中、LLMプロバイダー側でのコンピューターユース標準化はフロントエンドエンジニアにも直接関係する転換点だ。",
+      "source": "Google Blog / TechCrunch / The Next Web"
+    },
+    {
+      "id": "2026-06-28-n01",
+      "title": "W杯 日本×ブラジル 6/30午前2時 — 20年ぶりの直接対決、史上初ベスト8へアジアの希望を背負う",
+      "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/brazil-japan-recent-information-world-cup-2026-round32-/bltc03eff3d9e07c99e",
+      "url_sub": [
+        "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/tv-broadcast-schedule-japan-world-cup-round32/blt5fedd1a8dd9ffae5",
+        "https://news.yahoo.co.jp/articles/e46aa93298d94360ecb0d510c95149746eb146fd"
+      ],
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "FIFAワールドカップ2026ラウンド32、日本対ブラジルの一戦が2日後に迫った。W杯本大会での両国対決は2006年ドイツ大会以来20年ぶり。日本はグループFを1勝2分2位で突破、ブラジルはグループC1位。放送はフジテレビ系列（地上波）・NHK BS・DAZN（アカウント不要でブラウザ視聴可）。アジア勢9チームのうち決勝T進出は日本とオーストラリアのみで、韓国・イラン・サウジ等7チームが敗退。アジアを代表する立場での戦いとなる。昨年10月の親善試合では日本が3-2逆転勝利の実績あり、ブラジルのエース・ラフィーニャは右太もも負傷で欠場の可能性。南野拓実・中村敬斗・上田綺世が主な得点源で3大会連続ベスト16進出中の日本が初の8強入りを狙う。",
+      "source": "Goal.com 日本 / Yahoo!ニュース"
+    },
+    {
+      "id": "2026-06-28-h01",
+      "title": "DJI Osmo Pocket 4P — 明日6/29発表、初のデュアルカメラで「ポケットジンバルの新標準」へ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000425.000015765.html",
+      "url_sub": [
+        "https://dc.watch.impress.co.jp/docs/news/2120159.html"
+      ],
+      "category": "hobby",
+      "size": "大",
+      "selected": true,
+      "summary": "DJI初のデュアルカメラ搭載ポケットジンバルカメラ「Osmo Pocket 4P」が明日6月29日21時に日本正式発表される。今日（6月28日）まで幕張メッセの「TOKYO OUTDOOR SHOW 2026」で国内初実機展示中。1インチメインカメラ＋60mm相当F1.8望遠の2眼構成は従来のOsmo Pocketシリーズとして初の試み。17ストップのダイナミックレンジとD-Log 2対応、4K/240fps対応、内蔵103GBストレージ、ActiveTrack 8.0搭載。旅行・Vlog・スポーツ撮影をカバーするオールラウンドポケット機材の新標準候補。",
+      "source": "PR TIMES (DJI JAPAN) / デジカメWatch"
+    },
+    {
+      "id": "2026-06-28-t02",
+      "title": "Angular v22 WebMCP — AngularアプリをAIエージェントの「ツール」として公開するexperimental API",
+      "url": "https://briantree.se/angular-webmcp-tools/",
+      "url_sub": [
+        "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/"
+      ],
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "Angular v22で追加されたexperimental機能WebMCPの解説。provideWebMcpTools()でAngularアプリをAIエージェントが呼び出せるツールプロバイダーとして公開できる。DIコンテキスト内でSignalを読み取りながら構造化データを返すため、エージェントがDOMスクレイピングではなく型安全にアプリと連携可能。Agent Skillsとの相性も抜群で、エンタメ業界のWebアプリへのAIエージェント統合を考える上で先進的なトピック。Angular Architectsによればv22はSignal Forms・Aria・Async Reactivity APIの3機能がStable化、OnPushがデフォルト変更検知戦略に変更という「Zoneless前提の統合リリース」。",
+      "source": "Brian Treese / Angular Architects"
+    },
+    {
+      "id": "2026-06-28-t03",
+      "title": "AIコーディングエージェント最新ベンチマーク（2026年6月版）— Claude Code vs Codex vs Gemini CLI",
+      "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+      "url_sub": [
+        "https://www.infoq.com/news/2026/05/code-with-claude/"
+      ],
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "MorphLLMの最新ベンチマーク（2026年6月）によれば、Terminal-Bench 2.1ではCodex CLI (GPT-5.5) 83.4%・Claude Code (Fable 5) 83.1%と事実上同率トップ。SWE-bench VerifiedはFable 5が95.0%でリード。Fable 5はエクスポート規制中で7月1日以降再開予定。OSSではOpenCodeが17.2万スターで最注目株。同週にClaude CodeのManaged Agents機能も公開され、企業プライベートMCPサーバーとの連携・Proactive Workflowsによる大規模問題の分解実行が可能になった。",
+      "source": "MorphLLM / InfoQ"
+    },
+    {
+      "id": "2026-06-28-n02",
+      "title": "今朝の岩手震度5弱 + 今週「揺れの強い地震」3連発 — 防災意識を維持する1週間の総括",
+      "url": "https://weathernews.jp/news/202606/280521quake/",
+      "url_sub": [
+        "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/28/39515.html"
+      ],
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月28日午前5時21分、岩手県沖M6.1で青森・岩手で震度5弱（津波なし）。今週は6/25に岩手県沖で震度6強、6/26に山梨富士五湖で震度6弱と揺れの強い地震が3度発生した異例の1週間。気象予報士は「フィリピン海プレートと北米プレートの複雑な境界域での活動が続いている」と解説。富士山の火山活動との関連は専門家が否定済みだが、余震への注意と土砂災害警戒は継続中。",
+      "source": "ウェザーニュース / tenki.jp"
+    },
+    {
+      "id": "2026-06-28-n03",
+      "title": "中露爆撃機4機が日本周辺を共同飛行 — 参院選前夜の「安全保障デモンストレーション」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162781000",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月27日、中国軍爆撃機2機とロシア軍爆撃機計4機が東シナ海〜沖縄周辺〜四国沖を共同飛行。航空自衛隊が緊急発進（スクランブル）し、政府が「重大な懸念」を伝達。領空侵犯なし。両国機による共同飛行は昨年12月以来。参院選公示（7/3）直前のタイミングで、安全保障議論への影響が注目される。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-28-n04",
+      "title": "日経平均7万円割れ + ドル円161円台後半 — 史上最高値更新から1週間で急反落",
+      "url": "https://www.nikkei.com/article/DGKKZO97108420T20C26A6DTC000/",
+      "url_sub": [
+        "https://www.oanda.jp/lab-education/market_news/2026_06_26_usdjpy/"
+      ],
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月27日（金）の日経平均は7万円を下回る大幅下落（下げ幅は過去5番目規模）。6月18日に史上初の7万円台・最高値を更新したばかりで約2週間での急反落。ドル円は161円台後半と2024年7月以来の円安水準。米GDPが予想を上回りドル買い継続、政府・日銀の介入警戒感が高まっている。",
+      "source": "日本経済新聞 / OANDA Japan"
+    },
+    {
+      "id": "2026-06-28-e01",
+      "title": "VIVANT続編「VIVANT-Adventure Log-」TVer独占配信決定 — 豪華キャスト12か月密着メイキング",
+      "url": "https://www.oricon.co.jp/news/2463846/full/",
+      "url_sub": [
+        "https://eiga.com/news/20260331/6/"
+      ],
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "堺雅人・阿部寛・二宮和也・松坂桃李らの12か月ロケ密着メイキング番組「VIVANT-Adventure Log-」が7月26日（日）の地上波放送開始と連動しTVerで独占配信決定。第1シーズンの蔵出し映像も公開予定。本編は民放ドラマ史上異例の2クール連続放送（アゼルバイジャンロケ敢行）で26名キャスト続投の超大型作品。",
+      "source": "ORICON NEWS / 映画.com"
+    },
+    {
+      "id": "2026-06-28-e02",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL — サイエンスSARU制作の新作TVアニメが7月7日開始",
+      "url": "https://game.watch.impress.co.jp/docs/news/2120150.html",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "7月7日（火）23時よりカンテレ・フジテレビ系で放送開始、Prime Videoでも同日配信。「ダンダダン」で知られるサイエンスSARU制作、監督モコちゃん、脚本は円城塔。EDはMILLENNIUM PARADE feat. Saya Gray, Daniel Caesarの「Blue」。AI日常化時代のSF作品としてエンタメ業界エンジニアにも刺さる文脈。",
+      "source": "GAME Watch"
+    },
+    {
+      "id": "2026-06-28-h02",
+      "title": "DELTARUNE Chapter 5配信中 + Chapter 6「2027年目標・想定より順調」とToby Fox発表",
+      "url": "https://finalweapon.net/2026/06/26/deltarune-chapter-6-release-window/",
+      "url_sub": [
+        "https://gamerch.com/deltarune/992892"
+      ],
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "6月24日にDELTARUNE Chapter 5が全プラットフォーム（Switch/Switch2/PS/PC）で無料配信開始。Toby Foxが6月26日のブログで「Chapter 6の開発は想定より順調で2027年リリース目標、2026年中にChapter 7制作着手も現実的」と表明。Steam同接は29万人でシリーズ最高記録。攻略Wikiは6/28時点で最新情報が更新済み。",
+      "source": "Final Weapon / Gamerch"
+    },
+    {
+      "id": "2026-06-28-t04",
+      "title": "AWS Blocks プレビュー公開 — TypeScriptだけでAWSバックエンドを定義する「Infrastructure from Code」",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview/",
+      "url_sub": [
+        "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading"
+      ],
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "AWSがAWS Blocksをパブリックプレビューで公開。TypeScriptのみでPostgres・認証・リアルタイムメッセージングを含むAWSバックエンドを定義できる。AIエージェントによるコード生成前提の設計でBedrock連携Blockも提供。ZennのAWS Japanが実践解説記事を公開中。"
+    },
+    {
+      "id": "2026-06-28-t05",
+      "title": "Claude Tag パブリックベータ — SlackにAIチームメンバーが参加する新しいコラボレーション形態",
+      "url": "https://fortune.com/2026/06/23/anthropic-claude-tag-virtual-employee-tool-slack/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "AnthropicがClaude TagをパブリックベータでSlack向けに公開。@Claudeでタグ付けするとタスクを段階的に分解して自律実行、Ambient Modeでは放置スレッドへのフォローアップも自発的に行う。チーム固有のメモリと指定ツール・データへのアクセス権を持つ。Team・Enterpriseプラン対象。"
+    },
+    {
+      "id": "2026-06-28-n05",
+      "title": "W杯アジア9チーム中7チームがグループ敗退 — 決勝T進出は日本・オーストラリアのみ",
+      "url": "https://news.yahoo.co.jp/articles/e46aa93298d94360ecb0d510c95149746eb146fd",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "出場枠拡大で9チームが参戦したアジア勢のうち決勝T進出は日本とオーストラリアのみ。韓国・イラン・サウジ・カタール・イラク・ヨルダン・ウズベキスタンが敗退。日本はアジア代表の重みを背負ってブラジルへ挑む。"
+    },
+    {
+      "id": "2026-06-28-n06",
+      "title": "米・イラン核協議 — トランプ「査察官が現地入り」も最終合意は持ち越し",
+      "url": "https://www.jetro.go.jp/biznews/2026/06/c18d42a3ac317033.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6月17日の覚書署名後、IAEA査察官受け入れが前進しトランプ大統領が「適切な時期に現地入り」と表明。ただし高濃縮ウラン処理など主要論点は未決着で最終合意は持ち越し。日本の原油輸入（ホルムズ依存91%）への影響に注視が必要。"
+    },
+    {
+      "id": "2026-06-28-n07",
+      "title": "富士山火山活動「異常なし」専門家も関連否定 — 余震と土砂災害への警戒は継続",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162001000",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6/26の山梨富士五湖震度6弱を受け、気象庁と専門家が「富士山の火山活動との関連は低い」と説明。震源と富士山は約30km離れており火山性データに変化なし。余震（M3〜4台が複数発生）と土砂災害への警戒は継続。"
+    },
+    {
+      "id": "2026-06-28-e03",
+      "title": "BLEACH 千年血戦篇-禍進譚- 7/25最終クール開始 — 石田雨竜の謎・ユーハバッハの能力がいよいよ",
+      "url": "https://www.animatetimes.com/tag/details.php?id=25417",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "テレ東系7/25（土）23時放送開始。監督・田口智久、新ブランド「PIERROTFILMS」制作。第1〜40話のYouTube期間限定無料配信も展開中で最終章完結前に復習可能。"
+    },
+    {
+      "id": "2026-06-28-e04",
+      "title": "SEVENTEEN V8「V8」明日6/29リリース — ファレル・ウィリアムスとのコラボがタイトル曲",
+      "url": "https://realsound.jp/2026/05/post-2410357.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "SEVENTEENのTHE 8×VERNONによる新ユニット「V8」の1stミニアルバムが明日リリース。タイトル曲「singasong」はファレル・ウィリアムスとのコラボ。hyperpopベースの全8曲。7月11〜12日にゴヤンで単独コンサートも予定。"
+    },
+    {
+      "id": "2026-06-28-e05",
+      "title": "映画「黒牢城」初週邦画1位・Rotten Tomatoes 94% — カンヌ・プレミアでスタンディングオベーション",
+      "url": "https://www.newscafe.ne.jp/article/2026/06/23/3019643.html",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "本木雅弘主演（6/19公開）が初週末に動員19万6千人・2.7億円で邦画1位スタート。カンヌでのスタンディングオベーションに続き国内でも好発進。日本映画の国際的評価として注目。"
+    },
+    {
+      "id": "2026-06-28-e06",
+      "title": "テレ東音楽祭2026夏 本日18:30〜生放送 — aespa・LUNA SEA・AKB48ら出演",
+      "url": "https://www.thefirsttimes.jp/news/0000831640/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "本日6月28日（日）18:30〜22:54に生放送。aespaが21時台に出演予定。LUNA SEA、AKB48、モナキらも参加。MCはSnow Man・深澤辰哉と松本若菜。伝説のドラマソングSPメドレーなど特別企画も。"
+    },
+    {
+      "id": "2026-06-28-h03",
+      "title": "ファイアーエムブレム 万紫千紅 9月17日発売確定 — Nintendo Directで風花雪月世界観の新作が正式日程",
+      "url": "https://www.famitsu.com/article/202606/77806",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "6月9日のNintendo Directで発売日が9月17日に確定。風花雪月とつながる世界観で4人主人公・闘技場ストーリー。パッケージ版9,980円/ダウンロード版8,980円。Switch 2向け大型RPGとして秋の注目作。"
+    },
+    {
+      "id": "2026-06-28-s01",
+      "title": "FUJI ROCK 2026 タイムテーブル発表 — Hi-STANDARD 27年ぶり復活・XG・藤井風、音楽フェスが夏を塗り替える",
+      "url": "https://gekirock.com/news/2026/06/fuji_rock_festival26_timetable.php",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "7月24〜26日開催。ヘッドライナーはThe xx・KHRUANGBIN・MASSIVE ATTACK。日本勢はXG・藤井風・Hi-STANDARD（27年ぶり）・ASIAN KUNG-FU GENERATION（結成30周年）が目玉。K-POPとインディーロックが共存するラインナップは音楽業界の地殻変動を可視化している。"
+    },
+    {
+      "id": "2026-06-28-s02",
+      "title": "BTS FIFA W杯2026決勝ハーフタイムショー — K-POPがサッカーの「世界的祭典」を完全に席巻した意味",
+      "url": "https://bts613-bighit.com/bts-fifa-world-cup-2026/",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "7月19日（日）MetLifeスタジアムでW杯2026決勝ハーフタイムショーにBTSが出演。マドンナ・シャキーラとの共同ヘッドライナー、演出はColdplayのクリス・マーティン。K-POPアーティストのW杯決勝出演は史上初。"
+    },
+    {
+      "id": "2026-06-28-ns01",
+      "title": "Signal Forms Are Finally Production-Ready in Angular 22 — Here's What Changes (Part 2)",
+      "url": "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外。t02（Angular v22 WebMCP）に関連情報として統合。"
+    },
+    {
+      "id": "2026-06-28-ns02",
+      "title": "Announcing Angular v22 (Angular Blog)",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外。"
+    },
+    {
+      "id": "2026-06-28-ns03",
+      "title": "TypeScript 7.0 RC Ships: Go Compiler Cuts VS Code Build Time (TechTimes)",
+      "url": "https://www.techtimes.com/articles/318666/20260618/typescript-70-rc-ships-go-compiler-cuts-vs-code-build-time-77-seconds-seven.htm",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "TS 7.0 RCは2026-06-26・27で複数回掲載済み。今号のts関連枠はAWS BlocksとClaude Tagを優先のため非選出。"
+    },
+    {
+      "id": "2026-06-28-ns04",
+      "title": "TSKaigi 2026 TS 7 Keynote",
+      "url": "https://2026.tskaigi.org/talks/37",
+      "source": "TSKaigi 2026",
+      "category": "tech",
+      "size": null,
+      "selected": false,
+      "summary": "5月開催のカンファレンスで鮮度が低い。今号はGemini 3.5 FlashとAngular WebMCPを優先のため非選出。"
+    },
+    {
+      "id": "2026-06-28-ns05",
+      "title": "台風7号・8号後続情報（tenki.jp)",
+      "url": "https://tenki.jp/bousai/typhoon/2607/",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外。"
+    },
+    {
+      "id": "2026-06-28-ns06",
+      "title": "参院選 自民幹事長会議（jimin.jp)",
+      "url": "https://www.jimin.jp/news/information/210967.html",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外。"
+    },
+    {
+      "id": "2026-06-28-ns07",
+      "title": "参院選争点 物価高・消費税（nikkei.com)",
+      "url": "https://www.nikkei.com/article/DGXZQOUA220I60S5A620C2000000/",
+      "category": "news",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外。"
+    },
+    {
+      "id": "2026-06-28-ns08",
+      "title": "幼女戦記Ⅱ 7月8日放送開始（famitsu.com 77172）",
+      "url": "https://www.famitsu.com/article/202606/77172",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外。"
+    },
+    {
+      "id": "2026-06-28-ns09",
+      "title": "Star Foxレビュー（famitsu.com 78816）",
+      "url": "https://www.famitsu.com/article/202606/78816",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外（2026-06-27 s01で掲載済み）。"
+    },
+    {
+      "id": "2026-06-28-ns10",
+      "title": "食べログ カレー百名店2026（prtimes）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001033.000001455.html",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "過去7日間の掲載済みURLリストに含まれるため除外（2026-06-27 h04相当）。"
+    },
+    {
+      "id": "2026-06-28-ns11",
+      "title": "Insta360 Luna Ultra レビュー",
+      "url": "https://yamazuki.net/insta360-luna-ultra-review/",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "6/15発売の記事で鮮度がやや低い。今号はOsmo Pocket 4P（明日発表）を大記事に優先採用のため非選出。"
+    },
+    {
+      "id": "2026-06-28-ns12",
+      "title": "ライカ SL3-P 6/26発売",
+      "url": "https://weekly.ascii.jp/elem/000/004/413/4413768/",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "110万円の超ハイエンド機で一般ユーザーへの関連性が限定的。今号はDJI Osmo Pocket 4Pを優先のため非選出。"
+    },
+    {
+      "id": "2026-06-28-ns13",
+      "title": "FF7リバース Switch2版レビュー",
+      "url": "https://dengekionline.com/article/202606/76679",
+      "category": "hobby",
+      "size": null,
+      "selected": false,
+      "summary": "6/3発売で鮮度がやや低い。今号はDELTARUNE・FE万紫千紅を優先のため非選出。"
+    },
+    {
+      "id": "2026-06-28-ns14",
+      "title": "GTO 90秒トレーラー公開（natalie.mu/comic）",
+      "url": "https://natalie.mu/comic/news/676701",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "6/18の記事で鮮度がやや低い。今号のエンタメ中記事はVIVANT・攻殻機動隊を優先のため非選出。"
+    },
+    {
+      "id": "2026-06-28-ns15",
+      "title": "NewJeans カムバック準備（livedoor）",
+      "url": "https://news.livedoor.com/topics/detail/31111990/",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "カムバック情報として価値はあるが具体的な日程が未定のため今号は見送り。"
+    },
+    {
+      "id": "2026-06-28-ns16",
+      "title": "FUJI ROCK 5thラインナップ（gekirock）",
+      "url": "https://gekirock.com/news/2026/06/fuji_rock_festival26_5th_lineup.php",
+      "category": "entertainment",
+      "size": null,
+      "selected": false,
+      "summary": "s01（Fuji Rock タイムテーブル）にまとめて統合済みのため独立記事として非選出。"
+    }
+  ]
+}
