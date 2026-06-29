@@ -1,0 +1,386 @@
+{
+  "date": "2026-06-29",
+  "notion_page_id": "38ea41a3-cf9b-8191-b238-e1ed0669d0e0",
+  "articles": [
+    {
+      "id": "2026-06-29-t01",
+      "title": "TanStack npmパッケージ「Mini Shai-Hulud」供給チェーン攻撃の全容 — 週1200万DLのrouter等42パッケージが6分で汚染",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "脅威グループ「TeamPCP」がpull_request_target悪用・GitHub ActionsキャッシュポイズニングによるOIDCトークン窃取を連鎖させ、@tanstack/*の42パッケージ84バージョンを汚染。SLSA Build Level 3の有効な証明書付き悪意パッケージという前例のない事態。全汚染バージョンは非推奨化済み。",
+      "source": "TanStack Blog"
+    },
+    {
+      "id": "2026-06-29-t02",
+      "title": "OpenAI GPT-5.6シリーズ(Sol/Terra/Luna)が限定プレビュー公開 + Claude Mythos 5が米政府承認で100社超に再開",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "OpenAIがGPT-5.6 Sol/Terra/Lunaの3モデルをAPIで限定プレビュー公開。一方AnthropicはClaude Fable 5・Mythos 5について米政府の輸出規制で一時停止。6月26日に商務長官がMythos 5を100社超に再開認可したがFable 5は依然停止中。モデルの「利用可能性」が「性能」と並ぶ選定基準として浮上。",
+      "source": "OpenAI / CNBC"
+    },
+    {
+      "id": "2026-06-29-t03",
+      "title": "Angular v22 実装詳細 — Signal Forms安定版・Vitest統合・WebMCPの全変更点",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "Angular v22の全変更点をANGULARarchitectsが解説。Signal FormsがStable・OnPushがデフォルト変更検知戦略・VitestがデフォルトテストランナーへKarmaを置き換え。provideWebMcpTools()でAngularアプリをAIエージェントのツールとして公開するWebMCP APIが実験的追加。",
+      "source": "ANGULARarchitects"
+    },
+    {
+      "id": "2026-06-29-t04",
+      "title": "Claude Code、/rewind コマンドとultracodeモード追加 — 任意チェックポイントへ会話+ファイルを同時ロールバック",
+      "url": "https://www.mindstudio.ai/blog/claude-code-rewind-command-rollback",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "Claude Codeに/rewindコマンドが追加。/clear実行前を含む任意チェックポイントまで会話履歴とClaudeによるファイル変更の両方をロールバック。/effort ultracodeで有効化できるultracodeモードはxhigh推論+自動ワークフロー計画でコードベース全体マイグレーションに対応。CPU使用率も約37%削減。",
+      "source": "MindStudio"
+    },
+    {
+      "id": "2026-06-29-t05",
+      "title": "Next.js 16.3 Preview — Instant NavigationsでSPA並みナビゲーションをServer Componentsで実現",
+      "url": "https://nextjs.org/blog/next-16-3-instant-navigations",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "Stream/Cache/Blockの3モードで即時ナビゲーションを制御するInstant Navigationsが目玉。AI連携面ではAGENTS.md・Agent Browser・MCP Server刷新も含む。native Node.js streamsによる高負荷時の安定性向上も。",
+      "source": "Next.js"
+    },
+    {
+      "id": "2026-06-29-t06",
+      "title": "TypeScript 7（tsgo）RC — GoへのフルポートでビルドをTS6比最大10倍高速化",
+      "url": "https://zenn.dev/chot/articles/30da2a9194a081",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "TypeScriptコンパイラのGo言語フルポート版「tsgo」がRC段階。型システム・文法・APIは従来と同一を維持しながらビルド速度を最大10倍以上改善。tsgoコマンドで独立インストール可能。Angularプロジェクトへの影響も大きい転換点。",
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-06-29-t07",
+      "title": "Anthropic IPO S-1を機密提出 — 評価額$965B・年率$47B収益ランレート",
+      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "AnthropicがSECに機密S-1草案を提出しIPOに向けた手続きを開始。評価額$965B・年換算$47Bの収益ランレート。Claudeのエンタープライズ・コーディング利用急拡大が背景。上場は早くて2026年10月以降。",
+      "source": "CNBC"
+    },
+    {
+      "id": "2026-06-29-t08",
+      "title": "LogRocket AIコーディングツール6月ランキング — OpenCodeが初登場1位、Cursor・Windsurfを抜く",
+      "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "6月ランキングでオープンソースエージェント「OpenCode」が初登場1位。モデルランキングはClaude Opus 4.7（WebDev Arena 1567 Elo）が首位、GPT-5.5が2位。git worktrees活用のマルチエージェント並列化が差別化ポイントに。",
+      "source": "LogRocket Blog"
+    },
+    {
+      "id": "2026-06-29-t09",
+      "title": "Claude Opus 4.8がGitHub Copilotで一般提供 — SWE-bench Pro 69.2%・プロンプトキャッシュ閾値を半減",
+      "url": "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Claude Opus 4.8がGitHub Copilotで一般提供開始。SWE-bench Pro 69.2%（Opus 4.7の64.3%から向上）。プロンプトキャッシュ最小トークン数が2048→1024に半減。最大128kトークン出力・1Mコンテキストを維持。",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "2026-06-29-t10",
+      "title": "Claude Enterprise OktaでMCP一元管理 — Asana・Figma・Linear等7コネクタをゼロタッチ展開",
+      "url": "https://claude.com/blog/enterprise-managed-auth",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "AnthropicがEnterprise向けにOkta経由でMCPコネクタを組織全体へプロビジョニングできるEnterprise Managed Auth（EMA）を発表。Asana・Atlassian・Canva・Figma・Granola・Linear・Supabaseの7コネクタ対応。",
+      "source": "Anthropic"
+    },
+    {
+      "id": "2026-06-29-n01",
+      "title": "W杯 日本×ブラジル 明日午前2時キックオフ — 20年ぶり直接対決、史上初ベスト8への一戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162861000",
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "FIFAワールドカップ2026ラウンド32、日本対ブラジルが6月30日午前2時キックオフ（ヒューストン NRGスタジアム）。W杯本大会での両国対決は2006年以来20年ぶり。昨年10月親善試合で日本が3-2逆転勝利。アジア9チーム中7チームが敗退しており日本はアジア代表として臨む大一番。",
+      "source": "NHKニュース / Goal.com"
+    },
+    {
+      "id": "2026-06-29-n02",
+      "title": "米・イランが全軍事行動停止で合意 + サウジが4カ月ぶりホルムズ海峡経由の原油出荷再開",
+      "url": "https://www.jiji.com/jc/article?k=2026062900104&g=int",
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "米・イランが6月29日に全軍事行動の停止で合意し、6月30日にカタール・ドーハで協議予定。ホルムズ海峡の安全確保が前進したことでサウジアラビアが約4カ月ぶりにペルシャ湾からの原油出荷を再開。国際原油相場は下落。日本の原油輸入はホルムズ依存度91%で直接影響がある。",
+      "source": "時事通信 / ジェトロ"
+    },
+    {
+      "id": "2026-06-29-n03",
+      "title": "中国が対日輸出規制第2弾 — 防衛省防衛研究所など20社・団体追加、計40社・団体に",
+      "url": "https://www.nikkei.com/article/DGXZQOGM292260Z20C26A6000000/",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "中国商務省が6月29日、防衛省防衛研究所など日本の20の団体・企業を輸出規制リストに追加し軍民両用品の対日輸出を即時禁止。2月の第1弾に続く措置で対象は計40社・団体。高市首相の台湾有事答弁への対抗措置とみられ、参院選前に対日経済的威圧が再び強まった。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-29-n04",
+      "title": "日経平均107円高で反発も序盤1300円超安 — ドル円161円台後半で約40年ぶり安値圏",
+      "url": "https://www.nikkei.com/article/DGXZQOFL293PT0Z20C26A6DTC000/",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月29日の日経平均は終値で前週末比107円高の6万9468円と反発したが、序盤に1300円超下落する波乱の展開。ドル円は161円80銭前後で1980年代以来の水準となる162円台手前での攻防が続く。来週の米FRB議長発言・米雇用統計が次の材料。",
+      "source": "日本経済新聞 / 株探"
+    },
+    {
+      "id": "2026-06-29-n05",
+      "title": "近鉄京都線が京都駅で脱線 — 始発列車・乗客30人、けが人なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163381000",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月29日午前5時13分、近鉄京都線の京都駅で橿原神宮前行き始発普通列車（4両・乗客30人）がホームを出た直後に脱線。2〜3両目で発生しけが人なし。京都駅〜上鳥羽口駅間で上下線運転見合わせ、振り替え輸送を実施。復旧は長時間かかる見込み。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-29-n06",
+      "title": "ベネズエラ連続大地震 死者1400人超 — 行方不明5万人以上、捜索難航",
+      "url": "https://www.nikkei.com/article/DGXZQOGN2801V0Y6A620C2000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6/24にベネズエラで発生したMw7.2+7.5の連続大地震（1900年以来最大規模）で死者1400人超・行方不明5万人以上。国際支援が進むが捜索は難航。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-29-n07",
+      "title": "欧州熱波で1300人超死亡 — WHOが各国に対策要請、フランスで原発停止も",
+      "url": "https://www.nikkei.com/article/DGXZQOGR2833P0Y6A620C2000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "WHOが6/28、欧州で6/21以降の超過死亡が1300人超と発表。フランス・ドイツで記録的高温となり原発停止も発生。ヒートドーム現象が2カ月連続で発生。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-29-n08",
+      "title": "沖縄が梅雨明け — 平年より8日遅く、昨年より22日遅い",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/06/29/39527.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6月29日、気象庁が沖縄の梅雨明けを発表。平年（6/21頃）より8日遅く昨年（6/7頃）より22日遅い。梅雨期間中の那覇の降水量は速報値854mm。向こう1週間は太平洋高気圧に覆われ夏空が広がる見込み。",
+      "source": "tenki.jp"
+    },
+    {
+      "id": "2026-06-29-n09",
+      "title": "参院選 公示まで4日 — 各党が選挙戦準備を本格化",
+      "url": "https://news.web.nhk/senkyo/schedule/focus/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "7月3日公示・20日投開票の参院選まで4日。各党が候補者擁立と選挙戦準備を本格化。消費税・安保・社会保障などが主要争点。W杯日本戦と重なる週となり有権者の注目が分散する可能性も。",
+      "source": "NHK"
+    },
+    {
+      "id": "2026-06-29-e01",
+      "title": "SEVENTEEN V8「V8」本日リリース — THE8×VERNON、ハイパーポップで描く「消耗した青春の回復」",
+      "url": "https://8and.jp/2026/06/27/seventeen%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8E%E3%83%B3%EF%BC%86%E3%83%87%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%88%E3%80%81%E6%96%B0%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%80%8Cv8%E3%80%8D%E3%81%A76/",
+      "category": "entertainment",
+      "size": "大",
+      "selected": true,
+      "summary": "SEVENTEENのTHE8×VERNONによる新ユニット「V8」が1stミニアルバム『V8』で本日デビュー。タイトル曲「singasong」はドイツDJ・Mechatokとコラボしたハイパーポップ。Pharrell Williams・KIRARA・Dylan Bradyら著名プロデューサーが参加した全8曲。前日の梨泰院DJパーティー型プレリスも話題に。",
+      "source": "8and / DANMEE / NiEW"
+    },
+    {
+      "id": "2026-06-29-e02",
+      "title": "VIVANT第2シーズン 7月26日放送開始 — 民放史上異例の2クール、アゼルバイジャンロケ敢行",
+      "url": "https://www.oricon.co.jp/news/2461051/full/",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "堺雅人主演VIVANT続編が7月26日（日）より放送開始。民放ドラマ史上異例の2クール連続放送でアゼルバイジャンを中心に3カ月超の海外ロケ敢行。前作キャスト26名続投。新キャストに宮下今日子とタイ俳優OHMが参加。U-NEXT独占見放題配信。",
+      "source": "ORICON NEWS"
+    },
+    {
+      "id": "2026-06-29-e03",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL — 7月7日よりPrime Video最速配信、「人形使い」示唆の予告も解禁",
+      "url": "https://www.famitsu.com/article/202606/78491",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "TVアニメ『攻殻機動隊 THE GHOST IN THE SHELL』が7月7日カンテレ・フジ系放送開始、同日Prime Videoで最速配信。制作サイエンスSARU・監督モコちゃん・脚本円城塔。新たな予告で「人形使い」の存在が示唆。EDはMILLENNIUM PARADE feat. Saya Gray, Daniel Caesar。",
+      "source": "ファミ通.com"
+    },
+    {
+      "id": "2026-06-29-e04",
+      "title": "Stray Kids 新ワールドツアー「RUN IT」 — 国立競技場公演で海外男性アーティスト史上初の快挙",
+      "url": "https://www.oricon.co.jp/news/2463078/full/",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "Stray Kidsがワールドツアー「RUN IT」を発表。8月29〜30日に国立競技場（MUFG STADIUM）での単独公演を含む日本7公演。海外男性アーティストの国立競技場単独公演は史上初。総動員約37万人見込み。",
+      "source": "ORICON NEWS"
+    },
+    {
+      "id": "2026-06-29-e05",
+      "title": "亀梨和也×田中みな実 本日結婚・妊娠を発表",
+      "url": "https://mdpr.jp/news/detail/4460470",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "元KAT-TUNの亀梨和也（40）と田中みな実（39）が6月29日、結婚と第1子妊娠を本日発表。2024年ドラマ「Destiny」共演を経て交際に発展。",
+      "source": "モデルプレス"
+    },
+    {
+      "id": "2026-06-29-e06",
+      "title": "BLEACH 千年血戦篇-禍進譚- 7月25日最終クール放送開始",
+      "url": "https://eiga.com/news/20260628/7",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "7月25日テレビ東京系にて最終クール放送開始。OP jo0ji「I-BULL」、ED 9Lana「螺旋」。第1〜3話の劇場先行上映は6月21日に実施済み。",
+      "source": "映画.com"
+    },
+    {
+      "id": "2026-06-29-e07",
+      "title": "映画「Michael マイケル」2週連続1位 — 累計興収27億円突破",
+      "url": "https://eiga.com/ranking/jp/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "マイケル・ジャクソン伝記映画「Michael」が6/19〜21週末ランキングで2週連続1位。3日間興収7.9億円・累計27億円超え。2位は本木雅弘主演「黒牢城」が初登場。",
+      "source": "映画.com"
+    },
+    {
+      "id": "2026-06-29-e08",
+      "title": "無職転生III 7月5日放送開始 — ED中島美嘉、OP大原ゆい子",
+      "url": "https://www.animatetimes.com/news/details.php?id=1774678782",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "7月5日より毎週日曜TOKYO MX・BS11等で放送開始。OP「決意の唄」（大原ゆい子）、ED「祈り、終われば」（中島美嘉）。原作第13巻からストーリーが展開。ABEMA同日配信。",
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-06-29-e09",
+      "title": "フジロック2026 一部アーティストキャンセル — TINARIWEN・JAPANESE BREAKFASTが出演取りやめ",
+      "url": "https://www.fujirockfestival.com/artist/index",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "7月24〜26日苗場で開催のフジロック2026でTINARIWENとJAPANESE BREAKFASTがキャンセル。TURNSTILE・MOGWAI・Hi-STANDARD・The xx等は出演維持。",
+      "source": "FUJI ROCK公式"
+    },
+    {
+      "id": "2026-06-29-h01",
+      "title": "DJI Osmo Pocket 4P — 本日21時に正式発売！ Pocketシリーズ初のデュアルカメラ搭載",
+      "url": "https://av.watch.impress.co.jp/docs/news/2119448.html",
+      "category": "hobby",
+      "size": "大",
+      "selected": true,
+      "summary": "本日6月29日21時に正式発売。Pocketシリーズ初のデュアルカメラ（1インチワイド20mm f/2.0＋1/1.28インチ望遠60mm f/1.8）搭載。4K/240fps・17ストップDR・D-Log 2・103GB内蔵・ActiveTrack 8.0。光学3倍中心にロスレス6倍・デジタル12倍ズームが可能。Classic Black/Pearl Whiteの2色展開。",
+      "source": "AV Watch / トラベルWatch / ギズモード"
+    },
+    {
+      "id": "2026-06-29-h02",
+      "title": "Sony α7R VI 発売後評価 — 6680万画素×30fps連写、「高解像と動体を両立した唯一の選択肢」",
+      "url": "https://snapgadget.jp/sony-a7r6-evolution/",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "6月5日発売のα7R VIの発売後評価がまとまってきた。完全積層センサーによる30fps連写・プリ撮影機能・α1 IIと同等の動画性能が注目点。6100万画素を維持しつつ動体性能が大幅強化。実売約74万円。",
+      "source": "SnapGadget"
+    },
+    {
+      "id": "2026-06-29-h03",
+      "title": "DELTARUNE Chapter 5 シークレットボス「Mad Mew Mew」完全攻略",
+      "url": "https://mudauchi.info/gnr/articles/14695/",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "Chapter 5の隠しコンテンツ「狐の部屋」を徹底攻略。全5匹の狐を探してピンクコインを集め、シークレットボス「Mad Mew Mew（Pink）」にアクセスする方法を解説。通常攻撃ではなくDoki Meterを満たす「フラーティング」で攻略する変則バトルが独特。",
+      "source": "ムダウチゲームズ"
+    },
+    {
+      "id": "2026-06-29-h04",
+      "title": "ゼルダ 時のオカリナ Switch2リメイク — 2026年内発売確定、詳細は続報待ち",
+      "url": "https://gamewith.jp/zelda-tokino-ocarina/563328",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "Nintendo Direct 2026.6.9発表のSwitch2専用フルリメイク。2026年内発売確定・Switch2専用。公開ティザーはリンクが横たわるシーンのみ。ゲームシステムや追加要素などの詳細は未発表。シリーズ40周年記念作。",
+      "source": "ゲームウィズ"
+    },
+    {
+      "id": "2026-06-29-h05",
+      "title": "Canon EOS R6 V 6月下旬発売 — 7Kオープンゲート・4K120p・内蔵冷却ファン搭載のフルサイズ動画機",
+      "url": "https://asobinet.com/canon-eos-r6-v-officially-announced/",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "3250万画素フルサイズCMOS＋DIGIC X搭載。7Kオープンゲート記録・4K120pに対応。内蔵冷却ファンで長時間配信にも対応。ソニーα7R VIと並ぶ2026年夏の注目フルサイズ動画機。",
+      "source": "とるなら"
+    },
+    {
+      "id": "2026-06-29-h06",
+      "title": "食べログ カレー百名店2026 初選出26店まとめ — スパイス融合系が全国で台頭",
+      "url": "https://genicpress.com/2148685/",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "第8回食べログカレー百名店2026の初選出26店を詳細紹介。TOKYO初選出に「創作カレーMANOS」（旧ヤム邸出身）・「SPICECURRY KERAKU」（小麦粉不使用）など。全国規模でスパイス融合系新店が台頭。",
+      "source": "GENIC PRESS"
+    },
+    {
+      "id": "2026-06-29-h07",
+      "title": "DELTARUNE Chapter 5 感想・考察まとめ",
+      "url": "https://note.com/gonucho/n/nd06093dacf9d",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "Chapter 5プレイヤーの生の感想と考察がnoteに多数投稿。ストーリーの感情的な山場・伏線・世界観への考察を網羅。Steam同接29万人でシリーズ最高記録を達成中。",
+      "source": "note"
+    },
+    {
+      "id": "2026-06-29-s01",
+      "title": "韓国ウォン28年ぶり安値1500ウォン台 — K-POPグローバル全盛期と通貨危機の皮肉な逆説",
+      "url": "https://news.yahoo.co.jp/articles/0ccc58996b654dcf6d9f8e34ec06dce7d930e836",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "韓国ウォンが1ドル=1500ウォン台で推移し1997年通貨危機以来28年ぶりの安値圏に。外貨準備高も前月比40億ドル減。FRBの高金利・中東情勢リスク回避・韓国政治混乱が重なった「複合通貨危機」の様相。Stray Kidsが国立競技場を制覇する一方、韓国経済は苦境——コンテンツ輸出力と通貨の強さが必ずしも連動しない現実。",
+      "source": "Yahoo!ニュース（KOREA WAVE）"
+    },
+    {
+      "id": "2026-06-29-s02",
+      "title": "2026 MAMA AWARDS 11月に京セラドーム大阪開催 — K-POPの「祭典が日本に来る」インバウンド戦略の深化",
+      "url": "https://mnetjp.com/news/detail/20260330182824/",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "世界最大級のK-POP授賞式「2026 MAMA AWARDS」が11月20〜21日に京セラドーム大阪で開催。タイトルスポンサーにVisaがつき大阪観光局との連携も。IVE・aespa・Stray Kids等の出演が期待。",
+      "source": "Mnet Japan"
+    },
+    {
+      "id": "2026-06-29-s03",
+      "title": "EVAN（元ENHYPEN・ヒスン）ソロデビュー「RIDE OR DIE」 — K-POPハイパーポップ新潮流の象徴",
+      "url": "https://tvfan.kyodo.co.jp/music/news-music/1517042",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "ENHYPENを脱退しEVANとして活動する元メンバー・ヒスンが6月22日にソロデビューシングル「RIDE OR DIE」をリリース。オルタナ×ハイパーポップ融合でSEVENTEEN V8と同じ流れ。K-POP新世代の表現の広がりを示す一枚。",
+      "source": "TVfan（共同通信）"
+    }
+  ]
+}
