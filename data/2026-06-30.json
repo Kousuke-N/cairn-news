@@ -1,0 +1,276 @@
+{
+  "date": "2026-06-30",
+  "notion_page_id": "38fa41a3-cf9b-8121-a516-f4e3ea0c827f",
+  "articles": [
+    {
+      "id": "2026-06-30-t01",
+      "title": "SpaceX が Cursor を600億ドルで買収 — AI最大手IDEが「ロケット会社」傘下に",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "category": "tech",
+      "size": "大",
+      "selected": true,
+      "summary": "SpaceXがAIコーディングアシスタントCursor開発元Anysphereを600億ドルの全株式交換で買収。CursorはARR40億ドル超でFortune 500の約50%が導入する最大手AIコードエディタ。Q3 2026クローズ予定。AI IDE最大手が独立プレイヤーでなくなる歴史的転換点。",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "2026-06-30-t02",
+      "title": "WebMCP が Chrome 149 でOrigin Trial 開始 — AngularアプリをAIエージェントのツールに",
+      "url": "https://developer.chrome.com/docs/ai/webmcp",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "WebMCPがChrome 149〜156のOrigin Trialに移行。Angular 22の`provideWebMcpTools()`でSignal Formsからツール定義が自動生成され、AIエージェントがWebアプリのフォームをAPI的に操作できる。Firefox Q3・Safari Q4対応予定。",
+      "source": "Chrome for Developers"
+    },
+    {
+      "id": "2026-06-30-t03",
+      "title": "GitHub Copilot が完全従量課金（AI Credits）に移行 — 月額制から「使った分だけ」へ",
+      "url": "https://releasebot.io/updates/openai",
+      "category": "tech",
+      "size": "中",
+      "selected": true,
+      "summary": "6月1日よりGitHub CopilotがAI Credits（$0.01/件）による従量課金制に移行完了。モデル・機能によってクレジット消費量が異なり高性能モデル使用時はコスト増。月次利用状況を意識したモデル選択運用が必要に。",
+      "source": "Releasebot / GitHub"
+    },
+    {
+      "id": "2026-06-30-t04",
+      "title": "OpenAI GPT-5.6 Sol、米政府の要請で20組織のみに限定プレビュー",
+      "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "OpenAIがGPT-5.6（Sol/Terra/Luna）を公開したが国家安全保障を理由に初期アクセスは約20の信頼パートナー組織のみに限定。一般提供は数週間後の見込み。Solはコーディング・科学推論・エージェントワークフローで最高性能。",
+      "source": "Axios"
+    },
+    {
+      "id": "2026-06-30-t05",
+      "title": "Claude Security パブリックベータ公開 — Enterprise向けコード脆弱性スキャン",
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Anthropic がClaude Enterprise顧客向けにClaude Securityをパブリックベータ公開。Claude Opus 4.7ベースでコードの脆弱性スキャン・パッチ生成を行う多段階検証パイプライン搭載。CrowdStrike・Palo Alto Networks等と統合。",
+      "source": "Anthropic"
+    },
+    {
+      "id": "2026-06-30-t06",
+      "title": "Vite 8.1 リリース — Rolldown 1.1.2搭載・移行リグレッション修正",
+      "url": "https://vite.dev/blog/announcing-vite8-1",
+      "category": "tech",
+      "size": "小",
+      "selected": true,
+      "summary": "Rust製バンドラーRolldown搭載Vite 8の初マイナーアップデート。Rolldown 1.1.2へ更新しVite 8移行時のリグレッションを複数修正。Vite 8は3月リリースで最大30倍の高速ビルドを実現しており、8.1は実用安定性を高める位置付け。",
+      "source": "Vite"
+    },
+    {
+      "id": "2026-06-30-t07",
+      "title": "SpaceX買収後のAIコーディングツールランキング2026年6月",
+      "url": "https://www.developersdigest.tech/blog/best-ai-coding-tools-june-2026-post-fable5",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "Fable 5停止・Cursor買収後の市場再評価。Gemini 2.5 Proが科学推論、Claude Opus 4.8がコーディングエージェントで高評価。OpenCodeが独立系として台頭。",
+      "source": "Developers Digest"
+    },
+    {
+      "id": "2026-06-30-t08",
+      "title": "Angular 22 WebMCP統合詳細 — Signal Forms が AIエージェントツールに自動変換",
+      "url": "https://angular.dev/ai/webmcp",
+      "category": "tech",
+      "size": "小",
+      "selected": false,
+      "summary": "Angular 22のWebMCP統合詳細。experimentalWebMcpToolオプションでJSON Schemaが自動生成されAIエージェントがフォームをAPIとして操作可能に。",
+      "source": "Angular"
+    },
+    {
+      "id": "2026-06-30-n01",
+      "title": "W杯 日本×ブラジル 1-2 逆転負け — 先制も90+5分に決勝点を許し16強進出ならず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163871000",
+      "category": "news",
+      "size": "大",
+      "selected": true,
+      "summary": "FIFAワールドカップ2026ラウンド32でブラジルが日本に2-1で勝利。前半29分にMF佐野海舟が代表初ゴールで先制するも後半56分カゼミーロに同点、90+5分マルティネッリに決勝点を奪われ逆転負け。日本のW杯は4大会連続での16強進出ならず終了。",
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-06-30-n02",
+      "title": "アフラック生命 438万人の個人情報漏洩 — 口座情報も23万人分含む",
+      "url": "https://www.nikkei.com/article/DGXZQOUB3046P0Q6A630C2000000/",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "アフラック生命保険は6月30日、6月15〜25日の不正アクセスにより顧客約438万人分の個人情報が漏洩したと発表。うち23万人は保険料振替口座情報も含む。氏名・生年月日・住所・電話番号・証券番号・保障内容が対象。クレジットカード・マイナンバーは対象外。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-30-n03",
+      "title": "ドル円162円台突入・日経平均3005円安 — 40年ぶり円安と株式の二重ショック",
+      "url": "https://www.nikkei.com/article/DGXZQOFL2980M0Z20C26A6000000/",
+      "category": "news",
+      "size": "中",
+      "selected": true,
+      "summary": "6月30日、ドル円が一時162.39円まで下落し1986年12月以来約40年ぶりの円安水準を更新。日経平均も終値で前日比3005円安の6万9360円と大幅反落。AI関連銘柄への売りとOpenAI IPO延期報道がSBG株急落を招いた。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-30-n04",
+      "title": "横浜 米軍根岸住宅地区が79年ぶり返還 — 約43ヘクタールが医療・健康拠点へ",
+      "url": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/toshi/2026/0630negishi.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "1947年接収の横浜市中区・南区・磯子区にまたがる米軍根岸住宅地区（約43ha）が6月30日に日本側へ全面返還。跡地には横浜市立大学医学部を核とした医療・健康拠点と公園を整備予定。都市計画手続きは2026年度以降に段階的に進める。",
+      "source": "横浜市"
+    },
+    {
+      "id": "2026-06-30-n05",
+      "title": "参院選 7月3日公示まで3日 — 各党が最終準備",
+      "url": "https://news.web.nhk/senkyo/schedule/focus/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "7月3日公示・20日投開票の参院選まで3日。各党が最終準備を本格化。円安・物価高対策、外交・安保政策が主要争点。高市首相率いる与党は過半数維持を目標に掲げる。",
+      "source": "NHK"
+    },
+    {
+      "id": "2026-06-30-n06",
+      "title": "台風ダブル発生・梅雨末期の大雨警戒 — 九州・中国地方で警報級の可能性",
+      "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/06/30/39537.html",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6月30日、南の海上で熱帯低気圧2つが台風発達の予想。7月1日以降は関東〜九州で広く雨となり、九州・中国地方では警報級の大雨となる可能性がある。梅雨末期と台風接近が重なり土砂災害・浸水への警戒を要する。",
+      "source": "tenki.jp"
+    },
+    {
+      "id": "2026-06-30-n07",
+      "title": "米イラン協議 ドーハで実務者会合へ — イラン側が「公式協議」を否定",
+      "url": "https://www.nikkei.com/article/DGXZQOGN290370Z20C26A6000000/",
+      "category": "news",
+      "size": "小",
+      "selected": true,
+      "summary": "6月30日のドーハでの米イラン協議について、トランプ大統領は実施を発表したがイラン外務省が公式協議を否定。実務者レベルの代表団を今週中に派遣するとしており、正式な核交渉の再開は不透明な状況が続く。",
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-06-30-e01",
+      "title": "BTS FIFA W杯2026決勝ハーフタイムショーに出演確定 — マドンナ・シャキーラと共同ヘッドライナー",
+      "url": "https://news.yahoo.co.jp/articles/228b9c0c96ea2c2c770ebe5757b38569565cb33f",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "BTSが7月19日のFIFA W杯2026決勝（ニューヨーク・ニュージャージー）ハーフタイムショーに、マドンナ・シャキーラと共同ヘッドライナーとして出演が正式決定。W杯決勝でのハーフタイムショーは史上初。クリス・マーティンがキュレーターを担当。",
+      "source": "Yahoo!ニュース（Kstyle）"
+    },
+    {
+      "id": "2026-06-30-e02",
+      "title": "FNS歌謡祭 夏 明日7月1日放送 — ILLIT・NiziU・TREASUREら出演",
+      "url": "https://ototoy.jp/news/130261",
+      "category": "entertainment",
+      "size": "中",
+      "selected": true,
+      "summary": "フジテレビ「2026 FNS歌謡祭 夏」が7月1日に約3時間半の生放送。ILLITがCUTIE STREETと、TREASUREがJI BLUEとコラボ。NiziU・ME:Iも出演。SUPER EIGHT、Number_i、HANAら国内アーティストも集結し、K-POP×国内コラボ企画が複数用意される。",
+      "source": "OTOTOY"
+    },
+    {
+      "id": "2026-06-30-e03",
+      "title": "ドラマ「スピナーベイト」本日深夜スタート — 加藤清史郎主演サスペンス",
+      "url": "https://news.yahoo.co.jp/articles/945bc2ef44ca6be6aad64c68e981354421b8f34b",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "此元和津也原作マンガの実写化ドラマ「スピナーベイト」が6月30日深夜25時30分よりフジテレビで放送開始。加藤清史郎主演で釣り部に潜む自警団と連続殺人を描くサスペンス全11話。TVer・FODでも視聴可能。",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "id": "2026-06-30-e04",
+      "title": "映画「新劇場版☆ケロロ軍曹」公開3日で興収1.5億円 — ガンダムコラボ特典も",
+      "url": "https://www.oricon.co.jp/news/2464383/full/",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "6月26日公開の「新劇場版☆ケロロ軍曹」が公開3日で動員10万2402人・興収1億5080万円を記録。16年ぶりの劇場版でSixTONESジェシーが1人2役出演。7月3〜9日にはガンダムコラボのポストカード全4種が入場者特典として配布される。",
+      "source": "ORICON NEWS"
+    },
+    {
+      "id": "2026-06-30-e05",
+      "title": "きゃりーぱみゅぱみゅ 15周年新曲「Focus Focus」MV本日公開",
+      "url": "https://natalie.mu/music/news/677147",
+      "category": "entertainment",
+      "size": "小",
+      "selected": true,
+      "summary": "きゃりーぱみゅぱみゅが6月30日に15周年アニバーサリーシングル「Focus Focus」のMVを公開。8月22日にぴあアリーナMMで「PAMYU FES」を開催。新しい学校のリーダーズ・FRUITS ZIPPERが出演予定。",
+      "source": "音楽ナタリー"
+    },
+    {
+      "id": "2026-06-30-h01",
+      "title": "DJI Osmo Pocket 4P 昨夜21時に正式発売 — 99,000円・シリーズ初デュアルカメラの実力",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2120479.html",
+      "category": "hobby",
+      "size": "大",
+      "selected": true,
+      "summary": "DJI Osmo Pocket 4Pが6月29日21時に正式発売。スタンダードコンボ99,000円、Vlogコンボ113,300円（税込）。シリーズ初のデュアルカメラ（広角1インチf/2.0+望遠1/1.28インチ60mm f/1.8）、4K/240fps、17ストップDR、D-Log 2（広角のみ）、103GB内蔵ストレージ搭載。",
+      "source": "デジカメWatch"
+    },
+    {
+      "id": "2026-06-30-h02",
+      "title": "DELTARUNE Chapter 6「ラスボス弾幕を制作中」— Toby Foxがスケジュール順調と発表",
+      "url": "https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6",
+      "category": "hobby",
+      "size": "中",
+      "selected": true,
+      "summary": "Toby FoxがChapter 6開発進捗を公開。オーバーワールドの基本ギミック完成、通常敵・弾幕ほぼ完了でラスボスの弾幕を現在制作中。「スケジュールより早く進行」と明言し一部スタッフが2026年内のChapter 7着手可能性も示唆。",
+      "source": "Nintendo Life"
+    },
+    {
+      "id": "2026-06-30-h03",
+      "title": "Insta360 Luna Ultra — Leicaコラボのデュアルレンズジンバルカメラ詳細レビュー",
+      "url": "https://asobinet.com/info-review-insta360-luna-ultra-xl/",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "2026年6月15日発売のInsta360 Luna Ultra詳細レビュー。Leicaと共同開発した20mm f/1.8 Leica Summicronレンズ+望遠のデュアル構成。暗所性能と色再現性に定評あり。DJI Osmo Pocket 4Pとの比較検討に有用な対抗機種。",
+      "source": "とるなら（asobinet.com）"
+    },
+    {
+      "id": "2026-06-30-h04",
+      "title": "食べログ カレー WEST百名店2026 — 大阪の初選出スパイスカレー店まとめ",
+      "url": "https://award.tabelog.com/hyakumeiten/curry_west",
+      "category": "hobby",
+      "size": "小",
+      "selected": true,
+      "summary": "食べログ カレー WEST百名店2026の公式ページ。大阪初選出に「ドラマチックカリー ゴールデン中崎」（黄金の出汁餡×クリスピー豚カツ）や「コイチカレー」（ホールスパイス本格派）など7店がWESTで初選出。",
+      "source": "食べログ"
+    },
+    {
+      "id": "2026-06-30-s01",
+      "title": "佐野海舟のミドルシュートが見せた「日本が世界と渡り合えた瞬間」",
+      "url": "https://www.footballchannel.jp/2026/06/30/post935307/",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "W杯日本×ブラジル戦でMF佐野海舟が前半29分にドリブル突破から決めた会心のミドルシュート詳細。中盤のインターセプトからペナルティエリア手前で一閃。逆転負けの結果の裏に「世界最高峰から先制できる日本の現在地」を読む視点。",
+      "source": "フットボールチャンネル"
+    },
+    {
+      "id": "2026-06-30-s02",
+      "title": "テヨンが「晩餐歌」を韓国語でカバー — J-POP×K-POPの「文化的逆輸入」が示す地殻変動",
+      "url": "https://kstyle.com/article.ksn?articleNo=2280654",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "少女時代テヨンがtuki.のデビュー曲「晩餐歌」（累計5億再生超）を韓国語でカバーし「J-POP REMAKE」プロジェクト第一弾として6月29日に世界同時配信。K-POP側が日本の名曲を世界向けに再発信する文化的逆流が加速している。",
+      "source": "Kstyle"
+    },
+    {
+      "id": "2026-06-30-s03",
+      "title": "米・イラン停戦「覚書の穴」— 核問題は先送り、エネルギー安保の本当のリスク",
+      "url": "https://jbpress.ismedia.jp/articles/-/95451",
+      "category": "serendipity",
+      "size": "セレンディピティ",
+      "selected": true,
+      "summary": "6月19日署名の米・イラン停戦覚書（14カ条）について専門家が分析。核問題への具体的な制約がなく「現状維持」が曖昧なまま。日本のホルムズ海峡依存度91%の原油輸入にとって、停戦の持続可能性が引き続き最大のエネルギーリスク。",
+      "source": "JBpress"
+    }
+  ]
+}
