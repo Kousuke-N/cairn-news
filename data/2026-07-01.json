@@ -1,0 +1,643 @@
+{
+  "date": "2026-07-01",
+  "notion_page_id": "390a41a3-cf9b-81d6-aa9a-eee7083b0179",
+  "articles": [
+    {
+      "id": "2026-07-01-tech-001",
+      "category": "tech",
+      "title": "Claude Sonnet 5リリース — より安価なエージェント実行が可能に",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "summary": "AnthropicがClaude Sonnet 5を発表。エージェント用途向けにコストパフォーマンスを大幅改善。",
+      "size": "大",
+      "selected": true,
+      "source": "TechCrunch"
+    },
+    {
+      "id": "2026-07-01-tech-002",
+      "category": "tech",
+      "title": "Claude Fable 5・Mythos 5 輸出規制解除 — 7/1より全世界で利用可能",
+      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+      "summary": "トランプ政権がClaude Fable 5とMythos 5の輸出規制を解除。本日7/1より全世界での利用が可能に。",
+      "size": "大",
+      "selected": true,
+      "source": "CNBC"
+    },
+    {
+      "id": "2026-07-01-tech-003",
+      "category": "tech",
+      "title": "Claude Science ベータ公開 — Anthropic最新フラッグシップ製品",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "summary": "Anthropicが科学研究特化の新製品Claude Scienceをベータ公開。研究加速を目的とした最新フラッグシップ。",
+      "size": "大",
+      "selected": true,
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": "2026-07-01-tech-004",
+      "category": "tech",
+      "title": "Claude apps gateway 発表 — アプリ統合の新インフラ",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "summary": "AnthropicがClaude apps gatewayを発表。外部アプリとの統合を一元化する新インフラ。",
+      "size": "大",
+      "selected": true,
+      "source": "Anthropic Blog"
+    },
+    {
+      "id": "2026-07-01-tech-005",
+      "category": "tech",
+      "title": "Claude Sonnet 5がGitHub Copilotで一般提供開始",
+      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot/",
+      "summary": "GitHub CopilotのバックエンドモデルとしてClaude Sonnet 5が一般提供開始。コード補完・説明品質が向上。",
+      "size": "中",
+      "selected": true,
+      "source": "GitHub Blog"
+    },
+    {
+      "id": "2026-07-01-tech-006",
+      "category": "tech",
+      "title": "Claude Code Week 26 新機能ダイジェスト",
+      "url": "https://code.claude.com/docs/en/whats-new",
+      "summary": "Claude Codeの週次アップデート。ワークフロー改善・エージェントSDK強化など複数の新機能が追加。",
+      "size": "中",
+      "selected": true,
+      "source": "Claude Code Docs"
+    },
+    {
+      "id": "2026-07-01-tech-007",
+      "category": "tech",
+      "title": "GPT-5.6 Sol/Terra/Luna を限定プレビュー公開",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "summary": "OpenAIがGPT-5.6の3バリアント（Sol/Terra/Luna）を発表。現在は限定パートナーのみアクセス可能。",
+      "size": "中",
+      "selected": true,
+      "source": "VentureBeat"
+    },
+    {
+      "id": "2026-07-01-tech-008",
+      "category": "tech",
+      "title": "Angular 22 リリース詳解 — Ninja Squad完全解析",
+      "url": "https://blog.ninja-squad.com/2026/06/03/what-is-new-angular-22.0",
+      "summary": "Angular 22の全新機能をNinja Squadが詳細解説。Zoneless・Signal Forms・新ルーティングAPIなど主要変更点を網羅。",
+      "size": "大",
+      "selected": true,
+      "source": "Ninja Squad Blog"
+    },
+    {
+      "id": "2026-07-01-tech-009",
+      "category": "tech",
+      "title": "Angular 22 Key Features and Changes（angular.love）",
+      "url": "https://angular.love/angular-22-key-features-and-changes",
+      "summary": "angular.loveによるAngular 22主要機能まとめ。Ninja Squad記事の補完資料として。",
+      "size": "小",
+      "selected": true,
+      "source": "angular.love"
+    },
+    {
+      "id": "2026-07-01-tech-010",
+      "category": "tech",
+      "title": "TypeScript 6.0 リリース",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/",
+      "summary": "TypeScript 6.0正式リリース。（先週掲載済みのため今回は除外）",
+      "size": null,
+      "selected": false,
+      "source": "Microsoft Dev Blog",
+      "exclude_reason": "past_7_days_duplicate"
+    },
+    {
+      "id": "2026-07-01-tech-011",
+      "category": "tech",
+      "title": "Cursor for iOS 公開ベータ開始",
+      "url": "https://cursor.com/blog/ios-mobile-app",
+      "summary": "CursorがiOSアプリの公開ベータを開始。モバイルからAIコーディング環境にアクセス可能に。",
+      "size": "小",
+      "selected": true,
+      "source": "Cursor Blog"
+    },
+    {
+      "id": "2026-07-01-tech-012",
+      "category": "tech",
+      "title": "Cursor TypeScript SDK 公開ベータ — AIツールをTypeScriptで拡張",
+      "url": "https://cursor.com/blog/typescript-sdk",
+      "summary": "CursorがTypeScript製SDKをベータ公開。開発者がCursorの機能をTypeScriptで拡張・カスタマイズ可能に。",
+      "size": "小",
+      "selected": true,
+      "source": "Cursor Blog"
+    },
+    {
+      "id": "2026-07-01-tech-013",
+      "category": "tech",
+      "title": "AIコーディングツール 2026年ランキング",
+      "url": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
+      "summary": "2026年上半期のAIコーディングツール比較ランキング。Claude Code・Cursor・Copilot等の優劣を整理。",
+      "size": "中",
+      "selected": true,
+      "source": "MarktechPost"
+    },
+    {
+      "id": "2026-07-01-tech-014",
+      "category": "tech",
+      "title": "Claude が Microsoft Foundry（Azure）で一般提供開始",
+      "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-claude-to-microsoft-foundry-with-azure-hosting-and-governance-controls",
+      "summary": "AnthropicのClaude APIがMicrosoft Azure Foundryで一般提供開始。エンタープライズ向けガバナンス機能付き。",
+      "size": "中",
+      "selected": true,
+      "source": "EdTech Innovation Hub"
+    },
+    {
+      "id": "2026-07-01-tech-015",
+      "category": "tech",
+      "title": "2026年 AIエージェント時代の状況分析 — ペアプログラミングから自律チームへ",
+      "url": "https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a",
+      "summary": "AIコーディングエージェントの2026年現況分析。単純補完から自律チーム化への移行期を考察。",
+      "size": "小",
+      "selected": true,
+      "source": "Medium"
+    },
+    {
+      "id": "2026-07-01-news-001",
+      "category": "news",
+      "title": "W杯 日本×ブラジル 1-2 逆転負け — グループステージ敗退",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163871000",
+      "summary": "FIFA W杯2026グループステージ最終戦、日本はブラジルに1-2で逆転負け。佐野海舟が代表初ゴールを決めるも届かず。",
+      "size": "大",
+      "selected": true,
+      "source": "NHK"
+    },
+    {
+      "id": "2026-07-01-news-002",
+      "category": "news",
+      "title": "佐野海舟 代表初ゴール — W杯得点者歴代最多更新",
+      "url": "https://news.yahoo.co.jp/articles/ed304bd1211e7bdedffac5aba6337259ae766794",
+      "summary": "佐野海舟がW杯でゴールを決め日本代表通算得点者最多記録を更新。惜敗の中での個人的快挙。",
+      "size": "大",
+      "selected": true,
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "id": "2026-07-01-news-003",
+      "category": "news",
+      "title": "パラグアイがPK戦でドイツ撃破 — W杯最大の番狂わせ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164371000",
+      "summary": "W杯グループステージ、パラグアイがPK戦でドイツを撃破。大会最大の番狂わせと各国メディアが報道。",
+      "size": "小",
+      "selected": true,
+      "source": "NHK"
+    },
+    {
+      "id": "2026-07-01-news-004",
+      "category": "news",
+      "title": "皇室典範改正案を閣議決定 — 養子の男子に皇位継承資格",
+      "url": "https://www.jiji.com/jc/article?k=2026063000121&g=pol",
+      "summary": "政府が皇室典範改正案を閣議決定。養子縁組による男子への皇位継承資格付与が柱。",
+      "size": "大",
+      "selected": true,
+      "source": "時事通信"
+    },
+    {
+      "id": "2026-07-01-news-005",
+      "category": "news",
+      "title": "森衆院議長、皇室典範改正案「静ひつな成立」を要請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165661000",
+      "summary": "森喜朗衆院議長が皇室典範改正案について「静ひつな国会審議での成立」を政府・与野党に要請。",
+      "size": "小",
+      "selected": true,
+      "source": "NHK"
+    },
+    {
+      "id": "2026-07-01-news-006",
+      "category": "news",
+      "title": "参院選 7/3公示・20日投開票を閣議決定",
+      "url": "https://www.nikkei.com/article/DGXZQOUA220I60S5A620C2000000/",
+      "summary": "政府が第26回参議院議員選挙の日程を閣議決定。7月3日公示、7月20日投開票。",
+      "size": "大",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-01-news-007",
+      "category": "news",
+      "title": "米・イラン ドーハで実務者協議 — 核合意再交渉の行方",
+      "url": "https://www.nikkei.com/article/DGXZQOGN290370Z20C26A6000000/",
+      "summary": "米・イランがカタール・ドーハで実務者レベルの核協議を実施。エネルギー市場への影響が注目される。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-01-news-008",
+      "category": "news",
+      "title": "川崎重工 2000億円調達 — AI・量子分野に大型投資",
+      "url": "https://news.infoseek.co.jp/article/01reutersJAPAN_KBN3SX39Y/",
+      "summary": "川崎重工業が2000億円規模の資金調達を発表。AI・量子コンピューティング分野への大型投資計画。",
+      "size": "中",
+      "selected": true,
+      "source": "Reuters Japan"
+    },
+    {
+      "id": "2026-07-01-news-009",
+      "category": "news",
+      "title": "7月 食品値上げ 2566品目 — 家計負担さらに増加",
+      "url": "https://www.nippon.com/ja/japan-data/h02828/",
+      "summary": "7月1日から食品2566品目が値上げ。円安・原材料高が長期化し、家計への負担がさらに増加。",
+      "size": "中",
+      "selected": true,
+      "source": "nippon.com"
+    },
+    {
+      "id": "2026-07-01-news-010",
+      "category": "news",
+      "title": "円相場 162円台 — 39年半ぶりの円安水準",
+      "url": "https://www.nikkei.com/article/DGXZQOUC289Z60Y6A520C2000000/",
+      "summary": "ドル円相場が162円台に突入。1986年12月以来、39年半ぶりの円安水準を記録。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-01-news-011",
+      "category": "news",
+      "title": "森保監督コメント — 「次に向けて切り替える」",
+      "url": "https://www.olympics.com/ja/news/fifa-world-cup-2026-japan-brazil-live-update",
+      "summary": "ブラジル戦敗退後の森保監督コメント。「悔しい結果だが次に向けて切り替える」と述べた。",
+      "size": "小",
+      "selected": true,
+      "source": "Olympics.com"
+    },
+    {
+      "id": "2026-07-01-news-012",
+      "category": "news",
+      "title": "皇室典範改正案の詳細 — 論点と今後の審議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165151000",
+      "summary": "皇室典範改正案の具体的内容と今後の国会審議の見通しを解説。",
+      "size": "小",
+      "selected": true,
+      "source": "NHK"
+    },
+    {
+      "id": "2026-07-01-news-013",
+      "category": "news",
+      "title": "FIFA公式 ブラジルvs日本 マッチレポート",
+      "url": "https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026/articles/brazil-japan-review-highlights-ja",
+      "summary": "FIFAによるブラジル×日本戦公式マッチレポートとハイライト。",
+      "size": null,
+      "selected": false,
+      "source": "FIFA"
+    },
+    {
+      "id": "2026-07-01-news-014",
+      "category": "news",
+      "title": "賃上げ継続でも家計は厳しく — 実質賃金の実態",
+      "url": "https://www.jil.go.jp/kokunai/blt/index.html",
+      "summary": "賃上げが続く中でも物価上昇が上回り、実質賃金は依然として厳しい状況が続くと労働政策研究所が分析。",
+      "size": "小",
+      "selected": true,
+      "source": "労働政策研究・研修機構"
+    },
+    {
+      "id": "2026-07-01-news-015",
+      "category": "news",
+      "title": "NBC・ロイター W杯6/29結果まとめ",
+      "url": "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-june-29-live-updates-rcna352197",
+      "summary": "NBCニュースによるW杯6月29日試合結果のライブブログまとめ。",
+      "size": null,
+      "selected": false,
+      "source": "NBC News"
+    },
+    {
+      "id": "2026-07-01-ent-001",
+      "category": "entertainment",
+      "title": "NiziU 初ベストアルバム「Portfolio」本日7/1リリース",
+      "url": "https://www.sonymusic.co.jp/artist/niziu/info/582970",
+      "summary": "NiziUのデビュー5周年を飾る初ベストアルバム「Portfolio」が本日リリース。全国各地でポップアップも開催。",
+      "size": "中",
+      "selected": true,
+      "source": "Sony Music"
+    },
+    {
+      "id": "2026-07-01-ent-002",
+      "category": "entertainment",
+      "title": "Stray Kids「RUN IT」iTunes 41か国1位獲得",
+      "url": "https://www.rbbtoday.com/article/2026/06/25/249842.html",
+      "summary": "Stray Kidsの新曲「RUN IT」がiTunesチャートで41か国1位を達成。日本でも高い人気を維持。",
+      "size": "小",
+      "selected": true,
+      "source": "RBB TODAY"
+    },
+    {
+      "id": "2026-07-01-ent-003",
+      "category": "entertainment",
+      "title": "Stray Kids Live Blu-ray「dominATE JAPAN」本日7/1発売",
+      "url": "https://news.yahoo.co.jp/articles/22470a1a1ebfe939d6b605d1fd0d7546a31be341",
+      "summary": "Stray KidsのJAPANライブBlu-ray「dominATE JAPAN」が本日7/1発売。",
+      "size": null,
+      "selected": false,
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "id": "2026-07-01-ent-004",
+      "category": "entertainment",
+      "title": "SEVENTEEN PLEDIS と全員再契約 — 活動継続を確約",
+      "url": "https://mdpr.jp/k-enta/detail/4760007",
+      "summary": "SEVENTEENの全13メンバーがPLEDIS Entertainmentと再契約。グループとしての活動継続が確約された。",
+      "size": "中",
+      "selected": true,
+      "source": "模範デジタル"
+    },
+    {
+      "id": "2026-07-01-ent-005",
+      "category": "entertainment",
+      "title": "BABYMONSTER 7/8神戸公演から日本ツアー開幕",
+      "url": "https://yg-babymonster-official.jp/live/2026-2027_worldtour_in_japan/",
+      "summary": "BABYMONSTERのワールドツアー日本公演が7月8日神戸公演からスタート。全国6都市を回る。",
+      "size": "小",
+      "selected": true,
+      "source": "BABYMONSTER Official"
+    },
+    {
+      "id": "2026-07-01-ent-006",
+      "category": "entertainment",
+      "title": "BLEACH 禍進譚 7/25放送開始決定 ＆ PV公開",
+      "url": "https://anime.eiga.com/news/125440/",
+      "summary": "「BLEACH 禍進譚」の放送開始日が7月25日に決定し、本PVも公開。アニメファン注目の続編がついに始動。",
+      "size": "大",
+      "selected": true,
+      "source": "アニメ！アニメ！"
+    },
+    {
+      "id": "2026-07-01-ent-007",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL 7/7放送",
+      "url": "https://v-storage.jp/anime/koukaku/278781/",
+      "summary": "攻殻機動隊の新作「THE GHOST IN THE SHELL」が7月7日より放送開始。原作ファン注目の最新作。",
+      "size": "中",
+      "selected": true,
+      "source": "V-Storage"
+    },
+    {
+      "id": "2026-07-01-ent-008",
+      "category": "entertainment",
+      "title": "無職転生 III 7/5放送開始",
+      "url": "https://animeanime.jp/article/2026/01/10/95043.html",
+      "summary": "「無職転生 ～異世界行ったら本気だす～ III」が7月5日より放送開始。",
+      "size": "小",
+      "selected": true,
+      "source": "アニメ！アニメ！"
+    },
+    {
+      "id": "2026-07-01-ent-009",
+      "category": "entertainment",
+      "title": "映画週末興収 Michael V3 累計39億円突破",
+      "url": "https://www.cinematoday.jp/news/N0155581",
+      "summary": "映画「Michael V3」が累計興行収入39億円を突破。ロングランヒットとして記録更新中。",
+      "size": "小",
+      "selected": true,
+      "source": "シネマトゥデイ"
+    },
+    {
+      "id": "2026-07-01-ent-010",
+      "category": "entertainment",
+      "title": "黒牢城 累計6億円超",
+      "url": "https://realsound.jp/movie/2026/06/post-2440881.html",
+      "summary": "映画「黒牢城」の累計興行収入が6億円を突破。",
+      "size": null,
+      "selected": false,
+      "source": "Real Sound"
+    },
+    {
+      "id": "2026-07-01-ent-011",
+      "category": "entertainment",
+      "title": "VIVANT 第2シーズン 7/26スタート",
+      "url": "https://www.oricon.co.jp/news/2461051/full/",
+      "summary": "TBS「VIVANT」第2シーズンが7月26日よりスタート。（先週掲載済みのため除外）",
+      "size": null,
+      "selected": false,
+      "source": "ORICON",
+      "exclude_reason": "past_7_days_duplicate"
+    },
+    {
+      "id": "2026-07-01-ent-012",
+      "category": "entertainment",
+      "title": "フジロック 2026 タイムテーブル詳細公開（NME Japan）",
+      "url": "https://nme-jp.com/news/169661/",
+      "summary": "フジロックフェスティバル2026の詳細タイムテーブルが公開。目玉アクト・タイムスロットを徹底解説。",
+      "size": "中",
+      "selected": true,
+      "source": "NME Japan"
+    },
+    {
+      "id": "2026-07-01-ent-013",
+      "category": "entertainment",
+      "title": "GTO 28年ぶり復活 — 7/20スタート",
+      "url": "https://navicon.jp/news/97199/",
+      "summary": "伝説のドラマ「GTO（グレート・ティーチャー・オニヅカ）」が28年ぶりに復活。7月20日より放送開始。",
+      "size": "中",
+      "selected": true,
+      "source": "ナビコン"
+    },
+    {
+      "id": "2026-07-01-ent-014",
+      "category": "entertainment",
+      "title": "2026年夏アニメ 73作品 — キュレーションガイド",
+      "url": "https://animeanime.jp/article/2026/06/02/99624.html",
+      "summary": "2026年夏クールのアニメ73作品を一覧。注目タイトルのチェックリストとして活用可。",
+      "size": "小",
+      "selected": true,
+      "source": "アニメ！アニメ！"
+    },
+    {
+      "id": "2026-07-01-ent-015",
+      "category": "entertainment",
+      "title": "BABYMONSTER / HUI / ILLIT 7月K-POPライブまとめ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000103.000061313.html",
+      "summary": "7月のK-POPライブ情報まとめ。BABYMONSTER・HUI・ILLITが相次いで来日公演。",
+      "size": null,
+      "selected": false,
+      "source": "PR TIMES"
+    },
+    {
+      "id": "2026-07-01-hobby-001",
+      "category": "hobby",
+      "title": "DJI Osmo Pocket 4P 発売後インプレ — 映像クリエイターの評価は？",
+      "url": "https://dc.watch.impress.co.jp/docs/review/moviewatch/2120710.html",
+      "summary": "DJI Osmo Pocket 4Pの発売後レビュー。手ブレ補正・4K120fps・スタビライザー性能を実機検証。",
+      "size": "大",
+      "selected": true,
+      "source": "デジカメWatch"
+    },
+    {
+      "id": "2026-07-01-hobby-002",
+      "category": "hobby",
+      "title": "DJI Osmo Pocket 4P 正式発売 — 価格9万9,000円",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2120479.html",
+      "summary": "DJI Osmo Pocket 4Pが正式発売。価格は9万9,000円（税込）。4K/120fpsと3軸スタビライザー搭載。",
+      "size": "大",
+      "selected": true,
+      "source": "デジカメWatch"
+    },
+    {
+      "id": "2026-07-01-hobby-003",
+      "category": "hobby",
+      "title": "DJI Pocket 4P ズーム性能検証（トラベルWatch）",
+      "url": "https://travel.watch.impress.co.jp/docs/news/2116502.html",
+      "summary": "トラベルWatchによるDJI Pocket 4Pのズーム性能詳細検証。",
+      "size": null,
+      "selected": false,
+      "source": "トラベルWatch"
+    },
+    {
+      "id": "2026-07-01-hobby-004",
+      "category": "hobby",
+      "title": "コシナ NOKTON classic 35mm F1.4 RF/Z 7月発売",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2116829.html",
+      "summary": "コシナが「NOKTON classic 35mm F1.4」のCanon RF・Nikon Zマウント対応版を7月発売。クラシックな描写で人気。",
+      "size": "中",
+      "selected": true,
+      "source": "デジカメWatch"
+    },
+    {
+      "id": "2026-07-01-hobby-005",
+      "category": "hobby",
+      "title": "タムロン 超広角ズーム 7/3前後発表か",
+      "url": "https://digicame-info.com/2026/06/73-1.html",
+      "summary": "タムロンが超広角ズームレンズを7月3日前後に発表するとの情報。スペックは未確認。",
+      "size": "小",
+      "selected": true,
+      "source": "デジカメinfo"
+    },
+    {
+      "id": "2026-07-01-hobby-006",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ — 明日7/2発売！体験版ファン歓喜",
+      "url": "https://www.famitsu.com/article/202606/79170",
+      "summary": "任天堂「リズム天国 ミラクルスターズ」がいよいよ明日7月2日発売。体験版プレイヤーから高評価が続出。",
+      "size": "大",
+      "selected": true,
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-07-01-hobby-007",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ ファンレビュー",
+      "url": "https://dengekionline.com/article/202606/78500",
+      "summary": "電撃オンラインによるリズム天国ミラクルスターズ体験版ファンレビュー。",
+      "size": null,
+      "selected": false,
+      "source": "電撃オンライン"
+    },
+    {
+      "id": "2026-07-01-hobby-008",
+      "category": "hobby",
+      "title": "DELTARUNE Chapter 5 配信情報まとめ",
+      "url": "https://www.4gamer.net/games/439/G043952/20260625054/",
+      "summary": "DELTARUNE Chapter 5の配信スケジュールと新情報まとめ。Toby Foxからの最新ステータス報告も含む。",
+      "size": "中",
+      "selected": true,
+      "source": "4Gamer"
+    },
+    {
+      "id": "2026-07-01-hobby-009",
+      "category": "hobby",
+      "title": "Toby Fox、DELTARUNE Chapter 6 進捗を報告",
+      "url": "https://gonintendo.com/contents/61710-toby-fox-shares-story-insight-for-deltarune-ch-5-gives-progress-update-on-ch-6",
+      "summary": "Toby FoxがChapter 5のストーリー補足とChapter 6の開発進捗を公式に報告。",
+      "size": "中",
+      "selected": true,
+      "source": "GoNintendo"
+    },
+    {
+      "id": "2026-07-01-hobby-010",
+      "category": "hobby",
+      "title": "ゼルダ 時のオカリナ Switch 2リメイク — 詳細情報",
+      "url": "https://game.watch.impress.co.jp/docs/news/2115794.html",
+      "summary": "「ゼルダの伝説 時のオカリナ」のSwitch 2リメイク詳細が判明。グラフィック刷新と新要素の追加が確認。",
+      "size": "中",
+      "selected": true,
+      "source": "GAME Watch"
+    },
+    {
+      "id": "2026-07-01-hobby-011",
+      "category": "hobby",
+      "title": "ファイアーエムブレム 万紫千紅 9/17発売確定",
+      "url": "https://www.famitsu.com/article/202606/77806",
+      "summary": "「ファイアーエムブレム 万紫千紅」の発売日が9月17日に確定。（先週掲載済みのため除外）",
+      "size": null,
+      "selected": false,
+      "source": "ファミ通",
+      "exclude_reason": "past_7_days_duplicate"
+    },
+    {
+      "id": "2026-07-01-hobby-012",
+      "category": "hobby",
+      "title": "7月 Switch 2 発売予定タイトル 41本",
+      "url": "https://www.famitsu.com/schedule/switch2",
+      "summary": "7月のNintendo Switch 2発売予定タイトルが41本。リズム天国・インディーゲームを含む充実ラインナップ。",
+      "size": "小",
+      "selected": true,
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-07-01-hobby-013",
+      "category": "hobby",
+      "title": "食べログ カレー WEST 百名店 2026 発表",
+      "url": "https://award.tabelog.com/hyakumeiten/curry_west",
+      "summary": "食べログが「カレー WEST 百名店 2026」を発表。西日本のスパイスカレー名店100選。",
+      "size": "小",
+      "selected": true,
+      "source": "食べログ"
+    },
+    {
+      "id": "2026-07-01-hobby-014",
+      "category": "hobby",
+      "title": "テレビ東京 アド街 カレー特集（再放送）",
+      "url": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20260425/146935.html",
+      "summary": "テレビ東京「アド街ック天国」カレー特集のバックナンバー。",
+      "size": null,
+      "selected": false,
+      "source": "テレビ東京"
+    },
+    {
+      "id": "2026-07-01-hobby-015",
+      "category": "hobby",
+      "title": "DELTARUNE Chapter 5 完全攻略（Gamerch）",
+      "url": "https://gamerch.com/deltarune/992892",
+      "summary": "GamerchによるDELTARUNE Chapter 5完全攻略。（先週掲載済みのため除外）",
+      "size": null,
+      "selected": false,
+      "source": "Gamerch",
+      "exclude_reason": "past_7_days_duplicate"
+    },
+    {
+      "id": "2026-07-01-seren-001",
+      "category": "serendipity",
+      "title": "川崎重工 2000億円 AI・量子投資 — 製造業×AIの本気度",
+      "url": "https://news.infoseek.co.jp/article/01reutersJAPAN_KBN3SX39Y/",
+      "summary": "日本の重工業大手が防衛・製造を越えてAI・量子分野に2000億円を投じる。「AIで変わるのはソフトだけじゃない」という問いを突きつけるニュース。エンタメ業界のシステム調達にも影響が波及しうる大規模な産業変革の予兆。",
+      "size": "中",
+      "selected": true,
+      "source": "Reuters Japan",
+      "serendipity_reason": "重工業×AIという異色の組み合わせが、実はフロントエンドエンジニアの仕事環境にも間接的につながる産業変革の話。"
+    },
+    {
+      "id": "2026-07-01-seren-002",
+      "category": "serendipity",
+      "title": "円相場162円台 → カメラ機材が静かに値上がり中",
+      "url": "https://www.nikkei.com/article/DGXZQOUC289Z60Y6A520C2000000/",
+      "summary": "39年半ぶりの円安。ライカ・ツァイスなど欧州製レンズや海外製ゲーム機周辺機器が軒並み値上がりへ。「今が買い時？待ちが正解？」カメラ・ゲーム趣味人には悩ましい相場状況。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞",
+      "serendipity_reason": "ニュースセクションの経済指標が趣味の購買行動に直結する「意外な距離感の近さ」をテーマに。"
+    },
+    {
+      "id": "2026-07-01-seren-003",
+      "category": "serendipity",
+      "title": "Cursor TypeScript SDK — フロントエンジニアがAIツールを「書く側」になる時代",
+      "url": "https://cursor.com/blog/typescript-sdk",
+      "summary": "CursorがTypeScript製SDKをベータ公開。AIコーディングツールを使う側から作る・拡張する側へ。フロントエンドエンジニアのスキルセットがAIインフラ構築に直接使えるようになりつつある転換点。",
+      "size": "中",
+      "selected": true,
+      "source": "Cursor Blog",
+      "serendipity_reason": "テックセクションの小記事を別角度から読むと、フロントエンドとAIインフラの境界線が溶け始めているという大きな示唆が見える。"
+    }
+  ]
+}
