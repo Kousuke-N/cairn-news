@@ -1,0 +1,514 @@
+{
+  "date": "2026-07-02",
+  "notion_page_id": "391a41a3-cf9b-81d3-9e39-f07ebdac358c",
+  "articles": [
+    {
+      "id": "2026-07-02-tech-001",
+      "category": "tech",
+      "title": "TypeScript 7.0 RC —— GoリライトでVSCodeの型チェックが10倍速に",
+      "url": "https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx",
+      "summary": "TypeScript 7.0 RCがGoネイティブコンパイラをメインラインに統合。VS Codeの型チェックが77秒→7.5秒に約10倍高速化。正式版は1か月以内。",
+      "size": "大",
+      "selected": true,
+      "source": "Visual Studio Magazine"
+    },
+    {
+      "id": "2026-07-02-tech-001b",
+      "category": "tech",
+      "title": "TypeScript 7.0 reaches release candidate stage",
+      "url": "https://www.infoworld.com/article/4191918/typescript-7-0-reaches-release-candidate-stage.html",
+      "summary": "InfoWorldによるTypeScript 7.0 RC詳細解説。Goネイティブ実装でパーシング・型チェック・エミットを並列処理。大規模コードベースで飛躍的なビルド高速化を実現。",
+      "size": null,
+      "selected": false,
+      "source": "InfoWorld",
+      "exclude_reason": "merged_into_tech-001"
+    },
+    {
+      "id": "2026-07-02-tech-002",
+      "category": "tech",
+      "title": "Angular 22 Signal-First時代が本格到来 —— Signal Forms・httpResource がStableに",
+      "url": "https://medium.com/@marcomatto/angular-22-embracing-the-signal-first-era-b1c8803acea6",
+      "summary": "Signal Forms・resource()・httpResource()がすべてStable昇格。OnPushがデフォルトCD戦略、Zoneless対応完了。Angular 22でSignalファースト設計の完成形へ。",
+      "size": "大",
+      "selected": true,
+      "source": "Medium"
+    },
+    {
+      "id": "2026-07-02-tech-002b",
+      "category": "tech",
+      "title": "Angular Forms in 2026: Reactive vs Template-Driven, Validation, Testing, and the Signal Era",
+      "url": "https://dev.to/cristiansifuentes/angular-forms-in-2026-reactive-vs-template-driven-validation-testing-and-the-signal-era-3oo6",
+      "summary": "2026年のAngularフォームSignal移行実践ガイド。ReactiveFormsとSignal Formsの比較と段階的移行パスを詳解。",
+      "size": null,
+      "selected": false,
+      "source": "DEV Community",
+      "exclude_reason": "merged_into_tech-002"
+    },
+    {
+      "id": "2026-07-02-tech-003",
+      "category": "tech",
+      "title": "Claude Code 自律動作が本格化 —— Auto ModeでSonnet分類器が事前審査＋5段階ネスト",
+      "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
+      "summary": "Claude Code Auto Modeリサーチプレビュー公開。Sonnet分類器が各アクションを事前審査し安全なものを自動実行。サブエージェント5段階ネスト、週次キャップ50%増（7/13まで）。",
+      "size": "大",
+      "selected": true,
+      "source": "Anthropic"
+    },
+    {
+      "id": "2026-07-02-tech-003b",
+      "category": "tech",
+      "title": "Claude Code Changelog — July 2026",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "summary": "7月主要アップデート：Auto modeリサーチプレビュー、/cdコマンド、サブエージェント5段階ネスト、週次キャップ50%増。",
+      "size": null,
+      "selected": false,
+      "source": "Claude Code Docs",
+      "exclude_reason": "merged_into_tech-003"
+    },
+    {
+      "id": "2026-07-02-tech-004",
+      "category": "tech",
+      "title": "Claude Science AI Workbench ベータ公開",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "科学研究向けに60以上のスキルを統合したWorkbenchをベータ公開。ゲノミクス・構造生物学など研究ツールを一元管理。Pro/Max/Team/Enterpriseで利用可能。",
+      "size": "中",
+      "selected": true,
+      "source": "Anthropic"
+    },
+    {
+      "id": "2026-07-02-tech-005",
+      "category": "tech",
+      "title": "Claude Fable 5 世界再デプロイ ＋ サイバーセキュリティ分類器追加",
+      "url": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
+      "summary": "7/1より輸出規制解除に伴いFable 5のグローバル提供再開。セキュリティ分類器を同時追加し安全性を強化した新体制でグローバル再スタート。",
+      "size": "中",
+      "selected": true,
+      "source": "MarkTechPost"
+    },
+    {
+      "id": "2026-07-02-tech-006",
+      "category": "tech",
+      "title": "Gemini 3.5 Pro、7月リリースへ",
+      "url": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
+      "summary": "内部テスト完了、3.5 Flashをサブエージェントとするオーケストレーター設計。フロンティア性能と長コンテキストが特徴。",
+      "size": "中",
+      "selected": true,
+      "source": "TechTimes"
+    },
+    {
+      "id": "2026-07-02-tech-007",
+      "category": "tech",
+      "title": "Frontend Wrapped H1 2026: 9大ストーリー",
+      "url": "https://blog.logrocket.com/frontend-wrapped-h1-2026-the-nine-biggest-storylines",
+      "summary": "Vite 8・React Compiler Stable・TypeScript 7 RC・Angular 22 Signal・Bun買収など2026年上半期フロントエンドを1本で総括。",
+      "size": "中",
+      "selected": true,
+      "source": "LogRocket Blog"
+    },
+    {
+      "id": "2026-07-02-tech-008",
+      "category": "tech",
+      "title": "Node.js、年1回メジャーリリースへ変更",
+      "url": "https://www.infoq.com/news/2026/06/nodejs-release-changes/",
+      "summary": "Node 27（10月予定）より年2回→年1回に変更。全バージョンLTS対応、Alphaチャンネル導入。ビルドパイプラインの見直しが必要。",
+      "size": "中",
+      "selected": true,
+      "source": "InfoQ"
+    },
+    {
+      "id": "2026-07-02-tech-009",
+      "category": "tech",
+      "title": "GPT-5.6 Sol/Terra/Luna、20パートナーに先行提供",
+      "url": "https://cryptobriefing.com/openai-releases-gpt-56-models-to-20-partners-public-launch-expected-by-july-2026/",
+      "summary": "Cerebrasで最大750トークン/秒。強化されたコーディング・エージェント機能で20の限定パートナーに先行配布。公開は7月予定。",
+      "size": "中",
+      "selected": true,
+      "source": "CryptoBriefing"
+    },
+    {
+      "id": "2026-07-02-tech-010",
+      "category": "tech",
+      "title": "Claude Code Agents 2026 完全ガイド",
+      "url": "https://www.cloudzero.com/blog/claude-code-agents/",
+      "summary": "Agent View・サブエージェント・チーム機能の実コスト構造を詳解。並行実行の費用対効果がわかる。",
+      "size": "小",
+      "selected": true,
+      "source": "CloudZero"
+    },
+    {
+      "id": "2026-07-02-tech-011",
+      "category": "tech",
+      "title": "Frontend Nation 2026の発表まとめ",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "summary": "LaravelのFE参入、AIとの統合、フレームワーク選定トレンドを日本語解説。",
+      "size": "小",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-02-tech-012",
+      "category": "tech",
+      "title": "TSKaigi 2026 発表資料まとめ",
+      "url": "https://zenn.dev/yasse/articles/a7240304af804c",
+      "summary": "Angular Signal×TypeScriptの保守性設計、型安全アーキテクチャのセッション資料を収録。",
+      "size": "小",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-02-news-001",
+      "category": "news",
+      "title": "参院選、明日7月3日公示 —— 野党ボイコットの中、皇室典範審議が最大争点に",
+      "url": "https://www.jiji.com/jc/article?k=2026070200369&g=pol",
+      "summary": "7月3日公示・20日投開票。自民・公明が皇室典範改正案を最優先とし衆院定数削減・副首都法案を中断。野党5会派が審議ボイコットの異常事態で参院選突入。",
+      "size": "大",
+      "selected": true,
+      "source": "時事通信"
+    },
+    {
+      "id": "2026-07-02-news-001b",
+      "category": "news",
+      "title": "参院選あす7月3日公示 自民が全国幹事長会議で必勝誓う",
+      "url": "https://www.jimin.jp/news/information/210967.html",
+      "summary": "自民党が全国幹事長会議で外交・安全保障と人口減少対策を訴え臨戦態勢を確認。",
+      "size": null,
+      "selected": false,
+      "source": "自由民主党公式",
+      "exclude_reason": "merged_into_news-001"
+    },
+    {
+      "id": "2026-07-02-news-002",
+      "category": "news",
+      "title": "浜岡原発 データ改ざん継続 —— 規制庁調査後も不正、3・4号機審査を白紙撤回",
+      "url": "https://www.nikkei.com/article/DGXZQOUA011PH0R00C26A7000000/",
+      "summary": "規制庁の立入調査開始後も225件中69件の地震データ改ざんが継続。原子力規制委が悪質性が高いとして3・4号機の再稼働審査を白紙撤回。再稼働の見通し立たず。",
+      "size": "大",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-02-news-003",
+      "category": "news",
+      "title": "路線価2026 全国平均2.9%上昇・5年連続、銀座5丁目が5336万円/㎡",
+      "url": "https://news.yahoo.co.jp/articles/ff725cc3397710cc9a2ad5ad431b03d7a70e9e27",
+      "summary": "令和8年分路線価は全国平均2.9%上昇で5年連続プラス、現行方式の最大上昇幅。東京都は平均9.4%上昇。銀座5丁目が首位維持。",
+      "size": "中",
+      "selected": true,
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "id": "2026-07-02-news-004",
+      "category": "news",
+      "title": "夏ボーナス 大手企業 初の100万円台突破",
+      "url": "https://www.nikkei.com/article/DGXZQOUA025OD0S6A700C2000000/",
+      "summary": "経団連1次集計で平均100万8706円（前年比1.88%増）。賃上げ局面継続のシグナルに。初の100万円台突破。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-02-news-005",
+      "category": "news",
+      "title": "日銀6月短観 大企業製造業8年ぶり高水準 ＋ 年内利上げ観測強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165321000",
+      "summary": "業況DIがプラス22と8年ぶり高水準。早ければ9月の追加利上げが視野に。Bloomberg報道でも年内利上げ観測が強まっている。",
+      "size": "中",
+      "selected": true,
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-07-02-news-006",
+      "category": "news",
+      "title": "米・イラン、ドーハで間接協議 —— ホルムズ開放・資産凍結解除が焦点",
+      "url": "https://www.jiji.com/jc/article?k=2026070100253&g=int",
+      "summary": "60日停戦中の核協議が本格化。ホルムズ海峡の扱いと在外資産凍結解除を集中的に議論。エネルギー市場への影響が引き続き注目される。",
+      "size": "中",
+      "selected": true,
+      "source": "時事通信"
+    },
+    {
+      "id": "2026-07-02-news-007",
+      "category": "news",
+      "title": "W杯2026 ラウンド32結果 ＋ ラウンド16全カード確定",
+      "url": "https://www.footballchannel.jp/2026/07/02/post819372/",
+      "summary": "イングランド・ベルギー・米国がラウンド16へ。イングランドvs開催国メキシコなど注目カードが確定。7月4日からラウンド16スタート。",
+      "size": "中",
+      "selected": true,
+      "source": "フットボールチャンネル"
+    },
+    {
+      "id": "2026-07-02-news-008",
+      "category": "news",
+      "title": "日経平均 7万474円 3日続伸",
+      "url": "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGXZQOFL010KB0R00C26A7000000&scode=6506",
+      "summary": "AI半導体株がけん引し3日続伸。7万円台での底堅い展開継続。",
+      "size": "小",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-02-news-009",
+      "category": "news",
+      "title": "高市首相インド訪問 バイオガス1000基で覚書、スズキが技術協力",
+      "url": "https://news.yahoo.co.jp/articles/c02a184e997c0acaec729e939e330ed517846ac0",
+      "summary": "モディ首相との首脳会談でバイオガス施設1000基整備の覚書を締結。約4000億円の円借款でCNG車需要創出と脱炭素協力。",
+      "size": "小",
+      "selected": true,
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "id": "2026-07-02-news-010",
+      "category": "news",
+      "title": "日ウクライナ外相会談 投資協定改正の交渉加速で一致",
+      "url": "https://www.mofa.go.jp/mofaj/erp/c_see/ua/pageit_000001_00010.html",
+      "summary": "エネルギー・農業・インフラ分野での企業協力推進で一致。ウクライナ復興支援の深化。",
+      "size": "小",
+      "selected": true,
+      "source": "外務省"
+    },
+    {
+      "id": "2026-07-02-ent-001",
+      "category": "entertainment",
+      "title": "BLEACH 禍進譚 メインPV解禁 —— 7月25日（土）放送開始、PIERROT FILMS制作",
+      "url": "https://www.animatetimes.com/news/details.php?id=1779187097",
+      "summary": "7月25日(土)23:00よりテレ東系で放送開始。OP「I-BULL」by jo0ji、ED「螺旋」by 9Lana。PIERROT FILMSの新ブランドで制作。配信は7月26日より毎週日曜。",
+      "size": "大",
+      "selected": true,
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-07-02-ent-002",
+      "category": "entertainment",
+      "title": "GTO 松嶋菜々子出演決定 —— 28年ぶりの反町×菜々子再共演",
+      "url": "https://thetv.jp/news/detail/1407729/",
+      "summary": "7月20日スタートのフジテレビ「GTO」に松嶋菜々子が冬月あずさ役で出演確定。28年ぶりの伝説コンビ再共演が話題に。",
+      "size": "中",
+      "selected": true,
+      "source": "WEBザテレビジョン"
+    },
+    {
+      "id": "2026-07-02-ent-003",
+      "category": "entertainment",
+      "title": "映画キングダム 魂の決戦 7月17日公開、IMAX同時上映決定",
+      "url": "https://eiga.com/movie/104266/",
+      "summary": "山﨑賢人主演シリーズ第5弾が7月17日公開。IMAX同時上映決定。佐藤信介監督、原泰久原作の実写版最新章。",
+      "size": "中",
+      "selected": true,
+      "source": "映画.com"
+    },
+    {
+      "id": "2026-07-02-ent-004",
+      "category": "entertainment",
+      "title": "今週末〜来週の夏アニメラッシュ —— 無職転生III・攻殻機動隊・幼女戦記II・これ描いて死ね",
+      "url": "https://game.watch.impress.co.jp/docs/news/2120150.html",
+      "summary": "無職転生III（7/5）・攻殻機動隊 THE GHOST IN THE SHELL（7/7）・幼女戦記II（7/8）・これ描いて死ね（7/3）と4作が連続放送開始。夏クールの豊作感が如実に出ている。",
+      "size": "中",
+      "selected": true,
+      "source": "GAME Watch"
+    },
+    {
+      "id": "2026-07-02-ent-005",
+      "category": "entertainment",
+      "title": "BABYMONSTER 7月8日（水）神戸公演でワールドツアー日本版開幕",
+      "url": "https://www.babymonster.jp/babymonster-kobe-2026/",
+      "summary": "今週後半に日本ツアー初日。6都市経て9月は京セラドーム大阪でフィナーレ。",
+      "size": "中",
+      "selected": true,
+      "source": "BABYMONSTER Japan公式"
+    },
+    {
+      "id": "2026-07-02-ent-006",
+      "category": "entertainment",
+      "title": "NiziU 初ベストアルバム「Portfolio」発売 ＋ MTV Japan特番決定",
+      "url": "https://www.rbbtoday.com/article/2026/07/01/250094.html",
+      "summary": "昨日7/1リリース、全20曲で活動6年の軌跡を網羅。MTV Japan特番放送も決定。",
+      "size": "中",
+      "selected": true,
+      "source": "RBB TODAY"
+    },
+    {
+      "id": "2026-07-02-ent-007",
+      "category": "entertainment",
+      "title": "THE MUSIC DAY 2026 今週土曜7/4放送",
+      "url": "https://natalie.mu/music/news/675165",
+      "summary": "Number_i・SixTONES・NiziU・BE:FIRST・HANAら豪華アーティスト出演の音楽特番。",
+      "size": "小",
+      "selected": true,
+      "source": "音楽ナタリー"
+    },
+    {
+      "id": "2026-07-02-ent-008",
+      "category": "entertainment",
+      "title": "ILLIT、FNS歌謡祭夏でCUTIE STREETとコラボ",
+      "url": "https://www.rbbtoday.com/article/2026/07/02/250156.html",
+      "summary": "昨夜放送で話題。7月18〜26日の日本ツアーも間近。",
+      "size": "小",
+      "selected": true,
+      "source": "RBB TODAY"
+    },
+    {
+      "id": "2026-07-02-ent-009",
+      "category": "entertainment",
+      "title": "SEVENTEEN 新ユニット V8（THE 8 × VERNON）始動",
+      "url": "https://tvfan.kyodo.co.jp/music/news-music/1517199",
+      "summary": "ハイパーポップ電子音楽サウンドで1stミニアルバム「V8」リリース。韓国・香港公演も予定。",
+      "size": "小",
+      "selected": true,
+      "source": "TVfan"
+    },
+    {
+      "id": "2026-07-02-ent-010",
+      "category": "entertainment",
+      "title": "ノーラン「オデュッセイア」初レビュー「ものすごい映画」",
+      "url": "https://theriver.jp/odyssey-jonathan-review/",
+      "summary": "全編IMAX撮影・マット・デイモン主演のホメロス叙事詩映画化。全米7/17、日本9/11公開。",
+      "size": "小",
+      "selected": true,
+      "source": "THE RIVER"
+    },
+    {
+      "id": "2026-07-02-ent-011",
+      "category": "entertainment",
+      "title": "映画ちいかわ 明日7/3に新情報一挙発表",
+      "url": "https://eiga.com/news/20260702/8/",
+      "summary": "7/24公開の人魚の島・セイレーン編映画化。明日の情報解禁に注目。",
+      "size": "小",
+      "selected": true,
+      "source": "映画.com"
+    },
+    {
+      "id": "2026-07-02-hobby-001",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ 本日7/2発売 —— 発売当日レビューは「傑作」の声",
+      "url": "https://www.4gamer.net/games/895/G089553/20260702009/",
+      "summary": "Nintendo Switch 2向けに本日発売（税込6,500円）。GAME Watch「ボタン一つで天国へ昇り、地獄を見る傑作」、ファミ通もRPG風新モード「ビートスペル」と4人マルチを高評価。",
+      "size": "大",
+      "selected": true,
+      "source": "4Gamer"
+    },
+    {
+      "id": "2026-07-02-hobby-001b",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ レビュー（GAME Watch）",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2119743.html",
+      "summary": "「ボタン一つで天国へ昇り、地獄を見る傑作」と評される本格レビュー。",
+      "size": null,
+      "selected": false,
+      "source": "GAME Watch",
+      "exclude_reason": "merged_into_hobby-001"
+    },
+    {
+      "id": "2026-07-02-hobby-002",
+      "category": "hobby",
+      "title": "タムロン 17-70mm F/2.8 本日Z・RF発売 ＆ ソニー RX10V 発表直前スペック判明",
+      "url": "https://mirrorless-camera.info/news/tamron-news/56190.html",
+      "summary": "タムロン17-70mm F/2.8 Di III-AのZ版166,100円・RF版168,300円が本日発売。ソニーRX10Vは7月上旬発表確定、新エンジン・NP-FZ100バッテリー採用情報が漏れ始める。",
+      "size": "大",
+      "selected": true,
+      "source": "ミラーレスカメラ情報"
+    },
+    {
+      "id": "2026-07-02-hobby-003",
+      "category": "hobby",
+      "title": "パルワールド 正式版「1.0」7月10日リリース決定",
+      "url": "https://www.famitsu.com/article/202606/77226",
+      "summary": "早期アクセスから約2.5年を経て来週ついに正式版。世界樹・新パル・未知の大陸が追加。既存セーブデータ引き継ぎ可。Steamで25%オフセール同時実施。",
+      "size": "中",
+      "selected": true,
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-07-02-hobby-004",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 7/23発売 —— ダイレクトまとめ",
+      "url": "https://www.famitsu.com/article/202606/79948",
+      "summary": "最大4人協力・ガジェットカスタマイズが目玉。先行プレイも「オクト系の面白さ継承」と高評価。スプラ初スピンオフ。",
+      "size": "中",
+      "selected": true,
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-07-02-hobby-005",
+      "category": "hobby",
+      "title": "食べログ カレー百名店2026 —— 全国300店・スパイス系新鋭多数初選出",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2115875.html",
+      "summary": "TOKYO・EAST・WEST各100店。8回目の発表で初選出は26店。東京初選出にMANOS・SPICECURRY KERAKUなどスパイスカレー系新鋭が充実。",
+      "size": "中",
+      "selected": true,
+      "source": "グルメWatch"
+    },
+    {
+      "id": "2026-07-02-hobby-006",
+      "category": "hobby",
+      "title": "超広角ズーム流出画像 —— タムロン製の可能性大、本日〜明日発表か",
+      "url": "https://mirrorless-camera.info/rumor/tamron-rumor/56215.html",
+      "summary": "形状・リング配置分析からシグマではなくタムロン製と判断。フルサイズEマウント対応超広角ズームが正式発表間近。",
+      "size": "小",
+      "selected": true,
+      "source": "ミラーレスカメラ情報"
+    },
+    {
+      "id": "2026-07-02-hobby-007",
+      "category": "hobby",
+      "title": "ソニー7月: RX10V（上旬）＋FX5（下旬）発表確定",
+      "url": "https://digicame-info.com/2026/06/7fx57rx10-v.html",
+      "summary": "ソニーが7月上旬にRX10V、7月下旬にFX5の発表を確認。カメラファンにとって豊作の7月。",
+      "size": "小",
+      "selected": true,
+      "source": "デジカメinfo"
+    },
+    {
+      "id": "2026-07-02-hobby-008",
+      "category": "hobby",
+      "title": "食べログ カレー百名店 東京初選出8店",
+      "url": "https://www.ryutsuu.biz/store/s061012.html",
+      "summary": "創作カレーMANOS（世田谷）、チキュウ マサラ（新宿）、SPICECURRY KERAKU（品川）などスパイスカレー系が充実。",
+      "size": "小",
+      "selected": true,
+      "source": "流通ニュース"
+    },
+    {
+      "id": "2026-07-02-hobby-009",
+      "category": "hobby",
+      "title": "7月注目インディーゲーム10本",
+      "url": "https://www.indie-freaks.com/2026/07/10-featured-indie-games-202607",
+      "summary": "猫の郵便局シム「にゃんこ郵便局」（7/10）、弾幕×デッキ構築「Hell Maiden」早期アクセス（7/16）ほか。",
+      "size": "小",
+      "selected": true,
+      "source": "INDIE FREAKS"
+    },
+    {
+      "id": "2026-07-02-seren-001",
+      "category": "serendipity",
+      "title": "夏ボーナス100万円突破 × 食品値上げ2566品目 —— 「最高の数字」が体感と乖離する経済",
+      "url": "https://www.nikkei.com/article/DGXZQOUA025OD0S6A700C2000000/",
+      "summary": "大手企業の夏ボーナスが初の100万円台、日銀短観8年ぶり高水準、株価7万円台——数字は好景気でも昨日から食品2566品目値上げ、円安162円台が続く。統計的な好景気と生活実感のズレを問う記事。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞",
+      "serendipity_reason": "今日は過去最高のボーナス統計と過去最多の値上げが同時に起きた日。その対比が2026年の日本経済のリアルを最もよく表している。"
+    },
+    {
+      "id": "2026-07-02-seren-002",
+      "category": "serendipity",
+      "title": "TypeScript 10倍速 —— 「待つ時間」が消えたとき、開発者の思考はどう変わるか",
+      "url": "https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx",
+      "summary": "型チェックが77秒から7.5秒に。単なる速度改善ではなく「待機行動」そのものが消える転換点。コーヒー・Slack確認・別タスク——それらは77秒の空白が生んだ習慣だった。",
+      "size": "中",
+      "selected": true,
+      "source": "Visual Studio Magazine",
+      "serendipity_reason": "技術指標の改善が「認知・行動パターン」まで変える事例として。作業効率の議論を超えた、人間の働き方の話。"
+    },
+    {
+      "id": "2026-07-02-seren-003",
+      "category": "serendipity",
+      "title": "浜岡原発データ改ざん × Claude Code Auto Mode —— 「監視役もAI化」する時代の皮肉",
+      "url": "https://www.nikkei.com/article/DGXZQOUA011PH0R00C26A7000000/",
+      "summary": "調査が入っても改ざんが続いた浜岡原発——「人が人を監視する」設計の限界。一方でClaude CodeはSonnet分類器が各アクションを事前審査するAuto Modeを発表。監視のAI化が最重要インフラで使われていれば何が変わったか。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞",
+      "serendipity_reason": "テックとニュースが「信頼とAI監視」というテーマで意外な場所でつながる。"
+    }
+  ]
+}
