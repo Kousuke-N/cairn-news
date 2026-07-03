@@ -1,0 +1,540 @@
+{
+  "date": "2026-07-03",
+  "notion_page_id": "392a41a3-cf9b-8164-bd16-d8deaaf1a797",
+  "articles": [
+    {
+      "id": "2026-07-03-tech-001",
+      "category": "tech",
+      "title": "Claude Sonnet 5 正式リリース + Fable 5 グローバル復活 — Anthropicが今週「最強・最安全・最広範囲」のトリプル展開",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Fable 5が7/1よりグローバル復活（Proは7/7まで+50%）。Claude Sonnet 5: セキュリティ防御デフォルト搭載・エージェント性能大幅向上。Azure FoundryにGA（$2/1Mトークン）。AIスタックの次フェーズが揃った週。",
+      "size": "大",
+      "selected": true,
+      "source": "Anthropic"
+    },
+    {
+      "id": "2026-07-03-tech-001b",
+      "category": "tech",
+      "title": "Claude Sonnet 5、サイバーセキュリティ防御機能をデフォルト搭載して正式リリース",
+      "url": "https://www.helpnetsecurity.com/2026/07/01/anthropic-claude-sonnet-5/",
+      "summary": "BrowseComp・OSWorld-Verifiedで大幅なエージェント性能向上。危険なサイバー活動をリアルタイムブロックする保護機能をデフォルト有効化。",
+      "size": null,
+      "selected": false,
+      "source": "Help Net Security",
+      "exclude_reason": "merged_into_tech-001"
+    },
+    {
+      "id": "2026-07-03-tech-001c",
+      "category": "tech",
+      "title": "Claude Sonnet 5、Microsoft Azure Foundry に正式GA",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-5-is-now-generally-available-in-microsoft-foundry/4530737",
+      "summary": "Azure認証・課金・ネットワーキング・ガバナンスと統合。既存Azure契約を通じてエンタープライズ向けAIエージェント展開が即日可能に。",
+      "size": null,
+      "selected": false,
+      "source": "Microsoft Tech Community",
+      "exclude_reason": "merged_into_tech-001"
+    },
+    {
+      "id": "2026-07-03-tech-002",
+      "category": "tech",
+      "title": "Google A2UI v0.9 リリース — AngularがGenerative UIの正式戦場に",
+      "url": "https://www.infoq.com/news/2026/07/google-a2ui-genui/",
+      "summary": "フレームワーク非依存のGenerative UI標準A2UI v0.9リリース。Angular/React/Flutter公式レンダラーとPython SDKを提供。既存コンポーネントカタログをAIエージェントが安全に操作可能に。Angular 22 MCPサーバーとの組み合わせでエンドツーエンドGenerative UIが現実に。",
+      "size": "大",
+      "selected": true,
+      "source": "InfoQ"
+    },
+    {
+      "id": "2026-07-03-tech-003",
+      "category": "tech",
+      "title": "MCP仕様 RC公開 — ステートレス化で「AIエージェント接続」が普通のHTTPで動く",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "summary": "MCP次期仕様のRCが公開。ステートレスなプロトコルコアを採用し通常のHTTPインフラで動作可能に。Tasks/MCP Apps/Extensionsを新設し、OAuth寄りの認可強化も実施。7月28日に正式仕様リリース予定。Angular MCPサーバー実装に影響。",
+      "size": "大",
+      "selected": true,
+      "source": "Model Context Protocol Blog"
+    },
+    {
+      "id": "2026-07-03-tech-004",
+      "category": "tech",
+      "title": "TypeScript 7.0 RC 日本語詳解（gihyo.jp）",
+      "url": "https://gihyo.jp/article/2026/06/typescript-7-0-rc",
+      "summary": "型チェック10倍・メモリ1/3のGoネイティブコンパイラを日本語で解説。正式版が今月中にリリース予定。前回との違いは日本語の包括解説。",
+      "size": "中",
+      "selected": true,
+      "source": "gihyo.jp"
+    },
+    {
+      "id": "2026-07-03-tech-005",
+      "category": "tech",
+      "title": "Angular 22 MCP+Skills 実践ガイド — AIエージェントに安全なコンポーネントを提供する",
+      "url": "https://www.yeou.dev/articles/angular-22-agent-safe-components-mcp-skills-setup",
+      "summary": "Angular 22のMCPサーバー統合とSkillsを活用してAIエージェントが安全に操作できるコンポーネントを設計する方法を解説。A2UI v0.9とセットで読みたい実装ガイド。",
+      "size": "中",
+      "selected": true,
+      "source": "yeou.dev"
+    },
+    {
+      "id": "2026-07-03-tech-006",
+      "category": "tech",
+      "title": "AGENTS.mdの書き方 — 生成AIはプロジェクトの目的を知らなくていい",
+      "url": "https://zenn.dev/utsutaka/articles/12ea2b60483c9f",
+      "summary": "GitHub Copilot向け指示ファイルAGENTS.mdの書き方を体系的に解説。TypeScript/Angular向け設定例掲載。毎回コンテキスト説明をしなくて済む実務ノウハウ。",
+      "size": "中",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-03-tech-007",
+      "category": "tech",
+      "title": "AngularはAI志向のフレームワークへ（lacolaco/Zenn）",
+      "url": "https://zenn.dev/lacolaco/articles/angular-ai-forward",
+      "summary": "LLMによるAngularコード生成の安定性が高く、Signal Forms・MCPサーバー等AI要件に応える設計が整備されているとAngular専門家が論じる実務観点の考察。",
+      "size": "中",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-03-tech-008",
+      "category": "tech",
+      "title": "Generative UIにJSONは最適か？ A2UIとOpenUIの比較（Zenn）",
+      "url": "https://zenn.dev/sc30gsw/articles/d7320f1247b785",
+      "summary": "A2UI v0.9リリース直後のタイミングで、Generative UIの実装方針を比較検討。フロントエンドエンジニア視点でトレードオフを整理した実践的な考察記事。",
+      "size": "中",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-03-tech-009",
+      "category": "tech",
+      "title": "Fable 5 停止19日間が示すエンタープライズAI依存のリスク",
+      "url": "https://www.marketscale.com/industries/software-and-technology/fable-5-and-mythos-5-are-back-what-the-19-day-shutdown-taught-every-enterprise-about-ai-as-infrastructure",
+      "summary": "輸出規制による19日間の停止を経てFable 5復活。AIインフラへの過度な依存リスクとベンダーロックイン問題、フォールバック戦略の重要性をエンタープライズ視点で考察。",
+      "size": "小",
+      "selected": true,
+      "source": "MarketScale"
+    },
+    {
+      "id": "2026-07-03-tech-010",
+      "category": "tech",
+      "title": "TypeScriptの父が示す、AI時代に生き残るエンジニアの条件（Zenn）",
+      "url": "https://zenn.dev/03da/articles/b997e11d2bc871",
+      "summary": "ヘルスバーグ氏の発言をもとにAI時代のエンジニア像を考察。LLMが自動化できない設計力・判断力の重要性を論じる。",
+      "size": "小",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-03-tech-011",
+      "category": "tech",
+      "title": "バズりツイートから見るAIエージェントプロダクト開発2026（Zenn）",
+      "url": "https://zenn.dev/chiku_dev/articles/7602829910d94f",
+      "summary": "X拡散投稿を分析し2026年のAIエージェントプロダクト開発トレンドを考察。UX設計と信頼性確保のポイントを実例から整理。",
+      "size": "小",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-03-news-001",
+      "category": "news",
+      "title": "台風9号（バービー）来週に沖縄接近か —— 猛烈な勢力で急発達中",
+      "url": "https://weathernews.jp/news/202607/030051/",
+      "summary": "7月6日に「猛烈な」勢力（最大瞬間風速75m/s前後）でサイパン付近を通過予想。来週後半に沖縄への接近が懸念される。防災グッズの確認を。",
+      "size": "大",
+      "selected": true,
+      "source": "ウェザーニュース"
+    },
+    {
+      "id": "2026-07-03-news-001b",
+      "category": "news",
+      "title": "台風9号は強い勢力に 3日後は猛烈な勢力に発達へ",
+      "url": "https://tenki.jp/forecaster/k_itoh/2026/07/03/39579.html",
+      "summary": "7月3日午前9時に「強い」勢力へ発達。4日に「非常に強い」、6日に「猛烈な」勢力へと急発達が予想される。",
+      "size": null,
+      "selected": false,
+      "source": "tenki.jp",
+      "exclude_reason": "merged_into_news-001"
+    },
+    {
+      "id": "2026-07-03-news-002",
+      "category": "news",
+      "title": "長期金利 30年ぶり2.81% —— 日銀「後手」懸念と財政リスクが重なる",
+      "url": "https://www.nikkei.com/article/DGXZQOFL033KP0T00C26A7000000/",
+      "summary": "国内長期金利が2.810%と約30年ぶりの高水準に上昇。日銀の対応の遅れへの市場懸念が浮上。住宅ローン固定金利は既に上昇中、不動産・企業投資に影響が広がる。",
+      "size": "大",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-03-news-002b",
+      "category": "news",
+      "title": "長期金利一時2.72%に上昇 日銀の後手懸念強まる",
+      "url": "https://www.nikkei.com/article/DGXZQOUB016HD0R00C26A7000000/",
+      "summary": "日銀が物価・金利動向への対応で後手に回っているとの市場懸念が浮上。政府の利上げけん制姿勢との摩擦が先行き不透明感を高めている。",
+      "size": null,
+      "selected": false,
+      "source": "日本経済新聞",
+      "exclude_reason": "merged_into_news-002"
+    },
+    {
+      "id": "2026-07-03-news-003",
+      "category": "news",
+      "title": "ベネズエラ大地震 死者2,200人超・100時間ぶり生還 —— 日本も援助隊42名を派遣",
+      "url": "https://www.jrc.or.jp/international/news/2026/0703_054120.html",
+      "summary": "6月24日M7.2/M7.5の大地震で死者2200人超、負傷者1万1200人以上。8日後に40代男性が瓦礫から100時間超ぶりに救出。日本政府は医師・看護師含む42名の国際緊急援助隊を派遣。",
+      "size": "大",
+      "selected": true,
+      "source": "日本赤十字社"
+    },
+    {
+      "id": "2026-07-03-news-003b",
+      "category": "news",
+      "title": "ベネズエラ地震、8日ぶり「奇跡の生還」 100時間の救出劇",
+      "url": "https://www.nikkei.com/article/DGXZQOCB030EP0T00C26A7000000/",
+      "summary": "北部ラグアイラ州で倒壊したショッピングセンターから40代警備員男性が奇跡的に救出。7カ国の救助隊が100時間超に及ぶ活動の末に発見。",
+      "size": null,
+      "selected": false,
+      "source": "日本経済新聞",
+      "exclude_reason": "merged_into_news-003"
+    },
+    {
+      "id": "2026-07-03-news-003c",
+      "category": "news",
+      "title": "ベネズエラにおける地震被害に対する国際緊急援助隊・医療チームの派遣",
+      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03893.html",
+      "summary": "日本政府が医師・看護師等を含む42名からなる国際緊急援助隊・医療チームの派遣を決定。",
+      "size": null,
+      "selected": false,
+      "source": "外務省",
+      "exclude_reason": "merged_into_news-003"
+    },
+    {
+      "id": "2026-07-03-news-004",
+      "category": "news",
+      "title": "GPIF 2025年度運用益41兆円・歴代2位",
+      "url": "https://www.nikkei.com/article/DGXZQOUB025QG0S6A700C2000000/",
+      "summary": "年金積立金管理運用独立行政法人の2025年度運用益が約41兆3995億円と過去2番目の規模。運用収益率16.47%、AI関連銘柄を中心とする株高が貢献。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-03-news-005",
+      "category": "news",
+      "title": "米中外相が電話会談 王毅氏「台湾問題は慎重に」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166641000",
+      "summary": "中国の王毅外相とルビオ国務長官が電話会談。米中首脳合意の実行を確認。王氏は台湾問題について「わずかなことが全体に影響する」として米側に最大限の慎重な対応を強く求めた。",
+      "size": "中",
+      "selected": true,
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-07-03-news-005b",
+      "category": "news",
+      "title": "中国外相、米国務長官と電話会談 関係改善には「行動が必要」",
+      "url": "https://www.afpbb.com/articles/-/3642234",
+      "summary": "「口先だけでなく行動が必要」と強調。米中関係の実質的改善を求める中国側の姿勢。",
+      "size": null,
+      "selected": false,
+      "source": "AFPBB News",
+      "exclude_reason": "merged_into_news-005"
+    },
+    {
+      "id": "2026-07-03-news-006",
+      "category": "news",
+      "title": "KIOXIA 第10世代BiCS FLASH™のサンプル出荷開始",
+      "url": "https://www.kioxia.com/ja-jp/about/news/2026/20260703-1.html",
+      "summary": "332層積層の第10世代NANDフラッシュメモリーのサンプル出荷を開始。処理性能4.8Gbpsで前世代比60%超の高密度化。急拡大するAI向けデータセンター需要に対応。",
+      "size": "中",
+      "selected": true,
+      "source": "KIOXIA"
+    },
+    {
+      "id": "2026-07-03-news-007",
+      "category": "news",
+      "title": "W杯2026 7月3日試合結果 — スペイン・ポルトガル・スイスが登場",
+      "url": "https://www.olympics.com/ja/news/fifa-world-cup-2026-live-scores-3-july-results",
+      "summary": "スペインvsオーストリア、ポルトガルvsクロアチア、スイスvsアルジェリアの3試合がラウンド32戦で開催。強豪国が勢揃い。",
+      "size": "中",
+      "selected": true,
+      "source": "Olympics.com"
+    },
+    {
+      "id": "2026-07-03-news-008",
+      "category": "news",
+      "title": "京都大学、国際卓越研究大学に認定（3校目）",
+      "url": "https://www.kyoto-u.ac.jp/ja/news/2026-07-03",
+      "summary": "東北大・東京科学大に続く3校目。初年度200億円助成、博士号取得者を現在の約700人から2100人へ3倍増させる全学改革を推進。",
+      "size": "小",
+      "selected": true,
+      "source": "京都大学"
+    },
+    {
+      "id": "2026-07-03-ent-001",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL — 7月7日（月）放送開始、アヌシー映画祭史上初のTVシリーズ選出",
+      "url": "https://animeanime.jp/article/2026/06/16/100103.html",
+      "summary": "サイエンスSARU（ダンダダン制作）がフジテレビ系・Amazon Prime Videoで7月7日より放送。士郎文字全手描き・情報密度3倍という原作再現へのこだわり。アヌシー国際映画祭Special Events部門でTVシリーズとして史上初選出・大喝采。",
+      "size": "大",
+      "selected": true,
+      "source": "アニメ！アニメ！"
+    },
+    {
+      "id": "2026-07-03-ent-001b",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL アヌシー国際映画祭でTVシリーズ史上初の世界最速上映",
+      "url": "https://animeanime.jp/article/2026/06/25/100374.html",
+      "summary": "6月22日にアヌシー国際アニメーション映画祭のSpecial Events部門でワールドプレミア上映。TVシリーズ同部門選出は映画祭史上初。士郎文字の全手描き、通常の3倍の情報量など制作秘話も話題。",
+      "size": null,
+      "selected": false,
+      "source": "アニメ！アニメ！",
+      "exclude_reason": "merged_into_ent-001"
+    },
+    {
+      "id": "2026-07-03-ent-002",
+      "category": "entertainment",
+      "title": "「これ描いて死ね」本日7月3日深夜放送開始",
+      "url": "https://anime.eiga.com/program/112686/",
+      "summary": "マンガ大賞＆小学館漫画賞W受賞の青春漫画原作がアニメ化。NTV系「フラアニ」枠でNetflixと同時配信開始。クリエイター志望の高校生の物語として業界人にも刺さるテーマ。",
+      "size": "中",
+      "selected": true,
+      "source": "アニメハック（映画.com）"
+    },
+    {
+      "id": "2026-07-03-ent-003",
+      "category": "entertainment",
+      "title": "「プロジェクト・ヘイル・メアリー」本日Amazon Prime Video独占配信開始",
+      "url": "https://www.cinematoday.jp/news/N0155640",
+      "summary": "ライアン・ゴズリング主演、フィル・ロード&クリス・ミラー監督のSF大作が本日より見放題独占配信。アンディ・ウィアー原作の同名小説映画化。",
+      "size": "中",
+      "selected": true,
+      "source": "シネマトゥデイ"
+    },
+    {
+      "id": "2026-07-03-ent-004",
+      "category": "entertainment",
+      "title": "「映画ちいかわ 人魚の島のひみつ」本日6大情報を一挙解禁",
+      "url": "https://animeanime.jp/article/2026/07/01/100565.html",
+      "summary": "7月24日公開に向けて本日「ちいかわの夏が来るDAY」を実施。新情報・新映像・グッズ情報等を一気に解禁予定。TOHOシネマズ25劇場でポップアップストアも7月10日より。",
+      "size": "中",
+      "selected": true,
+      "source": "アニメ！アニメ！"
+    },
+    {
+      "id": "2026-07-03-ent-005",
+      "category": "entertainment",
+      "title": "NewJeans カムバックへの期待高まる — アメリカで目撃、活動再開か",
+      "url": "https://www.rbbtoday.com/article/2026/07/02/250144.html",
+      "summary": "ヘリン・ヘインがカメラスタッフを伴い米国で目撃。ADOR訴訟の第3回弁論も7/2に開催。K-POP最大の注目グループの復活への期待が高まっている。",
+      "size": "中",
+      "selected": true,
+      "source": "RBB TODAY"
+    },
+    {
+      "id": "2026-07-03-ent-006",
+      "category": "entertainment",
+      "title": "映画『キングダム 魂の決戦』7月17日公開迫る — 主題歌は米津玄師「夜鷹」",
+      "url": "https://www.cinematoday.jp/news/N0155474",
+      "summary": "山﨑賢人主演シリーズ第5弾、IMAX・MX4D・4DX同時公開。合従軍50万vs秦の大攻防戦を描く。主題歌は米津玄師の書き下ろし「夜鷹」。",
+      "size": "中",
+      "selected": true,
+      "source": "シネマトゥデイ"
+    },
+    {
+      "id": "2026-07-03-ent-007",
+      "category": "entertainment",
+      "title": "THE MUSIC DAY 2026 明日7月4日放送 — シャッフルメドレー42人12組の組み合わせ発表",
+      "url": "https://natalie.mu/music/news/678159",
+      "summary": "明日（7/4）放送の日本テレビ系特番。Snow Man・SixTONES・King＆Princeら42名12組がシャッフルメドレーで名曲を歌いつなぐ目玉企画の組み合わせが発表。",
+      "size": "小",
+      "selected": true,
+      "source": "音楽ナタリー"
+    },
+    {
+      "id": "2026-07-03-ent-008",
+      "category": "entertainment",
+      "title": "aespa 日本1stミニアルバム『KISS N TELL』7月24日リリース",
+      "url": "https://wmg.jp/aespa/news/90876/",
+      "summary": "約2年ぶりの日本カムバック。全6曲、アニメ「キルアオ」OP「ATTITUDE」収録。レトロフューチャー×ピンクコンセプトの新たな魅力。",
+      "size": "小",
+      "selected": true,
+      "source": "Warner Music Japan"
+    },
+    {
+      "id": "2026-07-03-ent-009",
+      "category": "entertainment",
+      "title": "「ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-」本日テレ東深夜スタート",
+      "url": "https://www.tv-tokyo.co.jp/information/202606/5678.html",
+      "summary": "ホラー漫画の鬼才・伊藤潤二の傑作13作品を実写オムニバスドラマ化。7月3日（金）深夜24:12放送開始。主題歌はK-POPグループIVEの「JIGSAW」。",
+      "size": "小",
+      "selected": true,
+      "source": "テレビ東京"
+    },
+    {
+      "id": "2026-07-03-ent-010",
+      "category": "entertainment",
+      "title": "NiziU「Portfolio」初週9.4万枚でアルバムチャート首位走行中",
+      "url": "https://tvfan.kyodo.co.jp/music/news-music/1517508",
+      "summary": "7月1日発売のベストアルバム。初週推定9.4万枚でBillboard JAPANアルバムチャート首位を走行。ICEx「FRESH!!」（8.7万枚）が2位。",
+      "size": "小",
+      "selected": true,
+      "source": "TVfan KYODO"
+    },
+    {
+      "id": "2026-07-03-ent-011",
+      "category": "entertainment",
+      "title": "BTS、5thアルバム「ARIRANG」ワールドツアーがヨーロッパで開幕",
+      "url": "https://hollywoodreporter.jp/music/185238/",
+      "summary": "6月26日スペイン・マドリードを皮切りにベルギー・英国・独・仏での公演を予定。オリコン上半期ランキングでアルバム・合算1位を獲得。",
+      "size": null,
+      "selected": false,
+      "source": "The Hollywood Reporter Japan",
+      "exclude_reason": "lower_priority"
+    },
+    {
+      "id": "2026-07-03-hobby-001",
+      "category": "hobby",
+      "title": "ソニー RX10 V + FX5、7月上旬・下旬に相次いで正式発表へ",
+      "url": "https://digicame-info.com/2026/07/rx10v.html",
+      "summary": "RX10 V: 9年ぶり後継機、新エンジン・1インチ積層型センサー・NP-FZ100バッテリー搭載予定、予想価格1,899〜1,999ドル。FX5: 新グローバルシャッターセンサー搭載Cinema Line。カメラ購入は7月発表後に判断を。",
+      "size": "大",
+      "selected": true,
+      "source": "デジカメinfo"
+    },
+    {
+      "id": "2026-07-03-hobby-001b",
+      "category": "hobby",
+      "title": "ソニー 7月にRX10 V、FX5を発表か？ ネオイチが9年ぶり刷新",
+      "url": "https://mirrorless-camera.info/rumor/sony-rumor/56249.html",
+      "summary": "7月上旬にRX10 V、7月下旬にFX5の発表を確認。RX10 Vは1インチ積層型センサーとAI AF搭載予定。",
+      "size": null,
+      "selected": false,
+      "source": "ミラーレスカメラ情報",
+      "exclude_reason": "merged_into_hobby-001"
+    },
+    {
+      "id": "2026-07-03-hobby-001c",
+      "category": "hobby",
+      "title": "ソニー「FX5」「RX10V」が7月発表の確認が取れる",
+      "url": "https://dclife.jp/archives/15051",
+      "summary": "FX5は新グローバルシャッターセンサー搭載のCinema Lineカメラとして動画クリエイターからも注目。",
+      "size": null,
+      "selected": false,
+      "source": "Digital Camera Life",
+      "exclude_reason": "merged_into_hobby-001"
+    },
+    {
+      "id": "2026-07-03-hobby-002",
+      "category": "hobby",
+      "title": "シグマが「07.07.2026」の謎を投稿 — Foveonセンサー復活か",
+      "url": "https://www.gizmodo.jp/article/july7-siguma-post/",
+      "summary": "7月2日にシグマ公式SNSが青・赤・緑3色の「07.07.2026」画像を投稿。Foveon X3センサー（R/G/B独立記録）のカラー構成と一致。4日後（7月7日）に新製品発表か。",
+      "size": "大",
+      "selected": true,
+      "source": "ギズモード・ジャパン"
+    },
+    {
+      "id": "2026-07-03-hobby-003",
+      "category": "hobby",
+      "title": "パルワールド 正式版1.0 7月10日リリース確定 + Steamセール",
+      "url": "https://www.gamespark.jp/article/2026/06/06/167492.html",
+      "summary": "早期アクセスから約2年半で正式版リリース。Summer Game Fest 2026で新パルと世界樹の謎を描くシネマティックPVを世界初公開。Steamで25%オフセール同時実施。既存セーブデータ引き継ぎ可。",
+      "size": "中",
+      "selected": true,
+      "source": "Game*Spark"
+    },
+    {
+      "id": "2026-07-03-hobby-004",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 7月23日発売 — Nintendo Direct詳細まとめ",
+      "url": "https://www.nintendo.com/jp/nintendo-direct/20260630/index.html",
+      "summary": "6月30日のNintendo Directで全貌が公開。新主人公メカニックとすりみ連合が共闘するオタカラハント、最大4人協力とガジェットカスタマイズが目玉。Switch 2本体同梱セットも同日発売。",
+      "size": "中",
+      "selected": true,
+      "source": "任天堂公式"
+    },
+    {
+      "id": "2026-07-03-hobby-005",
+      "category": "hobby",
+      "title": "TOKYO MIX CURRY 大手町に昼夜2業態の新店が7月1日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000093740.html",
+      "summary": "スパイスカレーブランドが大手町カンファレンスセンターB1に新店舗をオープン。昼はカスタムカレー専門、夜はスパイスバル「TMCスパイスバル」という初の2業態展開。小麦粉不使用ヘルシー仕様。",
+      "size": "中",
+      "selected": true,
+      "source": "PR TIMES"
+    },
+    {
+      "id": "2026-07-03-hobby-006",
+      "category": "hobby",
+      "title": "2026カレートレンドは「第2世代キーマ」— カレー大學が分析",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000767_000033279/",
+      "summary": "物価高を低原価・高単価・低オペレーションで打破するスタイルが台頭。スパイスカレー革命の2011-2020年の10年史解説動画も公開。カレー業界のビジネストレンドを専門家が分析。",
+      "size": "中",
+      "selected": true,
+      "source": "Infoseek（カレー大學）"
+    },
+    {
+      "id": "2026-07-03-hobby-007",
+      "category": "hobby",
+      "title": "「がんばれゴエモン大集合！」7月2日発売 — FC・SFC・GB全13タイトル収録",
+      "url": "https://game.watch.impress.co.jp/docs/news/2120623.html",
+      "summary": "コナミのシリーズ40周年記念コレクション。ファミコン・スーファミ・ゲームボーイの13作品を収録、初移植4作品含む。Switch・PS5・Steam対応、5,478円。",
+      "size": "小",
+      "selected": true,
+      "source": "GAME Watch"
+    },
+    {
+      "id": "2026-07-03-hobby-008",
+      "category": "hobby",
+      "title": "食べログ カレー 百名店 2026 — 公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001033.000001455.html",
+      "summary": "カカクコムが発表したTOKYO・EAST・WEST各100店、計300店リスト。TOKYO初選出8店にスパイスカレー専門店が多数。旧ヤム邸出身「創作カレー MANOS」等も選出。",
+      "size": "小",
+      "selected": true,
+      "source": "PR TIMES（カカクコム）"
+    },
+    {
+      "id": "2026-07-03-hobby-009",
+      "category": "hobby",
+      "title": "Switch 2本体×スプラトゥーン レイダースセットが7月23日発売",
+      "url": "https://www.famitsu.com/article/202606/77803",
+      "summary": "Nintendo Switch 2本体とスプラトゥーン レイダースダウンロード版のセットが7月23日発売。Joy-Con 2の新スプラカラーも同日登場。",
+      "size": "小",
+      "selected": true,
+      "source": "ファミ通"
+    },
+    {
+      "id": "2026-07-03-seren-001",
+      "category": "serendipity",
+      "title": "台風9号×長期金利30年ぶり高水準 — 同じ木曜日に「安心の前提」が複数崩れる日",
+      "url": "https://weathernews.jp/news/202607/030051/",
+      "summary": "今日2026年7月3日は、台風9号が来週の沖縄接近に向けて猛烈な勢力へ急発達しながら、長期金利が30年ぶりの高水準に達した日だ。気候リスクと金融リスクが同じ一日に並んで報じられる。防災の備えと金利上昇を前提にしたライフプランの見直し——どちらも「まだ大丈夫」と思っているうちに着手するのが得策だ。",
+      "size": "中",
+      "selected": true,
+      "source": "ウェザーニュース",
+      "serendipity_reason": "自然リスクと経済リスクが同日に重なった日として。どちらも個人の行動を問いかけている点でセレンディピティがある。"
+    },
+    {
+      "id": "2026-07-03-seren-002",
+      "category": "serendipity",
+      "title": "ベネズエラ100時間生還 × Claude Code Auto Mode — 「粘る」ことの価値が問われる時代",
+      "url": "https://www.jrc.or.jp/international/news/2026/0703_054120.html",
+      "summary": "ベネズエラ地震から8日後、100時間超の作業の末に瓦礫から生存救出された一人の男性がいる。人間の救助隊が諦めなかった結果だ。同じ今週、Claude Code Auto Modeが「AIが判断→実行→修正を自律的に繰り返す」時代の到来を告げた。AIが自律化するとき、「いつ止めるか」という判断は人間に残るのか。",
+      "size": "中",
+      "selected": true,
+      "source": "日本赤十字社",
+      "serendipity_reason": "ドラマチックな救助と、AIの自律化という技術ニュースが「粘り」「判断」というテーマで静かにつながる。"
+    },
+    {
+      "id": "2026-07-03-seren-003",
+      "category": "serendipity",
+      "title": "攻殻機動隊 × MCP仕様RC — 1995年が予言したものが2026年に来た",
+      "url": "https://animeanime.jp/article/2026/06/16/100103.html",
+      "summary": "1995年の映画「攻殻機動隊」はネットとリアルが融合した世界でAIや義体化が当たり前になった社会を描いた。あの映画が公開された年に生まれた人は今31歳だ。2026年、MCP仕様RCが公開されAIエージェントが普通のHTTPで人間の代わりにアプリを操作する標準が整いつつある。その原典が7月7日に再び動き出す。",
+      "size": "中",
+      "selected": true,
+      "source": "アニメ！アニメ！",
+      "serendipity_reason": "テクノロジーと文化の歴史が31年越しに接続される日として。攻殻機動隊のファン以外にも、AIアーキテクトとして読むと別の深みが出る。"
+    }
+  ]
+}
