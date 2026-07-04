@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-04",
+  "source_page_id": "392a41a3-cf9b-8164-bd16-d8deaaf1a797",
+  "source_date": "2026-07-03",
+  "checkboxes": {
+    "volume": {
+      "just_right": false,
+      "want_more": false,
+      "too_much": false
+    },
+    "increase_category": {
+      "tech": false,
+      "news": false,
+      "entertainment": false,
+      "hobby": false
+    },
+    "decrease_category": {
+      "tech": false,
+      "news": false,
+      "entertainment": false,
+      "hobby": false
+    },
+    "deep_dive": {
+      "MCP仕様RC（Angular MCPサーバーへの影響）": false,
+      "Google A2UI v0.9（Angular実装手順）": false,
+      "ソニー RX10 V（7月上旬発表後のスペック詳細）": false
+    },
+    "new_sources": {
+      "デジカメinfo RSSを追加する": false,
+      "4Gamer RSSを追加する": false
+    }
+  },
+  "comments": [],
+  "preferences_updated": false,
+  "note": "フィードバックなし（全チェックボックス未チェック、コメントなし）"
+}
