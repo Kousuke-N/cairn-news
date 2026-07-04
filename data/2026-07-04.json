@@ -1,0 +1,455 @@
+{
+  "date": "2026-07-04",
+  "notion_page_id": "393a41a3-cf9b-815e-a40c-fba5c8a9d6b8",
+  "articles": [
+    {
+      "id": "2026-07-04-tech-001",
+      "category": "tech",
+      "title": "Claude Code v2.1: Sonnet 5がデフォルトに・Chrome操作GA・バックグラウンド改善 —— AIエージェント開発環境が本格化した1週間",
+      "url": "https://dev.classmethod.jp/articles/20260703-cc-updates-v2-1-199/",
+      "summary": "Claude Sonnet 5がClaude Codeのデフォルトモデルに昇格（1Mトークンコンテキスト、$2/Mtok特別価格8月末まで）。Chrome DevTools操作がGA化し、フロントエンドのバグ調査・E2Eテストを自律実行可能に。v2.1.199でサブエージェント並列実行が安定化、スキル5個まとめロード対応。",
+      "size": "大",
+      "selected": true,
+      "source": "DevelopersIO"
+    },
+    {
+      "id": "2026-07-04-tech-001b",
+      "category": "tech",
+      "title": "Claude Code v2.1.197-198: Sonnet 5デフォルト化・Chrome GA詳細",
+      "url": "https://dev.classmethod.jp/en/articles/20260702-cc-updates-v2-1-198/",
+      "summary": "v2.1.197-198の変更内容詳細。",
+      "size": null,
+      "selected": false,
+      "source": "DevelopersIO",
+      "exclude_reason": "merged_into_tech-001"
+    },
+    {
+      "id": "2026-07-04-tech-002",
+      "category": "tech",
+      "title": "MCP SDK Beta TypeScript v2リリース —— ステートレス化でAngular MCPサーバーの実装戦略が変わる",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
+      "summary": "MCP仕様2026-07-28 RC対応のベータSDK（Python v2・TypeScript v2・Go・C#）が6月29日リリース。最大変更は初期化ハンドシェイク廃止のステートレス化でLB/CDNをそのまま利用可能に。TypeScript v2はパッケージが機能別に分離。7月28日に仕様確定予定。",
+      "size": "大",
+      "selected": true,
+      "source": "Model Context Protocol Blog"
+    },
+    {
+      "id": "2026-07-04-tech-003",
+      "category": "tech",
+      "title": "LLMフレンドリーなコードベース設計——AIエージェントが迷わない構造の作り方",
+      "url": "https://zenn.dev/miyan/articles/arch-llm-friendly-codebase-design-2026",
+      "summary": "AGENTS.md/CLAUDE.mdを整備するとClaude Codeの実行時間28.6%短縮・トークン消費16.6%削減という実測データを提示。AIエージェントが正確に変更を加えられる命名・構造・コンテキスト配置の設計原則を解説。",
+      "size": "中",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-04-tech-004",
+      "category": "tech",
+      "title": "Claude Code × Chrome DevTools MCP 実践ガイド",
+      "url": "https://zenn.dev/takna/articles/claude-code-chrome-devtools-mcp",
+      "summary": "Chrome DevToolsをMCP経由でClaude Codeに接続する設定手順。コンソールログ取得・DOM検査・E2Eテスト自動化をAIが自律実行できる環境を構築。フロントエンドエンジニア×Claude Codeユーザー向け実践知識。",
+      "size": "中",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-04-tech-005",
+      "category": "tech",
+      "title": "Anthropic×Samsung カスタムAI推論チップ協議",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "AnthropicがSamsungと次世代推論向けカスタムシリコン開発を協議。Broadcomに続く推論基盤の垂直統合戦略の一環。Claude APIコストの将来的な低下に繋がる可能性。",
+      "size": "中",
+      "selected": true,
+      "source": "TechCrunch"
+    },
+    {
+      "id": "2026-07-04-tech-006",
+      "category": "tech",
+      "title": "フロントエンド技術選定2026：Angular・React・Vueの現在地と「AI時代の生存戦略」",
+      "url": "https://zenn.dev/nijima/articles/651ed3c1f2ded5",
+      "summary": "AngularのSignals/Zoneless化がAI駆動開発との相性が良い理由、ng mcpが担う役割を整理。フロントエンドエンジニアがAI時代に競争力を保つためのスキルシフト方向性を論考。",
+      "size": "中",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-04-tech-007",
+      "category": "tech",
+      "title": "Gemini 3.5 Pro 7月GA予定 — 200万トークンコンテキスト・Deep Thinkモード",
+      "url": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
+      "summary": "Googleが200万トークンコンテキスト窓・Deep Thinkモード搭載のGemini 3.5 ProをGA予定。Claude対抗モデルの最前線動向。",
+      "size": "小",
+      "selected": true,
+      "source": "TechTimes"
+    },
+    {
+      "id": "2026-07-04-tech-008",
+      "category": "tech",
+      "title": "MAI-Code-1-Flash for GitHub Copilot Business/Enterprise",
+      "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise/",
+      "summary": "Microsoft製137Bパラメータのコーディングモデルが6/26展開。高頻度補完・エージェント型ワークフロー向け特化設計。会社でCopilot利用中なら実感できる変化。",
+      "size": "小",
+      "selected": true,
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "2026-07-04-tech-009",
+      "category": "tech",
+      "title": "TypeScript 7.0 正式版まもなく — Goネイティブコンパイラ、型チェック10倍高速化",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/",
+      "summary": "MS公式RCブログ。Goネイティブコンパイラ(tsgo)により型チェック約10倍高速化。正式リリースは7月中に予定。",
+      "size": "小",
+      "selected": true,
+      "source": "Microsoft TypeScript Blog"
+    },
+    {
+      "id": "2026-07-04-tech-010",
+      "category": "tech",
+      "title": "Frontend Nation 2026まとめ — Angular 22 Zoneless完全対応・AI時代のFEの役割変化",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "summary": "6月3-4日開催カンファレンス日本語総括。Angular 22のSignals安定化・Zoneless完全対応を分析。AIエージェント時代にFEの役割が「仕様定義・AI指示・デザインシステム整備」へ変化する潮流を整理。",
+      "size": "小",
+      "selected": true,
+      "source": "Zenn"
+    },
+    {
+      "id": "2026-07-04-news-001",
+      "category": "news",
+      "title": "イランハメネイ師国葬、本日テヘランで開始 —— 90カ国超が参列、後継にモジュタバ氏",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015168741000",
+      "summary": "米・イスラエルの攻撃で死亡したハメネイ師の国葬が7/4テヘランで開始。90カ国以上参列・1500〜2000万人参列予定のイラン史上最大の国葬。後継は息子モジュタバ氏が就任。核協議・イラン原油・エネルギー市場への影響が注目される。",
+      "size": "大",
+      "selected": true,
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-07-04-news-002",
+      "category": "news",
+      "title": "ロシアがキーウに「侵略開始以来最大規模」の攻撃 —— 死者30人超、ウクライナ死傷者は通算200万人超に",
+      "url": "https://www.nikkei.com/article/DGXZQOCB037WD0T00C26A7000000/",
+      "summary": "7月2〜3日、ロシア軍がキーウにミサイル・無人機で最大規模の攻撃。死者30人超・負傷者92人。クリチコ市長「侵略開始以来最大」。ゼレンスキー大統領が防空システム追加供与を要請。米CSISの報告書では両軍死傷者が最大200万人超と推計。",
+      "size": "大",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-04-news-002b",
+      "category": "news",
+      "title": "ウクライナ侵略、両軍死傷者200万人超 — 米研究所が分析",
+      "url": "https://www.nikkei.com/article/DGXZQOCB022440S6A700C2000000/",
+      "summary": "米CSIS分析。",
+      "size": null,
+      "selected": false,
+      "source": "日本経済新聞",
+      "exclude_reason": "merged_into_news-002"
+    },
+    {
+      "id": "2026-07-04-news-003",
+      "category": "news",
+      "title": "台風9号「バービー」が猛烈台風に発達 —— 中心気圧920hPa、来週沖縄に接近か",
+      "url": "https://www.fukuishimbun.co.jp/articles/-/2641061",
+      "summary": "7/4午後3時時点で中心気圧920hPa・最大風速55m/sの「猛烈な台風」に発達。9日以降に沖縄へ接近の可能性。ピーク時最大瞬間風速80m/s予測も。昨日の「強い台風」から24時間で急発達。",
+      "size": "大",
+      "selected": true,
+      "source": "福井新聞ONLINE"
+    },
+    {
+      "id": "2026-07-04-news-004",
+      "category": "news",
+      "title": "参院選 本日選挙戦2日目 — 「給付2万円」vs「消費税減税」物価高対策が最大争点",
+      "url": "https://news.yahoo.co.jp/articles/4d75e32d6d65fb42f6a6c03edb421ef8b8627aa9",
+      "summary": "7/3公示・7/20投開票。改選125議席。与党（自公）は国民1人2万円給付、野党（立憲・維新等）は消費税減税を掲げて論戦。",
+      "size": "中",
+      "selected": true,
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "id": "2026-07-04-news-005",
+      "category": "news",
+      "title": "「骨太ショック」長期金利3%視野 財政リスクに市場が警鐘",
+      "url": "https://www.nikkei.com/article/DGXZQOUB0337F0T00C26A7000000/",
+      "summary": "骨太の方針をめぐる財政悪化懸念から長期金利が上昇し3%台突入が視野に。参院選各党公約（給付・減税）が財政状況をさらに悪化させるリスクを市場が警戒。昨日の2.81%高水準からさらに上昇圧力。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-04-news-006",
+      "category": "news",
+      "title": "W杯2026 7月4日結果 — メッシ4連続ゴール、アルゼンチン8強",
+      "url": "https://www.olympics.com/ja/news/fifa-world-cup-2026-live-scores-4-july-results",
+      "summary": "アルゼンチンがカーボベルデを延長2-1で撃破（メッシ大会6得点目）。エジプトもPK戦でオーストラリアを下しベスト8進出。コロンビア対ガーナも実施。",
+      "size": "中",
+      "selected": true,
+      "source": "Olympics.com"
+    },
+    {
+      "id": "2026-07-04-news-007",
+      "category": "news",
+      "title": "高市首相インド訪問終え帰国 — 2兆円民間投資・次世代エネルギー協力を打ち出す",
+      "url": "https://www.nikkei.com/article/DGXZQOUA030QF0T00C26A7000000/",
+      "summary": "7/1〜3のインド初訪問でモディ首相と会談。次世代エネルギー生産での協力強化と2兆円規模の民間投資を打ち出し帰国。経済安全保障・イノベーション分野での連携深化を確認。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-04-news-008",
+      "category": "news",
+      "title": "日本代表 W杯ブラジル戦1-2敗退の総括",
+      "url": "https://www.jfa.jp/samuraiblue/news/00036487/",
+      "summary": "5大会目も32強の壁越えられず。グループステージ3勝1分の好成績も、強豪ブラジル相手に逆転負け。帰国会見で森保監督が今後の強化方針を語った。",
+      "size": "小",
+      "selected": true,
+      "source": "JFA.jp"
+    },
+    {
+      "id": "2026-07-04-news-009",
+      "category": "news",
+      "title": "東京 小学校火事 火元は音楽教諭の私物電気ストーブ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167441000",
+      "summary": "北区滝野川第三小の火災（11人重軽傷）、火元の音楽準備室に教諭私物の電気ストーブがあり洗濯物を室内乾燥中の事故と判明。校長が保護者説明会で「不適切だった」と謝罪。",
+      "size": "小",
+      "selected": true,
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-07-04-ent-001",
+      "category": "entertainment",
+      "title": "THE MUSIC DAY 2026 本日13:30〜放送 —— ブルーノ・マーズ日テレ初歌唱 × 小室哲哉10年ぶり出演",
+      "url": "https://thetv.jp/news/detail/1421842/",
+      "summary": "本日13:30〜22:54、千葉・幕張メッセから9.5時間生放送。全65組タイムテーブル解禁。ブルーノ・マーズが日テレ初歌唱と2027年史上最大規模ドームツアーを同時発表。小室哲哉10年ぶり出演でNCT WISH×TRF「BOY MEETS GIRL」を32年ぶりリアレンジでコラボ。",
+      "size": "大",
+      "selected": true,
+      "source": "WEBザテレビジョン"
+    },
+    {
+      "id": "2026-07-04-ent-001b",
+      "category": "entertainment",
+      "title": "ブルーノ・マーズが「THE MUSIC DAY」で大ヒット曲を歌唱、ドームツアーも決定",
+      "url": "https://natalie.mu/music/news/677331",
+      "summary": "ブルーノ・マーズの日テレ初歌唱詳細。",
+      "size": null,
+      "selected": false,
+      "source": "音楽ナタリー",
+      "exclude_reason": "merged_into_ent-001"
+    },
+    {
+      "id": "2026-07-04-ent-001c",
+      "category": "entertainment",
+      "title": "本日放送「THE MUSIC DAY」に小室哲哉が10年ぶり出演！NCT WISHとTRFの名曲コラボ",
+      "url": "https://natalie.mu/music/news/679242",
+      "summary": "小室哲哉×NCT WISH詳細。",
+      "size": null,
+      "selected": false,
+      "source": "音楽ナタリー",
+      "exclude_reason": "merged_into_ent-001"
+    },
+    {
+      "id": "2026-07-04-ent-002",
+      "category": "entertainment",
+      "title": "無職転生III 明日7月5日放送開始",
+      "url": "https://www.animatetimes.com/news/details.php?id=1779180528",
+      "summary": "人気シリーズ第3期がTOKYO MX・ABEMA他で放送開始。OPは大原ゆい子「決意の唄」。配信・グッズ展開含め業界注目の大型タイトル。",
+      "size": "中",
+      "selected": true,
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "id": "2026-07-04-ent-003",
+      "category": "entertainment",
+      "title": "「逃げ上手の若君」第2期 7/17ノイタミナ放送・OPは中島健人「鬼事」",
+      "url": "https://mantan-web.jp/article/20260703dog00m200122000a.html",
+      "summary": "フジ系ノイタミナ枠で毎週金曜23:30放送開始。ジャニーズ系アーティストのアニメタイアップとして業界的にも注目。中島健人が作詞にも参加。",
+      "size": "中",
+      "selected": true,
+      "source": "MANTANWEB"
+    },
+    {
+      "id": "2026-07-04-ent-004",
+      "category": "entertainment",
+      "title": "BABYMONSTER ワールドツアー日本公演 明日7/8神戸から開幕",
+      "url": "https://www.sonymusic.co.jp/artist/BABYMONSTER/info/582156",
+      "summary": "初のドーム公演を含む6都市11公演。YGガールズグループが2年目で一気に規模拡大。7/8神戸GLIONアリーナから全国ツアー開始。",
+      "size": "中",
+      "selected": true,
+      "source": "ソニーミュージック"
+    },
+    {
+      "id": "2026-07-04-ent-005",
+      "category": "entertainment",
+      "title": "映画「Michael/マイケル」公開3日で興収10億円突破 — 2026年実写映画No.1スタート",
+      "url": "https://screenonline.jp/_ct/17846252",
+      "summary": "動員67万・興収10.9億円で2026年実写映画No.1の特大スタート。世界興収も音楽伝記映画歴代No.1（9.3億ドル超）を達成。音楽IP×映画ビジネスの成功事例として業界必見。",
+      "size": "中",
+      "selected": true,
+      "source": "SCREEN ONLINE"
+    },
+    {
+      "id": "2026-07-04-ent-006",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL — 7月7日（火）23時放送まであと3日",
+      "url": "https://www.famitsu.com/article/202605/74292",
+      "summary": "Science SARU制作、監督モコちゃん・脚本円城塔。カンテレ系火アニバル!!枠で毎週火曜23時放送。Amazon Prime Videoと同日配信。アヌシーでスタンディングオベーション獲得。",
+      "size": "中",
+      "selected": true,
+      "source": "ファミ通.com"
+    },
+    {
+      "id": "2026-07-04-ent-007",
+      "category": "entertainment",
+      "title": "&TEAM VRコンサート「BOUNDLESS」グローバル15都市で開催中",
+      "url": "https://prtimes.jp/main/html/rd/p/000000720.000045862.html",
+      "summary": "8K×Unreal Engine VFX×AI超解像で12K相当の没入体験を提供。国内8会場を含むグローバル15都市で実施中。HYBEグループとして最大規模のVRライブ興行。",
+      "size": "小",
+      "selected": true,
+      "source": "PR TIMES"
+    },
+    {
+      "id": "2026-07-04-ent-008",
+      "category": "entertainment",
+      "title": "幼女戦記II 7月8日放送開始 — 9年ぶり続編",
+      "url": "https://eeo.today/media/2026/07/02/364936/",
+      "summary": "AT-X・TOKYO MX・BS11ほかで放送開始。ABEMAで地上波先行配信。OP「Why? RED induction」はMYTH&ROID。",
+      "size": "小",
+      "selected": true,
+      "source": "eeo Media"
+    },
+    {
+      "id": "2026-07-04-ent-009",
+      "category": "entertainment",
+      "title": "NiziU「Portfolio」初週9.4万枚・Billboard JAPANアルバムチャート首位走行中",
+      "url": "https://www.kpopmonster.jp/?p=177402",
+      "summary": "7/1発売のデビュー6年集大成ベストアルバム（全20曲）。Billboard JAPANアルバムチャートで首位を維持中。",
+      "size": "小",
+      "selected": true,
+      "source": "KPOP monster"
+    },
+    {
+      "id": "2026-07-04-hobby-001",
+      "category": "hobby",
+      "title": "ソニーRX10V、7月9日（木）23時に正式発表確定 —— 公式ティーザー「The wait is over.」",
+      "url": "https://kunkoku.jp/sony-camera-teaser-202607.html",
+      "summary": "ソニー公式サイトが「The wait is over. July 9, 23:00 JST」と正式発表日を告知。2017年RX10 IVから9年ぶりの後継機。新エンジン・AI AF・NP-FZ100バッテリー・1インチ積層型センサー搭載が有力。予想価格1,899〜1,999ドル（約28〜30万円）。",
+      "size": "大",
+      "selected": true,
+      "source": "くんコく"
+    },
+    {
+      "id": "2026-07-04-hobby-001b",
+      "category": "hobby",
+      "title": "ソニーが「RX10V」発表を予告。日本時間 7月9日 23時 発表へ",
+      "url": "https://dclife.jp/archives/15421",
+      "summary": "RX10V詳細噂まとめ。",
+      "size": null,
+      "selected": false,
+      "source": "Digital Camera Life",
+      "exclude_reason": "merged_into_hobby-001"
+    },
+    {
+      "id": "2026-07-04-hobby-002",
+      "category": "hobby",
+      "title": "シグマ「07.07.2026」意味深投稿 —— Foveon新製品か、写真集イベントか",
+      "url": "https://digicame-info.com/2026/07/post-1943.html",
+      "summary": "シグマ公式SNSが青・赤・緑3色の「07.07.2026」画像と「まるで夢が叶ったような」コメントを投稿。Foveon X3への期待が高まるも、分析記事では写真集関連トークイベントの可能性も指摘。3日後の7/7に注目。",
+      "size": "中",
+      "selected": true,
+      "source": "デジカメinfo"
+    },
+    {
+      "id": "2026-07-04-hobby-002b",
+      "category": "hobby",
+      "title": "SIGMA 7/7新製品はフルサイズFoveon？過度な期待が禁物な理由を解説",
+      "url": "https://sumizoon.hatenablog.com/entry/2026/07/02/160531",
+      "summary": "シグマ投稿の詳細分析。",
+      "size": null,
+      "selected": false,
+      "source": "sumizoon",
+      "exclude_reason": "merged_into_hobby-002"
+    },
+    {
+      "id": "2026-07-04-hobby-003",
+      "category": "hobby",
+      "title": "スプラトゥーン3×レイダース コラボフェス 7/11〜13開催",
+      "url": "https://www.ndw.jp/splatoon3-game-260703/",
+      "summary": "「スプラトゥーン レイダース」（7/23発売）発売記念コラボフェス。テーマ「スピードvsパワーvsテクニック」で48時間実施。限定プレート9枚と二つ名1セットが配布。",
+      "size": "中",
+      "selected": true,
+      "source": "Nintendo DREAM WEB"
+    },
+    {
+      "id": "2026-07-04-hobby-004",
+      "category": "hobby",
+      "title": "Calme Spice Curry 7/2オープン — 小麦粉・砂糖不使用の牛すじスパイスカレー（目黒・上大崎）",
+      "url": "https://www.atpress.ne.jp/news/9641833",
+      "summary": "神保町50店食べ歩きから生まれたレシピ。小麦粉・砂糖不使用で20種以上のスパイスを使った健康志向の新店。木・金のみランチ営業（11:30〜14:00）。吉野家HDグループのシェアレストラン。",
+      "size": "中",
+      "selected": true,
+      "source": "@Press"
+    },
+    {
+      "id": "2026-07-04-hobby-005",
+      "category": "hobby",
+      "title": "パルワールド1.0 7/10正式リリース — ストーリーミッション初搭載・既存データ引き継ぎ可",
+      "url": "https://prtimes.jp/main/html/rd/p/000000117.000071410.html",
+      "summary": "2.5年の早期アクセスを経て7/10に正式版リリース。ストーリー主導のミッションシステムを初搭載。Steamで25%OFFセール同時実施。既存セーブデータ引き継ぎ可（ただし公式は新規プレイを推奨）。",
+      "size": "中",
+      "selected": true,
+      "source": "PR TIMES（ポケットペア公式）"
+    },
+    {
+      "id": "2026-07-04-hobby-006",
+      "category": "hobby",
+      "title": "「ぼくと釣り日記」10/8発売 — 「牧場物語」の生みの親・和田康宏×「なつもん！」スタッフの新作",
+      "url": "https://automaton-media.com/articles/newsjp/20260702-452933/",
+      "summary": "あやかしと釣り旅するスローライフRPG。100種以上の魚を釣る本格フィッシングRPG。Switch/Switch 2向け、10/8発売（6,578円）。",
+      "size": "小",
+      "selected": true,
+      "source": "AUTOMATON"
+    },
+    {
+      "id": "2026-07-04-hobby-007",
+      "category": "hobby",
+      "title": "DJI Osmo Pocket 4P 実写レビュー — デュアルレンズ×1インチセンサーのジンバルカメラの実力",
+      "url": "https://av.watch.impress.co.jp/docs/series/zooma/2121243.html",
+      "summary": "6/29発売のデュアルレンズ×1インチジンバルカメラを小寺信良氏が検証。旅行・Vlog用途での実用評価レビュー。",
+      "size": "小",
+      "selected": true,
+      "source": "AV Watch"
+    },
+    {
+      "id": "2026-07-04-seren-001",
+      "category": "serendipity",
+      "title": "「7月7日」という特別な日 —— 攻殻機動隊・シグマFoveon・Fable 5無料終了が同じ日に来る",
+      "url": "https://animeanime.jp/article/2026/06/16/100103.html",
+      "summary": "今週日曜7月7日に、SF的未来の象徴（攻殻機動隊放送開始）・カメラファンが30年待ち続けた夢（シグマFoveon発表?）・現在最高のAI性能50%増量の最終日（Fable 5特典終了）という3つの「待ち望んでいたもの」が重なる。七夕の夜に収束する不思議な一致。",
+      "size": "中",
+      "selected": true,
+      "source": "アニメ！アニメ！",
+      "serendipity_reason": "SF的未来の象徴・長年の夢・現在最高のAI性能が、七夕の夜に収束するという奇妙な一致から。"
+    },
+    {
+      "id": "2026-07-04-seren-002",
+      "category": "serendipity",
+      "title": "ハメネイ師国葬90カ国 × 参院選 —— 世界中で「次の指導者」が問われる週",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015168741000",
+      "summary": "7月4日、テヘランでは90カ国が参列するハメネイ師国葬が始まり後継モジュタバ氏の旗下に1500万人が集まった。同じ日の日本では参院選選挙戦2日目、17日後に有権者が一票を投じる。「誰が社会の方向性を決めるのか」という問いが、形の異なる2カ国で同時に問われている。",
+      "size": "中",
+      "selected": true,
+      "source": "NHKニュース",
+      "serendipity_reason": "イランと日本という遠い二国が、同じ「指導者選択」というテーマで偶然並ぶ対比として。"
+    },
+    {
+      "id": "2026-07-04-seren-003",
+      "category": "serendipity",
+      "title": "Claude Code Chrome GA × &TEAM VRコンサート —— 「その場にいる」の定義が変わる週",
+      "url": "https://dev.classmethod.jp/en/articles/20260702-cc-updates-v2-1-198/",
+      "summary": "Claude CodeのChromeブラウザ操作が今週GAになり、AIがブラウザを開きコンソールを確認しフォームに値を入力する時代が来た。同じ週、&TEAMが8K×Unreal Engine VFXのVRコンサートをグローバル15都市で開催中。エンジニアリングとエンタメが、それぞれ別の方向から「その場にいる」という概念を書き換えている週だ。",
+      "size": "中",
+      "selected": true,
+      "source": "DevelopersIO",
+      "serendipity_reason": "AIとエンタメが同じ週に「リアル」の再定義を試みているという接続から。"
+    }
+  ]
+}
