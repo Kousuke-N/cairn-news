@@ -1,0 +1,428 @@
+{
+  "date": "2026-07-05",
+  "notion_page_id": "394a41a3-cf9b-81aa-91bc-fa82c043efcc",
+  "articles": [
+    {
+      "id": "2026-07-05-tech-001",
+      "category": "tech",
+      "title": "Cursor iOS 公開ベータ公開 — AIコーディングエディタがiPhone/iPadに対応",
+      "url": "https://cursor.com/changelog",
+      "summary": "VSCode代替として急速に普及したAIコーディングエディタ「Cursor」がiOS向け公開ベータを開始。iPhone・iPadからコードの閲覧・AI補完・ターミナルアクセスが可能になる。デスクトップ版と同じClaude/GPT-4連携が継続されるため、外出先での緊急対応や軽微な修正がモバイルで完結できる環境が整った。現在はベータ版で一部機能に制限あり。",
+      "size": "中",
+      "selected": true,
+      "source": "Cursor Changelog"
+    },
+    {
+      "id": "2026-07-05-tech-002",
+      "category": "tech",
+      "title": "TanStack AI — フロントエンドエコシステムにAI統合レイヤーが参入",
+      "url": "https://tanstack.com/ai/latest",
+      "summary": "Router・Query・Form・Tableで知られるTanStackが新ライブラリ「TanStack AI」を公開。LLMとの非同期通信・ストリーミングレスポンス管理・ツール呼び出しの状態管理を標準化したAPI群。Angularを含む主要フレームワーク向けアダプタを提供し、既存TanStack製品との親和性が高く、フロントエンドのAI統合を一括して解決できる。",
+      "size": "中",
+      "selected": true,
+      "source": "TanStack"
+    },
+    {
+      "id": "2026-07-05-tech-003",
+      "category": "tech",
+      "title": "Vite 8.0 正式リリース — Rolldown統合深化とプラグインエコシステム整理",
+      "url": "https://vite.dev/blog/announcing-vite8",
+      "summary": "フロントエンドのデファクトバンドラーViteがv8.0に到達。RustベースバンドラーRolldownとの統合を深化し、環境API安定化・プラグインエコシステム整理が主な変更点。既存プロジェクトへの影響は限定的で移行は比較的スムーズな見込み。",
+      "size": "小",
+      "selected": true,
+      "source": "Vite"
+    },
+    {
+      "id": "2026-07-05-tech-004",
+      "category": "tech",
+      "title": "Claude Code 公式Changelog — v2.1系の最新エントリを直接参照",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "summary": "Claude Code公式changelogページ。v2.1系の直近エントリを直接参照できる一次情報源。Classmethod等の解説記事と並行して参照することで最新の変更点が正確に把握できる。",
+      "size": "小",
+      "selected": true,
+      "source": "Claude Code公式"
+    },
+    {
+      "id": "2026-07-05-tech-005",
+      "category": "tech",
+      "title": "GitHub Copilot AI Credits 導入 — 高度なモデル利用量を別枠で管理",
+      "url": "https://github.blog/changelog/2026-07-04-copilot-ai-credits/",
+      "summary": "GitHub CopilotにプレミアムモデルAI利用量を管理するAI Credits制度を導入。通常補完は無制限のまま、o3・Claude Sonnet 5等の高コスト推論だけを別カウント管理することで企業の予算管理を改善する仕組み。",
+      "size": "小",
+      "selected": true,
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "2026-07-05-news-001",
+      "category": "news",
+      "title": "W杯2026 本日からラウンド16開幕 — スペイン×ポルトガル、ブラジル×ノルウェーが激突",
+      "url": "https://news.yahoo.co.jp/articles/4863a89aaa9918aa160d54b7c1923617031a94a1",
+      "summary": "FIFAワールドカップ2026の決勝トーナメント2回戦（ラウンド16）が7月5日から開幕。スペイン×ポルトガル、フランス×パラグアイ、アルゼンチン×エジプト、ブラジル×ノルウェーが登場。優勝候補が激突する最大のヤマ場を迎えた。日本代表はブラジルに1-2で敗れ帰国の途に。森保監督が涙の謝罪。",
+      "size": "大",
+      "selected": true,
+      "source": "Yahoo!ニュース（フットボールチャンネル）"
+    },
+    {
+      "id": "2026-07-05-news-002",
+      "category": "news",
+      "title": "トランプ関税 7月24日に通商法122条が期限切れ — 次の301条措置に日本企業が緊急対応",
+      "url": "https://www.jetro.go.jp/biz/areareports/2026/2ea5c348bcac23e9.html",
+      "summary": "トランプ政権が2月24日から全輸入品に適用してきた通商法122条の一律15%関税が7月24日に法定期限を迎える。政権は期限のない恒久措置である通商法301条への移行を準備中。日本企業は現地生産シフトやジェトロ相談窓口の活用を急いでいる。USMCA共同見直しも同時期に控え貿易環境の不確実性が高まっている。",
+      "size": "大",
+      "selected": true,
+      "source": "ジェトロ"
+    },
+    {
+      "id": "2026-07-05-news-003",
+      "category": "news",
+      "title": "参院選2026 選挙戦3日目 — 消費税減税の是非で与野党が全国で激論",
+      "url": "https://go2senkyo.com/schedule",
+      "summary": "7月3日公示・20日投開票の参院選は3日目を迎え、522人が立候補して全国で選挙戦が展開。最大の争点は物価高・消費税対策で、野党各党が食料品消費税ゼロを訴える一方、与党は国民1人あたり2万円の現金給付を公約に対抗。高市政権の経済政策の評価が問われる。",
+      "size": "中",
+      "selected": true,
+      "source": "選挙ドットコム"
+    },
+    {
+      "id": "2026-07-05-news-004",
+      "category": "news",
+      "title": "路線価 全国平均2.9%上昇 5年連続・現行方式で最大の伸び",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165461000",
+      "summary": "国税庁が7月1日に発表した令和8年分路線価は全国平均で前年比2.9%上昇し、5年連続の上昇かつ2010年の現行算出方式以来最大の伸び率。東京都は9.4%で全国最高。白馬村は外国人観光客需要で32.7%上昇。相続税・贈与税・固定資産税の算定基準になる重要指標。全47都道府県のうち36都道府県で上昇。",
+      "size": "中",
+      "selected": true,
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-07-05-news-005",
+      "category": "news",
+      "title": "米イラン核協議 カタール仲介の間接交渉継続 — 最終合意は依然遠く",
+      "url": "https://www.youtube.com/watch?v=Nw163L2NsfY",
+      "summary": "6月26日〜7月1日の週、米国とイランの高官は直接協議を行わず、双方がカタールを訪問して仲介国と個別協議する間接交渉が継続。6月の戦闘終結覚書合意後も、イランの核開発放棄やホルムズ海峡問題で溝は深く、最終的な核合意への道筋はなお不透明。（deep_dive：イラン情勢・エネルギー市場）",
+      "size": "中",
+      "selected": true,
+      "source": "ANN/テレ朝（ニュースまとめ）"
+    },
+    {
+      "id": "2026-07-05-news-006",
+      "category": "news",
+      "title": "LINEヤフー カカクコムへ正式買収提案 — 1株最大3500円でEQTに対抗",
+      "url": "https://www.nikkei.com/article/DGXZQOUC0246F0S6A600C2000000/",
+      "summary": "LINEヤフーとベインキャピタルは7月1日、「食べログ」「価格.com」運営のカカクコムへの1株最大3500円での買収を正式提案。欧州ファンドEQTの既存TOB（3000円）を最大17%上回る価格で対抗。カカクコムは応募推奨を「中立」に変更し、TOB期間は7月16日まで延長。",
+      "size": "中",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-05-news-007",
+      "category": "news",
+      "title": "日銀短観 大企業製造業DI プラス22 — 8年ぶり高水準、先行きは慎重",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165321000",
+      "summary": "日銀6月短観で大企業・製造業の業況判断DIはプラス22と5四半期連続改善、2018年以来8年ぶりの高水準。AI・半導体需要が追い風。先行きはプラス17と悪化見通しで、コスト高リスクが顕在化。",
+      "size": "小",
+      "selected": true,
+      "source": "NHKニュース"
+    },
+    {
+      "id": "2026-07-05-news-008",
+      "category": "news",
+      "title": "円相場 39年半ぶりの円安水準 ドル円161〜162円台で推移",
+      "url": "https://www.nikkei.com/article/DGXZQOUB029840S6A700C2000000/",
+      "summary": "ドル円は1ドル161円40〜50銭で推移し、39年半ぶりの円安水準が継続。日銀が4〜5月に実施した約11兆円規模の介入効果は約1ヶ月で剥落。日米金利差縮まらず再介入警戒感が高まっている。輸入物価上昇で食料・エネルギーコストに影響。",
+      "size": "小",
+      "selected": true,
+      "source": "日本経済新聞"
+    },
+    {
+      "id": "2026-07-05-news-009",
+      "category": "news",
+      "title": "日本代表帰国 森保監督「力が足りなかった」と涙の謝罪",
+      "url": "https://web.gekisaka.jp/news/japan/detail/?454588-454588-fl=",
+      "summary": "W杯ブラジル戦1-2敗退から帰国の日本代表。森保一監督は涙ながらに謝罪。続投については「まだ決まっていない」。次の目標はアジア杯制覇。グループステージ3勝1分の史上最高成績も32強の壁を越えられず。",
+      "size": "小",
+      "selected": true,
+      "source": "ゲキサカ"
+    },
+    {
+      "id": "2026-07-05-news-010",
+      "category": "news",
+      "title": "ガソリン価格 169円台で推移 — 政府補助金6週連続縮小",
+      "url": "https://hojyokin-portal.jp/columns/petrol_hojyo_teigaku",
+      "summary": "レギュラーガソリン全国平均169円80銭（6月22日時点）。政府補助金（激変緩和措置）はピーク時42.6円/Lから6週連続縮小し6円/Lへ。中東情勢改善による原油安と補助金縮小が相殺し合う構図が続いている。",
+      "size": "小",
+      "selected": true,
+      "source": "補助金ポータル"
+    },
+    {
+      "id": "2026-07-05-news-011",
+      "category": "news",
+      "title": "日銀 6月政策金利1.0%へ利上げ — 年内追加利上げ観測が浮上",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-06-30/SYI2DST1UM0W00",
+      "summary": "背景情報として参照。",
+      "size": null,
+      "selected": false,
+      "source": "Bloomberg",
+      "exclude_reason": "background_context_already_covered_in_07-03"
+    },
+    {
+      "id": "2026-07-05-news-012",
+      "category": "news",
+      "title": "10年国債 29年ぶり表面利率2.7%",
+      "url": "https://www.jiji.com/jc/article?k=2026070200405&g=eco",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "source": "時事通信",
+      "exclude_reason": "金利関連は07-03・07-04で既報済み"
+    },
+    {
+      "id": "2026-07-05-news-013",
+      "category": "news",
+      "title": "山本由伸 7回無失点10奪三振で9勝目",
+      "url": "https://www.baseballchannel.jp/mlb/272341/",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "source": "ベースボールチャンネル",
+      "exclude_reason": "low_priority"
+    },
+    {
+      "id": "2026-07-05-news-014",
+      "category": "news",
+      "title": "ガザ情勢 停戦後も散発的攻撃継続",
+      "url": "https://www.jetro.go.jp/biznews/feature/ISIR0617.html",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "source": "ジェトロ",
+      "exclude_reason": "lower_priority"
+    },
+    {
+      "id": "2026-07-05-news-015",
+      "category": "news",
+      "title": "日経平均 6万8000〜9000円台でもみあい",
+      "url": "https://www.nikkei.com/article/DGXZQOUB026UC0S6A700C2000000/",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "source": "日本経済新聞",
+      "exclude_reason": "lower_priority"
+    },
+    {
+      "id": "2026-07-05-ent-001",
+      "category": "entertainment",
+      "title": "トイ・ストーリー5 公開初日興収4.8億円 — ピクサー31年越しの「完成形」が日本に上陸",
+      "url": "https://www.cinematoday.jp/news/N0155760",
+      "summary": "ピクサー最新作「トイ・ストーリー5」が国内公開初日に興収4.8億円を記録。第1作から31年、大人になったアンディのその後を描く終盤が「30代・40代の観客を号泣させる」と評判。北米ではBox Officeランキング1位、全世界5日間で5億ドル突破というピクサー最速ペース。IMAX上映あり。",
+      "size": "大",
+      "selected": true,
+      "source": "シネマトゥデイ"
+    },
+    {
+      "id": "2026-07-05-ent-002",
+      "category": "entertainment",
+      "title": "SixTONES 松村北斗 7/11スタートの初主演ドラマ — 注目の詳細解禁",
+      "url": "https://natalie.mu/music/news/679980",
+      "summary": "SixTONESの松村北斗が初のドラマ主演を務める作品が7月11日（金）からスタート。松村は「リコカツ」「砂の塔」など脇役での出演歴を重ね、満を持しての初主演。ジャニーズ系アーティストの単独主演ドラマとして業界・ファンから注目を集めている。",
+      "size": "中",
+      "selected": true,
+      "source": "音楽ナタリー"
+    },
+    {
+      "id": "2026-07-05-ent-003",
+      "category": "entertainment",
+      "title": "NCT WISH 日本語タイトル曲 7月15日リリース決定",
+      "url": "https://danmee.jp/articles/nct-wish-japanese-title-0715",
+      "summary": "SM Entertainment所属のNCT WISHが日本語タイトル曲を7月15日にリリースすることを発表。THE MUSIC DAYでの小室哲哉コラボも記憶に新しい6人グループが、デビュー後初の本格的日本語楽曲で国内市場に攻勢をかける。",
+      "size": "中",
+      "selected": true,
+      "source": "Danmee.jp"
+    },
+    {
+      "id": "2026-07-05-ent-004",
+      "category": "entertainment",
+      "title": "ILLIT 日本2ndシングル 7月29日リリース決定",
+      "url": "https://www.hmv.co.jp/news/article/2607050001/",
+      "summary": "HYBE傘下のBELIFT LAB所属のILLITが日本2ndシングルを7月29日にリリースすることを発表。2024年の日本デビュー以来、K-POP新世代として注目を集める5人グループ。前作から半年足らずでの続弾となる。",
+      "size": "中",
+      "selected": true,
+      "source": "HMV Japan"
+    },
+    {
+      "id": "2026-07-05-ent-005",
+      "category": "entertainment",
+      "title": "BTS 映画 7月30日公開決定 — 5thアルバム「ARIRANG」に連動",
+      "url": "https://www.trilltrill.jp/articles/3760412",
+      "summary": "BTSが5thアルバム「ARIRANG」リリースに連動した映画の7月30日公開を発表。コンサートドキュメンタリー・ミュージカル映画の詳細は現在調整中。ワールドツアーが欧州で進行中の中、映画公開でさらに盛り上がりを見せる見通し。",
+      "size": "中",
+      "selected": true,
+      "source": "trilltrill"
+    },
+    {
+      "id": "2026-07-05-ent-006",
+      "category": "entertainment",
+      "title": "EXO 千葉公演 7月11日・12日開催 — WOWOWライブ配信も",
+      "url": "https://www.wowow.co.jp/detail/191856",
+      "summary": "EXOが7月11日・12日に千葉公演を開催。WOWOWがライブ配信を実施予定。アジア最大規模のK-POPグループの日本公演は毎回即完売が恒例。",
+      "size": "小",
+      "selected": true,
+      "source": "WOWOW"
+    },
+    {
+      "id": "2026-07-05-ent-007",
+      "category": "entertainment",
+      "title": "IVE「LUCID DREAM」リミックスバージョンリリース",
+      "url": "https://tvfan.kyodo.co.jp/music/news-music/1518204",
+      "summary": "IVEが代表曲「LUCID DREAM」のリミックスバージョンをリリース。夏フェスシーズンに向けての新鮮な聴き直しとして展開。",
+      "size": "小",
+      "selected": true,
+      "source": "TVfan KYODO"
+    },
+    {
+      "id": "2026-07-05-ent-008",
+      "category": "entertainment",
+      "title": "aespa 日本1stミニアルバム 7/24（danmee詳報）",
+      "url": "https://danmee.jp/articles/aespa-japan-mini-album-0724",
+      "summary": "07-03既報（wmg.jp）のため除外。",
+      "size": null,
+      "selected": false,
+      "source": "Danmee.jp",
+      "exclude_reason": "07-03-ent-008で既報（wmg.jp URL）"
+    },
+    {
+      "id": "2026-07-05-ent-009",
+      "category": "entertainment",
+      "title": "BTS WORLD TOUR 'ARIRANG' 欧州公演（hollywoodreporter）",
+      "url": "https://hollywoodreporter.jp/music/185238/",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "source": "The Hollywood Reporter Japan",
+      "exclude_reason": "07-03-ent-011で既収録（not selected / lower_priority）"
+    },
+    {
+      "id": "2026-07-05-hobby-001",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ 海外評価82点 × 鬼畜難易度の実像 — 9年ぶり復活作の全貌",
+      "url": "https://www.gamespark.jp/article/2026/07/05/168274.html",
+      "summary": "任天堂の「リズム天国 ミラクルスターズ」（Switch 2/Switch、7/3発売）の各メディアレビューが出揃った。海外平均スコアは82点で「楽しさと中毒性は健在、演出の進化に驚く」と好評。一方で国内攻略サイトでは上位難易度曲の「鬼畜ぶり」が早くも話題に。収録ゲーム50+タイトル・HD振動対応。5,478円。",
+      "size": "大",
+      "selected": true,
+      "source": "Game*Spark"
+    },
+    {
+      "id": "2026-07-05-hobby-001b",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ 鬼畜難易度レポート",
+      "url": "https://kentworld-blog.com/archives/rhythm-heaven-miracle-stars-hard.html",
+      "summary": "hobby-001にマージ。",
+      "size": null,
+      "selected": false,
+      "source": "KENTWORLD",
+      "exclude_reason": "merged_into_hobby-001"
+    },
+    {
+      "id": "2026-07-05-hobby-002",
+      "category": "hobby",
+      "title": "ファイアーエムブレム 万紫千紅 発売日確定・予約開始 — 2026年秋に任天堂最大タイトル登場",
+      "url": "https://www.denfaminicogamer.jp/news/2607050001",
+      "summary": "「ファイアーエムブレム 万紫千紅」の発売日が正式決定し予約受付が開始。Switch 2対応の最新作で、マルチキャラクター戦略SRPGとしてシリーズ最大規模の開発ボリュームを謳う。詳細な発売日・価格は電ファミ記事を参照。",
+      "size": "中",
+      "selected": true,
+      "source": "電ファミニコゲーマー"
+    },
+    {
+      "id": "2026-07-05-hobby-003",
+      "category": "hobby",
+      "title": "ゼルダの伝説 時のオカリナ Switch2版 — 発売日・仕様・移植方針が明らかに",
+      "url": "https://dengekionline.com/articles/299421/",
+      "summary": "Nintendo Switch 2向けに移植される「ゼルダの伝説 時のオカリナ」の発売日・対応機能・グラフィック仕様が明らかになった。HDリマスターか完全リメイクかで議論を呼んでいた本作の方向性が確定し、購入判断が可能になった。",
+      "size": "中",
+      "selected": true,
+      "source": "電撃オンライン"
+    },
+    {
+      "id": "2026-07-05-hobby-004",
+      "category": "hobby",
+      "title": "DJI Osmo Pocket 4P 追加実写レビュー＆比較検証 — dc.watch・デバイスキャンプが詳報",
+      "url": "https://dc.watch.impress.co.jp/docs/review/2121890.html",
+      "summary": "6月29日発売のDJI Osmo Pocket 4Pについて、dc.watch（写真映え重視レビュー）とデバイスキャンプ（他機種比較検証）の2媒体が詳細レポートを公開。av.watch（07-04既報）と合わせてトリプル視点で購入判断が可能になった。",
+      "size": "中",
+      "selected": true,
+      "source": "DC Watch（+ devicecamp）"
+    },
+    {
+      "id": "2026-07-05-hobby-004b",
+      "category": "hobby",
+      "title": "DJI Osmo Pocket 4P 比較レビュー（devicecamp）",
+      "url": "https://www.devicecamp.net/dji-osmo-pocket-4p-review/",
+      "summary": "hobby-004にマージ。",
+      "size": null,
+      "selected": false,
+      "source": "devicecamp",
+      "exclude_reason": "merged_into_hobby-004"
+    },
+    {
+      "id": "2026-07-05-hobby-005",
+      "category": "hobby",
+      "title": "DELTARUNE Chapter 5 総合攻略wiki公開 — gamerch",
+      "url": "https://gamerch.com/deltarune/992892",
+      "summary": "DELTARUNE Chapter 5の総合攻略wikiがgamearchに公開。ボス攻略・分岐チャート・隠し要素まとめが整備された。Chapter 1-4経験者向け。",
+      "size": "小",
+      "selected": true,
+      "source": "gamerch"
+    },
+    {
+      "id": "2026-07-05-hobby-006",
+      "category": "hobby",
+      "title": "2026年スパイスカレートレンドをプロに聞く — OCEANS分析",
+      "url": "https://oceans.tokyo.jp/magazine/spice-curry-trend-2026/",
+      "summary": "スパイスカレー専門家が2026年のトレンドを解説。「健康志向スパイス」「グローバル融合」「一人前特化」の3潮流が台頭。東京・大阪で注目店も紹介。（07-03のカレー大學分析とは別角度）",
+      "size": "小",
+      "selected": true,
+      "source": "OCEANS"
+    },
+    {
+      "id": "2026-07-05-hobby-007",
+      "category": "hobby",
+      "title": "食べログ WEST 百名店 2026 — 関西・西日本のカレー名店100選発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001034.000001455.html",
+      "summary": "カカクコムが発表した食べログ「WEST 百名店 2026」のカレー部門。07-03既報の全国版とは別に、関西・中四国・九州エリアを中心とした西日本の名店100選。地元民しか知らない名店が多数選出。",
+      "size": "小",
+      "selected": true,
+      "source": "PR TIMES（カカクコム）"
+    },
+    {
+      "id": "2026-07-05-hobby-008",
+      "category": "hobby",
+      "title": "シグマ07.07.2026（ギズモード）",
+      "url": "https://www.gizmodo.jp/article/july7-siguma-post/",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "source": "ギズモード・ジャパン",
+      "exclude_reason": "07-03-hobby-002で既報（gizmodo.jp URL）かつ07-04-hobby-002でも既報"
+    },
+    {
+      "id": "2026-07-05-seren-001",
+      "category": "serendipity",
+      "title": "W杯ラウンド16 × 参院選3日目 — 「誰が残るか」を決める週が始まった",
+      "url": "https://news.yahoo.co.jp/articles/4863a89aaa9918aa160d54b7c1923617031a94a1",
+      "summary": "今日2026年7月5日（日）、世界最大のスポーツイベントが最初の本格的な淘汰フェーズに入った。W杯のラウンド16では16チームが今週中に8チームに減り、さらに4チームへと絞られていく。同じ日本では参院選の選挙戦3日目、522人の候補者が20日後に有権者から審判を下される。「勝者が残り、敗者は去る」という同じ構造が、スポーツと民主主義という全く異なる舞台で同時に進行する日曜日だ。",
+      "size": "中",
+      "selected": true,
+      "source": "Yahoo!ニュース",
+      "serendipity_reason": "スポーツの淘汰と民主主義の選択が同じ日に並行して進む構造的な面白さとして。"
+    },
+    {
+      "id": "2026-07-05-seren-002",
+      "category": "serendipity",
+      "title": "トイ・ストーリー5 × リズム天国ミラクルスターズ — 子供の頃好きだったものが「完成形」で戻ってくる週",
+      "url": "https://www.cinematoday.jp/news/N0155760",
+      "summary": "1995年に世界初のフル3DCGアニメとして歴史を変えた「トイ・ストーリー」（31年越しの5作目）と、2007年にDSで誕生し「拍子の宇宙論」を確立した「リズム天国」（9年ぶりの新作）。どちらも今の20〜30代が子供時代に夢中になったコンテンツが、同じ7月に新作として戻ってきた。長い年月を経た続編には、その作品を愛した子供が大人になって作り直したものならではの「深みの補正」がある。",
+      "size": "中",
+      "selected": true,
+      "source": "シネマトゥデイ",
+      "serendipity_reason": "異ジャンルの「懐かしい続編」が同週に重なるという巡り合わせとして。子供時代を共有する世代に刺さる。"
+    }
+  ]
+}
