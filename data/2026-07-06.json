@@ -1,0 +1,556 @@
+{
+  "date": "2026-07-06",
+  "notion_page_id": "395a41a3-cf9b-819c-9a67-e0332f066700",
+  "articles": [
+    {
+      "id": "2026-07-06-tech-001",
+      "category": "tech",
+      "title": "Signal Forms が Angular 22 で本番対応 — Zoneless × Signal-first アーキテクチャへ完全移行",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+      "source": "Angular Blog",
+      "summary": "Angular v22 が6月3日に正式リリース。Signal Forms・Angular Aria・Async Reactivity API がすべて安定版に到達し本番利用可能に。新プロジェクトはデフォルトで OnPush + Zoneless 変更検出を採用し、Zone.js への依存がデフォルトでなくなった。LTS は2028年5月まで。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-tech-001b",
+      "category": "tech",
+      "title": "Signal Forms が Angular 22 でついに本番対応 — 実装ガイド",
+      "url": "https://codewithrajat.substack.com/p/signal-forms-are-finally-production",
+      "source": "codewithrajat.substack.com",
+      "summary": "Signal Forms 安定化を受け、Submission API・validateStandardSchema・条件付き CSS クラス・Reactive Forms との相互運用を詳解する実装ガイド。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_tech-001 as supplementary link"
+    },
+    {
+      "id": "2026-07-06-tech-001c",
+      "category": "tech",
+      "title": "Angular 22 主要変更点詳解 — Zoneless デフォルト化と Signal-first アーキテクチャへの完全移行",
+      "url": "https://angular.love/angular-22-key-features-and-changes",
+      "source": "Angular.love",
+      "summary": "Angular v22 の技術的変更点を詳解。Zoneless がデフォルトの Change Detection 戦略となり Angular が Signal-first アーキテクチャへ完全移行。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_tech-001"
+    },
+    {
+      "id": "2026-07-06-tech-002",
+      "category": "tech",
+      "title": "Claude Fable 5 が19日ぶりに世界再展開 / GPT-5.6「Sol」プレビュー — 生成AI最前線が一週間で大きく動いた",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "source": "Anthropic",
+      "summary": "Fable 5 が輸出規制停止（19日間）を経て7月1日に全世界再デプロイ。サイバーセキュリティ分類器を強化。Pro/Max/Team プランで7月7日まで週使用量50%分まで追加無料。GPT-5.6「Sol」はベンチマーク最高水準も、政府要請で約20社に限定公開中。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-tech-002b",
+      "category": "tech",
+      "title": "OpenAI、GPT-5.6シリーズ（Sol/Terra/Luna）をプレビュー",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "source": "OpenAI",
+      "summary": "GPT-5.6 Sol はコーディング・生物学・サイバーセキュリティで最高水準。max reasoning effort と ultra mode を導入。Cerebas で750 tok/秒を予定。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_tech-002"
+    },
+    {
+      "id": "2026-07-06-tech-003",
+      "category": "tech",
+      "title": "Claude in Chrome が有料プラン全ユーザーに一般提供開始 — ブラウザで自律タスク実行が可能に",
+      "url": "https://claude.com/claude-for-chrome",
+      "source": "Anthropic",
+      "summary": "ClaudeのChrome拡張機能がGAとなり有料プランの全ユーザーが利用可能に。Gmail整理・競合調査・フォーム入力などの複雑なブラウザタスクをClaudeが自律実行。Claude Codeと連携したバックグラウンド通知・ドラフトPR自動作成などエージェントワークフローも強化。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-tech-004",
+      "category": "tech",
+      "title": "フロントエンド最前線 — Frontend Nation 2026 が示す「コンパイラ駆動・Signals・Rust」の時代",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "source": "Zenn",
+      "summary": "Frontend Nation 2026 の発表内容を日本語で解説。Vue Vapor・Angular Signals・Rust ベースビルドツール・Vite エコシステムを包括的にカバー。各フレームワークが「コンパイラ駆動・細粒度・高速フィードバック」に収束する大きなトレンドを分析。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-tech-005",
+      "category": "tech",
+      "title": "Gemini Spark が macOS で一般提供開始 — ローカルファイル操作・Canva/Dropbox 連携・動画生成",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch",
+      "summary": "Google のパーソナルAIエージェント「Gemini Spark」がmacOS向けに一般提供開始。Mac上のファイルやアプリを横断した自律タスク実行のほか、Canva・Dropbox・Google Tasks等との連携やリアルタイムトピック追跡機能も追加。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-tech-006",
+      "category": "tech",
+      "title": "OpenAI、政府要請で GPT-5.6 を約20社に限定公開 — AI規制の前例化に「通常化すべきでない」と声明",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch",
+      "summary": "OpenAI は GPT-5.6 シリーズのロールアウトを米政府要請により約20社の限定パートナーに絞り込み。Anthropic と同時期にフロンティアAIへの二重規制が適用された形となり、OpenAI は「このような制限が通常化すべきでない」と公式声明。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-tech-007",
+      "category": "tech",
+      "title": "xAI が音声AIエージェントビルダーをベータ公開 — ノーコード・25言語・1分0.05ドルから",
+      "url": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI",
+      "summary": "xAI がノーコードの音声AIエージェント構築プラットフォーム「Grok Voice Agent Builder」をベータ公開。1秒以下の低遅延、Notion・Gmail・Google Calendar等25以上のツール連携に対応。25言語以上・80以上の音声・ボイスクローニングをサポート。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-tech-008",
+      "category": "tech",
+      "title": "Fable 5/Mythos 5 への輸出規制解除 TechCrunch 報",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_tech-002"
+    },
+    {
+      "id": "2026-07-06-tech-009",
+      "category": "tech",
+      "title": "Claude Fable 5 と Mythos 5 正式発表",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "source": "Anthropic",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_tech-002"
+    },
+    {
+      "id": "2026-07-06-tech-010",
+      "category": "tech",
+      "title": "Gemini Spark 公式アップデート詳報",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
+      "source": "Google Blog",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_tech-005"
+    },
+    {
+      "id": "2026-07-06-tech-011",
+      "category": "tech",
+      "title": "【2026年版】フロントエンド技術選定：React・Vue・Angular の現在地",
+      "url": "https://zenn.dev/nijima/articles/651ed3c1f2ded5",
+      "source": "Zenn",
+      "summary": "2026年版フロントエンド技術選定。Angular は Signals によるリアクティビティ刷新で「モダンフロントエンドの最前線」に返り咲きと評価。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_tech-004"
+    },
+    {
+      "id": "2026-07-06-tech-012",
+      "category": "tech",
+      "title": "メディア・エンタメ業界における 2026年AIエージェントトレンド",
+      "url": "https://cloud.google.com/resources/content/ai-agent-trends-media-entertainment-2026",
+      "source": "Google Cloud",
+      "summary": "Gray Media が AI で113TV市場・1,300デジタル接点を管理、MLB が Gemini で試合 AI リアルタイム実況を実現した事例を紹介。",
+      "size": "セレンディピティ",
+      "selected": true,
+      "serendipity_reason": "フロントエンドエンジニア×エンタメ業界という自分のポジションから、AI が変えようとしている業界の未来を知るために。"
+    },
+    {
+      "id": "2026-07-06-news-001",
+      "category": "news",
+      "title": "台風9号、7月10〜11日に非常に強い勢力で沖縄へ接近 — 中心気圧900hPa・最大風速85m/s",
+      "url": "https://tenki.jp/forecaster/y_nakagawa/2026/07/06/39609.html",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "大型で猛烈な台風9号が7月10〜11日にかけて非常に強い勢力で沖縄の先島諸島に接近見込み。8日頃が発達のピークで中心気圧900hPa、最大風速85m/s。関東から九州、沖縄では7日から高波への注意が必要。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-002",
+      "category": "news",
+      "title": "W杯2026 ノルウェーがブラジルを2-1撃破 — ハーランド2発で史上最大の番狂わせ",
+      "url": "https://www.footballchannel.jp/2026/07/06/post941151/",
+      "source": "フットボールチャンネル",
+      "summary": "大会最大の優勝候補ブラジルが後半79分・90分のハーランド連続ゴールで逆転負け。36年ぶりのラウンド16敗退。日本を破ったブラジルがここで散り、ノルウェーが史上初のベスト8に。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-003",
+      "category": "news",
+      "title": "長期金利が一時2.82% — 1996年10月以来30年ぶりの高水準",
+      "url": "https://www.nikkei.com/article/DGXZQOUB016HD0R00C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "7月6日、新発10年物国債利回りが一時2.82%に上昇し1996年以来30年ぶりの高水準。国会空転による財政悪化懸念と日銀の政策金利1.0%引き上げが背景。住宅ローン・企業融資コストへの影響が本格化する局面。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-004",
+      "category": "news",
+      "title": "ホルムズ海峡封鎖が実質解除へ — 原油価格がピーク169ドルから半値以下の69〜78ドルに",
+      "url": "https://jbpress.ismedia.jp/articles/-/95596",
+      "source": "JBpress",
+      "summary": "イランによるホルムズ海峡封鎖が緩和に向かい、WTI原油先物は69〜78ドル台まで下落しピーク比半値以下に。米エネルギー長官は「輸送量が戦前水準にほぼ回復」と表明。日本のエネルギーコストへのプラス波及が期待される。（deep_dive：イラン情勢・エネルギー市場）",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-005",
+      "category": "news",
+      "title": "中国原子力潜水艦が太平洋で弾道ミサイル発射 — 落下設定域に日本のEEZ",
+      "url": "https://www.nikkei.com/article/DGXZQOUA063MV0W6A700C2000000/",
+      "source": "日本経済新聞",
+      "summary": "中国人民解放軍の原子力潜水艦が太平洋公海上へ弾道ミサイルを発射。落下設定域の一部に日本のEEZが含まれていた。日本政府は中国側に深刻な懸念を伝え再考を要求。着弾自体はEEZ外と確認されたが、安全保障上の重大事態として外交問題に発展している。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-006",
+      "category": "news",
+      "title": "国会空転、野党が全審議拒否 — 議員定数削減法案の強行審議入りに反発",
+      "url": "https://news.yahoo.co.jp/articles/0f4081882c9bd375b26eed3bfe9ced02dc8f5cd5",
+      "source": "Yahoo!ニュース（TBS NEWS DIG）",
+      "summary": "自民・維新が提出した議員定数削減法案の職権審議入りに反発した野党が全審議を拒否し国会が空転。皇室典範改正案など重要法案の行方も不透明で、与党内から会期延長論が浮上している。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-007",
+      "category": "news",
+      "title": "2025年度の税収84.2兆円 — 6年連続・過去最高、増加額も過去最大",
+      "url": "https://www.jiji.com/jc/article?k=2026070301045&g=eco",
+      "source": "時事ドットコム",
+      "summary": "2025年度一般会計税収が84.2兆円となり6年連続の過去最高を更新。賃上げ・企業業績拡大・物価高を背景に所得税・法人税・消費税の基幹3税がそれぞれ過去最高を記録。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-008",
+      "category": "news",
+      "title": "W杯2026 モロッコがカナダを3-0圧倒 — アフリカ勢がベスト8一番乗り",
+      "url": "https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-morocco-match-report-highlights-ja",
+      "source": "FIFA公式サイト",
+      "summary": "ラウンド16でモロッコが開催国カナダを3-0で下し準々決勝進出。ウナヒが2得点。アフリカ勢の存在感を示し、次戦でフランスと対戦する注目カードが実現。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-009",
+      "category": "news",
+      "title": "ドル円162円台に迫る円安 — 日米金利差縮小シナリオ描きにくく",
+      "url": "https://www.smbctb.co.jp/rates/prestia/insight_reports02.html",
+      "source": "SMBC信託銀行 Prestia",
+      "summary": "日銀が政策金利1.0%引き上げ後も円安圧力が継続し、ドル円は一時162円台に迫る水準で推移。日米金利差が大きく縮まるシナリオは描きにくく、輸入物価・生活コスト上昇が続く見通し。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-010",
+      "category": "news",
+      "title": "国内EV新車販売比率が初の3%超 — 前年同期比2.7倍",
+      "url": "https://www.nikkei.com/article/DGXZQOUC2912X0Z20C26A6000000/",
+      "source": "日本経済新聞",
+      "summary": "2026年4〜6月の国内EV新車販売が前年同期比2.7倍の約3万2000台となり、四半期として初めて3%を突破。国・東京都の補助金で実質100万円以下となる車種が増え普及が急加速。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-011",
+      "category": "news",
+      "title": "JTB 2026年夏の海外旅行者数8.8%減 — コロナ後初のマイナス",
+      "url": "https://www.jiji.com/jc/article?k=2026070201004&g=eco",
+      "source": "時事ドットコム",
+      "summary": "JTBは夏の海外旅行者数が前年比8.8%減の217万人になると発表。燃油サーチャージの大幅引き上げと円安が逆風となり、コロナ後初の前年割れ。行き先は韓国・台湾など近場アジアにシフト。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-news-012",
+      "category": "news",
+      "title": "イラン前最高指導者ハメネイ師の葬儀がテヘランで開始",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
+      "source": "CBS News",
+      "summary": "今年2月に死亡したイランのハメネイ最高指導者の葬儀がテヘランで開始。後継体制の行方は中東の政治・エネルギー情勢を左右する転換点。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "ホルムズ解除記事（news-004）で文脈カバー済み、分量調整のため除外"
+    },
+    {
+      "id": "2026-07-06-news-013",
+      "category": "news",
+      "title": "W杯2026 フランスがパラグアイを1-0で下しベスト8進出",
+      "url": "https://soccer.yahoo.co.jp/wcup/category/2026/game/2026070401/summary?gk=18",
+      "source": "スポーツナビ",
+      "summary": "フランスがムバッペのPKで1-0、パラグアイを下し準々決勝進出。次戦はモロッコと激突。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "lower_priority, W杯記事はノルウェー撃破を優先"
+    },
+    {
+      "id": "2026-07-06-news-014",
+      "category": "news",
+      "title": "与党が国会会期延長を検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015168411000",
+      "source": "NHKニュース",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "国会空転記事（news-006）で文脈カバー済み"
+    },
+    {
+      "id": "2026-07-06-ent-001",
+      "category": "entertainment",
+      "title": "VIVANT続編、7月26日〜 日曜劇場史上初の2クール連続放送 — 舞台はアゼルバイジャン",
+      "url": "https://www.walkerplus.com/article/1338641/",
+      "source": "ウォーカープラス",
+      "summary": "堺雅人主演ドラマ『VIVANT』の続編が7月26日より日曜夜9時に放送開始。日曜劇場史上初の2クール連続放送という異例の大型編成で、舞台をアゼルバイジャンに移した大規模ロケを敢行。前作の無料配信も同時スタート。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-002",
+      "category": "entertainment",
+      "title": "キングダム 魂の決戦 7月17日公開 — 合従軍編×米津玄師で夏最大の邦画決戦",
+      "url": "https://news.yahoo.co.jp/articles/2ff8790839d1108b4efdaa97689f09562c6d29ef",
+      "source": "Yahoo!ニュース（ウォーカープラス）",
+      "summary": "山﨑賢人主演『キングダム』最新章が7月17日公開。吉沢亮・小栗旬・斎藤工らが集結した「合従軍編」に米津玄師が主題歌を提供。シリーズ累計動員1734万人の実写大作の次なる頂点。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-003",
+      "category": "entertainment",
+      "title": "コードギアス 奪還のロゼ 7月10日よりTV放送開始 — 完全新作「星追いのアスパル」も制作発表",
+      "url": "https://news.denfaminicogamer.jp/news/2605282a",
+      "source": "電ファミニコゲーマー",
+      "summary": "劇場4部作『コードギアス 奪還のロゼ』が7月10日よりMBS/TBS系でTV放送開始。Disney+での先行視聴も可能。さらに完全新作『星追いのアスパル』の制作も発表し、シリーズ20周年が盛り上がる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-004",
+      "category": "entertainment",
+      "title": "ノーラン最新作「オデュッセイア」初レビューが絶賛 — 全編IMAXカメラ撮影で「ものすごい映画」",
+      "url": "https://theriver.jp/odyssey-jonathan-review/",
+      "source": "THE RIVER",
+      "summary": "クリストファー・ノーラン監督最新作の初レビューが公開され「ものすごい映画」と絶賛が続々。全編IMAXカメラ撮影という映画史上初の試み。7/17全米・9/11日本公開。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-005",
+      "category": "entertainment",
+      "title": "K-POPガールバンドQWER、7月8日にデジタルシングル「SHOW DOWN」で日本デビュー",
+      "url": "https://kstyle.com/article.ksn?articleNo=2280693",
+      "source": "Kstyle",
+      "summary": "元NMB48メンバーのヒナも在籍するK-POPガールバンドQWERが7月8日に日本デビュー。フジテレビ系アニメ「盗掘王」OPとして起用。ガールバンドブームのさらなる拡大を占う試金石。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-006",
+      "category": "entertainment",
+      "title": "GTO 28年ぶり復活 — 反町隆史×松嶋菜々子がリアル夫婦として再共演",
+      "url": "https://news.yahoo.co.jp/articles/98c9cbf583c2da528fdca5d81ffe657a506c0820",
+      "source": "Yahoo!ニュース（オリコン）",
+      "summary": "1998年以来28年ぶりに反町隆史主演で『GTO』が復活。7月20日フジテレビ系放送開始。50代となった鬼塚が令和の教育現場に挑む。妻・松嶋菜々子がゲスト出演し、リアル夫婦の再共演が話題。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-007",
+      "category": "entertainment",
+      "title": "BLEACH 千年血戦篇 最終クール「禍進譚」7月25日放送開始",
+      "url": "https://bleach-anime.com/news/?id=70662",
+      "source": "BLEACH 千年血戦篇公式サイト",
+      "summary": "最終・第4クール「禍進譚」が2026年7月25日よりテレ東系列で放送開始。先行上映でファン熱狂。20年以上続く作品がついに完結へ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-008",
+      "category": "entertainment",
+      "title": "ILLIT 初の日本ライブツアー 7月18日神戸公演からスタート — 5都市11公演",
+      "url": "https://prtimes.jp/main/html/rd/p/000000642.000045862.html",
+      "source": "PR TIMES（HYBE JAPAN）",
+      "summary": "ILLIT が初のライブツアー『ILLIT LIVE 'PRESS START❤' in JAPAN』を開催。7月18〜19日神戸、7月23〜26日東京など5都市11公演。デビュー1年強でのアリーナツアー実現に注目。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-009",
+      "category": "entertainment",
+      "title": "無職転生III 7月4〜5日放送開始 — アニメ化5周年の節目に第3期が開幕",
+      "url": "https://game.watch.impress.co.jp/docs/news/2121301.html",
+      "source": "GAME Watch",
+      "summary": "2026年7月4〜5日放送スタート。5周年の節目に第3期が開幕し「エリス修行編」を連続放送。スタジオバインド続投制作。新作スマホゲームとのメディアミックスも話題。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-ent-010",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL 7月7日放送開始（v-storage.jp）",
+      "url": "https://v-storage.jp/anime/koukaku/278781/",
+      "source": "V-STORAGE",
+      "summary": "サイエンスSARU制作、円城塔脚本の完全新作が7月7日放送開始予定。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "past_7_days_url_duplicate（2026-06-xx掲載済み）"
+    },
+    {
+      "id": "2026-07-06-ent-011",
+      "category": "entertainment",
+      "title": "NiziU 初ベストアルバム『Portfolio』リリース",
+      "url": "https://www.rbbtoday.com/article/2026/07/01/250094.html",
+      "source": "RBB TODAY",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "past_7_days_url_duplicate"
+    },
+    {
+      "id": "2026-07-06-ent-012",
+      "category": "entertainment",
+      "title": "YUI「SUMMER SONG」インドネシア発ミームで逆輸入バズ — SNS再生数11億回・17日連続1万件超",
+      "url": "https://www.thefirsttimes.jp/column/0000613389/",
+      "source": "THE FIRST TIMES",
+      "summary": "2008年リリースのYUI「SUMMER SONG」がTikTokで爆発的にバズり、SNS再生数が11億回を突破。起点はインドネシア発のダンスミームで、M!LKや乃木坂46なども参戦して国内に逆輸入。配信×TikTokが旧譜の価値を再定義する現象。",
+      "size": "セレンディピティ",
+      "selected": true,
+      "serendipity_reason": "エンタメ業界勤務の目線から「どのようにヒットが生まれるか」の新しい形として。過去のIPが海外発で再浮上する現象はコンテンツ企画に大きな示唆を持つ。"
+    },
+    {
+      "id": "2026-07-06-ent-013",
+      "category": "entertainment",
+      "title": "コードギアス 奪還のロゼ TV放送・新作発表",
+      "url": "https://news.denfaminicogamer.jp/news/2605282a",
+      "source": "電ファミ",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "moved to ent-003 as selected"
+    },
+    {
+      "id": "2026-07-06-hobby-001",
+      "category": "hobby",
+      "title": "ソニーRX10 新製品を3日後の7月9日23時に正式発表 — 「The wait is over」でカメラファンが騒然",
+      "url": "https://digicame-info.com/2026/07/rx10-1.html",
+      "source": "デジカメinfo",
+      "summary": "ソニーがRX10シリーズ新製品を日本時間7月9日23時に発表すると予告。1インチ積層型Exmor RSセンサー＋AI AF搭載、24-600mm F2.4-4レンズ継続採用とみられ、ブリッジカメラの久々後継機として注目が集まっている。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-hobby-002",
+      "category": "hobby",
+      "title": "スプラトゥーンレイダース（7月23日）各店舗の予約特典まとめ",
+      "url": "https://ninten-switch.com/splatoon-raiders-for-switch-2-tokuten-matome",
+      "source": "ninten-switch.com",
+      "summary": "Switch 2専用スピンオフ「スプラトゥーン レイダース」（7月23日発売）の全店舗予約特典が出揃った。Amazon限定アクリルタンブラー、楽天メッシュトート、セブンネットスマホスタンド等。DL版6,480円・パッケージ7,480円。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-hobby-003",
+      "category": "hobby",
+      "title": "リズム天国ミラクルスターズ 詳細レビュー — 「音とリズムの求道者を泣かせる傑作」",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2119743.html",
+      "source": "GAME Watch",
+      "summary": "7月2日発売「リズム天国ミラクルスターズ」詳細レビュー。80種以上のリズムゲームを収録し、シリーズ伝統の中毒性と高難易度が健在。やり込み要素も充実しており「音とリズムの求道者を泣かせる傑作」と称賛。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-hobby-004",
+      "category": "hobby",
+      "title": "がんばれゴエモン大集合！ 発売開始（7/2）— シリーズ40周年で全13作収録",
+      "url": "https://www.famitsu.com/article/202607/80117",
+      "source": "ファミ通",
+      "summary": "コナミのシリーズ40周年記念コレクション「がんばれゴエモン大集合！」が7月2日に発売。1986年初代から全13タイトルを収録、Switch・PS5・Steam対応。巻き戻し・クイックセーブ・倍速等の便利機能も搭載。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-hobby-005",
+      "category": "hobby",
+      "title": "ソニー「FX5」初リーク画像公開 — EOS C50同等サイズ、3.5インチバリアングルモニタ搭載か",
+      "url": "https://digicame-info.com/2026/07/fx5-1.html",
+      "source": "デジカメinfo",
+      "summary": "ソニーの新型シネマカメラ「FX5」の初リーク画像が公開。FX3よりやや大きくEOS C50とほぼ同等サイズ、新開発3.5インチバリアングルモニタを搭載。7月下旬発表が有力視されている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-hobby-006",
+      "category": "hobby",
+      "title": "2026年カレートレンドは「第2世代キーマカレー」— 1,000社ヒアリングでカレー総合研究所が断言",
+      "url": "https://prtimes.jp/main/html/rd/p/000000767.000033279.html",
+      "source": "PR TIMES / カレー総合研究所",
+      "summary": "2026年最大のカレートレンドは「第2世代キーマカレー」。シーフードや夏野菜とスパイスを大胆に組み合わせるフリースタイルスタイルが特徴。夏の酷暑対策の爽快な刺激と物価高でも高付加価値に見える点が支持されている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-06-hobby-007",
+      "category": "hobby",
+      "title": "コシナ NOKTON classic 35mm F1.4 RF/Zマウント追加（dc.watch）",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2116829.html",
+      "source": "デジカメWatch",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "past_7_days_url_duplicate"
+    },
+    {
+      "id": "2026-07-06-hobby-008",
+      "category": "hobby",
+      "title": "ニコンが海外に新製品2台を登録",
+      "url": "https://mirrorless-camera.info/rumor/nikon-rumor/54968.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "lower_priority, 情報薄"
+    },
+    {
+      "id": "2026-07-06-hobby-009",
+      "category": "hobby",
+      "title": "リズム天国ミラクルスターズ 海外レビューMeta 82点",
+      "url": "https://www.gamespark.jp/article/2026/07/03/168787.html",
+      "source": "Game*Spark",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "07-05-hobby-001で既報（Metacritic 82点の情報は既掲載）"
+    },
+    {
+      "id": "2026-07-06-hobby-010",
+      "category": "hobby",
+      "title": "料理王国8月号「次世代カレー」特集",
+      "url": "https://cuisine-kingdom.com/magazine-202608/",
+      "source": "料理王国",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "merged_into_hobby-006, lower_priority"
+    },
+    {
+      "id": "2026-07-06-hobby-011",
+      "category": "hobby",
+      "title": "カレー大學「第2世代キーマカレー」実践講座7/18",
+      "url": "https://note.com/currysoken/n/n0850bad2da92",
+      "source": "カレー大學（note）",
+      "summary": "",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "lower_priority"
+    }
+  ]
+}
