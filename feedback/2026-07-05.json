@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-05",
+  "source_page_id": "394a41a3-cf9b-81aa-91bc-fa82c043efcc",
+  "source_date": "2026-07-05",
+  "checkboxes": {
+    "volume": {
+      "just_right": false,
+      "want_more": false,
+      "too_much": false
+    },
+    "increase_category": {
+      "tech": false,
+      "news": false,
+      "entertainment": false,
+      "hobby": false
+    },
+    "decrease_category": {
+      "tech": false,
+      "news": false,
+      "entertainment": false,
+      "hobby": false
+    },
+    "deep_dive": {
+      "W杯ラウンド16 全結果まとめ・ベスト8予想": false,
+      "トランプ関税301条移行の詳細と日本企業への具体的影響": false,
+      "Cursor iOS / TanStack AI の使い方ガイド": false
+    },
+    "new_sources": {
+      "サッカーキング RSSを追加する": false,
+      "AUTOMATON RSSを追加する": false
+    }
+  },
+  "comments": [],
+  "preferences_updated": false,
+  "note": "フィードバックなし（全チェックボックス未チェック、コメントなし）"
+}
