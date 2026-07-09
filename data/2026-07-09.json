@@ -1,0 +1,484 @@
+{
+  "date": "2026-07-09",
+  "notion_page_id": "398a41a3-cf9b-8121-8966-fb23a87d7fbb",
+  "articles": [
+    {
+      "id": "2026-07-09-tech-001",
+      "category": "tech",
+      "title": "TypeScript 7.0 正式リリース ── Go言語移植で8〜12倍高速化、Angularとの連携は？",
+      "url": "https://gihyo.jp/article/2026/07/typescript-7-0",
+      "source": "gihyo.jp",
+      "summary": "TypeScript 7.0が7月8日に正式リリース。Go言語完全移植で型チェック・ビルドが8〜12倍高速化、最大90%削減。VS CodeへのGoベースLSP直接組み込みで補完体験も大幅改善。AngularはTS7対応待ちのため現時点はTS6推奨。TS7.1でプログラムAPI追加予定。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-tech-002",
+      "category": "tech",
+      "title": "Claude Sonnet 5 ── エージェント最適化の新デフォルトモデル、Opus 4.8比60%安価",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic",
+      "summary": "Anthropicが6月30日にリリースしたClaude Sonnet 5がFree/Proのデフォルトモデルに。Opus 4.8比60%安価な$2/MTok（入力）でエージェント構築コストが激減。コンテキスト長256K。新トークナイザーで英語テキストのトークン消費が旧比約1.4倍になる点に注意。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-tech-003",
+      "category": "tech",
+      "title": "OpenAI、Claude Code向け公式プラグイン「codex-plugin-cc」公開 ── 競合AIの歴史的コラボ",
+      "url": "https://aitoolly.com/ai-news/article/2026-07-05-openai-launches-codex-plugin-for-claude-code-to-streamline-code-review-and-task-delegation",
+      "source": "AIToolly",
+      "summary": "OpenAIが7月5日にClaude Code向け公式プラグインを公開。/codex:review・/codex:rescueでClaude Code内からOpenAI Codexによるコードレビューを直接呼び出せる。公開直後に27,000超のGitHubスターを獲得。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-tech-004",
+      "category": "tech",
+      "title": "Angular 2026年上半期総括 ── Signals/Zonelessがデフォルト定着、AIコード品質の課題も",
+      "url": "https://blog.angular.dev/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality-ff37df480574",
+      "source": "Angular Blog",
+      "summary": "Angular公式の2026年上半期総括。Signals/Zonelessアーキテクチャがデフォルト定着、Signal Forms安定化、resource()・httpResource()活用拡大。AI生成コードの品質問題が初めて公式に課題として言及された。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-tech-005",
+      "category": "tech",
+      "title": "MCP 2026-07-28 仕様で破壊的変更 ── セッション廃止・ステートレス化でLB対応に",
+      "url": "https://stacktr.ee/blog/mcp-2026-spec-changes",
+      "source": "Stacktree",
+      "summary": "MCP最大改訂でセッション管理廃止・ステートレス化。ラウンドロビンLB対応が可能になり、Multi Round-Trip RequestsがsamplingとElicitation機能を置き換える。7月28日正式版前の既存実装の確認が必要。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-tech-006",
+      "category": "tech",
+      "title": "MCP Is Growing Up ── EMA安定化・Microsoftカタログ・ステートレス移行を俯瞰",
+      "url": "https://aaif.io/blog/mcp-is-growing-up/",
+      "source": "AAIF",
+      "summary": "2026年のMCP成熟を俯瞰。EMA（エンタープライズ認証）安定化、Microsoft 60+サーバーカタログ、ステートレス移行の意義を分析。AI標準プロトコルとして業界定着を確認。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-tech-007",
+      "category": "tech",
+      "title": "TypeScript 7 tsconfig廃止設定まとめ ── baseUrl・pathsなどAngularで使う設定も対象",
+      "url": "https://zenn.dev/ubie_dev/articles/typescript7-goodbye-legacy",
+      "source": "Zenn (ubie_dev)",
+      "summary": "TS7で廃止されるtsconfig設定リスト。target:es5・baseUrl・pathsなどAngularプロジェクトでよく使う設定が多く含まれ、移行前に必ず確認すべき変更点を実例付きで解説。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-tech-008",
+      "category": "tech",
+      "title": "TypeScript 7はなぜGoで書き直されたのか ── 10倍高速化の技術的背景",
+      "url": "https://zenn.dev/kg_filled/articles/db6e8b228911d0",
+      "source": "Zenn (kg_filled)",
+      "summary": "TypeScript 7のGo移植を決断した技術的理由を深掘り。JITvsネイティブ、マルチスレッド型推論の仕組み、既存エコシステムとの互換性維持の戦略を解説。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-001のTypeScript 7記事と同一トピック。詳細は大記事でカバー。"
+    },
+    {
+      "id": "2026-07-09-tech-009",
+      "category": "tech",
+      "title": "tsgoが公開 ── TypeScript 7向け新コンパイラのインストール手順と10倍高速化検証",
+      "url": "https://zenn.dev/ubie_dev/articles/typescript7-tsgo-whatsnew",
+      "source": "Zenn (ubie_dev)",
+      "summary": "tsgoのインストール手順と実プロジェクトでの10倍高速化の実測レポート。CLI変化（tsc→tsgo）、CI/CD環境での設定変更方法も解説。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-001・tech-007のTypeScript 7関連記事と重複。"
+    },
+    {
+      "id": "2026-07-09-tech-010",
+      "category": "tech",
+      "title": "Claude Sonnet 5 分析 ── Simon Willisonによるトークナイザー変更の実務的注意点",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Sonnet 5をSimon Willisonが独自分析。コンテキスト長256K、新トークナイザーで英語テキストが旧比約1.4倍のトークン消費。API料金体系の実務的な注意点も解説。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-002のClaude Sonnet 5記事で内容を統合済み。"
+    },
+    {
+      "id": "2026-07-09-tech-011",
+      "category": "tech",
+      "title": "Claude Code週間上限50%増 7/13まで ── SpaceXとの計算資源契約延長",
+      "url": "https://apidog.com/blog/claude-code-weekly-limits-50-percent-increase-july-2026/",
+      "source": "APIDog",
+      "summary": "Claude Code（Pro/Max/Team/Enterprise）の週間上限を7月13日18時PDTまで50%増加。昨日から継続中の情報。7月14日以降は元に戻る。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/8）掲載済みの情報と同一内容。"
+    },
+    {
+      "id": "2026-07-09-tech-012",
+      "category": "tech",
+      "title": "Claude Fable 5 無料延長 7/12まで ── 7/7締切から延長、期間後は$10/MTok",
+      "url": "https://www.androidauthority.com/claude-fable-5-free-extension-3685103/",
+      "source": "Android Authority",
+      "summary": "Fable 5の有料プラン込みアクセスを7月12日まで延長。週間上限の50%まで無償利用可能。期間後は$10/MTok（入力）・$50/MTok（出力）の高額クレジット制へ移行。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/8）掲載済みのFable 5価格変更と同一トピック。"
+    },
+    {
+      "id": "2026-07-09-tech-013",
+      "category": "tech",
+      "title": "TypeScript 7 ── tsgoがもたらすパラダイムシフト（VS Codeとの統合詳細）",
+      "url": "https://visualstudiomagazine.com/articles/2026/07/08/typescript-7-arrives-to-rock-vs-code-with-go-powered-speed.aspx",
+      "source": "Visual Studio Magazine",
+      "summary": "TypeScript 7.0のVS Code統合詳細。GoベースのLSPがVS Codeに直接組み込まれ補完・型チェックが大幅改善。専用拡張機能が提供開始。TS 7.1でプログラムAPIを追加予定。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-001のTypeScript 7大記事に情報を統合済み。"
+    },
+    {
+      "id": "2026-07-09-news-001",
+      "category": "news",
+      "title": "台風9号「バービー」10〜11日に先島諸島直撃 最大瞬間風速70m・暴風域入りは10日昼過ぎ",
+      "url": "https://tenki.jp/forecaster/m_kimura/2026/07/09/39645.html",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "沖縄気象台発表で宮古・石垣が10日昼過ぎに暴風域入り、与那国が同日夜の見通し。最接近は11日午前。中心気圧は若干衰弱も非常に強い勢力を維持、最大瞬間風速70m/s・24時間降水量200mm以上が予測。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-002",
+      "category": "news",
+      "title": "皇室典範改正案 閣議決定 ── 女性皇族の身分維持＋旧宮家養子縁組、明日10日衆院採決へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164681000",
+      "source": "NHKニュース",
+      "summary": "戦後初の本格的皇室典範改正案が閣議決定。女性皇族が結婚後も皇族身分を維持できる規定と旧宮家の男系男子の養子縁組の二本柱。森衆院議長が異例の要請、10日衆院採決の見通し。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-003",
+      "category": "news",
+      "title": "中国 対日輸出規制 計40社に拡大 ── 軍民両用品目禁輸、日本企業サプライチェーンに影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163591000",
+      "source": "NHKニュース",
+      "summary": "中国商務部が日本企業・組織20社を新たにコントロールリストに追加、計40社に。軍民両用品目輸出には個別許可とリスク評価報告書が義務化。日本の防衛力強化への対抗措置。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-004",
+      "category": "news",
+      "title": "長期金利 一時2.9%台 ── 30年ぶり水準、中東再緊迫と参院選後の財政懸念が重なる",
+      "url": "https://www.nikkei.com/article/DGXZQOUB086M90Y6A700C2000000/",
+      "source": "日本経済新聞",
+      "summary": "7月9日の国内債券市場で長期金利が一時2.9%台に上昇し約30年ぶりの高水準。中東情勢再緊迫による原油高インフレ懸念と参院選後の財政拡張リスクへの警戒感が重なった。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-005",
+      "category": "news",
+      "title": "日本 W杯ベスト16でブラジルに逆転負け敗退 ── 佐野海舟先制も1-2",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163871000",
+      "source": "NHKニュース",
+      "summary": "W杯2026決勝T1回戦で日本は佐野海舟の先制ゴールも逆転され1-2で敗退。3大会連続ベスト16進出の成果も、準々決勝の壁は越えられず。先制しながら逆転負けの内容に議論が続く。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-006",
+      "category": "news",
+      "title": "日経平均 終値924円高 67,743円 ── AIラリー再開期待と米テック株高が牽引",
+      "url": "https://www.nikkei.com/article/DGXZQOUB08825TY6A700C2000000/",
+      "source": "日本経済新聞",
+      "summary": "7月9日の東京市場で日経平均が924円高の67,743円と4営業日ぶり反発。AI・半導体関連株が上昇を牽引。長期金利上昇という逆風の中での株高。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-007",
+      "category": "news",
+      "title": "参院選 残り11日 ── 投票先未定3割超で選挙戦中盤、投票日7月20日",
+      "url": "https://www.jimin.jp/news/information/210967.html",
+      "source": "自由民主党",
+      "summary": "参院選（7/3公示・7/20投開票）が中盤戦。物価高・消費税・安全保障が争点で投票先未定が3割超。若者票の行方とSNS戦略が焦点。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-008",
+      "category": "news",
+      "title": "W杯2026 準々決勝 明日から ── フランスvsモロッコ、スペインvsベルギーなど4カード",
+      "url": "https://www.olympics.com/ja/news/fifa-world-cup-2026-quarterfinals-schedule",
+      "source": "Olympics.com",
+      "summary": "W杯2026準々決勝は7/10フランスvsモロッコ・スペインvsベルギー、7/11ノルウェーvsイングランド・アルゼンチンvsスイスの4試合。DAZNほかで放送。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-news-009",
+      "category": "news",
+      "title": "長期金利3%うかがう ── 5年債入札後も続く不確実性、参院選後財政が焦点",
+      "url": "https://www.nikkei.com/article/DGXZQOFL095630Z00C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "5年国債入札は無難に終了したが財政拡張リスクと日銀利上げ遅れ懸念から長期金利は3%到達をうかがう水準が続く。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "news-004の長期金利記事と同一トピック。"
+    },
+    {
+      "id": "2026-07-09-news-010",
+      "category": "news",
+      "title": "中国 対日輸出規制 計40社 ── JETROが詳細分析",
+      "url": "https://www.jetro.go.jp/biznews/2026/07/9ddb739af216a05d.html",
+      "source": "JETRO",
+      "summary": "JETROが中国の対日輸出規制の全容を分析。規制対象企業への両用品目輸出に個別許可とリスク評価報告書義務化。実務対応を詳報。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "news-003の中国輸出規制記事と同一トピック。"
+    },
+    {
+      "id": "2026-07-09-news-011",
+      "category": "news",
+      "title": "台風9号 琉球新報 7日時点の報道",
+      "url": "https://ryukyushimpo.jp/national/entry-5370492.html",
+      "source": "琉球新報",
+      "summary": "7月7日時点で台風9号の八重山地方直撃可能性が高まる中、琉球新報が最大瞬間風速70メートルの可能性を報道。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "news-001の台風記事と同一トピック。より新しいtenki.jp記事を採用。"
+    },
+    {
+      "id": "2026-07-09-ent-001",
+      "category": "entertainment",
+      "title": "ガンダム新作アニメ情報 7月24日午前3時 全世界同時発表 ── SDCCと連動",
+      "url": "https://animeanime.jp/article/2026/07/09/100860.html",
+      "source": "アニメ！アニメ！",
+      "summary": "ガンダムシリーズ新作アニメの発表特番が7月24日午前3時にYouTubeガンダムチャンネルで全世界同時配信。SDCCと連動したパネルイベントでも情報解禁予定。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-ent-002",
+      "category": "entertainment",
+      "title": "攻殻機動隊 新作アニメ King Gnu×MILLENNIUM PARADE W主題歌 ── 常田大希が同一作品に2楽曲提供",
+      "url": "https://dengekionline.com/article/202607/80703",
+      "source": "電撃オンライン",
+      "summary": "7/7放送開始の「攻殻機動隊 THE GHOST IN THE SHELL」OP「GO GHOST」をKing Gnu、ED「Blue」をMILLENNIUM PARADEが担当。常田大希主宰の両アーティストが同一作品W担当は史上初。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-ent-003",
+      "category": "entertainment",
+      "title": "スパイダーマン：ブランド・ニュー・デイ 新予告公開 ── ハルク激突・謎の憑依する敵が初登場",
+      "url": "https://news.yahoo.co.jp/articles/db41563069cd362a80267b10bb6896e43dfc30f1",
+      "source": "Yahoo!ニュース（シネマトゥデイ）",
+      "summary": "7月31日公開まで3週間を切り新予告解禁。ウェブシューターなしに糸が噴き出す体の異変、人に憑依する謎の新敵、スパイダーマン×ハルクの激突、MJ・ネッドとの再会が初公開。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-ent-004",
+      "category": "entertainment",
+      "title": "BLEACH 千年血戦篇 最終クール「禍進譚」7月25日スタート ── 主要配信で同日配信",
+      "url": "https://anime.eiga.com/news/125440/",
+      "source": "アニメハック",
+      "summary": "BLEACH最終クール「禍進譚」が7月25日よりテレ東系で放送開始。U-NEXT・Disney+・ABEMAで同日配信。千年に渡る死神とクインシーの最終決戦がいよいよ完結へ。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-ent-005",
+      "category": "entertainment",
+      "title": "VIVANT続編 7月26日TBS日曜劇場 ── 前作26名続投・2クール連続の異例規模",
+      "url": "https://navicon.jp/news/97407/",
+      "source": "navicon",
+      "summary": "堺雅人主演VIVANT続編が7月26日より放送開始。前作26名続投＋新キャスト、民放初の2クール連続放送という異例規模でアゼルバイジャンロケ敢行。夏ドラマの最大注目作。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-ent-006",
+      "category": "entertainment",
+      "title": "GTO 28年ぶりドラマ復活 ── 反町隆史×松嶋菜々子再結集、生徒役28名確定",
+      "url": "https://www.tokyohive.com/article/2026/06/28-student-cast-members-announced-for-new-gto-drama",
+      "source": "tokyohive",
+      "summary": "GTO（7月20日フジ月9）で反町隆史が鬼塚英吉を再演、松嶋菜々子も冬月役で共演。オーディション400名超から生徒役28名が決定。28年ぶりの復活。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-ent-007",
+      "category": "entertainment",
+      "title": "NCT WISH × 小室哲哉 THE MUSIC DAYでコラボ ── 7/15日本シングル「BOY MEETS GIRL」テレビ初披露",
+      "url": "https://avexnet.jp/news/1034849",
+      "source": "エイベックス・ポータル",
+      "summary": "NCT WISHが7月15日発売日本シングル収録「BOY MEETS GIRL」を7日のTHE MUSIC DAYでテレビ初披露。小室哲哉作詞作曲、グループ初日本語タイトル曲。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-ent-008",
+      "category": "entertainment",
+      "title": "桑田佳祐「人誑し/ひとたらし」── キャリア初アニメ主題歌、全国ツアーも同時発表",
+      "url": "https://southernallstars.jp/news/detail/3954",
+      "source": "サザンオールスターズ Official Site",
+      "summary": "桑田佳祐がアニメ「あかね噺」OP主題歌「人誑し/ひとたらし」を書き下ろし提供。52年のキャリアで初のアニメ主題歌。全国10カ所22公演の全国ツアーも同時発表。",
+      "size": "セレンディピティ",
+      "selected": true,
+      "serendipity_reason": "日本音楽界の大御所がキャリア初のアニメ主題歌を手がけたことで、アニメ×音楽の垣根が完全に消えつつあるのを感じた。今夏のアニメ・ドラマ主題歌はKing Gnu・スピッツ・桑田佳祐と異例の豪華さで、これ自体がひとつのトレンドとして記録しておきたい。"
+    },
+    {
+      "id": "2026-07-09-ent-009",
+      "category": "entertainment",
+      "title": "蒼井優「Tシャツが乾くまで」7/10スタート ── スピッツ25年ぶりTBSドラマ主題歌",
+      "url": "https://www.tvguide.or.jp/news/news-5000815/",
+      "source": "TVガイドWeb",
+      "summary": "7月10日スタートTBS金ドラ「Tシャツが乾くまで」でスピッツが2001年「Love Story」以来25年ぶりにTBSドラマ主題歌を担当。脚本はsilent等の生方美久、蒼井優18年ぶり地上波主演。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "エンタメ枠が埋まったため除外。来週フォロー予定。"
+    },
+    {
+      "id": "2026-07-09-ent-010",
+      "category": "entertainment",
+      "title": "aespa 日本1stミニアルバム「KISS N TELL」7月24日リリース ── 約2年ぶり日本カムバック",
+      "url": "https://aespa-official.jp/news/1st-minialbum-kissntell/",
+      "source": "aespa JAPAN OFFICIAL WEBSITE",
+      "summary": "aespaが約2年ぶりの日本カムバックとして1stミニアルバム「KISS N TELL」を7月24日リリース。全6曲日本オリジナル楽曲でTVアニメ「切ろ」OPタイアップ曲も収録。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "7月24日リリースで来週紹介予定。"
+    },
+    {
+      "id": "2026-07-09-ent-011",
+      "category": "entertainment",
+      "title": "スパイダーマン BND 特別映像&場面写真解禁",
+      "url": "https://www.animatetimes.com/news/details.php?id=1783472943",
+      "source": "アニメイトタイムズ",
+      "summary": "7月31日公開「スパイダーマン：ブランド・ニュー・デイ」の特別映像と場面写真が解禁。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "ent-003のスパイダーマン記事と同一トピック。"
+    },
+    {
+      "id": "2026-07-09-hobby-001",
+      "category": "hobby",
+      "title": "ソニー「RX10 V」本日23時正式発表予定 ── 8年9ヶ月ぶりの後継機、4K120p・デュアルBIONZ ZR搭載か",
+      "url": "https://dclife.jp/archives/15421",
+      "source": "Digital Camera Life",
+      "summary": "本日（7月9日）日本時間23:00にソニーがRX10 V正式発表。8年9ヶ月ぶりの後継機で24-600mm F2.4-4レンズは踏襲。4K120p・HD240pスローモーション、S-Log3、ユーザーLUT対応が有力視。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-hobby-002",
+      "category": "hobby",
+      "title": "RX10 V スペックリーク ── 4K120p・デュアルBIONZ ZR・動画機能全面刷新",
+      "url": "https://cameota.com/sony/51034.html",
+      "source": "CAMEOTA.com",
+      "summary": "RX10 Vは24-600mm F2.4-4レンズ継承・動画機能大幅強化。4K120p・HD240pスローモーション、S-Log3、ユーザーLUT対応で写真・動画ハイブリッドの現代化が図られる見込み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-001のRX10 V大記事に内容統合済み。"
+    },
+    {
+      "id": "2026-07-09-hobby-003",
+      "category": "hobby",
+      "title": "ソニー「FX5」確定スペック ── 1660万画素積層センサー・5Kオープンゲート・X-OCN LT、7/22発表",
+      "url": "https://dclife.jp/archives/15567",
+      "source": "Digital Camera Life",
+      "summary": "FX5の確定スペック。1660万画素裏面照射積層CMOSセンサー、5K 3:2オープンゲート、X-OCN LT内部RAW記録、3.5インチ完全可動式スクリーン搭載。7月22日発表予定のシネマカメラ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-hobby-004",
+      "category": "hobby",
+      "title": "パルワールド1.0正式版 明日7/10リリース ── 3新エリア・釣り・ストーリーミッション追加",
+      "url": "https://realsound.jp/tech/2026/07/post-2453885.html",
+      "source": "リアルサウンドTech",
+      "summary": "アーリーアクセス約2年半、いよいよ明日7/10に正式版「1.0」が配信。南国島・氷山島・難破船島の3新エリアと釣り機能、ストーリーミッションを追加。既存セーブデータ引き継ぎ可能。Steam30%オフ実施中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-hobby-005",
+      "category": "hobby",
+      "title": "アサシンクリード ブラックフラッグ RE:シンクロ 本日発売 ── レイトレ・4Kグラフィックで13年ぶり刷新",
+      "url": "https://www.4gamer.net/games/002/G100200/20260708024/",
+      "source": "4Gamer.net",
+      "summary": "2013年の名作海賊アクションADVが本日7月9日にフルリメイク版として発売。レイトレーシングと4Kグラフィックを採用し発売日レビューで高評価。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-hobby-006",
+      "category": "hobby",
+      "title": "SAO「Echoes of Aincrad」本日PS5・XSX発売 ── デスゲームモードで原作の緊張感を再現",
+      "url": "https://news.denfaminicogamer.jp/news/2607093u",
+      "source": "でんファミニコゲーマー",
+      "summary": "SAOシリーズ最新作アクションRPGが本日PS5・XSX|S向けに発売。自作アバターでアインクラッド100層攻略を目指す。デスゲームモードでデータ消去の緊張感を再現。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-hobby-007",
+      "category": "hobby",
+      "title": "スパイスカレー 神保町新店 ── 副菜ビュッフェ付きの独自スタイル",
+      "url": "https://magazine.tabelog.com/articles/487733",
+      "source": "食べログマガジン",
+      "summary": "都内人気スパイスカレー店が神保町エリアに2号店をオープン。副菜ビュッフェとのセットが魅力で、メインのスパイスカレーに多彩な副菜を合わせる独自スタイル。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-09-hobby-008",
+      "category": "hobby",
+      "title": "Switch 2がEU規制でユーザー交換式バッテリーモデルへ ── ゲームハードのサステナビリティの時代",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2607/07/news121.html",
+      "source": "ITmedia Mobile",
+      "summary": "任天堂がEUのバッテリー規制に対応し2026年秋から欧州でSwitch2ユーザー交換式バッテリーモデルを発売。バッテリー容量約1%減・重量10g増。旧型Switchは2027年2月に欧州で終売。",
+      "size": "セレンディピティ",
+      "selected": true,
+      "serendipity_reason": "ゲームが「消耗品として買い替える」時代から「長く使い続ける」方向に変わりつつあることを象徴する動き。EU発の規制がグローバルのゲームデバイス設計を変えていく流れはスマートフォンでも進行中で、ゲームハードに波及したのは必然の進化。"
+    },
+    {
+      "id": "2026-07-09-hobby-009",
+      "category": "hobby",
+      "title": "ソニー FX5 7月22日発表予定 ── FX3を「はるかに超える」性能向上",
+      "url": "https://digicame-info.com/2026/07/fx5722.html",
+      "source": "デジカメinfo",
+      "summary": "ソニーFX5がロンドン時間7月22日15:00（日本時間23:00頃）に正式発表予定。FX3を「はるかに超える」性能向上とされ映像クリエイターから注目。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-003のFX5確定スペック記事と同一トピック。"
+    },
+    {
+      "id": "2026-07-09-hobby-010",
+      "category": "hobby",
+      "title": "デジモンストーリー タイムストレンジャー Switch2版本日発売",
+      "url": "https://www.4gamer.net/games/981/G098145/20260709002/",
+      "source": "4Gamer.net",
+      "summary": "450体以上のデジモン収集・育成RPG最新作が本日Switch2・Switch向けに発売。Switch2版は4K・HDR対応。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "本日発売ゲームは他タイトル（アサシンクリード・SAO）を優先。来週フォロー予定。"
+    },
+    {
+      "id": "2026-07-09-hobby-011",
+      "category": "hobby",
+      "title": "スパイスカレー ROJY 福岡西新 7月オープン",
+      "url": "https://fukuoka-leapup.jp/gourmet/202607.83308",
+      "source": "福岡リープアップ",
+      "summary": "福岡市西新エリアに7月オープンのスパイスカレー店「ROJY」。西新駅から徒歩6分、選べるカスタマイズスタイルが楽しめる個性派新店。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "福岡エリアの情報のため都内の神保町新店（hobby-007）を優先。"
+    }
+  ]
+}
