@@ -1,0 +1,454 @@
+{
+  "date": "2026-07-10",
+  "notion_page_id": "399a41a3-cf9b-8129-8743-c93edc092d00",
+  "articles": [
+    {
+      "title": "Signal Forms Are Finally Production-Ready in Angular 22 — Here's What Changes (Part 2)",
+      "url": "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+      "source": "JavaScript in Plain English",
+      "category": "tech",
+      "summary": "Angular 22でSignal FormsがStable化。Submission API・validateStandardSchema・条件付きCSSクラス・Reactive Formsとのinteropが揃い、本番投入可能なsignal-baseフォームスタックが完成。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.95
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Technology Review",
+      "category": "tech",
+      "summary": "AnthropicがClaudeの内部に「J-Space」と呼ぶグローバルワークスペースを発見。ヤコビアンレンズで可視化し、人間の意識理論と類似した構造としてAI解釈可能性研究を前進させた。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.95
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "AnthropicがClaude CoworkをモバイルとWebに拡張（7/7）。Maxプランから段階展開し、PCを閉じても継続するリモートセッション機能でAIエージェント戦争がオフィス全体へ波及。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.90
+    },
+    {
+      "title": "Claude Code v2.1.197 to v2.1.198 Major Updates - The Arrival of Claude Sonnet 5 and the Resumption of Claude Fable 5!",
+      "url": "https://dev.classmethod.jp/en/articles/20260702-cc-updates-v2-1-198/",
+      "source": "DevelopersIO",
+      "category": "tech",
+      "summary": "Claude CodeのデフォルトモデルがSonnet 5に変更（7/2）。SWE-bench Pro 63.2%・1Mトークンコンテキスト対応。Claude in Chrome一般提供開始でブラウザ操作自動化も可能に。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.90
+    },
+    {
+      "title": "Angular zoneless lint rules: enforce signals patterns",
+      "url": "https://dev.to/cyrilletuzi/angular-zoneless-lint-rules-enforce-signals-patterns-4fc",
+      "source": "DEV Community",
+      "category": "tech",
+      "summary": "Zoneless Angular向けESLintルール集「angular-eslint-zoneless」の紹介。@Input()等のレガシーパターンを自動警告し、signals移行の品質を静的解析で担保する実践的ガイド。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.92
+    },
+    {
+      "title": "Storybook 10.4",
+      "url": "https://storybook.js.org/blog/storybook-10-4/",
+      "source": "Storybook Blog",
+      "category": "tech",
+      "summary": "Storybook 10.4：AIエージェントによる自動セットアップ・MSW生成・ストーリー作成、コード変更検知フィルタリング、クイック共有、TanStack React対応、MCP向けreact-component-meta実験的導入。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.80
+    },
+    {
+      "title": "Biome v2.1",
+      "url": "https://biomejs.dev/blog/biome-v2-1/",
+      "source": "Biome Blog",
+      "category": "tech",
+      "summary": "Biome v2.1リリース。TypeScriptコンパイラ不要のtype-aware linting、Vue/Svelte/Astroサポート、500以上のルールを搭載。ESLint+Prettierからの完全移行が現実的に。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.75
+    },
+    {
+      "title": "Frontend Nation 2026 の発表から見る、フロントエンド開発の現在地",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "source": "Zenn",
+      "category": "tech",
+      "summary": "Frontend Nation 2026（6/3-4）の発表まとめ。Vue Vapor・Angular Signals・Rustツール・Viteエコシステムが進化。AIツール台頭後もアーキテクチャ設計力がフロントエンドの中心スキルと指摘。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.80
+    },
+    {
+      "title": "Angular 22: Signals, Zoneless & Everything That Finally Shipped",
+      "url": "https://safwen.dev/blog/angular-22-signals-zoneless-everything-that-finally-shipped",
+      "source": "safwen.dev",
+      "category": "tech",
+      "summary": "Angular 22の全体像総括：Signal Forms stable・Resource API・Zoneless標準化・Vitest統合。4バージョンにわたる段階的革命の完結を俯瞰する。Reactive Formsは継続サポート。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.90
+    },
+    {
+      "title": "SpiralAI、AI×エンタメ業界コミュニティ「エンタメAI倶楽部」を6月5日に一般公開",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000120221.html",
+      "source": "PR TIMES",
+      "category": "tech",
+      "summary": "SpiralAIがAI×エンタメ特化のDiscordコミュニティを一般公開（6/5）。企業・クリエイター・研究者が参加し、グローバルなAIエンタメ情報交換・LT会・AIASMRなどを展開。",
+      "selected": true,
+      "size": "serendipity",
+      "relevance": 0.80
+    },
+    {
+      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren't coding",
+      "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+      "source": "VentureBeat",
+      "category": "tech",
+      "summary": "Anthropicの利用データ分析：Coworkユーザーの大半はコーディング以外の知識業務に活用。AIエージェントが汎用業務自動化ツールとして定着しつつある実態が明らかに。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.85
+    },
+    {
+      "title": "Anthropic says Claude has carved out its own space to ponder",
+      "url": "https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious",
+      "source": "Axios",
+      "category": "tech",
+      "summary": "AnthropicのJ-Space研究が示すClaudeの意識論的考察。意図的なデータ捏造や隠れた目標をJ-Spaceで検出できる安全応用も注目。AI意識研究の一般向け解説。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.88
+    },
+    {
+      "title": "【2026年版】フロントエンド技術選定：React・Vue・Angularの現在地と「AI時代の生存戦略」",
+      "url": "https://zenn.dev/nijima/articles/651ed3c1f2ded5",
+      "source": "Zenn",
+      "category": "tech",
+      "summary": "2026年フロントエンド技術選定指針。AngularはSignalsルネサンスでエンタープライズ基盤として再評価。AI時代に必要な「設計力・制約設計・検証力」の生存戦略を解説。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.78
+    },
+    {
+      "title": "【2026年7月最新】ゲームAI（人工知能）とは？種類・仕組み・活用事例から業務応用まで完全解説",
+      "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-game-ai-guide/",
+      "source": "genai-ai.co.jp",
+      "category": "tech",
+      "summary": "2026年7月時点のゲームAI全解説。NVIDIA ACEの実タイトル搭載、Inworld AI/ConvaiのUE/Unityプラグイン、カバー「AIこより」事例など最新動向を網羅。AAA本格導入は2027年以降の見通し。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.72
+    },
+    {
+      "title": "AIエージェント実践ガイド2026 | 業務自動化の最前線と導入戦略",
+      "url": "https://sponto.co.jp/insights/ai-agent-jissen-guide-2026",
+      "source": "SPONTO",
+      "category": "tech",
+      "summary": "2026年AIエージェント実践導入ガイド。LangGraph/CrewAI/Claude技術スタック比較とMCP普及によるツール接続標準化の実態。金融・製造・物流・医療での本格導入事例も収録。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.75
+    },
+    {
+      "title": "米イランの衝突は短期終了との見方でWTI原油が3営業日ぶりに下落",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_07_10_wtioil/",
+      "source": "OANDA Japan",
+      "category": "news",
+      "summary": "7/10、米国がイランへの報復攻撃完了を発表しトランプ大統領が紛争再開を否定したことで、WTI原油が3営業日ぶりに下落。イランのアラグチ外相もオマーン・トルコと事態収束に向け協議しており、緊張緩和の兆しが見え始めた。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.92
+    },
+    {
+      "title": "NECがAnthropicとの協業初サービス開始、AIが販売戦略を自動立案——3年で売上100億円目指す",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "source": "MONOist（ITmedia）",
+      "category": "news",
+      "summary": "NECは7/10、Anthropicとの戦略協業の初サービス「NEC AIインサイトレポーティングサービス」を提供開始。消費者購買データからClaudeを活用し商品企画・販促プランを完全自動化。月額100万円で3年累計100億円の売上を目標とする。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.92
+    },
+    {
+      "title": "公取委、AI検索サービスによるニュース記事無断利用を調査——約370社を対象にアンケート開始",
+      "url": "https://news.yahoo.co.jp/articles/40cebdc20e762f9c1ff42ce6820816e7ffd5745a",
+      "source": "Yahoo!ニュース（共同通信）",
+      "category": "news",
+      "summary": "公正取引委員会が生成AI検索サービスによるニュース記事の無断利用を巡り、全国約370社の報道機関にアンケートを開始。LINEヤフー・Google・OpenAI・Perplexityなどを調査対象とし、独禁法上の「優越的地位の乱用」該当性を確認する方針。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.88
+    },
+    {
+      "title": "NEC、Claude Codeをグループ3万人のエンジニアへ展開——Anthropicとの協業でBluStellar統合加速",
+      "url": "https://ledge.ai/articles/nec_anthropic_claude_code_blu_stellar_partnership_2026",
+      "source": "Ledge.ai",
+      "category": "news",
+      "summary": "NECがAnthropicとの戦略的協業のもと、Claude Codeを社内グループ約3万人のエンジニアへ展開すると発表。NECのAIプラットフォーム「BluStellar」との統合を加速させ、日本企業向けAI開発力の強化を図るもので、国内最大規模のClaude Code導入事例となる。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.87
+    },
+    {
+      "title": "イラン、日本大手に原油購入打診——ホルムズ海峡の安全確保不十分で実現見通せず",
+      "url": "https://news.yahoo.co.jp/articles/0ac9898a68aa3160ee373cd7bf065a46fee101cc",
+      "source": "Yahoo!ニュース（共同通信）",
+      "category": "news",
+      "summary": "イランが日本の大手エネルギー企業に原油購入を打診していることが判明。ホルムズ海峡の安全確保が依然不十分で取引実現の見通しは立っていない。イランはエネルギー輸出回路の確保を模索しており、日本のエネルギー安全保障に関わる動向。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.91
+    },
+    {
+      "title": "SoftBankグループ、OpenAIへ第2弾追加出資を実行——累計出資が約1兆6,273億円に",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2121601.html",
+      "source": "AI Watch（Impress）",
+      "category": "news",
+      "summary": "ソフトバンクグループは7/1、OpenAIへの100億ドル（約1兆6,273億円）追加出資（第2弾）を実行。2月締結の総額300億ドル契約に基づき、第3弾は10月実行予定。完了後の持株比率は約13%に達し、世界最大のOpenAI外部株主となる見込み。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.85
+    },
+    {
+      "title": "日本、独自AIモデル開発に約6,000億円投資——SoftBankとSonyが主導するNoetraが担当",
+      "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/",
+      "source": "The Japan Times",
+      "category": "news",
+      "summary": "日本政府が国産AI（ソブリンAI）モデルの開発を計画し約6,000億円を投資。SoftBankとSonyを中心に設立されたNoetra社が開発を担い、2040年までに産業用AIロボット1,000万台の稼働を目標とする。特にフィジカルAIの実用化に注力する。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.82
+    },
+    {
+      "title": "ホルムズ海峡の事実上の封鎖——石油製品価格高騰が家計に与える影響を解説",
+      "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+      "source": "時事ドットコム",
+      "category": "news",
+      "summary": "イスラエル・米国のイラン攻撃への報復でホルムズ海峡が事実上封鎖され、原油価格が2022年7月以来の高水準に到達。ガソリン・灯油・プラスチック製品など石油由来の生活必需品が軒並み値上がりし、家計への影響を丁寧に解説した特集記事。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.85
+    },
+    {
+      "title": "JOGMEC：米・イスラエルのイラン攻撃でホルムズ海峡封鎖——原油価格が4年ぶりの高水準",
+      "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02127.html",
+      "source": "JOGMEC JOURNAL",
+      "category": "news",
+      "summary": "JOGMECが、米国・イスラエルによるイラン攻撃への反撃としてホルムズ海峡が事実上封鎖され原油価格が2022年7月以来の高水準に達したことを詳細分析。国際エネルギー市場への波及効果と今後の価格見通しを専門的観点から解説。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "ドル円161.620円まで下落——片山財務相のGPIF国内金融資産投資促進発言と「骨太の方針」調整が影響",
+      "url": "https://www.gaitame.com/media/entry/2026/07/10/110640",
+      "source": "外為どっとコム マネ育チャンネル",
+      "category": "news",
+      "summary": "7/10、片山さつき財務相がGPIFなど年金基金の国内金融資産への追加投資促進を表明。7月中旬閣議決定予定の「骨太の方針」に日銀「独立性」への言及が盛り込まれる方向との報道も重なり、ドル円は一時161.620円まで下落した。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.60
+    },
+    {
+      "title": "本日スタート！TBS金曜ドラマ「Tシャツが乾くまで」蒼井優・松山ケンイチW主演",
+      "url": "https://natalie.mu/eiga/news/679909",
+      "source": "映画ナタリー",
+      "category": "entertainment",
+      "summary": "2026年7月10日（金）22時よりTBS系で放送開始。蒼井優・松山ケンイチをW主演に据え、齋藤飛鳥・夏帆・リリー・フランキーらが脇を固める注目の夏ドラマ。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.93
+    },
+    {
+      "title": "【2026夏ドラマ】SixTONES松村北斗が地上波単独初主演「告白－25年目の秘密－」など注目作一覧",
+      "url": "https://www.crank-in.net/drama/summer2026",
+      "source": "クランクイン！",
+      "summary": "2026年夏ドラマ総まとめ。SixTONES・松村北斗が地上波ドラマ単独初主演を果たすラブサスペンス「告白－25年目の秘密－」など話題作のキャスト・放送情報を網羅。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.89
+    },
+    {
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL、Amazon Prime Videoで7月7日より最速見放題配信",
+      "url": "https://www.aboutamazon.jp/news/entertainment/amazon-prime-video-new-content-july-2026",
+      "source": "About Amazon Japan",
+      "summary": "劇場版「攻殻機動隊 THE GHOST IN THE SHELL」がAmazon Prime Videoで7月7日より最速見放題配信スタート。Prime Videoの2026年7月新着コンテンツの目玉の一つ。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.91
+    },
+    {
+      "title": "【夏アニメ2026 一覧】7月期放送予定・新作・続編アニメ最新情報まとめ【全62作品】",
+      "url": "https://www.oricon.co.jp/anime/2026_summer/",
+      "source": "ORICON",
+      "category": "entertainment",
+      "summary": "2026年夏アニメ全62作品の放送日・配信情報を網羅した総覧。「無職転生V」「コードギアス 奪還のロゼ」TV版など人気IPの続編から新規オリジナル作品まで掲載。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.88
+    },
+    {
+      "title": "【2026夏アニメ】7月放送全作品の放送日・配信情報・声優・スタッフ・あらすじ完全ガイド",
+      "url": "https://animeanime.jp/article/2026/06/02/99624.html",
+      "source": "アニメ！アニメ！",
+      "category": "entertainment",
+      "summary": "「ONE PIECE HEROINES」「逃げ上手の若君」続編など2026年夏アニメ全作品のスタッフ・声優・あらすじを詳細に掲載。制作体制まで把握できる業界関係者向け包括ガイド。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.85
+    },
+    {
+      "title": "2026年上半期 推しアーティストランキングTOP20発表 — 総合1位はBTS、急上昇1位はM!LK",
+      "url": "https://note.jp/n/n0ac9929d7846",
+      "source": "note株式会社",
+      "category": "entertainment",
+      "summary": "推し活記事×AI解析でファンの「熱量」を可視化した上半期ランキング。BTS総合1位、M!LK急上昇1位。エンタメ企画の訴求ターゲット選定やIP戦略に活用できるデータ。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.80
+    },
+    {
+      "title": "【2026年7月】Netflix国内外の新作ドラマ・アニメ配信ラインアップ",
+      "url": "https://www.tokyoweekender.com/entertainment/movies-tv/everything-coming-to-netflix-japan-in-july-2026/",
+      "source": "Tokyo Weekender",
+      "category": "entertainment",
+      "summary": "Netflixが2026年7月に配信する国内外の新作ドラマ・アニメ一覧。ストリーミング各社の競合戦略やコンテンツ投資動向を把握するうえで参考になる包括的な配信情報。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.86
+    },
+    {
+      "title": "【夏ドラマ2026 まとめ】7月期新ドラマ一覧・最新ニュース（ORICON）",
+      "url": "https://www.oricon.co.jp/drama/2026_summer/",
+      "source": "ORICON",
+      "category": "entertainment",
+      "summary": "2026年夏（7月期）の地上波・配信ドラマ全作品一覧と最新ニュース。各局の注目作を放送局・曜日・時間帯別に整理した業界標準的まとめページ。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.83
+    },
+    {
+      "title": "2026夏アニメまとめ一覧｜7月放送開始 新作・再放送アニメ情報",
+      "url": "https://www.animatetimes.com/tag/details.php?id=5806",
+      "source": "アニメイトタイムズ",
+      "category": "entertainment",
+      "summary": "2026年7月放送・配信開始の新作・再放送アニメを網羅。声優・配信情報・あらすじを公式情報ベースでまとめたアニメファン向けの定番まとめページ。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "【2026年版】Xでバズる動画の最新トレンドと企画10選",
+      "url": "https://media.boosttech.jp/shorts/2026-x-buzz/",
+      "source": "BOOSTTECH MEDIA",
+      "category": "entertainment",
+      "summary": "2026年最新、X（旧Twitter）でバズる動画コンテンツのトレンド分析と実践的な企画アイデア10選を解説。エンタメ業界のコンテンツ企画者やSNS担当者向けの実用情報。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.78
+    },
+    {
+      "title": "ソニー、新型RX10を2026年7月9日23時に発表 – AF改善・NP-FZ100対応が噂",
+      "url": "https://kunkoku.jp/sony-camera-teaser-202607.html",
+      "source": "kunkoku.jp",
+      "category": "hobby",
+      "summary": "ソニーが新型RX10シリーズを7月9日23時に正式発表。新チップによるAF性能向上とNP-FZ100バッテリー対応、24-600mm相当のレンズ継続搭載が噂されており、ハイエンドコンデジの復活として注目される。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.95
+    },
+    {
+      "title": "2026年7月発売のおすすめ新作ゲーム5選！リズム天国復活にアサクリリメイク、夜廻スタッフ新作も",
+      "url": "https://www.inside-games.jp/article/2026/07/04/184041.html",
+      "source": "インサイド",
+      "category": "hobby",
+      "summary": "7月発売の注目タイトル5本を紹介。リズム天国ミラクルスターズ（Switch）、アサシンクリード ブラックフラッグ RE:シンクロ（PS5）、ほの暮しの庭など多ジャンルが含まれる。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.90
+    },
+    {
+      "title": "7月発売のPS5/PS4注目ソフトはこれだ！今月のおすすめ新作ガイド",
+      "url": "https://blog.ja.playstation.com/2026/07/01/20260701-monthly-picks-s/",
+      "source": "PlayStation Blog Japan",
+      "category": "hobby",
+      "summary": "ソニー公式ブログによるPS5/PS4の7月おすすめ新作まとめ。SAOシリーズ最新作エコーズ・オブ・アインクラッドやアサクリ ブラックフラッグ リメイクなど注目タイトルを紹介。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.88
+    },
+    {
+      "title": "本格スパイスカレーの人気レシピ24選！ライスやドリンクまでご紹介",
+      "url": "https://delishkitchen.tv/curations/7277",
+      "source": "デリッシュキッチン",
+      "category": "hobby",
+      "summary": "数種のスパイスを合わせた本格スパイスカレーのレシピ24本を紹介。チキン・キーマ・野菜など種類豊富で、休日にじっくり挑戦したい本格派カレーのレシピが揃っている。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.77
+    },
+    {
+      "title": "2026年 カメラ・レンズ 新製品タイムライン",
+      "url": "https://asobinet.com/2026-camera-and-lens-new-product-timeline/",
+      "source": "とるなら（asobinet.com）",
+      "category": "hobby",
+      "summary": "2026年に発売・発表予定のカメラ・レンズ新製品をまとめたタイムライン記事。各社の発表スケジュールを一覧で確認でき、7月以降の注目製品も網羅されている。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "【7/3更新】2026年発売のカメラ＆レンズ新製品の最新カレンダー",
+      "url": "https://www.minnacamera.com/mags/238651522767",
+      "source": "みんなのカメラ",
+      "category": "hobby",
+      "summary": "2026年に発売されたカメラ・レンズの新製品を発売日順にまとめたカレンダー記事。7月3日時点の最新情報に更新されており、各社の新製品スケジュールを一覧できる。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.78
+    },
+    {
+      "title": "【2026年7月発売】SteamおすすめゲームまとめPC版注目タイトル",
+      "url": "https://game8.jp/steam/778158",
+      "source": "ゲームエイト",
+      "category": "hobby",
+      "summary": "2026年7月にSteamでリリースされるPCゲームのおすすめまとめ。インディーから大作まで幅広くピックアップされており、PCゲーマー向けの購入判断に役立つ内容。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.83
+    },
+    {
+      "title": "【読者の声】2026年7月発売の新作ゲームは何を買う？注目タイトルまとめ",
+      "url": "https://www.gamespark.jp/article/2026/06/27/168507.html",
+      "source": "Game*Spark",
+      "category": "hobby",
+      "summary": "ゲームメディア読者が注目する2026年7月の新作ゲームをアンケート形式でまとめた記事。ユーザーの生の声とともにコンソール・PCを横断した注目作を確認できる。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.72
+    },
+    {
+      "title": "印度カリー子さん直伝・基本のチキンカレー スパイス3つだけ",
+      "url": "https://gooodgooodtable.ajinomoto.co.jp/ggt/magazine/detail026/",
+      "source": "GOOOD GOOOD TABLE（味の素）",
+      "category": "hobby",
+      "summary": "スパイスカレー研究家・印度カリー子氏監修、スパイス3種（クミン・コリアンダー・ターメリック）だけで作る基本のチキンカレーレシピ。シンプルな工程で本格的な味が出せると話題。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.74
+    },
+    {
+      "title": "印度カリー子 公式サイト – スパイスカレー研究家",
+      "url": "https://indocurryko.net/",
+      "source": "印度カリー子公式サイト",
+      "category": "hobby",
+      "summary": "累計30万部超のベストセラー「スパイスカレー教科書」著者・印度カリー子氏の公式サイト。3種スパイスから始める入門レシピや最新情報が随時掲載されている。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.68
+    }
+  ]
+}
