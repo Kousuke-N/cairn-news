@@ -1,0 +1,606 @@
+{
+  "date": "2026-07-11",
+  "notion_page_id": "39aa41a3-cf9b-815f-93bb-d36e92dea0e9",
+  "articles": [
+    {
+      "title": "Speedier type checks in TypeScript 7.0 as first stable Go release ships",
+      "url": "https://www.theregister.com/devops/2026/07/09/speedier-type-checks-in-typescript-70-as-first-stable-go-release-ships/5268828",
+      "source": "The Register",
+      "category": "tech",
+      "summary": "TypeScript 7.0がGoネイティブコンパイラで正式GA。VSCode 225万行コンパイルが125秒→10.6秒（11.9倍）に短縮。V8の単一スレッド制約・JIT・GCのボトルネックを全排除。プログラマティックAPI未提供のためVue/Svelte/AstroはTS6ブリッジが当面の対応策、7.1で提供予定。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.90
+    },
+    {
+      "title": "Community Engineering, Agentic Coding, and Real-User Component Testing — Angular Blog (Jul 2026)",
+      "url": "https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043",
+      "source": "Angular Blog",
+      "summary": "AngularチームがAIコーディングエージェントとの深い統合手法を公開。Vitest Full Browser Modeによるリアルブラウザ上コンポーネントテスト、Signal FormsとAIを組み合わせた実践パターンを解説。Zoneless移行プロジェクトでのエージェント活用に直結する内容。",
+      "category": "tech",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.93
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "source": "OpenAI",
+      "category": "tech",
+      "summary": "OpenAIがGPT-5.6ファミリー（Sol・Terra・Luna）を7月9日に一般公開。Sol（$5/M入力）は最高性能でTerminal-Bench 2.1首位、Terra（$2.5/M）はGPT-5.5同等性能の半額、Luna（$1/M）は軽量型。ChatGPT・Codex・APIで全モデル利用可能。政府制限解除後に一般公開。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.84
+    },
+    {
+      "title": "TypeScript 7の襲来 — tsgoがもたらすパラダイムシフト",
+      "url": "https://zenn.dev/chot/articles/30da2a9194a081",
+      "source": "Zenn",
+      "category": "tech",
+      "summary": "Go言語に移植されたTypeScript 7（tsgo）の本質的変化を日本語で詳解。V8を排除した並列処理による劇的速度向上のしくみ、既存エコシステムとの互換性課題、TypeScript 7.1でのプログラマティックAPI提供予定など移行判断に必要な情報を網羅。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.86
+    },
+    {
+      "title": "GitHub Copilot in Visual Studio Code, June 2026 releases",
+      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases/",
+      "source": "GitHub Blog",
+      "category": "tech",
+      "summary": "Copilot VS Code v1.123〜v1.127アップデートをまとめて公開。エージェントブラウザツールがGA化しAIがWebアプリを自律検証可能に。セッション全体コスト可視化、Autopilot強化、GPT-5.6ファミリーへの対応も追加。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.82
+    },
+    {
+      "title": "TypeScript 7 Now Stable: 10× Faster Builds, But Not for Vue or Svelte Yet",
+      "url": "https://www.techtimes.com/articles/320049/20260710/typescript-7-now-stable-10-faster-builds-not-vue-svelte-yet.htm",
+      "source": "TechTimes",
+      "category": "tech",
+      "summary": "TypeScript 7.0安定版公開（2026年7月10日）。最大10倍のビルド高速化を実現するGoベースコンパイラだが、プログラマティックAPI未提供のためVue・Svelte・AstroのIDEサポートは機能せず。`@typescript/typescript6`パッケージでのブリッジが当面の対応策。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.87
+    },
+    {
+      "title": "Angular's Official Agent Skills Helps AI Coding Tools Write Modern Angular",
+      "url": "https://www.infoq.com/news/2026/06/angular-agent-skills/",
+      "source": "InfoQ",
+      "category": "tech",
+      "summary": "AngularチームがAIコーディングツール向け公式エージェントスキルを公開。Claude CodeやGitHub CopilotがSignals・Standalone・型安全なDIなど現代的なAngularパターンでコードを生成できるようllms.txtベースのガイドラインを提供。Zonelessアプリの生成精度も向上。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.79
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "AnthropicがClaude Sonnet 5を発表（6月30日）。$2/Mトークン（入力）という低価格でOpusに迫るエージェント動作を実現。マルチステップタスクの自律完遂能力が大幅向上。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.83
+    },
+    {
+      "title": "Oil Market Report - July 2026",
+      "url": "https://www.iea.org/reports/oil-market-report-july-2026",
+      "source": "IEA",
+      "category": "tech",
+      "summary": "IEA7月石油市場レポート：6月の米・イラン停戦合意でホルムズ海峡が再開通し供給が4.1mb/d回復、原油価格は$68/bblまで下落。しかし7〜8日の戦闘再エスカレートで$77/bblに反発。2026年の世界石油需要はCOVID以来初の年間マイナス1mb/d減と予測。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "source": "CNBC",
+      "category": "tech",
+      "summary": "OpenAIがGPT-5.6の政府制限を解除し一般公開へ（7月8日）。米商務省AI標準・革新センターが追加安全テストを実施後にトランプ政権が承認。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.80
+    },
+    {
+      "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea",
+      "source": "Al Jazeera",
+      "category": "tech",
+      "summary": "7月7〜8日の米・イラン間の戦闘再エスカレートにより石油供給回復シナリオが脅威にさらされるとIEAが警告。IEAが予測していた来年の供給過剰シナリオが覆る可能性が浮上。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.80
+    },
+    {
+      "title": "Claude AI Gets Yet Another Boost in VS Code 1.128",
+      "url": "https://visualstudiomagazine.com/articles/2026/07/08/claude-ai-gets-yet-another-boost-in-vs-code-1-128.aspx",
+      "source": "Visual Studio Magazine",
+      "category": "tech",
+      "summary": "VS Code 1.128でClaude AIが強化（7月8日）。マルチチャットでセッション内の複数アプローチ比較が可能に。ネストされたサブエージェントが最大5レベル深まで動作し複雑なタスクを自律実行。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.79
+    },
+    {
+      "title": "World oil demand set for first annual decline since 2020, IEA says",
+      "url": "https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html",
+      "source": "CNBC",
+      "category": "tech",
+      "summary": "IEAが2026年の世界石油需要を前年比100万バレル/日減少と予測し、COVID-19禍の2020年以来初の年間マイナスになる見通しを発表。イラン戦争による需要破壊と長期的な高価格が消費パターンを変容させており、EV移行加速も背景に。",
+      "selected": true,
+      "size": "serendipity",
+      "relevance": 0.77
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI Agents (July 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+      "source": "AWS Blog",
+      "category": "tech",
+      "summary": "AWS Weekly Roundup（7月6日号）でClaude Sonnet 5がAmazon Bedrockで提供開始。Amazon WorkSpaces for AI Agentsも発表され、AIエージェントが安全な仮想デスクトップ環境でGUI操作を自律実行できるインフラ基盤が整備。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.77
+    },
+    {
+      "title": "TypeScript 7.0 Is GA: The 10x Compiler Migration Playbook",
+      "url": "https://www.digitalapplied.com/blog/typescript-7-0-ga-native-compiler-migration-playbook-2026",
+      "source": "Digital Applied",
+      "category": "tech",
+      "summary": "TypeScript 7.0 GA移行の実践プレイブック。まずCI/CDに`tsgo --noEmit`を非ブロッキングで追加して速度改善を体感しつつ、フレームワーク依存ツールは`@typescript/typescript6`ブリッジで運用継続。段階的移行ロードマップとトラブルシュート事例を詳解。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.76
+    },
+    {
+      "title": "ペルシャ湾の日本関係船舶 残り4隻に 22隻がホルムズ海峡を通過",
+      "url": "https://www.nikkei.com/article/DGXZQOUA103690Q6A710C2000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "金子国交相は10日の会見で、ペルシャ湾内に留め置かれていた日本関係船舶22隻が7〜9日にホルムズ海峡を通過し残り4隻になったと発表。3月の交戦開始直後は45隻が足止めされていたが、停戦進展を受け改善が続いており全隻出域に向け最終局面を迎えた。",
+      "selected": true,
+      "size": "large",
+      "relevance": 1.0
+    },
+    {
+      "title": "ネタニヤフ・トランプ電話会談 ペルシャ湾での米軍作戦を共有",
+      "url": "https://www.nikkei.com/article/DGXZQOGN100AA0Q6A710C2000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "イスラエルのネタニヤフ首相は9日、トランプ米大統領と電話会談しペルシャ湾での米軍作戦の詳細説明を受けた。レバノン南部の緩衝地帯維持の必要性も伝達。トルコへのF-35供与計画には「中東の力の均衡を破壊する」と強く反対した。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.95
+    },
+    {
+      "title": "米イラン停戦後のホルムズ通行料問題 イスラエルの対応がカギ",
+      "url": "https://www.dlri.co.jp/report/macro/593061.html",
+      "source": "第一ライフ資産運用経済研究所",
+      "category": "news",
+      "summary": "米イラン停戦延長・核交渉継続の下で焦点となるのはホルムズ海峡の通行料問題とイスラエルの今後の対応。イランは今回の紛争から得た経済救済を核・軍事能力の再建に充てる可能性が高く、中長期的なエネルギー市場リスクとして注視が必要とされている。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.90
+    },
+    {
+      "title": "皇室典範改正案が衆院本会議で可決 女性皇族保持・旧宮家養子で皇族数確保",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173031000",
+      "source": "NHKニュース",
+      "category": "news",
+      "summary": "女性皇族が結婚後も皇族身分を維持し旧宮家の男系男子が養子縁組できる内容の皇室典範改正案が10日の衆院本会議で可決。自公に加え民主改革連合なども賛成し幅広い支持を得た。参院での審議を経て今国会での成立が確実となった。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.95
+    },
+    {
+      "title": "皇室典範改正案 衆院審議わずか3時間 野党「拙速」と批判",
+      "url": "https://www.nikkei.com/article/DGXZQOUA097YM0Z00C26A7000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "皇室典範改正案の衆院での総審議時間は約3時間にとどまり、野党から「皇室の将来を左右する歴史的重要法案への審議が不十分」と批判が集中。政府・与党は衆院での圧倒的多数を背景に今国会成立を優先した。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.85
+    },
+    {
+      "title": "高市首相 NATOアンカラ首脳会議を欠席 2年連続で外交機会を逸す",
+      "url": "https://www.nikkei.com/article/DGXZQOUA065LQ0W6A700C2000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "高市首相は7〜8日にトルコ・アンカラで開催されたNATO首脳会議への出席を見送り、茂木外相が代理出席。野党反発による国会審議停滞が外交日程に影響し、日本の首相が2年連続でNATO首脳会議を欠席する異例の事態となった。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.85
+    },
+    {
+      "title": "茂木外相 NATOアンカラ会議で進化版FOIP説明 欧州との連携確認",
+      "url": "https://www.mofa.go.jp/erp/ep/pageite_000001_01710.html",
+      "source": "外務省",
+      "category": "news",
+      "summary": "茂木外相は7〜9日のNATO首脳会議に高市首相の代理として出席し進化版FO IPを各国に説明。欧大西洋とインド太平洋の安全保障の不可分性を確認し日米・日韓外相会談も実施した。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.80
+    },
+    {
+      "title": "日銀 政策金利1.0%に引き上げ 利上げ後も円安は39年半ぶり水準続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151901000",
+      "source": "NHKニュース",
+      "category": "news",
+      "summary": "日銀は6月の会合で政策金利を0.75%から1.0%に引き上げ31年ぶりの高水準とした。しかし1ドル162円台と約39年半ぶりの円安水準が継続しており、2%物価目標を巡る難しい対応が続いている。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.90
+    },
+    {
+      "title": "円相場1ドル162円台 39年半ぶり安値圏 7月は2566品目が値上げ",
+      "url": "https://www.nikkei.com/article/DGXZQOFL0942H0Z00C26A7000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "9日のニューヨーク外為市場で円は1ドル162円台前半と39年半ぶりの安値水準で推移。7月は食料品など2566品目が値上がりしパン・ハム・カップ麺など幅広い品目が対象となり、記録的な円安が家計を直撃している。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.90
+    },
+    {
+      "title": "令和8年分路線価 5年連続上昇 全国平均2.9%増で現行方式過去最大",
+      "url": "https://www.nta.go.jp/information/release/kokuzeicho/2026/rosenka/index.htm",
+      "source": "国税庁",
+      "category": "news",
+      "summary": "令和8年分路線価は全国平均2.9%上昇し、現行算出方式での最大の伸び率で5年連続上昇。銀座・鳩居堂前が1㎡5336万円と41年連続日本最高。都市部中心の旺盛な不動産需要と訪日客需要が上昇を支えている。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.80
+    },
+    {
+      "title": "日経平均 7万円台を維持 AI関連株へのマネー流入で今週も強含み予想",
+      "url": "https://www.nikkei.com/article/DGXZQOUB094O30Z00C26A7000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "週明けの日経平均は7万円台を維持し強含みの展開が予想される。AI関連株への資金流入が相場を牽引する一方、記録的な円安を背景とした輸入コスト上昇への懸念もくすぶっている。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.80
+    },
+    {
+      "title": "台風9号 沖縄・先島諸島を直撃 石垣島で猛烈な暴風続く",
+      "url": "https://weathernews.jp/news/202607/110031/",
+      "source": "ウェザーニュース",
+      "category": "news",
+      "summary": "台風9号が11日、先島諸島を直撃している。石垣島では電柱が倒れるほどの猛烈な暴風が午前中まで続き外出は危険な状態。沖縄本島も一日中強風に見舞われる見込み。九州でも発達した雨雲による突風・落雷・急な強雨への警戒が必要。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.75
+    },
+    {
+      "title": "九州北部で38℃予想 体温超えの危険な暑さ 関東以西は広く30℃超",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/07/11/39679.html",
+      "source": "日本気象協会 tenki.jp",
+      "category": "news",
+      "summary": "11日は関東以西で広く30℃超の真夏日となり、九州北部では体温を超える38℃前後の危険な暑さが予想される。猛暑は週末も続く見通しで全国的に熱中症対策が急務。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.70
+    },
+    {
+      "title": "ベネズエラ大地震 発生2週間 死者4千人超・行方不明3.5万人超 復興を強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172491000",
+      "source": "NHKニュース",
+      "category": "news",
+      "summary": "6月24日に相次いでM7超の大地震が発生したベネズエラで、発生から2週間となる11日、暫定大統領は国際支援を活用しながら復興を進める姿勢を強調。死者4千人超・行方不明3万5千人超の甚大な被害が続いている。",
+      "selected": true,
+      "size": "serendipity",
+      "relevance": 0.80
+    },
+    {
+      "title": "W杯準決勝 フランスvsスペイン 7月15日確定 ムバッペとヤマルが激突",
+      "url": "https://soccer.yahoo.co.jp/wcup/category/2026/game/2026071401/info?gk=18",
+      "source": "スポーツナビ",
+      "category": "news",
+      "summary": "FIFA W杯2026準決勝でフランスとスペインの対戦が確定。全試合勝利のフランスと6試合無失点継続のスペインが7月15日（日本時間午前4時、ダラス）で激突。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.70
+    },
+    {
+      "title": "「VIVANT」第2シーズン、U-NEXT独占配信決定──TBS系7月26日スタートと同時展開",
+      "url": "https://navicon.jp/news/97167/",
+      "source": "navicon",
+      "category": "entertainment",
+      "summary": "堺雅人主演「VIVANT」の続編がU-NEXTで独占配信決定。TBS系日曜劇場で7月26日スタートし、前シーズン最終回19.6%の余波で大きな注目を集める。「あの日」の真実が明かされる展開が予告されており、2クール放送の異例措置も話題に。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.95
+    },
+    {
+      "title": "反町隆史主演『GTO』28年ぶり復活──7月20日カンテレ・フジテレビ系で放送開始",
+      "url": "https://navicon.jp/news/97199/",
+      "source": "navicon",
+      "category": "entertainment",
+      "summary": "1998年放送の伝説的学園ドラマ『GTO』が28年ぶりに連続ドラマ復活。反町隆史が50代の鬼塚英吉を再演し、松嶋菜々子も登場。令和の教育現場を舞台にした完全新作として7月20日より月曜夜10時に放送開始予定。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.92
+    },
+    {
+      "title": "『BLEACH 千年血戦篇-禍進譚-』ファイナルPV公開、7月放送の最終クールで完結へ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1783233782",
+      "source": "アニメイトタイムズ",
+      "category": "entertainment",
+      "summary": "BLEACHアニメの最終クール「禍進譚」がファイナルPVを公開し7月放送開始。テレビ東京系で毎週土曜深夜放送。新ブランド「PIERROT FILMS」が制作担当し、一護とユーハバッハの決着を描く。事前にYouTubeで旧話を期間限定公開する話題作り展開も実施。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.90
+    },
+    {
+      "title": "TVアニメ『逃げ上手の若君』第二期、7月17日ノイタミナで放送開始──中島健人がOP主題歌担当",
+      "url": "https://www.aniplex.co.jp/news/detail/?id=70759",
+      "source": "アニプレックス",
+      "category": "entertainment",
+      "summary": "人気歴史アクション漫画のアニメ第二期がフジテレビ系ノイタミナで7月17日スタート。OPに中島健人「鬼事」、EDにぼっちぼろまる「ロマンティックがほしいなら」が決定。PrimeVideoで最速配信、連続2クール放送。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.88
+    },
+    {
+      "title": "『無職転生III』7月4〜5日放送開始──ABEMAで最速配信、大原ゆい子がOP担当",
+      "url": "https://game.watch.impress.co.jp/docs/news/2121301.html",
+      "source": "GAME Watch",
+      "category": "entertainment",
+      "summary": "シリーズ累計1800万部のライトノベルアニメ第3期がTOKYO MX・BS11で7月5日スタート。第1・2話を連続放送しABEMAで地上波同時最速配信。OPは大原ゆい子「決意の唄」。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.85
+    },
+    {
+      "title": "BABYMONSTER 2度目のワールドツアー日本公演が神戸で開幕──9月に初の京セラドーム大阪も決定",
+      "url": "https://news.yahoo.co.jp/articles/b5d5a2289993dcc8bb2619b230bd37f10236bc35",
+      "source": "Yahoo!ニュース（Kstyle）",
+      "category": "entertainment",
+      "summary": "BABYMONSTERの「2026-27 WORLD TOUR [CHOOM] IN JAPAN」が7月8〜9日の神戸公演で開幕し2万4000人を動員。9月22〜23日には初の京セラドーム大阪2デイズ公演も追加決定した。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.85
+    },
+    {
+      "title": "『トイ・ストーリー5』公開3日で興収24億円突破──洋画アニメ歴代1位のOP成績を記録",
+      "url": "https://www.disney.co.jp/movie/toy5/news/20260706_01",
+      "source": "ディズニー公式",
+      "category": "entertainment",
+      "summary": "7月3日公開の「トイ・ストーリー5」が週末3日間で動員164万人・興収24億円を達成し、洋画アニメーション史上歴代1位のOP成績を記録。最終興収200億円超えも射程圏。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.82
+    },
+    {
+      "title": "フジロック2026 藤井風ら国内アーティストが活況──7月25日グリーンステージ初登場",
+      "url": "https://realsound.jp/2026/06/post-2439234.html",
+      "source": "Real Sound",
+      "category": "entertainment",
+      "summary": "フジロック2026にて藤井風がグリーンステージ初登場で話題。Coachella 2026出演後の国内最大フェスへの初参戦。XG・Aooo・ブランデー戦記・w.o.dら国内新世代アーティストも多数参戦。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "『コードギアス 奪還のロゼ』7月10日よりTBS系アニメイズム枠でTV放送開始",
+      "url": "https://v-storage.jp/bv_news/280561/",
+      "source": "V-STORAGE",
+      "category": "entertainment",
+      "summary": "劇場4部作として公開された「コードギアス 奪還のロゼ」がTV版として7月10日深夜よりMBS・TBS系アニメイズム枠で放送開始。OPにMIYAVI、EDに満島ひかり×TeddyLoidという異色コラボが話題。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.80
+    },
+    {
+      "title": "ILLIT 初ライブツアー東京公演、7月23・25・26日にTOYOTA ARENA TOKYOで開催",
+      "url": "https://www.kpopnews.jp/illit-press-start-2026-tokyo/",
+      "source": "K-POPライブ＆イベント情報",
+      "category": "entertainment",
+      "summary": "HYBEのガールズグループILLITが初のライブツアー「PRESS START♥」の東京公演を7月23・25・26日にTOYOTA ARENA TOKYOで開催。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.78
+    },
+    {
+      "title": "にじさんじ・叶「2nd LIVE 孤独 -solitude-」7月31日にニコ生で国内独占生配信決定",
+      "url": "https://www.animatetimes.com/news/details.php?id=1783488143",
+      "source": "アニメイトタイムズ",
+      "category": "entertainment",
+      "summary": "にじさんじ所属VTuberの叶が3年ぶりの2ndライブを7月31日に東京国際フォーラムホールAで開催。ニコ生にて国内独占生配信が決定。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.75
+    },
+    {
+      "title": "星街すいせい、個人事務所設立後初の単独ファンミーティングを東京・大阪で開催",
+      "url": "https://hololive-tsuushin.com/holonews/suisei-73/",
+      "source": "ホロライブ通信",
+      "category": "entertainment",
+      "summary": "2026年3月に個人事務所「Studio STELLAR」を設立した星街すいせいが、ファンクラブ会員限定の初ファンミーティングを7月8日東京・13日大阪で開催。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.72
+    },
+    {
+      "title": "コードギアス20周年──新作アニメ『星追いのアスパル』制作決定など多彩な展開を発表",
+      "url": "https://v-storage.jp/anime/geass/263199/",
+      "source": "V-STORAGE",
+      "category": "entertainment",
+      "summary": "「コードギアス」20周年記念として完全新作「星追いのアスパル」の制作が電撃発表。長期IPとしての継続的展開方針が明確にされた。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.70
+    },
+    {
+      "title": "K-POP 2026年7月の日本リリース6選──NCT WISH初の日本語タイトル曲、QWERら注目作",
+      "url": "https://danmee.jp/knews/k-pop/kpop-release2607/",
+      "source": "danmee",
+      "category": "entertainment",
+      "summary": "7月の日本向けK-POPリリース情報まとめ。NCT WISHが初の日本語タイトル曲をリリース（7月15日）のほか、QWER（7月8日日本デビュー）など6作品を紹介。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.65
+    },
+    {
+      "title": "フジロック2026 ステージ割・タイムテーブル公開──7月24〜26日に苗場で開催",
+      "url": "https://mikiki.tokyo.jp/articles/-/44970",
+      "source": "Mikiki by TOWER RECORDS",
+      "category": "entertainment",
+      "summary": "フジロックフェスティバル2026（7月24〜26日、新潟・苗場スキー場）のステージ割とタイムテーブルが公開。The xx・Khruangbin・Massive Attackの3日間ヘッドライナーにHi-STANDARD、ASIAN KUNG-FU GENERATIONらが参戦。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.63
+    },
+    {
+      "title": "ソニー、1型センサーで4K/30pクロップなし「RX10 V」。光学25倍のレンズ一体型カメラ",
+      "url": "https://av.watch.impress.co.jp/docs/news/2122950.html",
+      "source": "AV Watch",
+      "category": "hobby",
+      "summary": "ソニーが9年ぶりの後継機「RX10 V」を7月9日に正式発表。24-600mm光学25倍ズームと1型積層型Exmor RSセンサーを搭載し、4K 120p無クロップ記録・秒30コマ連写・AIリアルタイム認識AFに対応。7月31日発売、市場想定価格36万円。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.95
+    },
+    {
+      "title": "ソニー「RX10 V」登場。24-600mmを1台に凝縮した"万能機"が9年ぶりに進化",
+      "url": "https://jp.pronews.com/news/202607092300765166.html",
+      "source": "PRONEWS",
+      "category": "hobby",
+      "summary": "PRONEWS視点でのRX10 V発表まとめ。バッテリー性能が約400枚から約630枚へ大幅向上。ボディはα1 IIテイストの直線的デザインに刷新し、UIも最新αシリーズと統一。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.90
+    },
+    {
+      "title": "新製品レビュー：ソニー α7R VI",
+      "url": "https://dc.watch.impress.co.jp/docs/review/newproduct/2118277.html",
+      "source": "デジカメ Watch",
+      "category": "hobby",
+      "summary": "6月5日発売のα7R VIをデジカメWatchが詳細レビュー。6680万画素積層型CMOSとAF/AE秒60回演算で高画素と高速追従を両立。市場想定価格約74万円。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.88
+    },
+    {
+      "title": "キヤノン Vシリーズ最新作「EOS R6 V」が登場",
+      "url": "https://www.kitamura.jp/shasha/canon/eos-r6-v-20260708/",
+      "source": "ShaSha（カメラのキタムラ）",
+      "category": "hobby",
+      "summary": "6月24日発売のCanon EOS R6 V。EVFとメカシャッターを省いてアクティブ冷却と動画操作系を強化した動画特化フルサイズミラーレス。実売32万円台。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "「パルワールド」ついに正式リリース。パルもエリアもボスも大充実！",
+      "url": "https://www.4gamer.net/games/574/G057444/20260709027/",
+      "source": "4Gamer.net",
+      "category": "hobby",
+      "summary": "約2年半の早期アクセスを経てパルワールドが7月10日に正式版1.0リリース。新種パル72種追加で総数287体に、天陽郷・世界樹など新エリア、ストーリー仕立てのメインミッション、水上建築などのクラフト新要素が実装。PC/PS5/Xbox対応で既存セーブデータ引き継ぎ可、30%オフセールも同時開催。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.92
+    },
+    {
+      "title": "7月10日ついに正式版へ！『パルワールド』公式ローンチトレイラーを公開",
+      "url": "https://www.gamespark.jp/article/2026/07/09/169071.html",
+      "source": "Game*Spark",
+      "category": "hobby",
+      "summary": "ポケットペアがパルワールド1.0正式版の公式ローンチトレーラーを7月9日に公開。7月10日12時30分ごろの配信開始を予告。PS5・Xbox・Steamで同時リリース。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.88
+    },
+    {
+      "title": "『リズム天国 ミラクルスターズ』ついに本日7月2日に発売！シリーズ最新作が11年ぶりに登場",
+      "url": "https://news.denfaminicogamer.jp/news/260702e",
+      "source": "電ファミニコゲーマー",
+      "category": "hobby",
+      "summary": "Switch向けリズム天国シリーズ最新作「ミラクルスターズ」が7月2日に発売。11年ぶりの新作で80種以上のリズムゲームをすべて新作で収録。最大4人マルチの「みんなで遊ぶ」モード搭載。Switch対応6,500円。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.85
+    },
+    {
+      "title": "Switch2用ソフト『スプラトゥーン レイダース』の発売日が2026年7月23日に決定！予約開始",
+      "url": "https://ninten-switch.com/splatoon-raiders-for-switch-2-release-deta",
+      "source": "Nintendo Switch 情報ブログ",
+      "category": "hobby",
+      "summary": "Nintendo Switch 2専用スプラトゥーンシリーズ初スピンオフ「スプラトゥーン レイダース」が7月23日発売決定。新主人公「メカニック」が最大4人協力プレイ対応。パッケージ版7,480円・DL版6,480円。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.90
+    },
+    {
+      "title": "【7月発売Switch/Switch2新作ゲーム】『スプラトゥーン レイダース』など注目作",
+      "url": "https://www.famitsu.com/article/202607/80980",
+      "source": "ファミ通",
+      "category": "hobby",
+      "summary": "ファミ通がSwitch・Switch 2の2026年7月発売注目タイトルをまとめて紹介。スプラトゥーン レイダース（7/23）、リズム天国 ミラクルスターズなど多数掲載。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.80
+    },
+    {
+      "title": "「ほの暮しの庭」，5種類のゲームプレイ動画を公開。7月30日発売",
+      "url": "https://www.4gamer.net/games/933/G093331/20260710025/",
+      "source": "4Gamer.net",
+      "category": "hobby",
+      "summary": "日本一ソフトウェアが7月30日発売「ほの暮しの庭」のプレイ動画5本を7月10日公開。「夜廻」スタッフ制作の田舎暮らしSLG。PS5/Switch/PC対応。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "【7月10日2時まで】Steamサマーセール2026おすすめタイトルまとめ",
+      "url": "https://www.gamespark.jp/article/2026/07/09/169033.html",
+      "source": "Game*Spark",
+      "category": "hobby",
+      "summary": "6月26日〜7月10日午前2時まで開催のSteamサマーセール2026のおすすめゲームをGame*Sparkが特集。セールは終了済み。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.85
+    },
+    {
+      "title": "Blue Reflection Quartet Opens Pre-Orders Ahead of July Launch",
+      "url": "https://monstervine.com/2026/06/blue-reflection-quartet-pre-orders-july-2026/",
+      "source": "MonsterVine",
+      "category": "hobby",
+      "summary": "「BLUE REFLECTION Quartet」の7月30日発売に向けデジタル予約が開始。PS5・Switch 2・Switch・Steam対応でシリーズ4作品を収録。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.72
+    },
+    {
+      "title": "TOKYO MIX CURRYが大手町に昼夜2業態の新店を7月1日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000093740.html",
+      "source": "PR TIMES（株式会社FOODCODE）",
+      "category": "hobby",
+      "summary": "スパイスカレー専門店TOKYO MIX CURRYが大手町に7月1日オープン。昼は本格スパイスカレー、夜は初のバル業態「TMCスパイスバル」を展開。（掲載済みURLのため除外）",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "2026首都圏横断カレーマラソンスタンプラリー",
+      "url": "https://currymarathon.com/",
+      "source": "カレーマラソン公式サイト",
+      "category": "hobby",
+      "summary": "首都圏の個性豊かなカレー専門店を巡るスタンプラリーイベント。スパイスカレー・インド料理・欧風など多彩な参加店舗を制覇するカレーファン向けイベント。",
+      "selected": true,
+      "size": "serendipity",
+      "relevance": 0.76
+    },
+    {
+      "title": "東京咖喱喰部×ジャパニーズカレーフェスティバル スペシャルLIVE「スパイシーサマーナイト」",
+      "url": "https://t.livepocket.jp/e/spicysummer",
+      "source": "LivePocket",
+      "category": "hobby",
+      "summary": "渋谷で8月10日〜9月8日開催予定のジャパニーズカレーフェスティバルのオープニングスペシャルLIVEイベントのチケット情報。スパイスカレーコミュニティが集う夏の祭典。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.75
+    }
+  ]
+}
