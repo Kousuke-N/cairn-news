@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-10",
+  "source_page_id": "399a41a3-cf9b-8129-8743-c93edc092d00",
+  "source_date": "2026-07-10",
+  "checkboxes": {
+    "volume": {
+      "just_right": false,
+      "want_more": false,
+      "too_much": false
+    },
+    "increase_category": {
+      "tech": false,
+      "news": false,
+      "entertainment": false,
+      "hobby": false
+    },
+    "decrease_category": {
+      "tech": false,
+      "news": false,
+      "entertainment": false,
+      "hobby": false
+    }
+  },
+  "comments": [],
+  "preferences_updated": false,
+  "note": "フィードバックなし（全チェックボックス未チェック、コメントなし）"
+}
