@@ -1,0 +1,496 @@
+{
+  "date": "2026-07-12",
+  "notion_page_id": "39ba41a3-cf9b-8192-b837-debf64698068",
+  "articles": [
+    {
+      "title": "Claude Code Week 28: デスクトップに内蔵ブラウザ搭載・/doctor コマンド進化",
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w28",
+      "source": "Claude Code Docs",
+      "category": "tech",
+      "summary": "デスクトップアプリにサンドボックス付き内蔵ブラウザを追加し、外部サイトの閲覧・操作が可能に。/doctorが設定診断＋自動修正ツールに進化。auto modeのセキュリティ強化も実施（v2.1.202〜2.1.206）。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.93
+    },
+    {
+      "title": "Apple、OpenAIを営業秘密窃取で提訴——Jony Ive買収に端を発した半導体設計流出疑惑",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "AppleがOpenAIを北カリフォルニア連邦地裁に提訴。元VP Tang Tan氏が採用面接で機密共有を促したと主張。OpenAIのAIハードウェア参入（Jony Ive買収）が両社関係悪化の背景。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.87
+    },
+    {
+      "title": "xAI が Grok 4.5 公開——Cursor セッションデータで鍛えたコーディング特化 Opus 級モデル",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Cursorの実開発セッションデータで学習したコーディング特化モデル。DeepSWE 1.0で62%スコアでOpus 4.8を上回る。Opus 4.8比で60%超安価かつトークン効率が高い。価格は$2/$6 per MTok。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.84
+    },
+    {
+      "title": "Angular、AI志向フレームワークへ転換——Signal・Zoneless・Agent Skillsが三位一体で整備",
+      "url": "https://zenn.dev/lacolaco/articles/angular-ai-forward",
+      "source": "Zenn",
+      "category": "tech",
+      "summary": "Angular 22でAIエージェントがAngularコードを書きやすくする「Agent Skills」が導入され、Signal中心のアーキテクチャとZoneless化が組み合わさってAI開発者向けの設計方針が明確化されつつあると解説。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.82
+    },
+    {
+      "title": "MCP 仕様RC公開——ステートレス化・OAuth 2.0強化・廃止ポリシー導入（7月28日正式版予定）",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "source": "MCP Blog",
+      "category": "tech",
+      "summary": "MCPプロトコル最大改訂のRC公開。initializeハンドシェイクを廃止してステートレス化し通常のHTTPロードバランサーでスケール可能に。MCP Apps・タスク拡張・OAuth 2.0対応強化も。正式版は7月28日予定。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.80
+    },
+    {
+      "title": "TypeScript 7.0 正式リリース——Microsoft公式ブログGA発表、Goネイティブで8〜12倍高速化",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "source": "Microsoft TypeScript Blog",
+      "category": "tech",
+      "summary": "GoネイティブコンパイラによりTS 7.0が正式GA。フルビルドが8〜12倍高速化。Vue・Svelte・AstroはプログラマティックAPI未対応のためTS 7.1（10月頃）待ちが推奨される公式情報。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.90
+    },
+    {
+      "title": "OpenAI ChatGPT Work 発表——GPT-5.6で職場タスクを数時間自律実行するエージェント",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/openai-unveils-chatgpt-work-agent-to-field-tasks-for-hours",
+      "source": "Bloomberg",
+      "category": "tech",
+      "summary": "GPT-5.6搭載の職場向けAIエージェント。Slack・Google Drive・SharePointなど15サービスと連携し文書・スプレッドシート・プレゼン作成を自律実行。Anthropic Claude Coworkと真っ向から競合。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.83
+    },
+    {
+      "title": "Google Gemini 3.5 Pro、7月17日 GA を目標——2Mトークン・Deep Think 推論搭載",
+      "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm",
+      "source": "TechTimes",
+      "category": "tech",
+      "summary": "Googleが品質問題でアーキテクチャを全面再設計したGemini 3.5 Proが7月17日のGA公開を目標と複数ソースが報告。2Mトークンコンテキスト・Deep Think推論レイヤー搭載。公式発表は未確認。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.78
+    },
+    {
+      "title": "Anthropic、Claude Code の使用制限を再びリセット——障害続きの週末に全ユーザー向け措置",
+      "url": "https://startupfortune.com/anthropic-resets-claude-code-usage-limits-again-after-a-rough-week-of-outages/",
+      "source": "Startup Fortune",
+      "category": "tech",
+      "summary": "Anthropicが7月10日にClaude Codeの5時間制限・週次制限を全ユーザー向けにリセット。Opus 4.8の障害（7月10日10:45〜12:40 PT）や可用性低下が続いた苦しい週の末の措置。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.72
+    },
+    {
+      "title": "Cloudflare Monetization Gateway——x402 プロトコルで API・ウェブリソースの従量課金",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "source": "Cloudflare Blog",
+      "category": "tech",
+      "summary": "CloudflareがHTTP 402ベースのx402プロトコルを活用したMonetization Gatewayのウェイトリストを開始。WebページやAPI・MCPツールへのアクセスごとにステーブルコインで従量課金できる基盤を提供。",
+      "selected": true,
+      "size": "serendipity",
+      "relevance": 0.74
+    },
+    {
+      "title": "Meta Brain2Qwerty v2——非侵襲 MEG で打鍵文字を平均 61% 精度で脳波解読",
+      "url": "https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/",
+      "source": "MarkTechPost",
+      "category": "tech",
+      "summary": "MetaがMEG（脳磁図）で打鍵文章を非侵襲的に解読するBrain2Qwerty v2を発表。平均61%・最高78%の単語正確率を達成。LLMをノイズ変換パイプライン最終段に活用する初事例。コードはOSS公開。",
+      "selected": true,
+      "size": "serendipity",
+      "relevance": 0.71
+    },
+    {
+      "title": "Anthropic Claude Cowork が iOS・Android・ウェブに対応",
+      "url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
+      "source": "9to5Mac",
+      "category": "tech",
+      "summary": "Claude Coworkがモバイル・ウェブに拡張。スマートフォンからバックグラウンド実行の監視・制御が可能に。Maxユーザーから順次展開。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.85
+    },
+    {
+      "title": "OpenAI、GPT-5.6 ファミリーを一般公開（TechCrunch）",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Sol（フラグシップ）・Terra（バランス型）・Luna（低コスト）の3モデルをリリース。Sol UltraはCoding Agent Indexで首位。（7/11掲載済みトピック）",
+      "selected": false,
+      "size": null,
+      "relevance": 0.90
+    },
+    {
+      "title": "Zenn — 【2026年版】Claude Code フロントエンド特化の設定・ツールまとめ",
+      "url": "https://zenn.dev/enechange_blog/articles/9288d67beed7b4",
+      "source": "Zenn",
+      "category": "tech",
+      "summary": "enechange社エンジニアによるClaude Code×フロントエンド開発の実践設定集。Angular/React向けCLAUDE.md、MCPサーバー構成、スキル活用法などを解説。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.77
+    },
+    {
+      "title": "富士通 PHOTON——Transformer 代替アーキテクチャで GPU あたりスループット最大 475 倍",
+      "url": "https://gigazine.net/news/20260625-fujitsu-photon/",
+      "source": "GIGAZINE",
+      "category": "tech",
+      "summary": "富士通がポストTransformerアーキテクチャ「PHOTON」を開発。特定タスクでGPU効率が最大475倍となり、LLM推論コストの大幅削減が期待される。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.69
+    },
+    {
+      "title": "イラン ホルムズ海峡の閉鎖を宣言",
+      "url": "https://news.yahoo.co.jp/pickup/6587629",
+      "source": "Yahoo!ニュース（AFP）",
+      "category": "news",
+      "summary": "イランの革命防衛隊が12日、ホルムズ海峡の封鎖を宣言した。世界の原油輸送の約2割が通過する同海峡の閉鎖で、原油価格急騰と世界経済への影響が広く懸念されている。",
+      "selected": true,
+      "size": "large",
+      "relevance": 1.0
+    },
+    {
+      "title": "イランがホルムズ「封鎖」 船舶損傷、米も攻撃",
+      "url": "https://www.jiji.com/jc/article?k=2026071200103&g=int",
+      "source": "時事通信",
+      "category": "news",
+      "summary": "イラン革命防衛隊がホルムズ海峡を封鎖しコンテナ船を攻撃。米中央軍は12日早朝にイランの軍事目標約140か所への攻撃を開始。6月の停戦合意から約1か月で再び交戦状態に入った。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.98
+    },
+    {
+      "title": "革命防衛隊、ホルムズ海峡を封鎖「追って通知があるまで」",
+      "url": "https://www.afpbb.com/articles/-/3643641",
+      "source": "AFP BB News",
+      "category": "news",
+      "summary": "イラン革命防衛隊がホルムズ海峡を「米国の介入が終了するまで閉鎖」と宣言。航行中のコンテナ船が攻撃を受け乗組員1名が行方不明となっている。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.96
+    },
+    {
+      "title": "イラン最高指導者「復讐は必ず実行される」——ハメネイ師国葬翌日の声明",
+      "url": "https://www.nikkei.com/article/DGXZQOGR112HP0R10C26A7000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "イランのモジタバ・ハメネイ新最高指導者が11日、父の国葬終了後に「復讐は必ず実行される」と米国・イスラエルを牽制。その翌日にホルムズ封鎖が起きた。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.93
+    },
+    {
+      "title": "長期金利2.87〜2.9%、30年ぶり高水準——中東発インフレ懸念が世界市場に波及",
+      "url": "https://www.nikkei.com/article/DGXZQOUB092TF0Z00C26A7000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "中東情勢の再度の緊迫化に伴い国内長期金利が急上昇。10年国債利回りが一時2.87〜2.9%と1996年9月以来約30年ぶりの水準に達し、世界各国でも同様の動きが波及。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.92
+    },
+    {
+      "title": "世界で長期金利上昇、「中東発インフレ」再び——日本は30年ぶり2.9%",
+      "url": "https://www.nikkei.com/article/DGXZQOUB080CX0Y6A700C2000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "中東情勢の緊迫化に伴う原油価格上昇を受け世界各国で長期金利が上昇。日本の10年国債利回りは一時2.9%と30年ぶりの高水準に達しインフレ再燃懸念が市場全体を揺さぶっている。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.90
+    },
+    {
+      "title": "W杯準々決勝まとめ——ベスト4確定（フランス・スペイン・イングランド・アルゼンチン）",
+      "url": "https://www.footballchannel.jp/2026/07/12/post946233/",
+      "source": "フットボールチャンネル",
+      "category": "news",
+      "summary": "W杯準々決勝でイングランドがノルウェーに延長2-1（ベリンガム2得点）、アルゼンチンがスイスに延長3-1で勝利し4強入り。準決勝はフランス対スペイン（7/15）、イングランド対アルゼンチン（7/16）。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.88
+    },
+    {
+      "title": "四国梅雨明け・九州で40℃予報——熱中症警戒アラート11地域に発令",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015174761000",
+      "source": "NHKニュース",
+      "category": "news",
+      "summary": "気象庁は12日四国地方の梅雨明けを発表。九州では日中の最高気温が40℃近くに達する危険な暑さで、熱中症警戒アラートが11地域に発令（近畿初発令含む）。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.80
+    },
+    {
+      "title": "NATO首脳会議（7〜9日）——欧州防衛費増額が焦点、茂木外相・防衛相が出席",
+      "url": "https://www.jiji.com/jc/article?k=2026070600575&g=int",
+      "source": "時事通信",
+      "category": "news",
+      "summary": "NATO首脳会議が7日に開幕し欧州各国の防衛費増額が最大の焦点。米国の欧州関与縮小姿勢の中、茂木外相・防衛相が出席し進化版FOIPを各国に説明した。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.74
+    },
+    {
+      "title": "アルゼンチン・イングランド4強——スイス・ノルウェー敗退",
+      "url": "https://www.jiji.com/jc/article?k=2026071200126&g=spo",
+      "source": "時事通信",
+      "category": "news",
+      "summary": "W杯準々決勝でアルゼンチンとイングランドが準決勝進出を決め、スイスとノルウェーが敗退。全8試合が終了し4強が出揃った。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.86
+    },
+    {
+      "title": "熱中症警戒アラート11地域発令——台風9号余熱で猛暑複合リスク",
+      "url": "https://news.yahoo.co.jp/articles/5cfdb2eca59268fa0275cd4b7987d84ecd3b60f5",
+      "source": "Yahoo!ニュース（RCC中国放送）",
+      "category": "news",
+      "summary": "台風9号が本州付近の高気圧を強め12日は福岡・山口・熊本など11地域で熱中症警戒アラートが発表された。近畿では今年初の発令。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.78
+    },
+    {
+      "title": "外相・防衛相がNATO首脳会議に出席——首相欠席で2年連続",
+      "url": "https://www.nikkei.com/article/DGXZQOUA035X00T00C26A7000000/",
+      "source": "日本経済新聞",
+      "category": "news",
+      "summary": "外相と防衛相が7日からNATO首脳会議に出席。高市首相は国会日程等を考慮して欠席し、日本の首相が2年連続でNATO首脳会議を欠席する異例の事態。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.71
+    },
+    {
+      "title": "ベネズエラ地震2週間：日本赤十字が支援継続",
+      "url": "https://www.jrc.or.jp/international/news/2026/0707_054170.html",
+      "source": "日本赤十字社",
+      "category": "news",
+      "summary": "6月24日発生のベネズエラ大地震（M7.5）から2週間。死者3000人超・1万7000人以上が住居を失い、日本赤十字社を含む各国赤十字が被災地で支援活動を継続。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.68
+    },
+    {
+      "title": "VIVANT第2シーズン キャラクタービジュアル解禁——堺雅人・阿部寛・二宮和也ら全員再集結",
+      "url": "https://www.cinemacafe.net/article/2026/07/11/110869.html",
+      "source": "cinemacafe.net",
+      "category": "entertainment",
+      "summary": "7月11日、7月26日放送開始のTBS日曜劇場「VIVANT」第2シーズンのキャラクタービジュアルが解禁。堺雅人、阿部寛、二宮和也、松坂桃李ら主要キャストが再集結する。",
+      "selected": true,
+      "size": "large",
+      "relevance": 1.0
+    },
+    {
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL——サイエンスSARU制作・坂本真綾主演で好評スタート",
+      "url": "https://animeanime.jp/article/2026/07/08/100836.html",
+      "source": "アニメ！アニメ！",
+      "category": "entertainment",
+      "summary": "7月7日放送開始の「攻殻機動隊 THE GHOST IN THE SHELL」第1話がサイエンスSARU制作で話題に。坂本真綾が素子役、King Gnu「GO GHOST」がOPに起用され反響大。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.92
+    },
+    {
+      "title": "2026年夏ドラマ期待度ランキング——1位VIVANT S2、2位告白、3位Tシャツが乾くまで（Filmarks）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000762.000008641.html",
+      "source": "PR TIMES（Filmarks）",
+      "category": "entertainment",
+      "summary": "Filmarksが2026年夏ドラマの期待度ランキングを発表。1位VIVANT S2、2位「告白-25年目の秘密-」、3位「Tシャツが乾くまで」と話題作が上位を独占。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.88
+    },
+    {
+      "title": "「Tシャツが乾くまで」初回——蒼井優18年ぶり主演、初回で夫失踪＋不倫の二重衝撃展開",
+      "url": "https://www.oricon.co.jp/news/2467135/full/",
+      "source": "ORICON NEWS",
+      "category": "entertainment",
+      "summary": "蒼井優18年ぶり主演のTBSドラマ初回が7月10日放送。夫失踪と不倫の事実が初回で発覚する衝撃展開に「情報量が多すぎる」とSNSで大反響。タイトルの意味を巡る考察も活発。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.95
+    },
+    {
+      "title": "「告白－25年目の秘密－」初回衝撃——松村北斗（SixTONES）地上波初単独主演でラスト3分が話題",
+      "url": "https://news.yahoo.co.jp/articles/6d82bd35164e6ccde2ec2426fe622223cbb65e9d",
+      "source": "Yahoo!ニュース（オリコン）",
+      "category": "entertainment",
+      "summary": "SixTONES・松村北斗の地上波単独初主演ドラマが7月11日スタート。初回ラスト3分で衝撃の不倫事実が発覚し、衝撃台詞がSNSで拡散。今夏のラブサスペンスとして話題騒然。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.92
+    },
+    {
+      "title": "米津玄師「夜鷹」7/13配信決定——映画キングダム魂の決戦の書き下ろし主題歌",
+      "url": "https://natalie.mu/music/news/680271",
+      "source": "音楽ナタリー",
+      "category": "entertainment",
+      "summary": "米津玄師が映画「キングダム 魂の決戦」主題歌「夜鷹」を7月13日に配信リリース。映画公開（7/17）直前に書き下ろし楽曲の注目度が高まっている。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.92
+    },
+    {
+      "title": "BLEACH最終章「禍進譚」7月25日放送開始——直前に旧クール一挙無料配信スタート",
+      "url": "https://news.yahoo.co.jp/articles/6bfb3faaac484200dcecdc0c30816947f7437de5",
+      "source": "Yahoo!ニュース（GAME Watch）",
+      "category": "entertainment",
+      "summary": "「BLEACH 千年血戦篇-禍進譚-」が7月25日23時よりテレ東系にて放送開始。最終章のラストクール。第3クール「相剋譚」の無料一挙配信が7月12日より開始。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.90
+    },
+    {
+      "title": "映画ちいかわ「人魚の島のひみつ」IMAX同時上映決定——7月24日公開",
+      "url": "https://animeanime.jp/article/2026/07/09/100863.html",
+      "source": "アニメ！アニメ！",
+      "category": "entertainment",
+      "summary": "7月24日公開の「映画ちいかわ 人魚の島のひみつ」のIMAX同時上映が決定。3キャラクターをデザインしたIMAXポスターも解禁。原作の人気エピソード「セイレーン編」を映像化。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.85
+    },
+    {
+      "title": "NCT WISH「YO-I-DON!」7月15日発売——初の日本語タイトル曲とTRFリメイクの両A面",
+      "url": "https://news.yahoo.co.jp/articles/32f5f4e216e63c515783acd120195890d96936a5",
+      "source": "Yahoo!ニュース（Kstyle）",
+      "category": "entertainment",
+      "summary": "NCT WISHがグループ初の日本語タイトル楽曲「YO-I-DON!」とTRF「BOY MEETS GIRL」リメイクの両A面シングルを7月15日発売。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.82
+    },
+    {
+      "title": "フジロック'26 タイムテーブル分析——ヘッドライナーThe xx・Khruangbin・Massive Attack、7/25は完売",
+      "url": "https://niewmedia.com/news/2607fujirock/",
+      "source": "NiEW",
+      "category": "entertainment",
+      "summary": "7月24〜26日開催「FUJI ROCK FESTIVAL '26」の全タイムテーブルを分析。7/25一日券はSOLD OUTで直前注目度が高い。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.80
+    },
+    {
+      "title": "パルワールド正式版1.0——Steam同時接続47万人突破、早期アクセス2年半の集大成",
+      "url": "https://www.gamespark.jp/article/2026/07/10/169122.html",
+      "source": "Game*Spark",
+      "category": "hobby",
+      "summary": "パルワールド1.0リリース直後にSteam同時接続者数47万2769人を突破。Steamチャートで4位にランクイン。新規・復帰プレイヤーが大挙押し寄せ空前の盛り上がりを見せている。",
+      "selected": true,
+      "size": "large",
+      "relevance": 0.93
+    },
+    {
+      "title": "パルワールド1.0 先行レポート——新パル72種・天陽郷・覚醒システムなどパッチノート27ページ分の変化",
+      "url": "https://www.gamespark.jp/article/2026/07/10/169090.html",
+      "source": "Game*Spark",
+      "category": "hobby",
+      "summary": "パルワールド正式版1.0の先行プレイレポート。天陽郷・世界樹の新エリア、72体の新パル、ストーリーミッション、覚醒・突然変異システムなどを詳細レポート。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.93
+    },
+    {
+      "title": "パルワールド1.0 初週を初期から変わったところ全検証——AUTOMATON",
+      "url": "https://automaton-media.com/articles/reportjp/20260710-454297/",
+      "source": "AUTOMATON",
+      "category": "hobby",
+      "summary": "パルワールド早期アクセス開始時から正式版1.0まで何がどう変わったかを徹底検証。古参プレイヤーを「初見」状態に戻す物量の変化を詳しくレポート。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.81
+    },
+    {
+      "title": "ソニー RX10V 実機レビュー——AF高速化は本物だが低照度で不安定の指摘も、36万円の価値を二方向から",
+      "url": "https://mirrorless-camera.info/review/sony-review/56513.html",
+      "source": "ミラーレスカメラ情報",
+      "category": "hobby",
+      "summary": "RX10Vの実機評価。AIプロセッシングユニット搭載でAF高速化・被写体追従性能が大幅向上し前モデルRX10 IVから別格の進化。一方、海外レビューでは低照度下でAFが不安定との批判も。",
+      "selected": true,
+      "size": "medium",
+      "relevance": 0.92
+    },
+    {
+      "title": "ソニー RX10V「価格を受け入れる覚悟があるなら魅力的」——asobinet総合評価",
+      "url": "https://asobinet.com/info-review-rx10-v-pp/",
+      "source": "とるなら（asobinet）",
+      "category": "hobby",
+      "summary": "RX10Vの総合レビュー。36万円の高価格が最大の障壁だが、光学25倍ズームと高速AF・高画質動画を一台で実現する唯一無二の存在感。野鳥・望遠撮影ユーザーに特に価値が高い。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.88
+    },
+    {
+      "title": "ソニー RX10V——AFが低照度で不安定との批判的海外レビュー",
+      "url": "https://digicame-info.com/2026/07/rx10v-3.html",
+      "source": "デジカメinfo",
+      "category": "hobby",
+      "summary": "海外レビューによるとRX10Vは複雑な条件・低照度下でAFが不安定になる場面も。8年分の技術進歩を搭載しても期待通りの改善幅には達していないとの批判的指摘。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.83
+    },
+    {
+      "title": "ソニー RX10V GIGAZINEまとめ——24-600mmを1台に凝縮した万能機の正式発表詳細",
+      "url": "https://gigazine.net/news/20260710-sony-camera-rx10v-dsc-rx10m5/",
+      "source": "GIGAZINE",
+      "category": "hobby",
+      "summary": "9年ぶり刷新のソニーRX10V正式発表まとめ。1型積層型センサー・BIONZ XR搭載で24-600mm光学25倍ズーム、4K/120p・クロップなし4K/30p対応。7月31日発売、36万円前後。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.97
+    },
+    {
+      "title": "スプラ3 レイダースコラボフェス（7/11〜13）——スピード・パワー・テクニックで競う",
+      "url": "https://www.ndw.jp/splatoon3-game-260703/",
+      "source": "Nintendo DREAM WEB",
+      "category": "hobby",
+      "summary": "スプラトゥーン3でレイダースコラボフェスが7月11〜13日に開催。参加特典としてレイダースデザインのプレート9枚と二つ名が配布される。7月23日発売のレイダース前哨戦。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.85
+    },
+    {
+      "title": "ファミマ夏の推しカレー6選——30種スパイス使用の新作「シーフードカレー」が7/7発売",
+      "url": "https://prtimes.jp/main/html/rd/p/000002360.000046210.html",
+      "source": "PR TIMES（ファミリーマート）",
+      "category": "hobby",
+      "summary": "ファミリーマートがカレー好き500人調査を実施。担当者厳選の夏推しカレー6品を公開し、30種スパイス使用の新作「シーフードカレー」と「大盛カレー」が7月7日発売。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.72
+    },
+    {
+      "title": "東京三ツ星スパイスカレー店ベスト5——1位は蒲田の名店「追いカレーソース」",
+      "url": "https://otonano-shumatsu.com/articles/405865",
+      "source": "大人の週末",
+      "category": "hobby",
+      "summary": "東京の本格スパイスカレー店ベスト5を厳選紹介。1位は蒲田の名店で「追いカレーソース」サービスが独自の売りとして話題。外食スポットを探している人の参考になるランキング。",
+      "selected": true,
+      "size": "small",
+      "relevance": 0.65
+    },
+    {
+      "title": "がんばれゴエモン大集合！ 初週約6.9万本——Switch/PS5コレクション好スタート",
+      "url": "https://ninten-switch.com/ganbare-goemon-collection-1st-sales",
+      "source": "ninten-switch.com",
+      "category": "hobby",
+      "summary": "7月2日発売「がんばれゴエモン大集合！」初週販売本数が約69,000本。コナミの往年シリーズ全13タイトル収録コレクションが好スタートを飾った。",
+      "selected": false,
+      "size": null,
+      "relevance": 0.72
+    }
+  ]
+}
