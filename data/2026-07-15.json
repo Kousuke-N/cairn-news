@@ -1,0 +1,508 @@
+{
+  "date": "2026-07-15",
+  "notion_page_id": "39ea41a3-cf9b-810c-a803-d71b58ef1d0c",
+  "articles": [
+    {
+      "id": "2026-07-15-tech-001",
+      "category": "tech",
+      "title": "TypeScript 7.0 正式GA——Goネイティブ実装でフルビルド最大13倍高速化",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "source": "Microsoft TypeScript Blog",
+      "summary": "7月8日リリース。GoでTSコンパイラを完全再実装しフルビルドが8〜12倍、VS Code上の型エラー表示が17.5秒→1.3秒（13倍）に高速化。型チェックのセマンティクスは同一で移行は基本的にバージョン更新のみ。Angular等テンプレートDSL系はTS 7.1対応待ち。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-002",
+      "category": "tech",
+      "title": "OpenAI GPT-5.6（Sol/Terra/Luna）一般公開——Ultraマルチエージェントモード搭載",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "source": "OpenAI",
+      "summary": "7月9日公開。上位Sol（$5/$30）・コスパ型Terra（$2.50/$15）・高速Luna（$1/$6）の3モデル構成。SolはTerminal-Bench 2.1でSOTAと主張。Responses APIでマルチエージェントオーケストレーションをβ提供。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-003",
+      "category": "tech",
+      "title": "Claude Code v2.1.198——作業完了後に自動でgit commit・push・Draft PR作成",
+      "url": "https://aiagentsfirst.com/claude-code-v2-1-198-background-agents",
+      "source": "AI Agents First",
+      "summary": "バックグラウンドエージェントがworktree内の実装完了後、自動でcommit・push・GitHub Draft PRまでを実施（マージは人間が判断）。Slack・デスクトップ通知フックも追加。Claude Codeのワークフローが「非同期委任」へ変わった。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-004",
+      "category": "tech",
+      "title": "AIエージェントが本番運用フェーズへ——権限管理・ログ・コスト設計が急務に",
+      "url": "https://ai-weekly.ai/newsletter-07-14-2026/",
+      "source": "AI-Weekly",
+      "summary": "業務アプリを横断して実際にタスクを遂行するエージェントが本番環境へ移行し始め、権限管理・実行ログ・コスト計上・生成物の表示義務が企業で急務に。従来のAPI呼び出し設計とは根本的に異なる考え方への転換点。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-005",
+      "category": "tech",
+      "title": "Google Gemini 3.5 Pro、7月17日（明後日）全面刷新版リリース——2Mトークンコンテキスト",
+      "url": "https://hackernoon.com/google-delays-gemini-35-pro-to-july-17-the-strategic-play-behind-the-scrapped-base-model",
+      "source": "HackerNoon",
+      "summary": "2.5 Proを廃棄して全面再設計。200万トークンコンテキスト・Deep Think推論レイヤーを搭載。GPT-5.6・Fable 5を意識した構成で7/17リリース後にLLM選定の再比較が加速しそう。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-006",
+      "category": "tech",
+      "title": "Meta Muse Spark 1.1 + Meta Model API公開——Metaとして初の有料LLM API",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "source": "Meta AI Blog",
+      "summary": "1Mトークンコンテキスト・コンピュータ使用・並列サブエージェント対応。$1.25/$4.25 per M tokensで無料クレジット$20付き。MetaのLLM API参入でエコシステムが拡大。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-007",
+      "category": "tech",
+      "title": "GitHub Copilot for JetBrains——Codexエージェントプロバイダー追加、Autopilotモード搭載",
+      "url": "https://github.blog/changelog/2026-07-07-codex-as-agent-provider-and-agentic-enhancements-in-jetbrains-ides/",
+      "source": "GitHub Changelog",
+      "summary": "JetBrains IDEでCodexをエージェントとして選択可能に（パブリックプレビュー）。Autopilotモードでツール呼び出しを自動承認。MCPサーバー管理・Hooksもカスタマイズ可能に。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-008",
+      "category": "tech",
+      "title": "Angular 22.0.6 パッチリリース——Shadow DOM内フォーカストラップ修正など",
+      "url": "https://github.com/angular/angular/releases",
+      "source": "GitHub / Angular",
+      "summary": "Shadow DOM内でtabbable要素が見つからないフォーカストラップのバグ修正など安定性改善。22.0.4も7月8日リリース済み。TypeScript 7.0暫定対応も含む。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-009",
+      "category": "tech",
+      "title": "DeepSeek V4——7月24日に旧モデル（deepseek-chat・deepseek-reasoner）廃止",
+      "url": "https://explainx.ai/blog/deepseek-v4-official-release-peak-pricing-mid-july-2026",
+      "source": "ExplainX.AI",
+      "summary": "7月中旬正式リリース予定のDeepSeek V4。7月24日 15:59 UTCをもって旧モデルが廃止。ピーク時間帯は2倍課金の新価格体系も導入。API利用者は移行計画を今すぐ立てること。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-010",
+      "category": "tech",
+      "title": "Anthropic、SamsungとカスタムAIチップ交渉中＋早ければ10月IPO準備",
+      "url": "https://techstartups.com/2026/07/14/top-tech-news-today-july-14-2026-amazon-cloudflare-google-ibm-nvidia-samsung-xai-more/",
+      "source": "Tech Startups",
+      "summary": "AnthropicがSamsungとClaudeモデル向けカスタムチップの共同開発交渉に入っているほか、早ければ2026年10月のIPOに向けS-1提出を準備中とされる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-tech-011",
+      "category": "tech",
+      "title": "Google DeepMind CEO、米国主導のAI国際標準機関の設立を訴える",
+      "url": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
+      "source": "CNBC",
+      "summary": "ハサビスCEOが米国が主導するAI国際標準機関の設立を求めると表明。各国バラバラの規制ではなく統一基準が必要と主張。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "テック枠が充足。AIガバナンス動向は次回以降で追跡。"
+    },
+    {
+      "id": "2026-07-15-tech-012",
+      "category": "tech",
+      "title": "GitHub Copilot、全プランでスタンドアロンデスクトップアプリを提供開始",
+      "url": "https://www.techtimes.com/articles/319988/20260709/github-copilot-breaks-agent-barrier-free-desktop-app-jetbrains-cost-controls.htm",
+      "source": "TechTimes",
+      "summary": "無料プランを含む全プランでCopilotデスクトップアプリが利用可能に。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-007（JetBrains記事）で関連情報をカバー。"
+    },
+    {
+      "id": "2026-07-15-tech-013",
+      "category": "tech",
+      "title": "Claude Code v2.1.206 アップデート",
+      "url": "https://dev.classmethod.jp/en/articles/20260710-cc-updates-v2-1-206/",
+      "source": "DevelopersIO",
+      "summary": "7/10リリース。バックグラウンドエージェントの安定性向上とマルチターミナル対応の改善が中心。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-003（v2.1.198の機能追加）の方が重要度高い。"
+    },
+    {
+      "id": "2026-07-15-tech-014",
+      "category": "tech",
+      "title": "Claude Sonnet 5 リリース——Opus 4.8性能の9割を40%の価格で",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic",
+      "summary": "6月30日リリース。無料・Proプランのデフォルトモデルに昇格。入力$2/出力$10 per M tokens（〜8月31日）。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "過去7日の除外URLリストに含まれる既報。"
+    },
+    {
+      "id": "2026-07-15-tech-015",
+      "category": "tech",
+      "title": "Cloudflare、VoidZero（Vite・Vitest・Rolldown・Oxc）を買収——100万ドル基金設立",
+      "url": "https://www.buildmvpfast.com/blog/rolldown-vite-8-rust-bundler-2026",
+      "source": "BuildMVPFast",
+      "summary": "2026年6月、CloudflareがVite・Vitest・Rolldown・OxcのVoidZeroを買収。100万ドル規模のエコシステム基金でOSS継続を約束。Vite 8+Rolldownはビルドを最大30倍高速化。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-001",
+      "category": "news",
+      "title": "トランプ、ホルムズ海峡封鎖を再開——全貨物に20%通行料、米・イラン合意が崩壊",
+      "url": "https://news.yahoo.co.jp/articles/f32cef8de8c228c2af56695b5385def71b2471fe",
+      "source": "Forbes JAPAN（Yahoo!ニュース）",
+      "summary": "トランプが7/13、6月の米・イラン合意で解除していたホルムズ海峡封鎖を再開。全貨物に20%の通行料を徴収する前例のない措置。日本の原油輸入の約9割が中東依存で、エネルギー価格・物価への波及が懸念される。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-002",
+      "category": "news",
+      "title": "スペインがフランスを2-0で撃破、4大会ぶりW杯決勝進出——今夜イングランドvsアルゼンチン",
+      "url": "https://news.yahoo.co.jp/articles/8259da17499e2f4d05d9803f84f6778420eedfe2",
+      "source": "Yahoo!ニュース（テレ東スポーツ）",
+      "summary": "スペインが4大会ぶりW杯決勝進出。今夜（日本時間7/16早朝4時）はイングランドvsアルゼンチンの第2準決勝。勝者が7月20日にスペインと決勝で対戦する。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-003",
+      "category": "news",
+      "title": "参院選まで5日——内閣支持率50.4%に大幅低下、れいわ比例が急増",
+      "url": "https://prtimes.jp/main/html/rd/p/000000342.000019431.html",
+      "source": "JX通信社（PR TIMES）",
+      "summary": "7/11〜12調査で内閣支持率が電話調査で50.4%と大幅低下。れいわが3ポイント急増し比例票の行方が混とん。投票日（7/20）まであと5日。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-004",
+      "category": "news",
+      "title": "列島猛暑、熱中症警戒アラート今年最多25都府県に発令",
+      "url": "https://tenki.jp/forecaster/yosh_ika/2026/07/15/39723.html",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "名古屋・熊谷で38℃、東京35℃超の猛暑日。北陸・東北の一部では今年初の警戒アラート。今年最多規模の発令で外出時の水分補給・日傘が特に重要。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-005",
+      "category": "news",
+      "title": "「日本はロシアスパイの巣窟」NYタイムズ衝撃報道——ミサイル部品90%が日本製",
+      "url": "https://news.yahoo.co.jp/articles/e8c2ac70fba2f1d8bf030897cb4ae85e7177118c",
+      "source": "産経新聞（Yahoo!ニュース）",
+      "summary": "追放されたロシア人スパイが日本拠点で軍事物資調達。ロシアのミサイル・ドローン部品の約90%が日本製とウクライナ政府が推計。対外情報機関を持たない「スパイ天国」問題が再び浮上。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-006",
+      "category": "news",
+      "title": "ドル円162円台で推移、中国GDP4.3%増に減速——世界経済の2つの懸念",
+      "url": "https://www.gaitame.com/media/entry/2026/07/15/090859",
+      "source": "外為どっとコム",
+      "summary": "米6月CPI前年比2.8%（予想下振れ）でFRB利上げ観測後退もドル高止まり。中国4〜6月GDP4.3%増と減速（政府目標未達）、不動産投資マイナス18%継続。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-007",
+      "category": "news",
+      "title": "イスラエル総選挙、10月27日に実施確定——反ネタニヤフ勢力がリード",
+      "url": "https://www.jiji.com/jc/article?k=2026071300153&g=int",
+      "source": "時事通信",
+      "summary": "ベネット×ラピド共同新党が対抗軸。最新調査では反ネタニヤフ勢力がリード。ガザ停戦交渉の行方にも影響する中東の政治情勢。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-008",
+      "category": "news",
+      "title": "SNS偽情報規制法が成立——選挙期間中のAI生成コンテンツ表示義務化、2027年地方選から適用",
+      "url": "https://www.nikkei.com/article/DGXZQOUA101YR0Q6A710C2000000/",
+      "source": "日本経済新聞",
+      "summary": "7/13成立。選挙期間中のAI生成画像・動画の表示義務をSNS事業者に課す。2027年統一地方選から適用。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-009",
+      "category": "news",
+      "title": "国内EV乗用車販売、2026年上半期に前年比2倍超",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176891000",
+      "source": "NHKニュース",
+      "summary": "トヨタbZ4X・ホンダ「スーパーワン」など国産新モデルが牽引。新車販売に占めるEV比率が急上昇し日本のEVシフトが加速。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-news-010",
+      "category": "news",
+      "title": "大阪道頓堀ビル火災、元従業員を重過失失火で書類送検",
+      "url": "https://www.nikkei.com/article/DGXZQOUF1425O0U6A710C2000000/",
+      "source": "日本経済新聞",
+      "summary": "2025年8月の火災で消防隊員2名死亡。たばこポイ捨てが原因と特定し元従業員を書類送検。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "本日の主要ニュース枠が充足。"
+    },
+    {
+      "id": "2026-07-15-news-011",
+      "category": "news",
+      "title": "社会保障国民会議が再開、給付付き税額控除2031年度本格導入へ",
+      "url": "https://www.nikkei.com/article/DGXZQOUA076B80X00C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "与野党8党参加の国民会議が再開。給付付き税額控除の2031年度本格導入を議論。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "ニュース枠が充足。参院選後の動向を追うべき話題として次週以降に。"
+    },
+    {
+      "id": "2026-07-15-ent-001",
+      "category": "entertainment",
+      "title": "映画「Michael／マイケル」全世界10億ドル突破——伝記映画史上初の快挙",
+      "url": "https://eiga.com/news/20260713/13",
+      "source": "映画.com",
+      "summary": "7/13に全世界累計10.01億ドル（約1,600億円）を達成。「ボヘミアン・ラプソディ」「オッペンハイマー」を超え伝記映画史上初の10億ドル突破。日本でも累計57億円・2026年公開実写No.1。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-ent-002",
+      "category": "entertainment",
+      "title": "『BLEACH 千年血戦篇-禍進譚-』最終クール、7月25日スタート",
+      "url": "https://www.animatetimes.com/news/details.php?id=1783233782",
+      "source": "アニメイトタイムズ",
+      "summary": "テレビ東京系7/25深夜放送、Disney+は7/26より世界独占配信。OP「jo0ji」・ED「9Lana」が決定。20年超のIPがいよいよ完結。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-ent-003",
+      "category": "entertainment",
+      "title": "『コードギアス 奪還のロゼ』TV放送開始、完全新作アニメ『星追いのアスパル』制作決定",
+      "url": "https://www.animatetimes.com/news/details.php?id=1765156991",
+      "source": "アニメイトタイムズ",
+      "summary": "7/10よりアニメイズム枠で劇場4部作のTV版放送開始。完全新作アニメの制作も正式発表。劇場→TV→新作という多段階IP展開モデルの好事例。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-ent-004",
+      "category": "entertainment",
+      "title": "Netflix×東宝初タッグ『ガス人間』——小栗旬×蒼井優×「新感染」監督の全8話",
+      "url": "https://about.netflix.com/ja/news/human-vapor-main",
+      "source": "Netflix公式",
+      "summary": "脚本はヨン・サンホ、8ヶ月・120か所超のロケ。7/2配信開始後も話題が継続。大手映画会社×グローバル配信プラットフォームの初タッグが業界で注目。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-ent-005",
+      "category": "entertainment",
+      "title": "NCT WISH「YO-I-DON!」本日7/15リリース——グループ初の日本語タイトル曲",
+      "url": "https://k-plaza.com/2026/07/nct-wish-260713.html",
+      "source": "K-PLAZA",
+      "summary": "平成ポップを意識したダンスポップでK-POPの日本ローカライズ施策の最新事例。先行ファンミは4万人完売。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-ent-006",
+      "category": "entertainment",
+      "title": "Stray Kids「THIS & THAT」8月7日発売・東京国立競技場8/29-30公演決定",
+      "url": "https://www.kpops.co/en/news/stray-kids-run-it-world-tour-dates-2026-2027-and-this-that-comeback",
+      "source": "Kpops",
+      "summary": "新ミニアルバム「THIS & THAT」8/7発売。ワールドツアー「RUN IT」で国立競技場2日間公演が決定。名古屋・大阪・福岡にも来日予定。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-ent-007",
+      "category": "entertainment",
+      "title": "夏ドラマ視聴率速報——大河「豊臣兄弟！」11.3%首位、蒼井優「Tシャツが乾くまで」好スタート",
+      "url": "https://drama-uwasa.com/drama-shichouritsu-2026summer/",
+      "source": "ドラマの噂話",
+      "summary": "7/12時点。1位「豊臣兄弟！」11.3%、3位「Tシャツが乾くまで」6.9%。蒼井優主演作はNetflixとも掛け持ちで注目度高い。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-ent-008",
+      "category": "entertainment",
+      "title": "「Michael／マイケル」日本累計57億円・2026年公開実写No.1",
+      "url": "https://pointed.jp/2026/07/14/michael-movie-2/",
+      "source": "Pointed",
+      "summary": "日本累計57億円・動員359万人超。ent-001に統合。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "ent-001（全世界10億ドル記事）に日本の数字を統合済み。"
+    },
+    {
+      "id": "2026-07-15-ent-009",
+      "category": "entertainment",
+      "title": "Da-iCE「アンリミテッド」7/15配信、歌詞「ゴクッゴクッ」のみでSNS騒然",
+      "url": "https://avexnet.jp/news/1034502",
+      "source": "avex portal",
+      "summary": "キリンビールCMソングとして配信。先行公開の歌詞が「ゴクッゴクッ」のみでバズ中。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "エンタメ枠が充足。"
+    },
+    {
+      "id": "2026-07-15-ent-010",
+      "category": "entertainment",
+      "title": "Netflix韓国ドラマ「マンションのお仕事」7/12配信開始",
+      "url": "https://eclat.hpplus.jp/lifestyle/culture/203857/",
+      "source": "éclat",
+      "summary": "チソン×ハ・ユンギョン共演。7/18にも「恋は命がけ」配信予定でNetflixの7月韓国ドラマ攻勢が注目。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "エンタメ枠が充足。"
+    },
+    {
+      "id": "2026-07-15-ent-011",
+      "category": "entertainment",
+      "title": "『無職転生Ⅲ』7/5放送スタート——エリス修行編が初映像化",
+      "url": "https://times.abema.tv/articles/-/10085800",
+      "source": "ABEMAタイムズ",
+      "summary": "夏アニメ注目作の第3期が放送開始。ABEMA・dアニメで最速配信。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "エンタメ枠が充足。BLEACHとコードギアスを優先。"
+    },
+    {
+      "id": "2026-07-15-hobby-001",
+      "category": "hobby",
+      "title": "タムロン「12-20mm F2.8（A084）」本日7/15正式発表——星景撮影に最適化した超広角ズーム",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2125047.html",
+      "source": "デジカメ Watch",
+      "summary": "フルサイズ対応・F2.8通し・重量570gの超広角ズーム。サジタルコマフレア補正で星景撮影に最適化。8月27日発売予定。ソニーE用37.9万円・ニコンZ用39.9万円。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-002",
+      "category": "hobby",
+      "title": "ソニーRX10V 初期レビューで賛否——「AF劇的改善」と「低照度が課題」が拮抗",
+      "url": "https://mirrorless-camera.info/review/sony-review/56513.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "9年ぶり刷新のRX10V（7/9発表・7/31発売・約36万円）。AF速度大幅向上を高評価する声と、高ISO・低照度AFの限界を指摘する声が拮抗。24-600mmの汎用性と動画進化は概ね好評。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-003",
+      "category": "hobby",
+      "title": "PS Store「SUMMER SALE」本日7/15スタート——最大80%オフ、2026年タイトルも対象",
+      "url": "https://blog.ja.playstation.com/2026/07/15/20260715-summer-sale-ps-store-sale-s/",
+      "source": "PlayStation.Blog 日本語",
+      "summary": "ゴースト・オブ・ヨウテイ25%オフ・バイオハザードリクイエム20%オフなど最新作も値引き対象。7/29まで。積みゲー消化・新規購入の絶好タイミング。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-004",
+      "category": "hobby",
+      "title": "パルワールド1.0レビューが出揃う——Steam94%好評・新パル72体・「後半の遠征強すぎ」問題も",
+      "url": "https://automaton-media.com/articles/reportjp/20260710-454297/",
+      "source": "AUTOMATON",
+      "summary": "Steamレビュー36万件中94%好評。3新エリア・世界樹・覚醒育成を高評価。一方、後半の遠征システムが強すぎて生産拠点が形骸化するという指摘も。復帰プレイに最適なタイミング。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-005",
+      "category": "hobby",
+      "title": "カルドセプト ビギンズ、明日7/16発売——シリーズ約10年ぶりの完全新作",
+      "url": "https://geo-online.co.jp/campaign/special/game/culdcept_begins.html",
+      "source": "ゲオ",
+      "summary": "Switch・Switch2両対応。400種類以上のカード×新育成要素。Switch版6,380円・Switch2版7,480円。前日譚オリジナルストーリー。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-006",
+      "category": "hobby",
+      "title": "崩壊スターレイル Ver.4.4本日7/15配信——炎属性新5★「姫子・旅立ち」実装",
+      "url": "https://www.4gamer.net/games/599/G059954/20260714016/",
+      "source": "4Gamer.net",
+      "summary": "炎・知恵属性の新5★「姫子・旅立ち」が実装。巨大装甲召喚と味方への支援スキル付与が特徴。ガチャ期間は8/25まで。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-007",
+      "category": "hobby",
+      "title": "無印良品カレーフェス 7/25〜8/16 六本木ヒルズ——45種類のカレーを食べ比べ",
+      "url": "https://www.roppongihills.com/events/2026/05/0590.html",
+      "source": "六本木ヒルズ",
+      "summary": "スパイスカレーを含む45種類が集結。入場無料、カレーは個別購入制。夏の都内お出かけスポットとして今から予定に入れておきたい。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-008",
+      "category": "hobby",
+      "title": "ソニー FX5、7月22日発表が濃厚——グローバルシャッター搭載コンパクトシネカメ",
+      "url": "https://digicame-info.com/2026/07/fx5722.html",
+      "source": "デジカメinfo",
+      "summary": "5K・X-OCN LT内部RAW記録対応と伝えられる。「mini VENICE」と位置付けられコンパクト設計。来週7/22の発表がほぼ確実視されている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-009",
+      "category": "hobby",
+      "title": "「もう一度、植田正治」発掘カラー作品展——7/31まで新宿・北村写真機店で無料公開",
+      "url": "https://getnavi.jp/capa/exhibition/tokyo/",
+      "source": "CAPA CAMERA WEB",
+      "summary": "日本写真史を代表する植田正治の未公開カラー作品とオリジナルプリントを展示。入場無料で今週末でも間に合う。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-010",
+      "category": "hobby",
+      "title": "ポケモン公式新作ボードゲーム「お前、もしかしてロケット団？」2026年11月発売",
+      "url": "https://www.famitsu.com/schedule",
+      "source": "ファミ通.com",
+      "summary": "7/14発表。ロケット団をテーマにした正体隠匿系またはパーティゲームと見られる。ポケモン公式が大人向けジャンルに参入する新しい試み。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-15-hobby-011",
+      "category": "hobby",
+      "title": "RX10V 好意的評価レビュー——「多くの人の望みを叶える汎用機」",
+      "url": "https://mirrorless-camera.info/review/sony-review/56516.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "AIプロセッシングユニットによるAF追従改善と汎用性を高評価する声も。hobby-002に統合。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-002（RX10V初期レビュー記事）内で両論を統合して紹介。"
+    },
+    {
+      "id": "2026-07-15-hobby-012",
+      "category": "hobby",
+      "title": "十条駅前「スパイスカレー屋さんの台所」7月初旬新オープン",
+      "url": "https://akabane-shinbun.com/archives/255678",
+      "source": "赤羽マガジン",
+      "summary": "多彩なトッピングを組み合わせることで異なる表情のスパイスカレーが楽しめる。十条駅前で交通利便性が高い。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "趣味枠が充足。無印カレーフェスを優先。"
+    }
+  ]
+}
