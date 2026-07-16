@@ -1,0 +1,446 @@
+{
+  "date": "2026-07-16",
+  "notion_page_id": "39fa41a3-cf9b-81bb-96ed-cd5409283744",
+  "articles": [
+    {
+      "id": "2026-07-16-tech-001",
+      "category": "tech",
+      "title": "Angular 22——Signal Forms・Zoneless・Resource API が全て安定版に昇格、Signal First時代が本格到来",
+      "url": "https://angular.love/angular-22-key-features-and-changes",
+      "source": "Angular.love",
+      "summary": "2026年6月3日リリースのAngular 22でSignal Forms・Zoneless・resource()/httpResource()が全て安定版（stable）に昇格。新規プロジェクトのデフォルトがChangeDetectionStrategy.OnPushに変更され、Zone.js不要のZonelessが標準化。Angular CLI MCP Server（v22で安定版）がClaude Code・GitHub Copilotと統合され、最新Angularパターン準拠のコード自動生成が可能に。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-002",
+      "category": "tech",
+      "title": "Gemini 3.5 Pro、明日7/17リリース目標——2Mトークンコンテキスト・アーキテクチャ完全再構築",
+      "url": "https://memeburn.com/gemini-3-5-pro-targets-july-17-with-2m-token-context/",
+      "source": "Memeburn",
+      "summary": "複数メディアが「7/17リリース」と報道。2Mトークンコンテキスト・Deep Think推論レイヤー搭載が噂されており、Google公式発表はなく情報は未確定。GPT-5.6・Fable 5を意識した構成で、LLM 3強の勢力図が明日更新されそう。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-003",
+      "category": "tech",
+      "title": "DeepSeek V4 APIマイグレーション期限まで残り8日——7/24に旧モデル名 deepseek-chat・deepseek-reasoner 廃止",
+      "url": "https://dev.to/agdex_ai/deepseek-v4-api-migration-guide-everything-before-the-july-24-2026-deadline-4m30",
+      "source": "DEV Community",
+      "summary": "DeepSeek V4が7/15に正式リリース。旧API名deepseek-chat・deepseek-reasonerは2026/7/24 15:59 UTC廃止。移行先はdeepseek-v4-pro（Thinking対応）とdeepseek-v4-flash（軽量版）。modelパラメータ更新のみで対応可。API利用中のサービスは今週中に対応を。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-004",
+      "category": "tech",
+      "title": "GitHub Copilotに /security-review コマンド追加——コード差分をリアルタイム脆弱性スキャン（7/14 パブリックプレビュー）",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app/",
+      "source": "GitHub Changelog",
+      "summary": "7/14パブリックプレビュー開始。編集中のコード差分を自動スキャンしSQLインジェクション・XSS・パストラバーサルなどを重大度・信頼度スコア付きで検出。Copilot全プラン対応。日常コーディングフローにセキュリティレビューが統合される重要な変化。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-005",
+      "category": "tech",
+      "title": "Vite 8 + Rolldown——ビルド最大30倍高速化、Angular 22でデフォルトテストランナー（Vitest）として採用",
+      "url": "https://vite.dev/blog/announcing-vite8",
+      "source": "Vite 公式ブログ",
+      "summary": "Rust製バンドラーRolldownを統合しRollup互換プラグインAPIを維持しながら最大30倍高速化。Linearのフルビルドが46秒→6秒（87%削減）、GitLab社ではWebpack比43倍高速化。Angular 22でVitestがデフォルトテストランナーに採用されVite 8との組み合わせが標準化。CloudflareによるVoidZero買収後もOSS継続確約。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-006",
+      "category": "tech",
+      "title": "Claude Codeデスクトップに内蔵ブラウザ搭載——ドキュメント・デザインサイトをAIと共同参照（Week 28）",
+      "url": "https://mlq.ai/news/anthropic-adds-built-in-web-browser-to-claude-code-desktop-app/",
+      "source": "MLQ AI News",
+      "summary": "Week 28（7/6-10）アップデート。Cmd+Shift+Bでブラウザを開き、ローカル開発サーバーや外部ドキュメントをAIと同時参照可能に。/doctorコマンドも強化されCLAUDE.md最適化・重複スキル検出が自動実行できるようになった。フロントエンド開発時のUI確認効率が大幅向上。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-007",
+      "category": "tech",
+      "title": "OpenAI「GPT-Red」——AIが自らAIを攻撃して脆弱性を発見、成功率84%でGPT-5.6を強化",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "source": "OpenAI",
+      "summary": "7/15発表の自動レッドチーミングAI。人間の成功率13%を大幅超える84%でGPT-5.6の脆弱性を発見。「偽チェーン・オブ・ソート攻撃」という未知の手法を独自発見し修正済み。内部ツールとして非公開だが、AIセキュリティ設計の転換点として要注目。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-008",
+      "category": "tech",
+      "title": "ChatGPT 全チャット・プロジェクト・画像・ドキュメント横断検索に対応——全プランでグローバル展開（7/14）",
+      "url": "https://www.progressiverobot.com/2026/07/14/chatgpt-rolls-out-search-across-chats-projects-images-and-documents/",
+      "source": "Progressive Robot",
+      "summary": "サイドバーから過去の全会話・プロジェクト・アップロード画像・ドキュメントをまとめて横断検索可能に。コンテンツタイプ別フィルターも追加。Web/iOS/Android対応、全プランでグローバルロールアウト中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-009",
+      "category": "tech",
+      "title": "Angular CLI MCP Server 安定版——Claude Code・GitHub CopilotがAngularの最新パターンでコード自動生成",
+      "url": "https://angular.dev/ai/mcp",
+      "source": "Angular 公式ドキュメント",
+      "summary": "Angular CLI v20.2以降で利用可、v22で安定版。find_examples・get_best_practicesなどのツールでAIがSignals・standalone・OnPush・ネイティブ制御フローなど最新Angularパターン準拠のコードを自動生成。Angular+Claude Code利用者はすぐ試すべき機能。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-tech-010",
+      "category": "tech",
+      "title": "DeepSeek V4 Pro/Flash 正式詳細——1Mトークンコンテキスト・OpenAI/Anthropic互換API対応",
+      "url": "https://wavespeed.ai/blog/posts/blog-deepseek-v4-model-name-migration/",
+      "source": "WaveSpeed Blog",
+      "summary": "V4 Pro（高度な推論・Thinking対応）とV4 Flash（軽量・コスト効率重視）が7/15正式リリース。両モデルとも1Mトークンコンテキスト対応。OpenAI ChatCompletions互換とAnthropic互換APIの両方で提供。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-003（マイグレーション緊急度記事）でDeepSeek V4の要点をカバー済み。重複回避。"
+    },
+    {
+      "id": "2026-07-16-tech-011",
+      "category": "tech",
+      "title": "Angular 22 その他改善——Vitest標準化・セレクターレスコンポーネント・@Service・injectAsync",
+      "url": "https://dev.to/rigole/angular-22-is-here-everything-you-need-to-know-4g3c",
+      "source": "DEV Community",
+      "summary": "Angular 22でVitestがデフォルトテストランナーに。セレクターレスコンポーネント・@Serviceデコレータ・injectAsync・debounced provideなど新API追加。Angular CLI MCP安定版サポートも同梱。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-001（Angular 22大記事）とtech-009（Angular CLI MCP）で内容をカバー済み。"
+    },
+    {
+      "id": "2026-07-16-tech-012",
+      "category": "tech",
+      "title": "Claude Code Artifacts——AIの成果物をclaude.ai上のライブWebページとして即時共有（Team/Enterprise Beta）",
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w25",
+      "source": "Claude Code 公式ドキュメント",
+      "summary": "Week 25で追加。AIが生成したドキュメント・レポート・コードをclaude.ai上のライブページとして共有可能。作業進行に合わせてリアルタイム更新。現在Team・Enterpriseプランのベータ機能。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "テック枠が充足。Claude Code内蔵ブラウザ（tech-006）を優先。"
+    },
+    {
+      "id": "2026-07-16-news-001",
+      "category": "news",
+      "title": "ホルムズ海峡 LNG通航ゼロ継続・米軍イラン軍80カ所以上攻撃——エネルギー危機が深刻化",
+      "url": "https://global-scm.com/blog/?p=7885",
+      "source": "グローバルSCM",
+      "summary": "LNGタンカーの通航が7月11日以降ゼロの状態が続き、7/12のタンカー通航数は6隻と5週間ぶり最少。米軍はイラン革命防衛隊の小型艇60隻以上を含む約80カ所を継続攻撃。ブレント原油が7/13に一時79ドル台（6月22日以来の高値）。QatarEnergyはラスラファン生産回復を停止。日本のLNG調達価格の急騰リスクが高まっている。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-001b",
+      "category": "news",
+      "title": "米軍 イラン軍80カ所以上を攻撃、トランプ「交渉再開の期限は設けない」",
+      "url": "https://www.arabnews.jp/article/middle-east/article_181322/",
+      "source": "Arab News Japan",
+      "summary": "米中央軍が7月7日以降、イラン革命防衛隊の目標80カ所以上への攻撃を実施・継続中。トランプ大統領は交渉再開の期限を設けないと明言。ホルムズ海峡危機の軍事的背景として重要。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "news-001（ホルムズ大記事）内に統合して掲載。"
+    },
+    {
+      "id": "2026-07-16-news-002",
+      "category": "news",
+      "title": "W杯準決勝——アルゼンチンがイングランドに2-1逆転勝利、スペインと決勝（7/19）へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177261000",
+      "source": "NHKニュース",
+      "summary": "今朝（日本時間4時）の準決勝でアルゼンチンが2-1逆転勝利。後半85分フェルナンデス同点弾、92分ラウタロ（メッシのアシスト）が決勝点。決勝は7月19日（日）スペイン対アルゼンチン。参院選投票日7/20と重なる「歴史的週末」が到来する。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-003",
+      "category": "news",
+      "title": "利根川進さん死去 86歳——日本人初のノーベル生理学・医学賞受賞者",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178081000",
+      "source": "NHKニュース",
+      "summary": "7月11日に86歳で死去、7/16にMITが発表。1987年、抗体多様性を生む遺伝子組み換えメカニズムの解明でノーベル賞受賞。その後は記憶の分子メカニズム研究でも世界をリード。科学界から追悼声明が相次いでいる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-004",
+      "category": "news",
+      "title": "参院選 投票日4日前——「支持なし」37.0%が自民35.7%を上回るNHK最新調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175461000",
+      "source": "NHKニュース",
+      "summary": "NHK調査で自民35.7%、「支持なし」37.0%と無党派が第1勢力に。JX通信社調査では参政4.9%が躍進、れいわも比例で伸びを維持。無党派層の動向が選挙結果の最大の焦点。7/20投票。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-005",
+      "category": "news",
+      "title": "NVIDIAジェンスン・フアンCEO来日——川崎重工・トヨタと物理AI連携、「ジャパンAIが始まる」本日発表",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2125544.html",
+      "source": "AI Watch（Impress）",
+      "summary": "7/16本日来日し、川崎重工・トヨタなどと物理AI（ロボット・産業自動化）とソブリンAI「Noetra」の大型連携を発表予定。SoftBank主導の政府支援AIプロジェクトへのNVIDIAインフラ提供も表明。製造・ロボティクス・ヘルスケアにまたがる日本向けAI投資が本格加速。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-006",
+      "category": "news",
+      "title": "「給付付き税額控除」2029年度導入で大筋合意——超党派実務者会議、参院選直前にまとまる",
+      "url": "https://news.yahoo.co.jp/articles/7136091999a0669a0ee9297b4e96cad34d8c403c",
+      "source": "共同通信（Yahoo!ニュース）",
+      "summary": "超党派の社会保障国民会議が7/16、低所得の働き手を支援する「給付付き税額控除」を2029年度本格導入で大筋合意。2027年度に先行導入し税額控除相当分を現金給付に一本化。参院選期間中にまとまった重要な政策合意。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-007",
+      "category": "news",
+      "title": "再審制度改正案 本日参院法務委員会で採決——7/17参院本会議で可決へ",
+      "url": "https://kumanichi.com/articles/2014289",
+      "source": "熊本日日新聞（共同通信）",
+      "summary": "再審開始決定への検察官の不服申し立てを原則禁止とする刑事訴訟法改正案。高市首相出席で今日採決予定、7/17参院本会議可決を目指す。冤罪被害者問題に関わる司法改革として注目。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-008",
+      "category": "news",
+      "title": "観光庁が民泊「ゼロ日規制」を容認——自治体が条例で実質禁止可能に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177851000",
+      "source": "NHKニュース",
+      "summary": "観光庁が7/15、住宅地・学校周辺の民泊営業日数を条例でゼロにする「ゼロ日規制」を全国自治体に通知。ICT管理体制の義務付けも認める。オーバーツーリズム対策が強化される方針転換。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-news-009",
+      "category": "news",
+      "title": "参院選後の政局と市場への影響——不安定政局は株価にネガティブ、7/21以降の金融市場が焦点",
+      "url": "https://www.dlri.co.jp/report/macro/481299.html",
+      "source": "第一ライフ資産運用経済研究所",
+      "summary": "自民・維新が連携して過半数確保なら安定政権継続で株価プラス要因、不安定政局は株価にネガティブとの分析。7/20開票速報が翌週以降の金融市場を左右するとみられる。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "ニュース枠が充足。参院選関連はnews-004でカバー。"
+    },
+    {
+      "id": "2026-07-16-news-010",
+      "category": "news",
+      "title": "大日本印刷（DNP）が協和ファーマケミカルを買収——医薬品CDMO事業へ本格参入",
+      "url": "https://www.nikkei.com/article/DGXZQOUC161AE0W6A710C2000000/",
+      "source": "日本経済新聞",
+      "summary": "DNPがキリンHD系の原薬製造会社を子会社化（2026年10月完了予定）。原薬から包装まで一貫対応できるCDMO体制を構築。印刷事業から医薬品製造へのDX的な事業転換として注目。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "ニュース枠が充足。本日の主要ニュース（ホルムズ、W杯、利根川訃報）を優先。"
+    },
+    {
+      "id": "2026-07-16-ent-001",
+      "category": "entertainment",
+      "title": "ドラマ『VIVANT』第2シーズン、7月26日スタート——全キャスト26名集結の生放送SP直前",
+      "url": "https://www.cinematoday.jp/news/N0155822",
+      "source": "シネマトゥデイ",
+      "summary": "堺雅人主演のTBS日曜劇場「VIVANT」第2シーズンが7月26日21時より放送開始。日曜劇場史上異例の2クール連続放送。放送直前の7/26 20〜21時に堺雅人・阿部寛・二宮和也ら主要キャスト26名が集結する生放送SP放映。U-NEXTは放送同時スタート。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-002",
+      "category": "entertainment",
+      "title": "BTS、7/19 W杯決勝ハーフタイムショーにマドンナ・シャキーラと共演——NHK・DAZNで無料生中継",
+      "url": "https://e.usen.com/news/news-event/bts2026-fifa.html",
+      "source": "encore（USEN）",
+      "summary": "7月19日（日）ニューヨーク・ニュージャージーでW杯史上初のハーフタイムショー。BTSがマドンナ・シャキーラと共同ヘッドライナー、クリス・マーティンが演出。約11分のパフォーマンスをNHK総合・BS4K・DAZNで無料生中継。K-POP×世界最大スポーツIPの融合という歴史的イベント。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-003",
+      "category": "entertainment",
+      "title": "『攻殻機動隊 THE GHOST IN THE SHELL』新アニメ第1話——「原作準拠で神すぎ」SNS沸騰",
+      "url": "https://animeanime.jp/article/2026/07/08/100828.html",
+      "source": "アニメ！アニメ！",
+      "summary": "7/7放送開始、サイエンスSARU制作。士郎正宗原作に忠実なビジュアルでSNSトレンド入り。監督はモコちゃん、脚本は円城塔（SF作家）、OP はKing Gnu、EDはMILLENNIUM PARADE。攻殻を知らない世代にも届く「原作準拠×現代スタッフ」というIP再生の好事例。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-004",
+      "category": "entertainment",
+      "title": "『BLEACH 千年血戦篇-禍進譚-』7/25まで9日——最終PV・OP音源解禁",
+      "url": "https://natalie.mu/comic/news/679353",
+      "source": "コミックナタリー",
+      "summary": "最終クール「禍進譚」が7/25 23時よりテレ東系放送開始。第41話から一護 vs ユーハバッハの最終決戦へ。OP「I-BULL」（jo0ji）・ED「螺旋」（9Lana）音源解禁済み。Prime Video・Netflix でも7/26配信開始。20年超IPの完結まで残り9日。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-005",
+      "category": "entertainment",
+      "title": "『トイ・ストーリー5』3週連続首位、累計50億円突破——最終興収200億円超えが射程圏内",
+      "url": "https://www.disney.co.jp/movie/toy5/news/20260713_01",
+      "source": "ディズニー公式",
+      "summary": "7/3公開から3週で累計337万人・50億円突破。ディズニー作品の国内最速記録を更新。洋画アニメーション歴代OPも達成し最終200億円超えが視野に。映画「Michael」と合わせ2026年夏の劇場業界は歴史的当たり年。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-006",
+      "category": "entertainment",
+      "title": "aespa「KISS N TELL」7月24日発売——日本初ミニアルバム全6曲がオリジナル日本語楽曲",
+      "url": "https://aespa-official.jp/news/1st-minialbum-kissntell/",
+      "source": "aespa JAPAN OFFICIAL",
+      "summary": "全6曲がオリジナル日本語楽曲。アニメ「Kilao」OP曲「ATTITUDE」やドラマ主題歌「In Halo」を収録。7/23〜8/2はMIYASHITA PARKでポップアップ開催。4形態展開のK-POP日本ローカライズ戦略の最新例。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-007",
+      "category": "entertainment",
+      "title": "あいみょん 阪神甲子園球場でメジャーデビュー10周年ライブ——2日間5万人完走",
+      "url": "https://www.billboard-japan.com/d_news/detail/157062/2",
+      "source": "Billboard JAPAN",
+      "summary": "7/14・15の2日間、バンド編成×5万人でマリーゴールドなど代表曲を披露。4年ぶり球場ライブで即完売。国内J-POPアーティストの周年大型ライブ・ファンダム醸成の事例として注目。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-008",
+      "category": "entertainment",
+      "title": "大河「豊臣兄弟！」11.3%でドラマ首位キープ——本能寺の変迫るクライマックスへ",
+      "url": "https://mantan-web.jp/article/20260706dog00m200007000a.html",
+      "source": "MANTANWEB",
+      "summary": "7/5放送分も11.3%と安定した数字をキープし夏ドラマ圏で首位を堅守。クライマックスに向け視聴熱が上昇中。蒼井優主演「Tシャツが乾くまで」も好調継続。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-009",
+      "category": "entertainment",
+      "title": "NiziU 初のベストアルバム「Portfolio」——日韓合同グループ6年目の集大成が各チャートを席巻",
+      "url": "https://www.sonymusic.co.jp/artist/niziu/info/583030",
+      "source": "ソニーミュージック公式",
+      "summary": "7/1発売、全20曲収録。完全生産限定盤にはBlu-ray・ネックストラップ・ミニCDキーホルダーなど豪華グッズ同梱で4形態展開。各種デジタルチャートで上位をキープしロングヒット継続中。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-ent-010",
+      "category": "entertainment",
+      "title": "コードギアス 奪還のロゼ TV放送スタート——公式サイト記事",
+      "url": "https://geass.jp/news/archives/4322",
+      "source": "コードギアス公式サイト",
+      "summary": "7/10よりMBS/TBS「アニメイズム」枠でTV地上波初放送。20周年記念ラインナップ。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/15）のアニメイトタイムズ記事（animatetimes.com ID:1765156991）と内容が重複。除外。"
+    },
+    {
+      "id": "2026-07-16-ent-011",
+      "category": "entertainment",
+      "title": "無職転生Ⅲ 第3期 7/5より放送中——エリス修行編が初映像化",
+      "url": "https://animeanime.jp/article/2026/07/14/101043.html",
+      "source": "アニメ！アニメ！",
+      "summary": "スタジオバインド制作の第3期が7/5よりTOKYO MX等で放送開始。ABEMA・dアニメで最速配信。ニナ役に戸松遥、ガル役に稲田徹が新加入。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "エンタメ枠が充足。VIVANT・BTS・攻殻機動隊・BLEACH・トイストーリーを優先。"
+    },
+    {
+      "id": "2026-07-16-hobby-001",
+      "category": "hobby",
+      "title": "ソニー RX10V、本日7/16 10時より予約受付開始——7/31発売・約36万円",
+      "url": "https://www.minnacamera.com/mags/6006",
+      "source": "みんなのカメラ",
+      "summary": "昨日レビューが話題になったRX10V（9年ぶり刷新、24-600mm光学25倍）がいよいよ本日10時より予約受付開始。1型積層CMOS×AI処理ユニットでAF追従が大幅向上。野生動物・旅行・スポーツ撮影のオールインワン機として7/31発売予定。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-hobby-002",
+      "category": "hobby",
+      "title": "「カルドセプト ビギンズ」本日7/16発売——各誌レビューが「シリーズ史上最も遊びやすい」と高評価",
+      "url": "https://www.4gamer.net/games/981/G098181/20260716023/",
+      "source": "4Gamer.net",
+      "summary": "シリーズ10年ぶりの新作が本日発売。GAME Watch・電撃オンラインなど各誌が「オート機能×1.3倍速テンポで周回効率が劇的向上」「TCG×ボードゲームの醍醐味はそのまま」と高評価。Switch版6,380円・Switch2版7,480円。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-hobby-003",
+      "category": "hobby",
+      "title": "「スプラトゥーン レイダース」来週7/23発売——PvEに特化した1〜4人協力スピンオフ",
+      "url": "https://www.famitsu.com/article/202606/79776",
+      "source": "ファミ通.com",
+      "summary": "Switch2向けスプラシリーズ初PvEスピンオフ。1〜4人協力ヒーローモードで謎の島を冒険する。先行プレイレポでは「対人戦とはまた違う楽しさ」が好評。DL版6,480円・パッケージ版7,480円。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-hobby-004",
+      "category": "hobby",
+      "title": "ソニー「FX5」確定スペックまとめ——7/22発表、1660万画素積層センサー×5Kオープンゲート×X-OCN内部RAW",
+      "url": "https://dclife.jp/archives/15567",
+      "source": "デジカメライフ",
+      "summary": "7月22日（火）23時の正式発表が濃厚。1660万画素完全積層センサー・5Kオープンゲート（3:2）・X-OCN内部RAW録画対応。VENICEスタイルのメニュー×新型EVFで5,399〜5,499ユーロ（FX6より安価）の見込み。コンパクトシネカメとして来週要注目。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-hobby-005",
+      "category": "hobby",
+      "title": "コシナ フォクトレンダー「NOKTON classic 35mm F1.4」キヤノンRF・ニコンZマウント対応版が7月発売",
+      "url": "https://getnavi.jp/capa/news/499684",
+      "source": "CAPA CAMERA WEB",
+      "summary": "ライカM版の光学系ベース。電子接点搭載でボディ内手ブレ補正連動可能。クラシックな収差描写が楽しめるMF単焦点レンズ、希望小売価格9万9,000円。RF・Zマウントユーザーのフィルムライク撮影の選択肢に。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-hobby-006",
+      "category": "hobby",
+      "title": "東大阪・八戸ノ里にスパイスカレー新店「裏カリー」——カレー×ドリップコーヒーの新スタイル",
+      "url": "https://higashiosaka.goguynet.jp/2026/07/10/urakari-supaici/",
+      "source": "号外NET 東大阪市",
+      "summary": "スパイスチキンカレーやエビクリームチキンカレーと浅煎り・中深煎り・深煎りのドリップコーヒーをセットで楽しむ新スタイル。八戸ノ里駅から徒歩7分、2026年6月中旬オープン。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-hobby-007",
+      "category": "hobby",
+      "title": "「カルドセプト ビギンズ」GAME Watchレビュー——シリーズの集大成、初心者も上級者も楽しめる完成度",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2122948.html",
+      "source": "GAME Watch",
+      "summary": "TCG×ボードゲームという独自性を維持しつつ、情報参照性の向上・オート進行・演出の美麗化でシリーズ史上最も遊びやすい作品に仕上がったと評価。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-002（カルドセプト発売記事）内にレビューの評価をまとめて統合。"
+    },
+    {
+      "id": "2026-07-16-hobby-008",
+      "category": "hobby",
+      "title": "SPICE DIVE! OSAKA 2026——大阪メトロ×ハウス食品のスパイスカレー聖地めぐりラリー開催中",
+      "url": "https://metro9.osaka/lp/spicecurry26/",
+      "source": "Osaka Metro",
+      "summary": "大阪メトロ沿線のスパイスカレー名店をスタンプラリー形式で巡るイベント。大阪独自のカレー文化（カツ×スパイスの融合など）の歴史的背景も学べる内容。無印良品カレーフェスとセットで今夏のカレー巡りを計画するのもいい。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-16-hobby-009",
+      "category": "hobby",
+      "title": "「アサシン クリード ブラック フラッグ RE:シンクロ」200万本突破——Steamレビューが「やや好評」に回復",
+      "url": "https://www.gamespark.jp/article/2026/07/11/169143.html",
+      "source": "Game*Spark",
+      "summary": "7/9発売から初日200万本突破、Metacritic84点。Steamレビューも「やや好評」に回復。Anvilエンジン全面再構築でリアルタイムレイトレーシング・新パリィシステムを追加。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "趣味枠が充足。カルドセプト・スプラトゥーン・RX10V・FX5を優先。"
+    }
+  ]
+}
