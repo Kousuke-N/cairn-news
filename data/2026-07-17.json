@@ -1,0 +1,414 @@
+{
+  "date": "2026-07-17",
+  "notion_page_id": "3a0a41a3-cf9b-813e-b0a2-e90b1f263854",
+  "articles": [
+    {
+      "id": "2026-07-17-tech-001",
+      "category": "tech",
+      "title": "Claude Code v2.1.212 本日リリース——/fork が独立バックグラウンドセッション作成に変更",
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "source": "Anthropic / GitHub",
+      "summary": "7/17リリース。/forkがサブエージェント起動から独立バックグラウンドセッション作成に変更（旧動作は/subtaskへ）。WebSearch上限（デフォルト200回）・サブエージェント上限（200回）を新設。auto-mode reset機能も追加。Claude Code利用者は本日中にアップデートを確認推奨。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-002",
+      "category": "tech",
+      "title": "Gemini 3.5 Pro、コーディング性能の問題で本日7/17も再遅延（未確認）",
+      "url": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/",
+      "source": "9to5Google",
+      "summary": "7/17を目標としていたGemini 3.5 Proがコーディング性能に問題があり再び遅延した模様（非公式）。Googleの公式発表なし。アップグレード版Flash modelも並行テスト中。LLM勢力図更新はさらに先へ。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-003",
+      "category": "tech",
+      "title": "DeepSeek V4 API移行期限まで残り7日——7/24 UTC以降、旧モデル名が完全廃止",
+      "url": "https://enterprisedna.co/resources/news/deepseek-api-migration-july-24-deadline-2026/",
+      "source": "Enterprise DNA",
+      "summary": "deepseek-chat/deepseek-reasonerは7/24 15:59 UTC廃止。移行先deepseek-v4-flashまたはdeepseek-v4-pro（1行変更のみ）。thinkingモードがリクエストパラメータ方式に変わったため、reasoner利用者は要注意。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-004",
+      "category": "tech",
+      "title": "中国Moonshot AI「Kimi K3」公開——2.8兆パラメータ・歴代最大のオープンウェイトMoEモデル",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "source": "VentureBeat",
+      "summary": "7/16公開。総パラメータ2.8兆のMoEモデルで1Mトークンコンテキスト。7/27までにオープンウェイト版公開予定。Fable 5相当と主張。中国のOSS LLMが米国トップモデルに肉薄する最新例。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-005",
+      "category": "tech",
+      "title": "Angular 22: The Most Important New Features——Manfred Steyer（Angular GDE）による決定版解説",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "source": "ANGULARarchitects",
+      "summary": "Resource API・Signal Forms stable昇格、OnPushデフォルト化をコード例付きで整理。@Service・injectAsync・debouncedなど新API網羅。既存プロジェクトへの段階移行ガイドとしても有用。Angular最高権威の一人による必読記事。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-006",
+      "category": "tech",
+      "title": "Claude for Teachers——K-12教員向け無料Claude提供プログラム（Anthropic 7/14発表）",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "Anthropic",
+      "summary": "全米50州の学習指導要領対応カリキュラムアクセス。Claude Code・Cowork含む。FERPAコンプライアンス対応。教育分野へのAI本格展開。申込期限2027年6月30日。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-007",
+      "category": "tech",
+      "title": "OpenAI 初ハードウェア製品——スクリーンなし・機械的に動くAIスピーカー、2027年発売予定",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch",
+      "summary": "Bloomberg報道。Jony Ive率いるio Products設計。機械的に動く部品で「生きているような感覚」を演出。カメラ・センサー搭載、ChatGPT Voice Mode活用。2027年発売予定。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-008",
+      "category": "tech",
+      "title": "TSKaigi 2026 発表資料まとめ——TypeScript×AI×Angularの国内コミュニティ最前線",
+      "url": "https://zenn.dev/yasse/articles/a7240304af804c",
+      "source": "Zenn",
+      "summary": "TypeScript×AI実践、Angular Signals設計論、型安全なエラーハンドリングなどのセッションを整理。フロントエンドエンジニアとしての技術アンテナ更新に最適。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-tech-009",
+      "category": "tech",
+      "title": "Angular 22: Signals-First Development Becomes Production-Ready",
+      "url": "https://devm.io/angular/angular-22-signals-first-development-becomes-production-ready",
+      "source": "devm.io",
+      "summary": "Angular 22でSignals-Firstアーキテクチャが本番対応に。Zone.js移行・OnPushデフォルト・Signal Forms活用方法を解説。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-005（ANGULARarchitects決定版）でAngular 22内容をカバー済み。重複回避。"
+    },
+    {
+      "id": "2026-07-17-tech-010",
+      "category": "tech",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch",
+      "summary": "AnthropicがSamsung 2nmプロセスを使ったカスタムAIチップ製造について協議中。初期段階。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "7/2の古いニュース。テック枠充足。"
+    },
+    {
+      "id": "2026-07-17-tech-011",
+      "category": "tech",
+      "title": "Kimi K3 vs Anthropic Opus 4.8——中国OSSが米国トップLLMとの実力差を縮小",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "source": "TechCrunch",
+      "summary": "Kimi K3のAnthropicOpus 4.8比較分析。中国OSSの米国モデルとの実力差縮小を検証。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-004（Kimi K3 VentureBeat）と同内容。重複回避。"
+    },
+    {
+      "id": "2026-07-17-news-001",
+      "category": "news",
+      "title": "日経平均2694円安（歴代5位）・週間下げ最大——AI半導体バブル崩壊とホルムズ危機が直撃",
+      "url": "https://www.nikkei.com/article/DGXZQOFL175HO0X10C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "前日比2694円（4.0%）安の64141円。キオクシアHDが最高値比半値以下に暴落し時価総額30兆円消失。AI成長への過剰期待修正・ホルムズ危機・米特許評決が複合。週間下げ幅も過去最大。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-news-002",
+      "category": "news",
+      "title": "皇室典範改正 参院本会議で可決・成立——女性皇族の婚後皇籍維持が実現",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179021000",
+      "source": "NHKニュース",
+      "summary": "女性皇族の婚後皇籍維持と旧宮家男系男子の養子縁組を可能にする改正皇室典範が7月17日参院本会議で可決・成立。戦後最大規模の皇室制度改正が実現。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-news-003",
+      "category": "news",
+      "title": "W杯決勝確定——スペイン×アルゼンチン、7月20日日本時間朝4時キックオフ",
+      "url": "https://news.yahoo.co.jp/articles/9b35e7c75fc1838a9318da6435a805a0bcac2c09",
+      "source": "Yahoo!ニュース（スポニチアネックス）",
+      "summary": "スペインが準決勝でフランスを2-0撃破（大会無失点継続）し決勝進出。日本時間7/20早朝4時、ニュージャージー・メットライフスタジアムでキックオフ。スペイン16年ぶり優勝 vs アルゼンチン64年ぶり2連覇の対決。NHK・DAZN無料中継。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-news-004",
+      "category": "news",
+      "title": "関東甲信 レベル4大雨危険警報——神奈川・千葉・東京に発令、夜まで厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/nb-1000130502",
+      "source": "NHKニュース",
+      "summary": "7/17、神奈川・千葉・東京にレベル4の大雨危険警報が発令。千葉・鴨川で1時間46.5mmの猛烈な雨、道路冠水発生。夜にかけてゲリラ雷雨が続く。土砂災害・浸水・落雷に厳重警戒。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-news-005",
+      "category": "news",
+      "title": "トランプ関税、7月24日に制度切り替え——日本には12.5%の新関税が適用見通し",
+      "url": "https://www.nikkei.com/article/DGXZQOGN140230U6A710C2000000/",
+      "source": "日本経済新聞",
+      "summary": "通商法122条10%代替関税が7/24に期限切れ。通商法301条に基づく新関税に移行し日本向け12.5%が適用見通し。DeepSeek API期限と同日という「7/24ダブル期限」が迫る。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-news-006",
+      "category": "news",
+      "title": "内閣支持率 発足後初の5割割れ——時事調査49.0%・不支持が初めて上回る",
+      "url": "https://www.jiji.com/jc/article?k=2026071600709&g=pol",
+      "source": "時事通信",
+      "summary": "時事通信調査で49.0%と過去最低。選挙ドットコム調査でも初の支持・不支持逆転。参院選3日前（7/20投票）に政権支持基盤の弱体化が鮮明。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-news-007",
+      "category": "news",
+      "title": "ホルムズ海峡 暫定和平崩壊・米軍5日連続攻撃——ブレント原油86ドル台でエネルギー危機深刻化",
+      "url": "https://www.jiji.com/jc/article?k=2026071500160&g=int",
+      "source": "時事通信",
+      "summary": "7/7以降の米軍5日連続攻撃でLNGゼロ通航が継続。ブレント原油86ドル（6月比20%超高）と日本のエネルギーコストが急上昇。株安・円安・原油高の三重苦が同時進行。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-news-008",
+      "category": "news",
+      "title": "キオクシアHD株、最高値から1カ月弱で半値——時価総額30兆円消失",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-17/THU9F9KJH6V600",
+      "source": "Bloomberg",
+      "summary": "キオクシアが最高値比半値以下に急落、時価総額30兆円超消失。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "news-001（日経平均大記事）内に統合して掲載。"
+    },
+    {
+      "id": "2026-07-17-news-009",
+      "category": "news",
+      "title": "Nvidia Cosmos 3 Edge 東京発表——日本フィジカルAIイニシアチブ、20社以上参加",
+      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "source": "CNBC",
+      "summary": "NVIDIAが7/16東京イベントでCosmos 3 Edgeを発表。トヨタ・ソニー・日立・NEC等20社以上がCosmosCoalition参加。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/16）の朝刊news-005でNVIDIA来日を掲載済み。ニュース枠充足。"
+    },
+    {
+      "id": "2026-07-17-ent-001",
+      "category": "entertainment",
+      "title": "映画『キングダム 魂の決戦』本日7月17日公開——合従軍編が開幕、米津玄師「夜鷹」でシリーズ最大作",
+      "url": "https://www.cinematoday.jp/movie/T0032051",
+      "source": "シネマトゥデイ",
+      "summary": "シリーズ累計1734万人動員・興収245億円超の第5弾が本日公開。山崎賢人×吉沢亮×小栗旬×斎藤工が集結し原作最大エピソード「合従軍編」を映像化。主題歌は米津玄師書き下ろし「夜鷹」。夏興行の邦画最大作。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-002",
+      "category": "entertainment",
+      "title": "Stray Kids、MUFG STADIUM単独公演へ——海外男性アーティスト史上初、37万人動員",
+      "url": "https://www.oricon.co.jp/news/2463078/full/",
+      "source": "ORICON NEWS",
+      "summary": "新ワールドツアー「RUN IT」で海外男性アーティスト史上初のMUFG STADIUM（旧国立競技場、88,000人収容）単独公演。日本7公演・計37万人動員見込み。K-POPが国内最大規模会場に進出した象徴的ニュース。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-003",
+      "category": "entertainment",
+      "title": "BTS×マドンナ×シャキーラ W杯ハーフタイムショー——明日7/19（日本時間7/20早朝）世界同時生中継",
+      "url": "https://btsbantan.com/fifa-bts/",
+      "source": "BTSbantan.com",
+      "summary": "W杯決勝で史上初のハーフタイムショー。BTS・マドンナ・シャキーラ＋ジャスティン・ビーバーらが共同ヘッドライナー。約11分のパフォーマンス。NHK・DAZNで無料生中継。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-004",
+      "category": "entertainment",
+      "title": "攻殻機動隊 新アニメ 第2話「ナメクジの交尾」がSNSトレンド入り——原点回帰が新規層を獲得",
+      "url": "https://anime.eiga.com/news/column/animehack_editors/126926/",
+      "source": "アニメハック",
+      "summary": "原作準拠の素子のコミカルな描写が第2話でSNS大反響。ミリしら新規ファン流入にも成功。IP継承×SNS拡散の現代的成功例。Amazon Prime Videoで配信中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-005",
+      "category": "entertainment",
+      "title": "夏ドラマ「クロスロード ～救命救急の約束～」初回7.2%で首位——今田美桜×ドクターX制作陣",
+      "url": "https://navicon.jp/news/97444/",
+      "source": "Navicon",
+      "summary": "テレ朝火曜21時の医療ドラマが初回7.2%・TVer初回お気に入り41万人で夏ドラマ首位発進。「ドクターX」「TOKYO MER」制作陣による久々の医療ドラマ。テレ朝火曜9時枠の復権に向け大きく動いた。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-006",
+      "category": "entertainment",
+      "title": "BLEACH 千年血戦篇 最終クール 7/25スタート——第41話先行カット・OP「I-BULL」確定",
+      "url": "https://game.watch.impress.co.jp/docs/news/2120938.html",
+      "source": "GAME Watch",
+      "summary": "最終第4クール「禍進譚」が7/25よりテレ東系放送。OPはjo0ji「I-BULL」・EDはLana「螺旋」確定。7/26よりDisney+等で配信開始。完結まで残り8日。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-007",
+      "category": "entertainment",
+      "title": "『HEARTSTOPPER 最終章』本日Netflix配信スタート——シリーズ完結映画版",
+      "url": "https://eiga.com/movie/106402/",
+      "source": "映画.com",
+      "summary": "Netflix人気シリーズの完結映画版が7/17より独占配信。大学進学×遠距離恋愛の最終章。LGBTQ+世代の大団円。OTT完結コンテンツ戦略の教科書的事例。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-008",
+      "category": "entertainment",
+      "title": "『トイ・ストーリー5』公開11日で50億円突破——ディズニー映画史上最速記録を樹立",
+      "url": "https://theriver.jp/toy-story5-5billion-jp/",
+      "source": "THE RIVER",
+      "summary": "7/3公開から11日で50億円突破、ディズニー最速記録更新。週末ランキング2連続1位。最終200億円超えが確実ライン。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-009",
+      "category": "entertainment",
+      "title": "ILLIT 初ライブツアー日本 今週末7/18〜神戸公演スタート——デビュー2年未満でアリーナ展開",
+      "url": "https://prtimes.jp/main/html/rd/p/000000642.000045862.html",
+      "source": "PR TIMES",
+      "summary": "ILLITが初のライブツアー日本公演。7/18〜19神戸、7/23〜26東京など5都市11公演。デビュー2年未満でアリーナ規模展開。HYBEジャパン戦略の成果。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-010",
+      "category": "entertainment",
+      "title": "NCT WISH × TRF「BOY MEETS GIRL」——K-POP×平成J-POP融合の新しいIP活用",
+      "url": "https://korepo.com/archives/1688154",
+      "source": "コレポ！",
+      "summary": "NCT WISHが7/15リリースの両A面シングルでTRF「BOY MEETS GIRL」をリメイク。平成リバイバル×日本語タイトル曲×渋谷ジャックのローカライズ戦略。K-POP×J-POP融合の新アプローチ。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-ent-011",
+      "category": "entertainment",
+      "title": "Number_i「BUGS LIFE」MV公開——神宮寺勇太プロデュース",
+      "url": "https://www.billboard-japan.com/d_news/detail/163450",
+      "source": "Billboard JAPAN",
+      "summary": "Number_iが7/13に新曲「BUGS LIFE」デジタルリリース・MV公開。フォンク×アフリカン×ラテンビート融合。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "エンタメ枠充足。キングダム・Stray Kids・BTS・攻殻・クロスロードを優先。"
+    },
+    {
+      "id": "2026-07-17-hobby-001",
+      "category": "hobby",
+      "title": "Sony FX5 前代未聞の「IBIS取り外し可能」スペックが浮上——7月22日発表まで5日",
+      "url": "https://digicame-info.com/2026/07/fx5ibis.html",
+      "source": "デジカメinfo",
+      "summary": "7/22発表予定のFX5でIBIS（ボディ内手ブレ補正）が取り外し可能になるという情報が浮上。ジンバル使用時のセンサー固定精度向上が目的。1660万画素積層型センサー・5Kオープンゲート・X-OCN内部RAW・3.5インチバリアングルも確定。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-hobby-002",
+      "category": "hobby",
+      "title": "Sony FX5 確定スペックまとめ——1660万画素積層型・5Kオープンゲート・価格70万円台前後",
+      "url": "https://cameota.com/sony/51031.html",
+      "source": "CAMEOTA.com",
+      "summary": "1660万画素フルサイズ積層CMOSセンサー・5Kオープンゲート3:2・X-OCN LT内部RAW・BIONZ XR2＋AI AF・VENICEスタイルメニュー確定。価格はFX6より安い70万円台前後の予想。スペックが出揃った。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-hobby-003",
+      "category": "hobby",
+      "title": "「スプラトゥーン レイダース」発売6日前——ファミ通が20ページ大特集",
+      "url": "https://www.famitsu.com/article/202607/81428",
+      "source": "ファミ通.com",
+      "summary": "7/23発売のSwitch2専用PvEスピンオフの発売直前特集が本日の週刊ファミ通に掲載。シャケの生態・オタカラハントの全貌を詳報。ネタバレなしレビューも収録。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-hobby-004",
+      "category": "hobby",
+      "title": "「Go-Go Town!」本日Switch2/Switch/PC同時発売——Steam 94%超好評の都市開発シム",
+      "url": "https://www.famitsu.com/article/202607/81630",
+      "source": "ファミ通.com",
+      "summary": "廃れた町を人気観光地に育てる都市開発×自動化シム。Steam早期アクセスで94%好評取得済み。本日3プラットフォーム同時発売。Switch2版3,900円。マルチプレイ対応。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-hobby-005",
+      "category": "hobby",
+      "title": "Lensbaby Twist 28 本日発売——28mm広角で渦巻きボケが楽しめるパンケーキレンズ",
+      "url": "https://jp.pronews.com/news/202607121332760940.html",
+      "source": "PRONEWS",
+      "summary": "ケンコー・トキナーが7/17発売の28mm広角パンケーキレンズ。ペッツバール型の渦巻きボケを広角で実現。ソニーE・富士フイルムX・MFT対応。32,800円（税込）。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-hobby-006",
+      "category": "hobby",
+      "title": "カルドセプト ビギンズ 発売初日 Metacritic 78点——TCG×ボードゲームの醍醐味は健在",
+      "url": "https://game8.jp/switch2/797416",
+      "source": "ゲームエイト",
+      "summary": "7/16発売の初日評価。Metacritic78点。400種以上のカード×初心者向けチュートリアル改善が評価。TCGとすごろくの独自戦略性は健在。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-hobby-007",
+      "category": "hobby",
+      "title": "スパイスカレー新店「PAR Asian Kitchen」吹田・山田にオープン——5つ星ホテル出身シェフ",
+      "url": "https://suita.goguynet.jp/2026/07/12/par-asian-kitchen/",
+      "source": "号外NET 吹田",
+      "summary": "インドの5つ星ホテルで総料理長を務めたシェフが在籍。無添加・オーガニックスパイスの本格インドカレー。ナン・ライス食べ放題。阪急京都線山田駅付近、7月9日オープン。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-17-hobby-008",
+      "category": "hobby",
+      "title": "Sony FX5 3.5インチバリアングルモニタ——FX3より大型化、オープンゲート時は縮小",
+      "url": "https://digicame-info.com/2026/07/fx5-2.html",
+      "source": "デジカメinfo",
+      "summary": "FX5の背面モニターは3.5インチフル可動式。FX3の3インチより大型化。オープンゲートモード時は表示領域が縮小。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-001・002でFX5情報をカバー済み。重複。"
+    },
+    {
+      "id": "2026-07-17-hobby-009",
+      "category": "hobby",
+      "title": "よこすかカレーフェスティバル2026——海軍カレー発祥地で大型カレーイベント",
+      "url": "https://www.cocoyoko.net/event/curry-fes.html",
+      "source": "横須賀市観光情報",
+      "summary": "海軍カレー発祥の地・横須賀で大型カレーイベント開催。スパイスカレーファン向け夏の祭典。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "趣味枠充足。PAR Asian Kitchen（新店）を優先。"
+    }
+  ]
+}
