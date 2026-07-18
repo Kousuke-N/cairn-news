@@ -1,0 +1,476 @@
+{
+  "date": "2026-07-18",
+  "notion_page_id": "3a1a41a3-cf9b-81eb-8ab5-ff8cf1a0142b",
+  "articles": [
+    {
+      "id": "2026-07-18-tech-001",
+      "category": "tech",
+      "title": "Angular 22 Zoneless+Signal Forms stable化——パフォーマンス最大40%改善、プロダクション移行が現実的に",
+      "url": "https://dev.to/mhmoud_ashour_5547515422e/angular-signals-zoneless-change-detection-the-biggest-performance-upgrade-in-2026-3ipa",
+      "source": "DEV Community / JavaScript in Plain English / Angular.dev",
+      "summary": "Angular 22でZoneless変更検出とSignal Formsが同時にstable化。zone.js除去でバンドル約-33KB・変更検出コスト30〜40%削減。Signal FormsはSubmission API・validateStandardSchema・Reactive Forms相互運用が本番対応。段階移行が公式サポートされ、新規プロジェクトはZonelessがデフォルト推奨。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+        "https://angular.dev/events/v22"
+      ]
+    },
+    {
+      "id": "2026-07-18-tech-002",
+      "category": "tech",
+      "title": "Gemini 3.5 Pro、3度目の延期確定——つなぎとしてGemini 3.6 Flash先行投入を検討",
+      "url": "https://www.techtimes.com/articles/320736/20260716/rebuilt-gemini-35-pro-misses-third-deadline-google-eyes-stopgap-release.htm",
+      "source": "TechTimes",
+      "summary": "Gemini 3.5 Proが3度目の延期確定。予測市場での7/31納品確率81%。アーキテクチャ再設計中の空白を埋めるつなぎとしてGemini 3.6 Flashの先行投入を検討中。主要フロンティアラボで唯一2026年旗艦を未出荷という状況が続く。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-003",
+      "category": "tech",
+      "title": "Kimi K3、フロントエンドコードArena世界1位——Claude Fable 5超え76%勝率",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "source": "TechCrunch",
+      "summary": "中国Moonshot AIの2.8兆パラメータMoEモデルKimi K3がArena.aiのフロントエンドコード生成ベンチマークで76%勝率・世界1位を記録しClaude Fable 5を上回った。API価格は出力$15/Mトークン。オープンウェイト版は7/27公開予定。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-004",
+      "category": "tech",
+      "title": "Check Point AI Security Report 2026——AIが「自律攻撃実行者」に転換、Claude Codeも悪用事例",
+      "url": "https://www.helpnetsecurity.com/2026/07/15/check-point-ai-security-report-2026/",
+      "source": "Help Net Security",
+      "summary": "メキシコ政府9機関への侵害でオペレーター1人がClaude CodeとGPT-4.1を組み合わせ5,317件のAIコマンドを自律実行。プロンプトインジェクション検出が3〜5月で約5倍増。AIが攻撃支援から自律実行へと役割が変化した転換点を示す年次レポート。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-005",
+      "category": "tech",
+      "title": "Meta Model API一般公開——Muse Spark 1.1が$20無料クレジット付きで利用可能に",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "TechCrunch",
+      "summary": "Meta Superintelligence LabsがMuse Spark 1.1（1Mコンテキスト、マルチモーダル推論・コーディング特化）とMeta Model APIを公開。入力$1.25/出力$4.25/Mトークン。AnthropicとOpenAIに続く第3の有料LLM APIエコシステムが誕生。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-006",
+      "category": "tech",
+      "title": "Claude Code Week 29——/fork独立セッション化・WebSearch200回上限・planモードバグ修正",
+      "url": "https://code.claude.com/docs/en/whats-new",
+      "source": "Claude Code Docs",
+      "summary": "/forkが独立バックグラウンドセッション複製に変更（旧動作は/subtask）。1セッションあたりのWebSearch上限がデフォルト200回に。planモードで破壊的Bashコマンドが確認なし実行されていたバグも修正。2分超のMCPツール呼び出しが自動バックグラウンド移行へ。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-007",
+      "category": "tech",
+      "title": "NotebookLM → Gemini Notebookにリブランド——コード実行機能追加",
+      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "source": "TechCrunch",
+      "summary": "30M+ユーザーのNotebookLMがGemini Notebookに改名。安全なクラウドコンピュータ機能を追加しノートブック内でコード実行が可能に。Geminiブランド統一の動き。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-008",
+      "category": "tech",
+      "title": "OpenAI Atlas、8/9廃止——AIブラウザが8ヶ月で終了、機能はChatGPTデスクトップへ",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch",
+      "summary": "2025年10月リリースのmacOS専用AIブラウザAtlasが8/9終了。エージェントブラウジング機能はChatGPTデスクトップアプリとChrome拡張へ移行。データは8/9までにHTMLエクスポートが必要。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-009",
+      "category": "tech",
+      "title": "NVIDIA×日本政府・産業界 国家AIインフラ発表——Vera Rubin GPU 2.75万基配備",
+      "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+      "source": "NVIDIA Newsroom",
+      "summary": "日本政府・産業界とNVIDIAが世界初の国家AIインフラを共同発表。Vera Rubin GPU 2.75万基配備。SoftBank・NTT参画。Jensen Huang来日で国内AI基盤が具体化。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-010",
+      "category": "tech",
+      "title": "Thinking Machines Inkling——Mira Murati初のオープンウェイトMoE（975B/41B active）",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "source": "TechCrunch",
+      "summary": "元OpenAI CTO Mira MuratiのThinking Machines Labが初のオープンウェイトモデルInklingを公開。975B total/41B active MoE・1Mコンテキスト。企業カスタマイズ（Tinkerプラットフォーム）を前提とした設計。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "テック枠充足。Meta Muse Spark等と類似の「新モデル公開」ニュース。セレンディピティBonsai 27Bで代替。"
+    },
+    {
+      "id": "2026-07-18-tech-011",
+      "category": "tech",
+      "title": "Hassabis、米国主導「FINRA for AI」設立を提唱——主要3社が規制前向きで異例の合意",
+      "url": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
+      "source": "Axios",
+      "summary": "Google DeepMind CEOがリリース前30日の独立安全評価義務化を提唱。AnthropicとOpenAIのCEOも別途同方向の規制枠組みを発表。主要3社が規制に前向きという前例のない動向。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-tech-012",
+      "category": "tech",
+      "title": "Angular 22 Signal Forms stable Part 2",
+      "url": "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+      "source": "JavaScript in Plain English",
+      "summary": "Signal Forms stable化の詳細解説（Part 2）。tech-001に統合。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-001（Angular大記事）に統合済み。"
+    },
+    {
+      "id": "2026-07-18-tech-013",
+      "category": "tech",
+      "title": "Angular v22 公式リリースページ",
+      "url": "https://angular.dev/events/v22",
+      "source": "Angular.dev",
+      "summary": "Angular 22公式リリースページ。tech-001に統合。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-001（Angular大記事）に統合済み。"
+    },
+    {
+      "id": "2026-07-18-tech-014",
+      "category": "tech",
+      "title": "Claude Code Week 27——Claude Sonnet 5がPro/Team Standardのデフォルトモデルに昇格",
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w27",
+      "source": "Claude Code Docs",
+      "summary": "Claude Sonnet 5がPro・Team Standardプランのデフォルトモデルに。1Mコンテキスト・適応思考がデフォルト有効。Chrome版ClaudeがGA。Linux版Claude Desktopもベータ公開。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "Week 27は先週の内容。Week 29（tech-006）を優先。"
+    },
+    {
+      "id": "2026-07-18-tech-015",
+      "category": "tech",
+      "title": "PrismML Bonsai 27B——iPhone対応の世界初27Bモデル、Apache 2.0でオープン公開",
+      "url": "https://www.marktechpost.com/2026/07/14/prismml-releases-bonsai-27b-1-bit-and-ternary-builds-of-qwen3-6-27b-that-run-on-laptops-and-phones/",
+      "source": "MarkTechPost",
+      "summary": "Qwen3.6-27Bを1ビット量子化（3.9GB）でiPhone 17 Proのメモリ制約内で動作可能に。性能は元モデルの90%保持。262Kコンテキスト・ビジョン・ツール呼び出し対応。Apache 2.0ライセンス。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-001",
+      "category": "news",
+      "title": "参院選2026、投票2日前の終盤情勢——自公過半数維持が微妙に、国民民主・参政党が躍進",
+      "url": "https://www.nikkei.com/article/DGXZQOUA156CO0V10C25A7000000/",
+      "source": "日本経済新聞",
+      "summary": "7/20投開票の参院選まであと2日。終盤情勢調査では自民・公明が目標議席を下回り、非改選を合わせた過半数維持が微妙。国民民主と参政党が躍進の兆し。内閣支持率は50.4%に低下。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-002",
+      "category": "news",
+      "title": "栃木・足利 豪雨で土砂崩れ住宅倒壊——高齢夫婦と連絡取れず、線状降水帯直前予測も発令",
+      "url": "https://news.yahoo.co.jp/articles/e9529d99d21b076421b682cd828af651e5f4aeb9",
+      "source": "Yahoo!ニュース（朝日新聞）",
+      "summary": "17日夜から続く豪雨で栃木県足利市の住宅が倒壊、高齢夫婦と連絡が取れない状態。栃木・群馬には18日未明に線状降水帯直前予測が発令。群馬・太田市付近で1時間約100mm観測。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-003",
+      "category": "news",
+      "title": "W杯決勝直前——スペインvsアルゼンチン予想スタメン・放送局、ハーフタイムショー最終情報",
+      "url": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/2026%E5%B9%B4w%E6%9D%AF%E6%B1%BA%E5%8B%9D-%E3%82%B9%E3%83%98%E3%82%9A%E3%82%A4%E3%83%B3vs%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%99%E3%83%B3%E3%83%81%E3%83%B3-%E6%94%BE%E9%80%81%E5%B1%80-%E4%BA%88%E6%83%B3%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3-%E9%81%8E%E5%8E%BB%E3%81%AE%E5%AF%BE%E6%88%A6%E6%88%90%E7%B8%BE/blt78423db134766799",
+      "source": "Goal.com 日本",
+      "summary": "スペイン（無失点継続）vsアルゼンチン（メッシ準決勝逆転弾）の決勝詳細。ジャスティン・ビーバー追加出演も確定したハーフタイムショー最終情報。NHK・DAZN無料生中継。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-004",
+      "category": "news",
+      "title": "日経平均 週間4416円安・来週の焦点は関税期限（7/24）と半導体決算",
+      "url": "https://www.nikkei.com/article/DGXZQOUB164SSTW6A710C2000000/",
+      "source": "日本経済新聞",
+      "summary": "17日終値は週間4416円超の下落で歴代最大級の週間悪化。来週（7/21〜24）の予想レンジは6万〜6.8万円と幅広い。トランプ関税（7/24）と主要半導体・AI企業の決算発表が来週の相場を左右する二大イベント。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-005",
+      "category": "news",
+      "title": "ベネズエラ大地震 死者5,069人超——USGSは最大10万人規模に達する可能性を警告",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-18/TICKFOT96OSI00",
+      "source": "Bloomberg Japan",
+      "summary": "6/24発生のMw7.5大地震による死者が7/18時点で5,069人を突破。負傷者1万6,740人、2万人超が避難生活を継続。USGSは最終的な死者数が最大10万人規模に達する可能性を警告。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-006",
+      "category": "news",
+      "title": "ドル円162円台で膠着——来週は関税期限（7/24）と日銀姿勢が為替の鍵",
+      "url": "https://www.gaitame.com/media/entry/2026/07/18/060400",
+      "source": "外為どっとコム",
+      "summary": "1ヶ月物ボラティリティが2022年2月以来の低水準。7/24関税失効後の政策動向が為替方向を決める見通し。来週の日経レンジは6万〜6.8万円と幅広い。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-007",
+      "category": "news",
+      "title": "3連休の天気：北海道は大雨警報、関東以西は週明け40度酷暑か",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/07/17/39766.html",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "北海道は日本海からの前線で警報級大雨。関東以西は週明けから高気圧に覆われ、21日以降40度に達する地域が出る可能性。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-news-008",
+      "category": "news",
+      "title": "内閣支持率50.4%に低下——参院選直前の世論調査で自民下降、れいわ増",
+      "url": "https://go2senkyo.com/articles/2026/07/14/139289.html",
+      "source": "選挙ドットコム",
+      "summary": "参院選直前の電話×ネット世論調査で内閣支持率が50.4%まで低下。自民党比例投票先2〜3ポイント低下、れいわ3ポイント増。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "news-001（参院選大記事）内に統合。"
+    },
+    {
+      "id": "2026-07-18-news-009",
+      "category": "news",
+      "title": "中国AI「Kimi K3」が米最先端AIに肉薄——米ナスダック1.4%安、半導体株急落",
+      "url": "https://www.nikkei.com/article/DGXZQOGN17C3G0X10C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "KimiK3発表でNasdaq半導体株急落、SOX4%安。tech-003でカバー済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "tech-003（Kimi K3中記事）と重複。テックセクションで対応。"
+    },
+    {
+      "id": "2026-07-18-news-010",
+      "category": "news",
+      "title": "トランプ代替関税7月24日失効——日本など46か国に12.5%の新関税移行か",
+      "url": "https://www.dlri.co.jp/report/macro/423082.html",
+      "source": "第一ライフ資産運用経済研究所",
+      "summary": "通商法122条代替関税（10%）が24日に失効。301条に基づく新関税として日本など46か国に12.5%が適用見通し。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日のnews-005（日経）で既報。news-004の株式見通しに関税期限として言及済み。"
+    },
+    {
+      "id": "2026-07-18-ent-001",
+      "category": "entertainment",
+      "title": "『キングダム 魂の決戦』公開初日——前作比124%の好スタート、口コミ4.4点と絶賛続出",
+      "url": "https://eiga.com/news/20260717/23/",
+      "source": "映画.com",
+      "summary": "全国521館で公開、当日午後3時時点で前作（シリーズ最高興収80.3億円）比動員124%の好スタート。山田裕貴・一ノ瀬ワタルがMVP級の活躍でSNSを席巻。MovieWalker4.4点・Filmarks4.1点と高評価。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-002",
+      "category": "entertainment",
+      "title": "BLEACH千年血戦篇「禍進譚」7/25スタート——久保帯人が語るOP/ED選曲意図",
+      "url": "https://www.oricon.co.jp/news/2462762/full/",
+      "source": "ORICON NEWS",
+      "summary": "最終クール「禍進譚」が7/25（土）23時よりテレ東系で放送開始。OP「I-BULL」（jo0ji）・ED「螺旋」（9Lana）決定。久保帯人が選曲意図を語った。7/26よりDisney+等で同時配信。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-003",
+      "category": "entertainment",
+      "title": "「音楽の日2026」本日14時〜22時TBS 8時間生放送——全タイムテーブル公開",
+      "url": "https://natalie.mu/music/news/681292",
+      "source": "音楽ナタリー",
+      "summary": "Mrs. GREEN APPLE・Snow Man・Number_i・INI・乃木坂46ら総勢80組が参加。21時台「赤坂超ライブ」でMrs. GREEN APPLEとSnow Manが約10分の拡大パフォーマンス。テーマ「こえる。きこえる。」",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-004",
+      "category": "entertainment",
+      "title": "Mrs. GREEN APPLE「Brand New」スパイダーマン：ブランド・ニュー・デイ日本版主題歌に決定",
+      "url": "https://realsound.jp/2026/07/post-2447933.html",
+      "source": "Real Sound",
+      "summary": "7/31公開の映画『スパイダーマン：ブランド・ニュー・デイ』の日本版エンドクレジット主題歌に「Brand New」（7/13配信）が決定。デビュー当初からスパイダーマン愛を公言していたMrs. GREEN APPLEにとって「夢の実現」。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-005",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL 新キャスト解禁——第1話から「最高の出だし」と絶賛の声",
+      "url": "https://www.animatetimes.com/news/details.php?id=1783471867",
+      "source": "アニメイトタイムズ",
+      "summary": "制作サイエンスSARU・シリーズ構成は円城塔（SF作家）の布陣。1・2話とも「原点回帰」の評価でSNS大反響。AI時代に再注目されるテーマと高い作画クオリティでミリしら新規ファン獲得にも成功。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-006",
+      "category": "entertainment",
+      "title": "VIVANT続編「VIVANT Ⅱ」7/26スタート——2クール連続放送確定",
+      "url": "https://trendlabo-media.com/vivant-season2-guide/",
+      "source": "トレンド深掘りラボ",
+      "summary": "前作平均14.3%・最終19.6%の超人気ドラマ続編が7/26（日）より2クール連続放送。令和を代表する大作ドラマの帰還として最大の注目を集めている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-007",
+      "category": "entertainment",
+      "title": "「Tシャツが乾くまで」初回6.9%、ラスト1分でSNS騒然",
+      "url": "https://navicon.jp/news/97505/",
+      "source": "Navicon",
+      "summary": "silent脚本家×蒼井優のTBSサスペンスドラマが初回6.9%。第1話ラスト1分の衝撃でSNSに「だからこのタイトルなのか」という考察ツイートが続出。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-008",
+      "category": "entertainment",
+      "title": "2026夏アニメ全73作品が出揃う——BLEACH・無職転生III・逃げ若第2期・攻殻機動隊が集中",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260701x",
+      "source": "でんファミニコゲーマー",
+      "summary": "2026年夏クールは全73作品と過去最多規模。BLEACH（7/25〜）・無職転生III・逃げ若第2期・攻殻機動隊・コードギアス奪還のロゼTV版など続編・完結篇が集中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-009",
+      "category": "entertainment",
+      "title": "米津玄師「夜鷹」MV——考古学視点×ブレイクビーツ×篠笛、映像と楽曲の化学反応",
+      "url": "https://www.billboard-japan.com/d_news/detail/163554",
+      "source": "Billboard JAPAN",
+      "summary": "映像作家・小島央大監督の「夜鷹」MVが公開。考古学視点で映像化し、ブレイクビーツと篠笛の東アジア音色を掛け合わせた。公開初日の映画と相乗効果でトレンド入り。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-ent-010",
+      "category": "entertainment",
+      "title": "W杯ハーフタイムショー ジャスティン・ビーバー追加出演が発表",
+      "url": "https://news.mynavi.jp/article/20260709-4680486/",
+      "source": "マイナビニュース",
+      "summary": "BTS・マドンナ・シャキーラに加え、ジャスティン・ビーバー追加出演確定。news-003で統合済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "news-003（W杯決勝直前中記事）内に統合。"
+    },
+    {
+      "id": "2026-07-18-ent-011",
+      "category": "entertainment",
+      "title": "キングダム公開初日絶賛口コミ",
+      "url": "https://news.yahoo.co.jp/articles/f30aa7535c4964a489831e6167b4e5617ce08ca8",
+      "source": "Yahoo!ニュース（映画チャンネル）",
+      "summary": "ent-001（キングダム大記事）内に統合済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "ent-001に統合済み。"
+    },
+    {
+      "id": "2026-07-18-hobby-001",
+      "category": "hobby",
+      "title": "Sony FX5 直前情報総まとめ——欧州€5,399・XLRハンドル・取り外し可能外付けEVFが確定、7/22発表",
+      "url": "https://digicame-info.com/2026/07/fx5-4.html",
+      "source": "デジカメinfo",
+      "summary": "7/22ロンドン時間15時（日本時間23時）発表まで4日。欧州価格：ボディ単体€5,399・XLRハンドル同梱版€5,999（32bitフロートオーディオ対応）・外付けチルト式EVF€799。スペック比「割安」との声が複数情報源から。",
+      "size": "中",
+      "selected": true,
+      "related_urls": [
+        "https://digicame-info.com/2026/07/fx5-3.html",
+        "https://mirrorless-camera.info/rumor/sony-rumor/56635.html"
+      ]
+    },
+    {
+      "id": "2026-07-18-hobby-002",
+      "category": "hobby",
+      "title": "Sony RX10 V——9年ぶり新製品、7/31発売36万円・24-600mm F2.4-4.0+AI AF+最高30コマ/秒",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2123877.html",
+      "source": "デジカメ Watch",
+      "summary": "1型積層型Exmor RS・有効2010万画素・24-600mm F2.4-4.0・AI AF+最高約30コマ/秒・4K 120p動画対応。7/16より予約開始、7/31発売。市場想定価格約36万円。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-hobby-003",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 7/23発売5日前——最終情報まとめ",
+      "url": "https://game8.jp/switch2/763883",
+      "source": "ゲームエイト",
+      "summary": "Switch2専用PvEアクションADV、DL版6,480円・パッケージ版7,480円。最大4人オンライン協力プレイ対応、ソロ・マルチで難易度乖離なし。主人公「メカニック」が新登場。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-hobby-004",
+      "category": "hobby",
+      "title": "PHOTO IS 2026写真展 本日東京開幕——ニコン主催一般公募写真展",
+      "url": "https://photo-is.jp/",
+      "source": "PHOTO IS 2026 公式",
+      "summary": "ニコン主催の一般公募写真展「PHOTO IS 2026」の東京会場が7/18（土）本日よりスタート。全国各地を巡回開催。写真を楽しむ人々が作品を発表・鑑賞できる年に一度の大規模イベント。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-hobby-005",
+      "category": "hobby",
+      "title": "神田カレー街スタンプラリー2026（8/1〜12/20開幕）——過去最大152店舗参加",
+      "url": "https://gourmetpress.net/1460902/",
+      "source": "グルメプレス",
+      "summary": "第13回「神田カレー街スタンプラリー2026」が8/1〜12/20開催。過去最大152店舗参加。公式ガイドブック（8.5万部）は今月下旬より配布開始。ウルトラマンシリーズ60周年コラボ特典あり。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-hobby-006",
+      "category": "hobby",
+      "title": "カルドセプト ビギンズ レビュー——10年ぶり完全新作、オンライン対戦追加（GAME Watch）",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2122948.html",
+      "source": "GAME Watch",
+      "summary": "7/16発売のカルドセプト ビギンズ（Switch/Switch2）レビュー。10年ぶり完全新作、ボードゲーム×カードゲームの独自ジャンルを進化継承。テンポ改善で新規参入しやすいと評価。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-18-hobby-007",
+      "category": "hobby",
+      "title": "Sony FX5 スペック比割安情報",
+      "url": "https://digicame-info.com/2026/07/fx5-3.html",
+      "source": "デジカメinfo",
+      "summary": "hobby-001（FX5まとめ中記事）に統合済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-001に統合済み。"
+    },
+    {
+      "id": "2026-07-18-hobby-008",
+      "category": "hobby",
+      "title": "Sony FX5 価格確定・外付けEVF確定 ミラーレスカメラ情報",
+      "url": "https://mirrorless-camera.info/rumor/sony-rumor/56635.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "hobby-001（FX5まとめ中記事）に統合済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-001に統合済み。"
+    },
+    {
+      "id": "2026-07-18-hobby-009",
+      "category": "hobby",
+      "title": "Sony RX10 V 詳細スペック kunkoku.jp",
+      "url": "https://kunkoku.jp/dsc-rx10m5.html",
+      "source": "kunkoku.jp",
+      "summary": "hobby-002（RX10V中記事）の補足情報。統合済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "hobby-002に統合済み。"
+    }
+  ]
+}
