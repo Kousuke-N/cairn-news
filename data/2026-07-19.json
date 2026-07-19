@@ -1,0 +1,411 @@
+{
+  "date": "2026-07-19",
+  "notion_page_id": "3a2a41a3-cf9b-81c3-a147-f6ab9831eddf",
+  "articles": [
+    {
+      "id": "2026-07-19-tech-001",
+      "category": "tech",
+      "title": "OpenAI GPT-5.6公開——Sol/Terra/Lunaの3モデル体制、コーディング効率54%向上",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch",
+      "summary": "GPT-5.6ファミリー公開。Sol（$5/$30/MTok、コーディング効率54%向上、超高難度セキュリティ・長期エージェント特化）、Terra（$2.5/$15）、Luna（$1/$6）の3バリアント。SolはUltraモードでサブモデルへのタスク委任可能。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-tech-002",
+      "category": "tech",
+      "title": "Storybook 10.5.2リリース——Angular-ViteがAngular 22に対応",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v10.5.2",
+      "source": "GitHub / Storybook",
+      "summary": "@storybook/angular-viteがAngular 22対応。TypeScript 6ピア依存関係の拡大、@angular/platform-browser-dynamicへの依存解除。ViteとVitest統合が強化され機能完全な状態に到達。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-tech-003",
+      "category": "tech",
+      "title": "Anthropic IPOロードショー開始——評価額9,650億ドル、10月Nasdaq上場目標",
+      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "source": "CNBC",
+      "summary": "Goldman Sachs・Morgan Stanley・JPMorganが評価額9,650億ドルのAnthropicのIPOに向けた投資家説明会を設定。10月Nasdaq上場を目標にロードショー準備が本格化。S-1は6月1日に機密提出済み。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-tech-004",
+      "category": "tech",
+      "title": "Apple、OpenAIを企業秘密窃取で提訴——400人超の元社員転職を背景に具体的告発",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch",
+      "summary": "Apple vs OpenAI訴訟の訴状詳細が公開。機密ハードウェアファイルのダウンロード、セキュリティ回避マニュアルの共有、未発売製品部品の「持ち込み面接」など具体的告発を展開。OpenAIは関与を否定。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-tech-005",
+      "category": "tech",
+      "title": "TypeScript 7.0 移行プレイブック——Angular環境はすぐ移行可、Vue/Svelteは7.1（10月）待ち",
+      "url": "https://www.digitalapplied.com/blog/typescript-7-0-ga-native-compiler-migration-playbook-2026",
+      "source": "Digital Applied",
+      "summary": "TypeScript 7.0への実践的移行手順。Vue/Svelte等はプログラマティックAPI欠如でエディタ完全対応がTS 7.1まで待機必要。Angular+TypeScript環境はtsc v7単独移行で8〜12倍高速化を享受可能。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-tech-006",
+      "category": "tech",
+      "title": "Microsoft Project Perception発表——Anthropic/OpenAI/自社モデルをルーティングするAIセキュリティ",
+      "url": "https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/",
+      "source": "TechRepublic",
+      "summary": "Microsoftが7月リリース予定のAI駆動セキュリティツール「Project Perception」を発表。コードベース・クラウド・エンドポイント横断で脆弱性を検出・修正提案。Anthropic Mythosとの低コスト比較を訴求。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-tech-007",
+      "category": "tech",
+      "title": "Kimi K3 公開——フロントエンドコードベンチマーク首位（昨日掲載済み）",
+      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+      "source": "CNBC",
+      "summary": "昨日（7/18）にtech-003として掲載済み。同一ニュースのため除外。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/18）tech-003として掲載済み。"
+    },
+    {
+      "id": "2026-07-19-tech-008",
+      "category": "tech",
+      "title": "Claude Code /forkアップデート（昨日掲載済み）",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "Releasebot",
+      "summary": "昨日（7/18）にtech-006として掲載済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/18）tech-006として掲載済み。"
+    },
+    {
+      "id": "2026-07-19-tech-009",
+      "category": "tech",
+      "title": "Angular 22 主要新機能まとめ（昨日掲載済み）",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "source": "Angular Architects",
+      "summary": "昨日（7/18）に大記事として掲載済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "Angular 22は昨日（7/18）大記事で詳細掲載済み。"
+    },
+    {
+      "id": "2026-07-19-tech-010",
+      "category": "tech",
+      "title": "Gemini 3.5 Proが3度目の遅延（昨日掲載済み）",
+      "url": "https://www.geeky-gadgets.com/gemini-3-5-pro-delayed-again/",
+      "source": "Geeky Gadgets",
+      "summary": "昨日（7/18）にtech-002として掲載済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/18）tech-002として掲載済み。"
+    },
+    {
+      "id": "2026-07-19-tech-011",
+      "category": "tech",
+      "title": "VS Code 1.128 Claude AI統合強化",
+      "url": "https://visualstudiomagazine.com/articles/2026/07/08/claude-ai-gets-yet-another-boost-in-vs-code-1-128.aspx",
+      "source": "Visual Studio Magazine",
+      "summary": "2026/07/08の古い記事のため除外。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "2026/07/08の記事。7日以上経過しているため除外。"
+    },
+    {
+      "id": "2026-07-19-news-001",
+      "category": "news",
+      "title": "改正皇室典範が成立——制定79年で初の実質改正、旧宮家養子の皇位継承権を認める",
+      "url": "https://www.jiji.com/jc/article?k=2026071700121&g=pol",
+      "source": "時事通信",
+      "summary": "参院本会議で改正皇室典範が7月17日に可決・成立。女性皇族が婚姻後も皇籍を保持できるようになり、旧宮家男系男子を養子として皇位継承資格を付与する制度を新設。1947年制定以来79年で初の実質改正。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-news-002",
+      "category": "news",
+      "title": "W杯3位決定戦 イングランド6-4フランス——エムバペが歴代最多22得点",
+      "url": "https://www.tv-tokyo.co.jp/sports/smp/articles/2026/07/042256.html",
+      "source": "テレ東スポーツ",
+      "summary": "W杯3位決定戦でイングランドがフランスを6-4で下し3位獲得。前半4-0から後半フランスが4点猛追するも逃げ切り。エムバペがW杯通算22得点でメッシを抜いて歴代単独最多記録を樹立。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-news-003",
+      "category": "news",
+      "title": "参院選前日——与野党最終訴え、明日7/20投開票",
+      "url": "https://www.jimin.jp/news/information/211060.html",
+      "source": "自由民主党",
+      "summary": "7/20投開票の参院選前日、与野党が最後の訴えを展開。与党は過半数維持に向け総力、野党は物価高対策を前面に。情勢調査では与野党の差が縮まり最終盤まで激戦の見通し。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-news-004",
+      "category": "news",
+      "title": "イラン「米国が停戦覚書を繰り返し違反」——ホルムズ海峡問題が再燃",
+      "url": "https://www.nikkei.com/article/DGXZQOCB181EI0Y6A710C2000000/",
+      "source": "日本経済新聞",
+      "summary": "イラン高官が7/18、米国が6月合意の停戦覚書に繰り返し違反していると強く非難。米国がホルムズ海峡での商船攻撃への報復でイラン軍事施設を再攻撃し、軍事衝突と制裁合戦が再燃。エネルギー価格への影響に注意。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-news-005",
+      "category": "news",
+      "title": "トランプ代替関税 7/24失効——日本向け新関税12.5%案で移行へ",
+      "url": "https://www.nikkei.com/article/DGXZQOGN140230U6A710C2000000/",
+      "source": "日本経済新聞",
+      "summary": "米トランプ政権の世界一律10%代替関税が7/24に失効。通商法301条に基づく新関税に移行、日本には12.5%が提示されている。今週が関税率確定の最終期限で日本は交渉を急いでいる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-news-006",
+      "category": "news",
+      "title": "飛鳥・藤原の宮都 世界遺産委員会が釜山で開幕——本日より登録審議",
+      "url": "https://www.jiji.com/jc/article?k=2026060600105&g=soc",
+      "source": "時事通信",
+      "summary": "第48回ユネスコ世界遺産委員会が7/19に韓国・釜山で開幕。奈良の「飛鳥・藤原の宮都」の正式登録が審議される。登録されれば国内27件目の世界遺産となる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-news-007",
+      "category": "news",
+      "title": "実質賃金3か月連続プラス——5月、前年比1.4%増",
+      "url": "https://www.fptrendy.com/2026/07/08/20260708-019-real-wages-rise-may/",
+      "source": "FPトレンディ",
+      "summary": "5月の実質賃金が前年同月比1.4%増で3か月連続プラス。名目賃金が3.2%増の一方、物価上昇率が鈍化し購買力が改善。長期にわたった実質賃金低下からの脱却傾向が続いている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-news-008",
+      "category": "news",
+      "title": "熱中症警戒——関東は7/21梅雨明け予想、以降猛暑が本番に",
+      "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/16/39747.html",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "全国的に高温傾向続き、熱中症警戒アラートが今年最多を更新。関東甲信は7/21ごろ梅雨明け予想で以降も猛暑日が続出する見通し。気象庁は「10年に一度レベルの高温」と呼びかけ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-001",
+      "category": "entertainment",
+      "title": "「音楽の日2026」放送後反響——Snow Man異例の観客参加演出、Number_i・Mrs. GREEN APPLEが話題独占",
+      "url": "https://topics.smt.docomo.ne.jp/article/mdpr/entertainment/mdpr-4816199",
+      "source": "モデルプレス / TRILL / Mrs. GREEN APPLE Official",
+      "summary": "7/18放送のTBS「音楽の日2026」の反響が翌日も続く。Snow Manが男性観客をステージに招く前代未聞の演出でSNS拡散、Number_iは#音楽の日がXでトレンド入り、Mrs. GREEN APPLEは「ライラック」累計10億ストリーム達成を披露。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://trilltrill.jp/articles/4872108",
+        "https://mrsgreenapple.com/news/detail/22795"
+      ]
+    },
+    {
+      "id": "2026-07-19-ent-002",
+      "category": "entertainment",
+      "title": "BLEACH千年血戦「禍進譚」ファイナルPV解禁——OP「I-BULL」ED「螺旋」音源初披露",
+      "url": "https://times.abema.tv/articles/-/10257804",
+      "source": "アニメフリークス（ABEMA Times）",
+      "summary": "7/25放送開始「禍進譚」のファイナルPV公開。OPテーマjo0ji「I-BULL」とEDテーマ9Lana「螺旋」の音源も初解禁。護廷十三隊vs親衛隊の激戦映像が公開され、一護対ユーハバッハ最終決戦への期待が最高潮に。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-003",
+      "category": "entertainment",
+      "title": "無職転生V（第3期）第1-2話——原作者自らのアニオリ展開が「完成度桁違い」と絶賛",
+      "url": "https://news.yahoo.co.jp/articles/d2db1cb39a0a9c8fa16fae10a247cc5c152acd9a",
+      "source": "ねとらぼ（Yahoo!ニュース）",
+      "summary": "2026夏アニメ期待度2位の「無職転生Ⅲ」が放送開始後も高評価維持。原作者・理不尽な孫の手が自らアニオリ展開を手がけ「完成度が桁違い」と視聴者絶賛。SNSで放送後にトレンド入り。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-004",
+      "category": "entertainment",
+      "title": "キングダム 魂の決戦——MOVIE WALKER「みたい映画」1位、週末好調継続",
+      "url": "https://press.moviewalker.jp/news/article/1424545/",
+      "source": "MOVIE WALKER PRESS",
+      "summary": "「キングダム 魂の決戦」がMOVIE WALKER会員「みたい映画」ランキング1位を維持。7/19の座席数も同週ランキング1位で週末も好調継続。前作比動員124%の好スタートが週末にわたって持続中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-005",
+      "category": "entertainment",
+      "title": "VIVANT Ⅱ U-NEXT独占配信決定——東京国際フォーラムでスペシャル上映会も",
+      "url": "https://www.unext.co.jp/ja/press-room/2026-07-unext-lineup",
+      "source": "U-NEXT コーポレート",
+      "summary": "「VIVANT」第2シーズンが7/26よりTBS系放送開始、U-NEXTで放送終了直後の最速独占配信が決定。2クール約20〜22話の異例スケール。7/25には東京国際フォーラムで第1シーズンスペシャルエディション上映会も開催。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-006",
+      "category": "entertainment",
+      "title": "aespa 本日東京・慶應アリーナでファンミーティング開催中",
+      "url": "https://aespa-official.jp/news/fanmeeting2026-myclassmaete3/",
+      "source": "aespa JAPAN OFFICIAL",
+      "summary": "aespaのFC限定ファンミ「MY CLASSMaeTE」が本日7/19も慶應アリーナで13時・17時半の2公演を開催。夏学校コンセプトのK-POPファン向けイベント。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-007",
+      "category": "entertainment",
+      "title": "映画ちいかわ「人魚の島のひみつ」7/24公開直前——セイレーン編映像化に期待",
+      "url": "https://game.watch.impress.co.jp/docs/news/2120522.html",
+      "source": "GAME Watch",
+      "summary": "7/24公開の映画ちいかわ「人魚の島のひみつ」（東宝配給）が公開5日前。原作屈指の人気エピソード「セイレーン編」をアニメ映像化。ナガノ脚本、監督は及川啓。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-008",
+      "category": "entertainment",
+      "title": "2026夏ドラマ視聴率——クロスロード7.2%・Tシャツが乾くまで6.9%が上位",
+      "url": "https://pixiin.com/drama-rating-ranking2026/",
+      "source": "映画ドラマ評価ピクシーン",
+      "summary": "2026夏ドラマ初週視聴率：「クロスロード〜救命救急の約束〜」（テレ朝）7.2%、「Tシャツが乾くまで」（TBS）6.9%、「ファーストクライ」（日テレ）6.8%。大河「豊臣兄弟！」は11.3%で今期首位。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-ent-009",
+      "category": "entertainment",
+      "title": "W杯ハーフタイムショーにBTS・マドンナ・シャキーラ（昨日掲載済み）",
+      "url": "https://news.yahoo.co.jp/articles/652262036af0490e3c58b1c47f1f10e1fdd6d770",
+      "source": "Yahoo!ニュース",
+      "summary": "昨日（7/18）のnews-003で統合済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/18）のnews-003（W杯決勝直前中記事）に統合済み。"
+    },
+    {
+      "id": "2026-07-19-ent-010",
+      "category": "entertainment",
+      "title": "攻殻機動隊 2026夏アニメ期待度1位（昨日掲載済み）",
+      "url": "https://www.famitsu.com/article/202607/79761",
+      "source": "ファミ通",
+      "summary": "昨日（7/18）のent-005として掲載済み。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/18）ent-005として掲載済み。"
+    },
+    {
+      "id": "2026-07-19-hobby-001",
+      "category": "hobby",
+      "title": "Sony FX5 発表3日前・最終スペックまとめ——センサー1660万画素確定、ND/フォトモードなしも判明",
+      "url": "https://digicame-info.com/2026/07/fx51660.html",
+      "source": "デジカメinfo / CAMEOTA.com",
+      "summary": "7/22発表直前。センサー：フルサイズ積層型CMOS 1660万画素・5K 3:2オープンゲート・16bit X-OCN RAW内部記録・トリプルベースISO・BIONZ XR 2+AI AF。制約：内蔵NDなし・フォトモードなし・SSD出力なし。テスター全員が「FX3よりかなり成熟した製品」と高評価。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://digicame-info.com/2026/07/fx5nd.html",
+        "https://cameota.com/sony/51056.html"
+      ]
+    },
+    {
+      "id": "2026-07-19-hobby-002",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 先行プレイ詳報——ガジェット・複数ジャンプ・壁撃ち登りでシリーズの常識を刷新",
+      "url": "https://www.famitsu.com/article/202606/79776",
+      "source": "ファミ通",
+      "summary": "7/23発売の「スプラトゥーン レイダース」先行プレイ詳報。新システム：インク消費なしの「ガジェット」、壁を撃って登る操作、複数ジャンプへの変更。PvEヒーローモードが主軸。Switch2専用、DL版6,480円、Nintendoオンライン加入不要でオフライン協力可能。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-hobby-003",
+      "category": "hobby",
+      "title": "PlayStation新作ディスク版、2028年1月に生産終了——全タイトルがDL版のみに",
+      "url": "https://www.famitsu.com/article/202607/80090",
+      "source": "ファミ通",
+      "summary": "SIEが2028年1月以降の新作PS向けゲームのディスク版生産終了を発表。以降はダウンロード版のみ提供。既発売タイトルや2028年1月前発売予定タイトルへの影響はなし。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-hobby-004",
+      "category": "hobby",
+      "title": "Sony RX10V ソニーストア予約受付開始——363,000円、7/31発売",
+      "url": "https://av.watch.impress.co.jp/docs/news/2125605.html",
+      "source": "AV Watch",
+      "summary": "ソニーストアで「DSC-RX10M5」予約受付開始。363,000円、7/31発売。1インチ積層型ExmorRS、BIONZ XR、AI AF、24-600mm F2.4-4.0、4K 120p動画対応。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-hobby-005",
+      "category": "hobby",
+      "title": "富士フイルム PHOTO IS 2026 開幕——3.2万点展示、写ルンです40周年コラボも",
+      "url": "https://dc.watch.impress.co.jp/docs/news/exhibitionreport/2126115.html",
+      "source": "デジカメWatch",
+      "summary": "第20回「PHOTO IS 2026」が東京・富士フイルムフォトサロンで7/17〜22開催中（入場無料）。過去最大3.2万点を展示。「フィルムシミュレーション部門」など3部門を記念追加。写ルンです40周年記念イベントも同時開催。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-hobby-006",
+      "category": "hobby",
+      "title": "コシナ NOKTON classic 35mm F1.4 にRF・Zマウント追加——99,000円",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2116829.html",
+      "source": "デジカメWatch",
+      "summary": "コシナ「NOKTON classic 35mm F1.4」にキヤノンRF・ニコンZマウント用を追加し7月発売。99,000円。意図的な収差でクラシック描写を再現するMFレンズ、10枚羽根絞り。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-hobby-007",
+      "category": "hobby",
+      "title": "カルドセプト ビギンズ Metacritic78点——海外メディアが戦略性を高評価",
+      "url": "https://kamigame.jp/culdcept-begins/page/431533435438253235.html",
+      "source": "神ゲー攻略",
+      "summary": "「カルドセプト ビギンズ」Metacriticスコアは78点。海外メディアはボードゲーム×カードゲーム融合システムと戦略性を高評価。運要素と対戦時間の長さを課題として挙げるレビューも一部あり。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-hobby-008",
+      "category": "hobby",
+      "title": "神田カレー街スタンプラリー8/1開幕まで13日——夏限定の発酵スパイスカレー新メニューも開始",
+      "url": "https://prtimes.jp/main/html/rd/p/000000308.000045733.html",
+      "source": "グルメプレス / PR TIMES",
+      "summary": "神田カレー街スタンプラリー2026（8/1〜12/20）まであと13日。一方、群馬有機農園産旬野菜の発酵スパイスカレーが7/17より1110 CAFE/BAKERYで夏限定提供開始（〜8/30）。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-seren-001",
+      "category": "serendipity",
+      "title": "日本政府 AI・半導体17分野に2040年度まで370兆円超投資計画",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157951000",
+      "source": "NHKニュース",
+      "summary": "経済財政諮問会議がAI・半導体を中心とした17の戦略分野に2040年度まで370兆円超を投資する官民ロードマップを提示。半導体・AIエコシステム構築を加速する方針。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-19-seren-002",
+      "category": "serendipity",
+      "title": "7月20日という前代未聞の一日——W杯決勝(4:00)×参院選投開票×海の日が史上初重複",
+      "url": "https://www.nikkei.com/article/DGXZQOCD154VG0V10C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "明日7/20は海の日（祝日）×参院選投開票×W杯決勝深夜4時キックオフが同時に起きる史上稀な一日。スポーツ・政治・文化が交差する日としてSNSでも話題に。",
+      "size": "セレンディピティ",
+      "selected": true
+    }
+  ]
+}
