@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-20",
+  "notion_page_id": "3a3a41a3-cf9b-8169-8494-dcc9036f168c",
+  "articles": [
+    {
+      "id": "2026-07-20-tech-001",
+      "category": "tech",
+      "title": "Claude Code 最新2週アップデートまとめ（Week 28-29）——ArtifactsがMCPコネクター対応、デスクトップにブラウザ内蔵、autoモードが手動承認に",
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w29",
+      "source": "Claude Code Docs",
+      "summary": "Week 29: 公開済みArtifactが閲覧者のMCPコネクターをリアルタイム呼び出し可能に。/forkコマンド追加。Week 28: デスクトップに内蔵ブラウザ搭載。v2.1.200でauto→手動承認デフォルトに変更（2層安全設計）。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://code.claude.com/docs/en/whats-new/2026-w28",
+        "https://claude.com/blog/beyond-permission-prompts-making-claude-code-more-secure-and-autonomous"
+      ]
+    },
+    {
+      "id": "2026-07-20-tech-002",
+      "category": "tech",
+      "title": "VS Code 1.128：マルチチャットClaude Agentsと画像・PDF対応Copilot VisionがGA",
+      "url": "https://code.visualstudio.com/updates/v1_128",
+      "source": "Visual Studio Code",
+      "summary": "Claudeエージェントセッション内で複数チャットを並列実行するマルチチャット機能が追加。アプローチ比較・ターンからのフォーク・並行送信が可能に。Copilot Visionも正式GA化し画像やPDFをドラッグ&ドロップでエージェントに参照させられる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-tech-003",
+      "category": "tech",
+      "title": "Storybook 10.4：@storybook/angular-viteパッケージ新設、AI自動セットアップ機能追加",
+      "url": "https://storybook.js.org/blog/storybook-10-4/",
+      "source": "Storybook Blog",
+      "summary": "Angular向けにVite対応の@storybook/angular-viteパッケージが新設。AIエージェントがプロジェクト構造を解析して設定・Stories・インタラクションテストを最大10コンポーネント分自動生成するAI自動セットアップも搭載。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-tech-004",
+      "category": "tech",
+      "title": "Meta Muse Spark 1.1：MetaがLLM APIを初の有料公開、OpenAI/Anthropic SDK両対応",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "source": "Meta AI Blog",
+      "summary": "MetaがMuse Spark 1.1（100万トークンコンテキスト・マルチモーダル・ツール並列呼び出し）とMeta Model APIの有料パブリックプレビューを公開。入力$1.25/Mトークン・出力$4.25/Mトークン。OpenAI SDKとAnthropic Messages API両フォーマット対応。新規$20クレジット付与。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-tech-005",
+      "category": "tech",
+      "title": "Angular Signalsで柔軟なeffect管理を実現する拡張パターン",
+      "url": "https://zenn.dev/rdlabo/articles/0fe0824fc702d0",
+      "source": "Zenn",
+      "summary": "Angular 22でSignal FormsとZoneless architectureが本番対応となった今、effectの落とし穴（同一値への再設定に反応しない等）と拡張パターンを解説。実践的なAngularリアクティブ開発のノウハウ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-tech-006",
+      "category": "tech",
+      "title": "State of JavaScript 2025：ViteがWebpackに急接近、AIコード生成比率29%に",
+      "url": "https://www.publickey1.jp/blog/26/state_of_javascript_2025react1webpackvite.html",
+      "source": "Publickey",
+      "summary": "React 83.6%で利用率1位維持も満足度は低下。ViteがWebpackに急接近（満足度+55pt vs -23pt）。TypeScript専用利用が40%に到達。AIによるコード生成比率が前年比45%増の29%に達した。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-tech-007",
+      "category": "tech",
+      "title": "仕様書駆動開発（Spec-Driven Development）の深掘り戦略——AIエージェントから質の高いアウトプットを引き出す",
+      "url": "https://zenn.dev/mk668a/articles/37c972ae7b17b4",
+      "source": "Zenn",
+      "summary": "Claude CodeやGitHub Copilotに与える仕様書の構造・検証フローについて、Frontend Nation 2026でも強調されたエージェント協業スタイルを実務視点で解説。即活用可能な開発手法。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-tech-008",
+      "category": "tech",
+      "title": "Frontend Nation 2026 発表まとめ（Zenn）",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "source": "Zenn",
+      "summary": "掲載記事数調整のため今号は不採用。Angularシグナル・Vue Vapor・Rustツールチェーンの動向は来号以降に分割掲載予定。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "今号のテック記事が充実しているため枠調整で除外"
+    },
+    {
+      "id": "2026-07-20-tech-009",
+      "category": "tech",
+      "title": "Claude Reflect：AI利用パターンを可視化するウェルビーイングダッシュボードをベータ公開",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "source": "Anthropic",
+      "summary": "セレンディピティ枠に移動。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "セレンディピティ枠に移動"
+    },
+    {
+      "id": "2026-07-20-news-001",
+      "category": "news",
+      "title": "参院選2026 与党過半数割れ確定——自民39・公明8計47議席、衆参ともに少数与党へ",
+      "url": "https://www.nikkei.com/article/DGXZQOUA201MH0Q5A720C2000000/",
+      "source": "日本経済新聞",
+      "summary": "7月20日投開票の第27回参院選で与党計47議席（自民39・公明8）は改選過半数を大幅割れ。非改選議席と合わせても参院全体過半数125議席に届かず。投票率58.51%（前回比+6pt）。国民民主17・参政14と新興野党が大躍進。石破首相は「関税交渉のため続投」を明言。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://www.nikkei.com/article/DGXZQOUA146GD0U5A710C2000000/",
+        "https://www.nikkei.com/article/DGXZQOUA205RQ0Q5A720C2000000/"
+      ]
+    },
+    {
+      "id": "2026-07-20-news-002",
+      "category": "news",
+      "title": "スペイン、延長後半フェラン・トーレス弾でアルゼンチンを1-0下し16年ぶりW杯優勝",
+      "url": "https://www.footballchannel.jp/2026/07/20/post951120/",
+      "source": "フットボールチャンネル",
+      "summary": "FIFAワールドカップ2026決勝でスペインがアルゼンチンを延長後半1分のフェラン・トーレス弾で1-0下し2010年以来16年ぶり2度目の世界制覇。ラミン・ヤマル起点の崩しから途中出場トーレスが決勝点。シュート20本対2本と圧倒。メッシは無得点でアルゼンチン連覇ならず。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-news-003",
+      "category": "news",
+      "title": "米軍、イランに9日連続攻撃——革命防衛隊がヨルダンの米軍機に反撃し報復合戦激化",
+      "url": "https://www.afpbb.com/articles/-/3644717",
+      "source": "AFPBB News",
+      "summary": "米中央軍は日本時間20日、イランの指揮統制拠点等を今月11日以降9日連続で攻撃と発表。イラン革命防衛隊はヨルダンの米軍機複数機に「深刻な被害」と反撃を発表。米イランの報復合戦が激化の一途をたどっている。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-news-004",
+      "category": "news",
+      "title": "トランプ代替関税が7/24（木）失効——日本向け12.5%案の301条関税に移行、参院選直後に正念場",
+      "url": "https://www.jiji.com/jc/article?k=2026071800305&g=int",
+      "source": "時事通信",
+      "summary": "世界一律10%の代替関税が7月24日（木）に失効し通商法301条関税に移行。日本には12.5%が提示されており現行より引き上げ公算大。大敗直後の石破政権に関税交渉という重大局面が直撃する。EU・中国はWTO再提訴を検討中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-news-005",
+      "category": "news",
+      "title": "森保監督、W杯決勝を現地観戦——「スペイン型を目指すべき」と2030年大会への指針を示す",
+      "url": "https://news.yahoo.co.jp/articles/5a05254bfa954dd3c10c4476f3b792643893e49a",
+      "source": "スポニチアネックス",
+      "summary": "日本代表の森保一監督がニューヨークでW杯決勝を現地生観戦。優勝したスペインを「ボールを握りながら局面でも勝っていくチームを目指すべき手本」と評価し、2030年自国開催W杯に向け「スペインを目指すべき」と明言した。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-news-006",
+      "category": "news",
+      "title": "熱中症警戒アラート今季最多40地域に発表——東京で今年初の猛暑日35℃",
+      "url": "https://weathernews.jp/news/202607/200021/",
+      "source": "ウェザーニュース",
+      "summary": "7月20日（海の日）、東北〜沖縄の40地域に熱中症警戒アラートを発表し今季最多更新。東京都心で今年初の猛暑日（35.0℃）を観測。名古屋は21日から4日連続39℃予報。来週も危険な暑さが続く見通し。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-news-007",
+      "category": "news",
+      "title": "今週の東京市場：参院選・W杯・関税切替の複合イベント後、日経平均は自律反発か",
+      "url": "https://www.nikkei.com/article/DGXZQODL1907H0Z10C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "参院選翌日21日（火）から本格的に開く今週の東京市場では、先週急落のAI・半導体株への自律反発買いが入りやすい見通し。一方、石破政権の政治的不安定化と7/24関税制度切り替えという複合リスクが波乱要因。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-001",
+      "category": "entertainment",
+      "title": "W杯決勝ハーフタイムショー——BTS・マドンナ・シャキーラ・J.ビーバーがW杯史上初の共演",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/justin-bieber-to-co-headline-final-halftime-show-with-madonna-shakira-bts",
+      "source": "FIFA公式",
+      "summary": "FIFAワールドカップ2026決勝ハーフタイムにW杯史上初のハーフタイムショーを開催。BTS・マドンナ・シャキーラ・J.ビーバーが共同ヘッドライナー。BTSは「Dynamite」をサッカー特別歌詞版で披露。クリス・マーティンがプロデュース。世界推定20億人以上が同時視聴。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-002",
+      "category": "entertainment",
+      "title": "トイ・ストーリー5 公開11日で累計50億突破——ディズニー歴代最速、最終200億超えが射程に",
+      "url": "https://www.disney.co.jp/movie/toy5/news/20260716_01",
+      "source": "ディズニー公式",
+      "summary": "7/3公開の『トイ・ストーリー5』が公開11日間で累計興収50億円突破（ディズニー全作品で歴代最速）。7/10〜12の2週目週末は動員115万人・興収16.8億円で首位を維持。最終興収200億円超えが射程圏内に入った。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-003",
+      "category": "entertainment",
+      "title": "LE SSERAFIM ワールドツアー「PUREFLOW」7/25大阪城ホールから日本11公演開幕",
+      "url": "https://natalie.mu/music/news/670060",
+      "source": "音楽ナタリー",
+      "summary": "LE SSERAFIMの2度目ワールドツアー「2026 LE SSERAFIM TOUR 'PUREFLOW'」日本ステージが7/25〜26の大阪城ホールでスタート。全国5都市11公演を展開。最新アルバム「PUREFLOW」pt.1楽曲を含むセットリストが期待される。今週末開幕。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-004",
+      "category": "entertainment",
+      "title": "ILLIT 初ツアー「PRESS START」神戸公演終了——7/23から東京TOYOTA ARENAへ",
+      "url": "https://www.hybejapan.events/illit/press_start",
+      "source": "HYBE JAPAN",
+      "summary": "ILLITの初日本ツアーが7/18〜19のGLION ARENA KOBE公演を盛況のうちに終了。次は7/23・25-26日にTOYOTA ARENA TOKYOでの東京公演が控える。デビュー1年での初本格ツアーへの熱狂が続く。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-005",
+      "category": "entertainment",
+      "title": "オリコン週間アルバム：ICEx「FRESH!!」1位・NiziU「Portfolio」2位（僅差）",
+      "url": "https://www.oricon.co.jp/rank/ja/w/2026-07-20/",
+      "source": "オリコン",
+      "summary": "7/20発表の週間アルバムランキング（7/6〜12集計）1位はICEx「FRESH!!」（82,828枚）、2位はNiziUベストアルバム「Portfolio」（80,637枚）が僅差で続く。TXT「minisode 5」が3位にロングチャート中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-006",
+      "category": "entertainment",
+      "title": "コードギアス 奪還のロゼ TV放送（7/10〜）開始——未視聴の新規層にも好反響",
+      "url": "https://animanch.com/archives/21177617.html",
+      "source": "あにまんch",
+      "summary": "2024年劇場版4部作がTV放送を7/10より開始。ディズニープラス未加入で見送っていた層にも届き「面白さは相当」と好評。ルルーシュ不在ながら予測不能な裏切り展開が新規視聴者を引き込んでいる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-007",
+      "category": "entertainment",
+      "title": "鉄鍋のジャン！約30年ぶりアニメ化始動（7/5〜）——令和コンプライアンスへの真正面からの挑戦が話題",
+      "url": "https://animeanime.jp/article/2026/07/05/100725.html",
+      "source": "アニメ！アニメ！",
+      "summary": "週刊少年チャンピオン連載の中華料理バトル漫画「鉄鍋のジャン！」が約30年ぶりにアニメ化（テレビ東京系）。過激な内容ゆえアニメ化不可と言われてきたが制作陣がコンプライアンスに真正面から挑む姿勢が話題。料理作画のクオリティも評価。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-008",
+      "category": "entertainment",
+      "title": "Amazon Prime Video 7月 劇場版ポケモン全33作品一挙配信開始",
+      "url": "https://www.aboutamazon.jp/news/entertainment/amazon-prime-video-new-content-july-2026",
+      "source": "About Amazon Japan",
+      "summary": "Amazon Prime Videoの7月新着コンテンツとして劇場版ポケットモンスター全33作品の一挙配信がスタート。夏アニメ各種や海外音楽フェス「Zipangu」も追加され、配信プラットフォームの夏コンテンツ攻勢が本格化。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-ent-009",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL 新作TVアニメ（掲載済み）",
+      "url": "https://animeanime.jp/article/2026/07/08/100828.html",
+      "source": "アニメ！アニメ！",
+      "summary": "過去7日の掲載済みURLのため除外。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "過去7日の掲載済みURLのため除外"
+    },
+    {
+      "id": "2026-07-20-ent-010",
+      "category": "entertainment",
+      "title": "2026夏アニメ全64作品出揃う（掲載済み）",
+      "url": "https://www.famitsu.com/article/202607/79761",
+      "source": "ファミ通",
+      "summary": "過去7日の掲載済みURLのため除外。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "過去7日の掲載済みURLのため除外"
+    },
+    {
+      "id": "2026-07-20-ent-011",
+      "category": "entertainment",
+      "title": "2026夏ドラマ第2週視聴率（同URL重複）",
+      "url": "https://pixiin.com/drama-rating-ranking2026/",
+      "source": "ピクシーン",
+      "summary": "昨日（7/19）掲載済みURLと同一のため除外。データも同一内容。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/19）掲載済みURLと同一のため除外"
+    },
+    {
+      "id": "2026-07-20-hobby-001",
+      "category": "hobby",
+      "title": "DJI初の国内ブランド体験スペースが二子玉川・越谷レイクタウンに7/18オープン",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2124851.html",
+      "source": "デジカメWatch",
+      "summary": "DJIが初の国内ブランド体験スペースを7/18に二子玉川「蔦屋家電+」と越谷「イオンレイクタウンkaze」に同時オープン。最新ジンバルカメラ・アクションカメラをタッチ＆トライ可能。DJI夏のクリエイターカーニバルとして無料抽選会・ワークショップも開催中（蔦屋は〜7/31）。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-hobby-002",
+      "category": "hobby",
+      "title": "Nintendo Switch 2向け2026年7月タイトルは44本——7/23にスプラトゥーン レイダース含む11本同時発売",
+      "url": "https://gamewith.jp/switch2/article/show/3228",
+      "source": "ゲームウィズ",
+      "summary": "Switch 2対応タイトルとして7月に計44本が登場。7/23は「スプラトゥーン レイダース」（Switch 2専用スピンオフ）をはじめ11本同日リリース予定。インディータイトルも含む充実のラインナップで、Switch 2普及を後押しする陣容となっている。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-hobby-003",
+      "category": "hobby",
+      "title": "富士フイルム X-Processor 6搭載の未発表機「FF260002」を登録——GFX180・X-Pro4候補か",
+      "url": "https://digicame-info.com/2026/07/2x-processor6.html",
+      "source": "デジカメinfo",
+      "summary": "富士フイルムが新世代プロセッサー「X-Processor 6」搭載の未発表機2機種を登録。4月のFF260001に続き7月にFF260002が追加登録。GFX180・X-Pro4・X-H3など上位機種の候補として年内発表への期待が高まっている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-hobby-004",
+      "category": "hobby",
+      "title": "キヤノン、2026年Q3後半〜Q4前半に EOS R新型2機種を発表予定か",
+      "url": "https://digicame-info.com/2026/07/q3q42eos-r.html",
+      "source": "デジカメinfo",
+      "summary": "海外情報筋によるとキヤノンが9〜12月にEOS Rシリーズ新型2機種を発表する見込み。EOS R7 Mark II・EOS R3 Mark IIなどが候補。年末商戦に向けたカメラ市場の動向として注目。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-hobby-005",
+      "category": "hobby",
+      "title": "ファミリーマート「あさりの旨みとスパイスが効いたシーフードカレー」7/7全国発売",
+      "url": "https://mdpr.jp/gourmet/detail/4814320",
+      "source": "モデルプレス",
+      "summary": "ファミリーマートが夏の新作「あさりの旨みとスパイスが効いたシーフードカレー」を7/7から全国約16,100店で発売。税込398円。あさり・いか・海老の食感とスパイスの効いた魚介の旨みが特徴。好評を博している。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-hobby-006",
+      "category": "hobby",
+      "title": "「カレーの壺」レトルトシリーズが7/3リニューアル——スリランカプレートスタイルをセット化",
+      "url": "https://foods-ch.infomart.co.jp/news/304348",
+      "source": "フーズチャネル",
+      "summary": "スリランカカレーブランド「カレーの壺」のレトルトシリーズが7/3にリニューアル発売。1箱に2種類のカレーとチャツネをセット化し、スリランカ伝統の「スリランカプレート」スタイルを家庭で体験しやすくアップデート。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-hobby-007",
+      "category": "hobby",
+      "title": "1110 CAFE/BAKERY 夏野菜の発酵スパイスカレーフェア（掲載済み）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000308.000045733.html",
+      "source": "PR TIMES",
+      "summary": "昨日（7/19）掲載済みURLのため除外。",
+      "size": null,
+      "selected": false,
+      "exclude_reason": "昨日（7/19）hobby-008として掲載済みのURLのため除外"
+    },
+    {
+      "id": "2026-07-20-seren-001",
+      "category": "serendipity",
+      "title": "Claude Reflect：AnthropicがAI利用パターンを可視化するウェルビーイングダッシュボードをベータ公開",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "source": "Anthropic",
+      "summary": "7/9、AnthropicがClaude利用状況を可視化する「Reflect」をベータ公開。過去1〜12ヶ月の利用頻度・主要トピック・ピーク時間帯をグラフィカルに表示。AI過依存防止のウェルビーイング機能も実装。メモリ有効ユーザー向け。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-seren-002",
+      "category": "serendipity",
+      "title": "フェラン・トーレス、批判を乗り越え決勝弾「このゴールはスペイン4700万人のもの」",
+      "url": "https://qoly.jp/q1/17853467",
+      "source": "Qoly",
+      "summary": "今大会ほぼ途中出場で批判を受け続けたフェラン・トーレスが、決勝の延長後半1分に途中出場で決勝点を挙げスペインを世界王者に導いた。「散々批判されてきた。このゴールはスペイン国民4700万人のもの」と語った。",
+      "size": "セレンディピティ",
+      "selected": true
+    },
+    {
+      "id": "2026-07-20-seren-003",
+      "category": "serendipity",
+      "title": "AIがソフトウェア開発を変える——2026年、エンジニアリングの自動化最前線",
+      "url": "https://zenn.dev/shintaroamaike/articles/58036e930bb7f3",
+      "source": "Zenn",
+      "summary": "Claude Codeが自動生成できることが増えた現在、フロントエンドエンジニアに求められるスキルがシフトしている現実を分析。UI/ドキュメント/リファクタリングをAIが担い始めた2026年のエンジニアリングの現在地。",
+      "size": "セレンディピティ",
+      "selected": true
+    }
+  ]
+}
