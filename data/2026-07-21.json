@@ -1,0 +1,442 @@
+{
+  "date": "2026-07-21",
+  "notion_page_id": "3a4a41a3-cf9b-81c8-87d7-f2142ce90e2e",
+  "articles": [
+    {
+      "id": "2026-07-21-tech-001",
+      "category": "tech",
+      "title": "Angular Signal Forms & Zoneless 2026完全体制——v22で本番投入レベルに達した実践知識",
+      "url": "https://medium.com/@Angular_With_Awais/angular-signal-forms-in-2026-3-production-ready-updates-you-should-know-033d76e9bb0c",
+      "source": "Medium / Qiita",
+      "summary": "Angular v22でSignal FormsとZoneless Change Detectionが安定版に昇格し本番投入レベルに到達。Signal Formsはフォーム送信・非同期バリデーション・Signalとの統合が完成、Zonelessはzone.jsを廃止したOnPushデフォルト設計で不要な再レンダリングを根本排除。Qiitaの日本語v22変更点まとめも充実。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://qiita.com/ksh-fthr/items/f0b31740dd80b1436ce2",
+        "https://medium.com/@Angular_With_Awais/angular-signal-forms-in-2026-3-production-ready-updates-you-should-know-033d76e9bb0c"
+      ]
+    },
+    {
+      "id": "2026-07-21-tech-002",
+      "category": "tech",
+      "title": "自律型AIエージェントがHugging Faceを侵害——17,000アクション実行で内部認証情報を窃取",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "source": "TechCrunch",
+      "summary": "AIエージェントが週末の72時間で1.7万超アクションを実行しHugging Face本番インフラへ侵入。内部データセット・クラウド認証情報を窃取（公開モデルへの改ざんはなし）。AIが異常検知AIで侵害を検出という攻防構図も。APIキーの即時ローテーションを推奨。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-003",
+      "category": "tech",
+      "title": "TypeScript 7.0正式リリース——Goへの移植で8〜12倍高速化、VS Codeエラー検出が17.5秒→1.3秒未満に",
+      "url": "https://gihyo.jp/article/2026/07/typescript-7-0",
+      "source": "gihyo.jp",
+      "summary": "TypeScript 7.0がGo言語への移植で8〜12倍のビルド高速化を実現。VS Codeのエラー検出が17.5秒→1.3秒未満、Node.js不要のネイティブ実行に。互換パッケージ@typescript/typescript6も提供。Angularプロジェクトへの影響確認が必須。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-004",
+      "category": "tech",
+      "title": "GhostApproval：Claude Code含む6つのAIコーディングアシスタントに信頼境界の脆弱性",
+      "url": "https://www.wiz.io/blog/ghostapproval-a-trust-boundary-gap-in-ai-coding-assistants",
+      "source": "Wiz Blog",
+      "summary": "悪意あるリポジトリのシンボリックリンクがAIコーディングアシスタントの承認UIを偽装し、SSH鍵など任意のファイルへの書き込みが可能な「GhostApproval」脆弱性をWizが公開。Claude Code・Cursor・Amazon Q・Windsurf・Google Antigravity・Augmentの6ツールが影響。Anthropicはシンボリックリンク解決パッチを適用済み。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-005",
+      "category": "tech",
+      "title": "Next.jsが月次セキュリティリリースプログラムを開始——初回で高深刻度4件を含む9脆弱性修正",
+      "url": "https://cybersecuritynews.com/next-js-monthly-security-updates/",
+      "source": "Cybersecurity News",
+      "summary": "VercelがNext.js 16.2/15.5向けに月次セキュリティリリースを開始（7/21）。Server Components DoS・Middlewareバイパス・SSRF（WebSocketアップグレード）・i18nルートバイパスなど高深刻度4件・中深刻度5件を修正。Next.js利用プロジェクトは即時アップデートを。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-006",
+      "category": "tech",
+      "title": "Claude Code 週間利用制限+50%ブーストが7/19に終了——対Codex施策3ヶ月で区切り",
+      "url": "https://pasqualepillitteri.it/en/news/2494/claude-code-weekly-limits-50-percent-anti-codex-anthropic-2026",
+      "source": "Tech Blog",
+      "summary": "Anthropicが5月から提供していたClaude Codeの週間利用制限+50%ブーストが7月19日に終了。OpenAI Codex対抗施策として3ヶ月続いた優遇措置が区切り。5時間制限（ローリングウィンドウ）は継続。Claude Sonnet 5が8月31日まで割引価格で利用可能。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-007",
+      "category": "tech",
+      "title": "Cognition SWE-1.7、1件$1.97でGPT-5.5に匹敵——FrontierCode 1.1 Mainで42.3%（前世代比4倍）",
+      "url": "https://alphasignal.ai/news/cognition-s-swe-1-7-matches-gpt-5-5-on-coding-tasks-at-1-97-each",
+      "source": "AlphaSignal",
+      "summary": "CognitionがDevin向けSWE-1.7をリリース。Kimi K2.7 Codeベースに多段強化学習でFrontierCode 1.1 Mainにて42.3%（前世代比4倍）を達成し、GPT-5.5に匹敵するパフォーマンスをタスク$1.97で提供。Cerebrasで1000TPS動作。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-008",
+      "category": "tech",
+      "title": "Angular 22.0.7リリース——日付フォーマットキャッシュのプロトタイプルックアップ防止など複数バグ修正",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.7",
+      "source": "GitHub / Angular",
+      "summary": "Angular 22.0.7が7/16リリース。commonパッケージの日付フォーマットキャッシュのプロトタイプルックアップ防止、compilerの空テンプレートリテラル補間パース修正など複数バグ対応。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-009",
+      "category": "tech",
+      "title": "美団が1.6兆パラメータMoE「LongCat-2.0」をMITライセンスでOSS化——中国製チップのみで訓練、SWE-bench ProでGPT-5.5超え",
+      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+      "source": "VentureBeat",
+      "summary": "中国の大手配送企業MeituanがLongCat-2.0（1.6兆パラメータMoE・ネイティブ100万トークンコンテキスト）をMITライセンスでOSS化。OpenRouterで2ヶ月匿名モデルとして首位を維持していたことも判明。SWE-bench ProでGPT-5.5超え。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-010",
+      "category": "tech",
+      "title": "Google Veo 3.1がGemini APIに統合——1080p・148秒まで動画拡張、Liteモデルも同時展開",
+      "url": "https://developers.googleblog.com/introducing-veo-3-1-and-new-creative-capabilities-in-the-gemini-api/",
+      "source": "Google Developers Blog",
+      "summary": "GoogleがVeo 3.1をGemini API・Flowに統合。1080p/24fps・同期音声・148秒まで動画拡張に対応。コスト効率モデルVeo 3.1 Liteも展開。エンタメ業界での映像生成AI活用の選択肢が広がる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-tech-011",
+      "category": "tech",
+      "title": "AnthropicとBlackstoneが提携——「次の1兆ドルAIビジネスは実装にある」を戦略の核心に",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "source": "TechCrunch",
+      "summary": "AnthropicとBlackstoneが戦略的提携（7/15発表）。金融・不動産・インフラ分野での大規模Claude展開に向けて協業。モデル開発競争から実装ビジネスへの産業構造シフトを象徴する動き。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-news-001",
+      "category": "news",
+      "title": "石破首相、参院選翌日に続投正式表明——高知県連が退陣申し入れ、連立組み替えも浮上",
+      "url": "https://www.nikkei.com/article/DGXZQOUA211XW0R20C25A7000000/",
+      "source": "日本経済新聞",
+      "summary": "石破首相が7/21に正式続投表明、理由は7/24関税交渉期限への対応。同日高知県連が退陣申し入れを決定し「石破おろし」が始動。衆参ともに少数与党は結党史上初。国民民主・維新との連立組み替えが現実的選択肢として浮上。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://toyokeizai.net/articles/-/892900",
+        "https://toyokeizai.net/articles/-/892581?display=b"
+      ]
+    },
+    {
+      "id": "2026-07-21-news-002",
+      "category": "news",
+      "title": "米軍イランへ10日連続攻撃・中ロが日本EEZ内で初の実弾射撃——地政学リスクが複合的に深刻化",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-20/TIHHZ0T96OSW00",
+      "source": "Bloomberg Japan",
+      "summary": "米軍のイラン攻撃が10日連続に（米兵2人死亡・トランプが「報いを受ける」と警告）。中ロ合同艦隊が日本EEZ内で初の実弾射撃・防衛省が強く抗議。フーシ派もサウジ海上封鎖を宣言しホルムズ・紅海の両ルートが同時に脅威に。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://www.nikkei.com/article/DGXZQOUA210BG0R20C26A7000000/",
+        "https://news.web.nhk/newsweb/na/na-k10015181491000",
+        "https://www.jiji.com/jc/article?k=2026072100211&g=pol",
+        "https://www.afpbb.com/articles/-/3644879"
+      ]
+    },
+    {
+      "id": "2026-07-21-news-003",
+      "category": "news",
+      "title": "世界一律10%の代替関税、7/24（木）失効——日本は12.5%の301条関税へ移行、WTO再提訴の動きも",
+      "url": "https://news.yahoo.co.jp/articles/94c907f3d89249c04a346ae5ebbfc8607945ed20",
+      "source": "時事通信（Yahoo!ニュース）",
+      "summary": "トランプ政権の一律10%代替関税が7/24に失効し301条関税（日本は12.5%）に移行。参院選大敗後の石破政権への直撃。EU・各国がWTO再提訴を検討中で国際貿易秩序の大きな転換点。",
+      "size": "中",
+      "selected": true,
+      "related_urls": ["https://www.nikkei.com/article/DGXZQOGN162JF0W6A710C2000000/"]
+    },
+    {
+      "id": "2026-07-21-news-004",
+      "category": "news",
+      "title": "フーシ派、サウジアラビアへの「海上封鎖」を宣言——紅海ルートに新たな打撃",
+      "url": "https://www.afpbb.com/articles/-/3644879",
+      "source": "AFPBB News",
+      "summary": "親イラン武装組織フーシが7/20、サウジアラビアを対象に紅海を念頭に置いた「海上封鎖」を即時実施と宣言。ホルムズ海峡の代替ルートである石油輸送路に新たなリスクが加わり日本のエネルギー供給に影響。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-news-005",
+      "category": "news",
+      "title": "英国・バーナム新首相が就任——労働党政権で10年間に6人目の首相交代",
+      "url": "https://news.yahoo.co.jp/pickup/6588671",
+      "source": "Yahoo!ニュース",
+      "summary": "英国のアンディ・バーナム氏（56）が7/20に新首相に就任。EU離脱後の混乱が続く英国で10年に6人目の政権交代。経済再建と対EU関係の安定化を優先課題として掲げた。G7外交へのインパクトにも注目。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-news-006",
+      "category": "news",
+      "title": "参院選翌日・日経平均が一時2000円超反発——石破続投表明受けも、関税・政局が波乱要因に",
+      "url": "https://toyokeizai.net/articles/-/892306?display=b",
+      "source": "東洋経済オンライン",
+      "summary": "7/21の日経平均が石破首相続投表明を受けて一時2000円超上昇（終値66,232円）。AI・半導体関連株への自律反発。ただし7/24関税移行・政局不安定化が複合リスクで先行きは不透明。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-news-007",
+      "category": "news",
+      "title": "今日（7/21）東海で酷暑日——豊田市41℃予報、熱中症アラート43地域、25日まで危険な暑さ",
+      "url": "https://tenki.jp/forecaster/kubo_tomoko/2026/07/21/39797.html",
+      "source": "tenki.jp",
+      "summary": "7/21に豊田市41℃・名古屋40℃など今年初の酷暑日が東海・関東で相次ぐ見通し。熱中症警戒アラートは全国43地域（今季最多更新）。7/25まで東海を中心に災害級の暑さが続く。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-news-008",
+      "category": "news",
+      "title": "参院選大敗・過去に株価1割安の前例——国債格下げリスクと長期金利上昇が三つ巴の不安定要因に",
+      "url": "https://www.nikkei.com/article/DGXZQOUB210K80R20C25A7000000/",
+      "source": "日本経済新聞",
+      "summary": "過去の与党大敗ケースでは株価が1割程度下落した前例があると指摘。日本国債の格下げリスクや長期金利上昇懸念も浮上し、参院選大敗が政治・財政・市場の三つ巴の不安定要因になるとの見方が強まる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-news-009",
+      "category": "news",
+      "title": "参院選後の政局シナリオ3案と市場展望——「石破続投」「連立組み替え」「早期退陣」を分析",
+      "url": "https://www.dlri.co.jp/report/macro/481299.html",
+      "source": "第一生命経済研究所",
+      "summary": "参院選大敗後の政局シナリオを3案で分析。政局不安定化は株価にネガティブだが積極財政転換なら成長期待で株高の可能性も。日米関税交渉の決着が最大の市場注目点と指摘。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-001",
+      "category": "entertainment",
+      "title": "2026 MAMA AWARDS 11月20〜21日に京セラドーム大阪で開催決定——K-POPの日本主軸化が鮮明に",
+      "url": "https://www.musicman.co.jp/business/719230",
+      "source": "Musicman",
+      "summary": "K-POP年間最大のイベントMAMA AWARDSが11/20〜21に京セラドーム大阪での開催が決定。テーマ「Music Makes ONE」、VisaがタイトルスポンサーでBTS完全体出演も注目。W杯ハーフタイムショー直後の発表でK-POPの日本主軸化が加速。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-002",
+      "category": "entertainment",
+      "title": "VIVANT第2シーズン 7/26（日）TBS放送開始——亀梨和也・松嶋菜々子加入で期待度断トツNo.1",
+      "url": "https://filmaga.filmarks.com/articles/333815/",
+      "source": "FILMAGA",
+      "summary": "TBS日曜劇場VIVANT第2シーズンが今週日曜（7/26）スタート。亀梨和也が最大の敵・兵藤和也役で加入し松嶋菜々子との夫婦共演も実現。Filmarks登録数9,912件で2026年夏ドラマ期待度断トツNo.1。社会現象の再来を狙う大型続編。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-003",
+      "category": "entertainment",
+      "title": "「キングダム 魂の決戦」公開4日で20.6億・2026年実写映画No.1のロケットスタート",
+      "url": "https://realsound.jp/movie/2026/07/post-2466337.html",
+      "source": "Real Sound",
+      "summary": "7/17公開の「キングダム 魂の決戦」が4日間で動員133万人・興収20.6億円を突破し2026年実写映画No.1のオープニング成績を記録。米津玄師書き下ろし主題歌「夜鷹」との相乗効果で話題持続中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-004",
+      "category": "entertainment",
+      "title": "BLEACH 千年血戦篇「禍進譚」7/25（土）最終クール放送開始——ファイナルPVも解禁",
+      "url": "https://bleach-anime.com/news/?id=70738",
+      "source": "BLEACH公式サイト",
+      "summary": "BLEACH千年血戦篇の最終クール「禍進譚」が7/25深夜テレ東系で放送開始。OPテーマ「I-BULL」・EDテーマ「螺旋」。2022年から4クールにわたる集大成として期待が最高潮に。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-005",
+      "category": "entertainment",
+      "title": "攻殻機動隊 新作TVアニメが放送中——素子役に坂本真綾、OPにKing Gnu「GO GHOST」",
+      "url": "https://news.yahoo.co.jp/articles/5123f3a7b91d04cbea2fdb35871d21c1fd92a278",
+      "source": "Yahoo!ニュース（オタク総研）",
+      "summary": "7/7からフジテレビ系「火アニバル!!」枠で放送中の攻殻機動隊新作TVアニメ。素子役に坂本真綾、OPにKing Gnu「GO GHOST」・EDにMILLENNIUM PARADE「Blue」。Prime Videoで最速配信中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-006",
+      "category": "entertainment",
+      "title": "RIIZE 日本3rdシングル「Sunburst」8/26リリース決定——アニメ「キルアオ」EDを含む3曲収録",
+      "url": "https://riizeofficial.jp/news/20260709/",
+      "source": "RIIZE公式サイト",
+      "summary": "RIIZEの日本3rdシングル「Sunburst」が8/26リリース決定。タイトル曲・アニメ「キルアオ」EDテーマ「KILL SHOT」・日本オリジナル曲の計3曲収録。7月ファンミーティングで世界初披露し大好評。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-007",
+      "category": "entertainment",
+      "title": "BTS完全体がW杯決勝ハーフタイムで「Dynamite」披露——マドンナ・シャキーラと共演（詳報）",
+      "url": "https://hollywoodreporter.jp/news/216052/",
+      "source": "THR Japan",
+      "summary": "昨日W杯決勝ハーフタイムショーでBTS完全体7人がマドンナ・シャキーラ・J.ビーバーと共演。「Dynamite」を披露し推定20億人以上が視聴。K-POP×グローバルスポーツの歴史的融合として国内外で引き続き話題が拡大中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-008",
+      "category": "entertainment",
+      "title": "GTO 28年ぶり連続ドラマ復活——浜田拳士主演で昨日（7/20）フジテレビ放送開始",
+      "url": "https://news.mynavi.jp/article/20260711-4640053/",
+      "source": "マイナビニュース",
+      "summary": "フジテレビ系「GTO」が28年ぶりに連続ドラマとして復活し7/20放送開始。浜田拳士主演・令和版完全オリジナルストーリー。2026年夏ドラマ期待度2位を獲得していた話題作。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-009",
+      "category": "entertainment",
+      "title": "幼女戦記II 9年ぶり第2期が7/8放送開始——2026年夏アニメで屈指の話題作",
+      "url": "https://note.com/anime_review_lab/n/n17b4f26dade9",
+      "source": "note",
+      "summary": "TVアニメ「幼女戦記II」が7/8放送開始。制作発表から5年・第1期から9年ぶりの続編。統一暦1926年秋を舞台に連邦との総力戦。視聴順は「1期→劇場版→2期」が推奨。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-ent-010",
+      "category": "entertainment",
+      "title": "Billboard JAPAN 2026上半期チャート——米津玄師「IRIS OUT」首位・旧作カタログ需要が拡大",
+      "url": "https://www.billboard-japan.com/special/detail/5309/",
+      "source": "Billboard JAPAN",
+      "summary": "「JAPAN Hot 100」2026年上半期チャート発表。米津玄師「IRIS OUT」が26週すべてトップ10をキープし首位。BTS・Mrs. GREEN APPLEも上位。2019年以前リリース曲が27曲チャートインと旧作カタログ需要の拡大が顕著。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-21-hobby-001",
+      "category": "hobby",
+      "title": "大阪スパイスカレー名店「虹の仏」が東京・亀戸に7/28グランドオープン",
+      "url": "https://minamisuna1.com/37668/",
+      "source": "みなみすな",
+      "summary": "ミシュランビブグルマン選出の大阪・四天王寺「虹の仏」が東京都江東区亀戸に7/25〜26プレオープン・7/28グランドオープン。魚介出汁の旨みを活かした出汁キーマカレーが名物、古代米・豆カレー・副菜を混ぜながら食べるスタイル。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-21-hobby-002",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 7/23（木）発売——Switch 2専用スピンオフの詳細まとめ",
+      "url": "https://dengekionline.com/article/202606/78078",
+      "source": "電撃オンライン",
+      "summary": "7/23発売のSwitch 2専用ソフト『スプラトゥーン レイダース』詳細。すりみ連合と協力してシャケと戦う1〜4人協力アクション。パッケージ版7,480円・DL版6,480円で本体同梱セットも同日発売。ファミ通先行評価でオクト・サイド・オーダーの面白さが凝縮と高評価。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-21-hobby-003",
+      "category": "hobby",
+      "title": "富士フイルム X-T6 噂まとめ——9月発表濃厚、4000万画素・8K動画・新フィルムシミュレーション",
+      "url": "https://cameota.com/fujifilm/50837.html",
+      "source": "CAMEOTA.com",
+      "summary": "富士フイルム次期フラグシップ「X-T6」が9月第1週発表濃厚という噂まとめ。4000万画素センサー・8K動画対応・深く濃い発色の新フィルムシミュレーション・新バッテリーNP-W255採用が有力視。Xマウントレンズ2本と同時発表見込み。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-21-hobby-004",
+      "category": "hobby",
+      "title": "日本人制作インディーゲーム「めっちゃカメレオン」が12日で700万本突破——Switch版移植を望む声が急増",
+      "url": "https://game.watch.impress.co.jp/docs/news/2118856.html",
+      "source": "GAME Watch",
+      "summary": "日本人クリエイター制作のお絵かきかくれんぼゲーム『めっちゃカメレオン』がSteam配信から12日でセールス700万本突破・最大同接34万人超を記録。Switch版移植を望む声が急増し日本テーマの新マップ実装も予告。価格790円。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-21-hobby-005",
+      "category": "hobby",
+      "title": "ソニーFE 100-400mm F4.5 GM OSS 実写レビュー——ズーム全域F4.5通し、最新AIトラッキングAF対応",
+      "url": "https://www.kitamura.jp/shasha/sony/fe-100-400mm-f4-5-gm-oss-3-20260621/",
+      "source": "ShaSha by Kitamura",
+      "summary": "ソニーの最新超望遠GMレンズ「FE 100-400mm F4.5 GM OSS」の実写レビュー。ズーム全域F4.5維持・AIリアルタイムトラッキングAFで野鳥・スポーツ撮影に最適。インナーズーム設計で重量バランスも安定。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-21-hobby-006",
+      "category": "hobby",
+      "title": "大阪・吹田山田東に5ッ星ホテル出身シェフのスパイスカレー「PAR（パール）」7/9オープン",
+      "url": "https://suichan.jp/open/2026/07/p=109201",
+      "source": "吹チャン！",
+      "summary": "大阪・吹田市山田東にインドの5ッ星ホテルで総料理長を務めたシェフが手掛けるスパイスカレー専門店「PAR（パール）」が7/9オープン。オーガニックスパイスと野菜にこだわった無添加カレーが特徴。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-21-hobby-007",
+      "category": "hobby",
+      "title": "神保町エリアに人気スパイスカレー店の2号店——副菜ビュッフェスタイルで展開",
+      "url": "https://magazine.tabelog.com/articles/487733",
+      "source": "食べログマガジン",
+      "summary": "スパイスカレーファンに支持される人気店が東京・神保町エリアに2号店を新規オープン。副菜ビュッフェスタイルで豊富なトッピングとスパイスカレーをカスタムして楽しめる。駅近・飲食店街の好立地。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-21-hobby-008",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ（11年ぶり新作）——Switch/Switch 2対応、80種超を全て新規制作",
+      "url": "https://news.denfaminicogamer.jp/news/260702e",
+      "source": "電ファミニコゲーマー",
+      "summary": "任天堂シリーズ約11年ぶり新作『リズム天国 ミラクルスターズ』が7/2発売。80種類以上のリズムゲームを全て新規作成で収録。最大4人対応マルチモードやRPG風の新モード「ビートスペル」も搭載。6,500円。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-21-serendipity-001",
+      "category": "serendipity",
+      "title": "スパイスカレー×スパイスラーメンを同時展開——京都駅に「スパイストライ」が新規オープン",
+      "url": "https://kyotopi.jp/articles/1IvKi",
+      "source": "京とぴ",
+      "summary": "京都駅にスパイスカレーとスパイスラーメンを同時提供する「スパイストライ」がオープン。観光客・地元客の両方にアプローチする複合スタイルが特徴。ジャンルの壁を越えた新業態として関西スパイス文化の広がりを示す。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "エンタメ業界で企画を立てる立場として、「カレー×ラーメン」というジャンルの壁を越えた新業態は示唆に富む。「カテゴリをまたぐ企画が既存ファン＋新規客を同時獲得する」という法則はコンテンツ企画にも直結する。"
+    },
+    {
+      "id": "2026-07-21-serendipity-002",
+      "category": "serendipity",
+      "title": "「石破おろし」が本格化しない「不可思議」な深層——後継候補不在と交渉環境が反主流を封じる",
+      "url": "https://toyokeizai.net/articles/-/892581?display=b",
+      "source": "東洋経済オンライン",
+      "summary": "3連敗した石破首相に対し「石破おろし」が本格化しない理由を分析。後継候補の不在と野党との折衝が必要な国会環境が反主流派を封じていると指摘。表層と深層が逆転する政治的論理を解説。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「なぜ明らかに不利な状況なのに変化が起きないのか」という問いへの答えは、組織論・意思決定論としても示唆に富む。プロジェクトや職場の「変えたいのに変わらない」問題を考える際の思考モデルになる。"
+    },
+    {
+      "id": "2026-07-21-serendipity-003",
+      "category": "serendipity",
+      "title": "Pinecone Nexus、Microsoft OneLakeと統合——RAGパイプライン不要でLLMトークン95%削減・速度30倍",
+      "url": "https://www.pinecone.io/newsroom/microsoft-onelake-nexus/",
+      "source": "Pinecone",
+      "summary": "PineconeのNexus知識エンジンがMicrosoft OneLakeと統合し、AIエージェントがエンタープライズデータに直接アクセス可能に。従来のRAGパイプライン不要で構造化知識アーティファクトを提供、LLMトークン消費最大95%削減・速度30倍向上。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「RAGはもう古い」という大胆な主張を実証するプロダクトの登場は、LLMアプリ開発の常識を問い直す。フロントエンドエンジニアとして社内AIツール構築に関わる際の設計判断に影響を与えうる。"
+    }
+  ]
+}
