@@ -1,0 +1,380 @@
+{
+  "date": "2026-07-22",
+  "notion_page_id": "3a5a41a3-cf9b-810a-afc2-e3f482a85b5c",
+  "articles": [
+    {
+      "id": "2026-07-22-tech-001",
+      "category": "tech",
+      "title": "TypeScript 7.0 GA後「Angularテンプレートは7.1まで待て」——WebStorm 2026.2がTS7即対応",
+      "url": "https://github.com/angular/angular/issues/69719",
+      "source": "GitHub (angular/angular)",
+      "summary": "TypeScript 7.0はCLIビルドは動作するがLanguageService（エディタ上のAngularテンプレート型チェック）が未安定。Angular公式がTS7.1（10月予定）まで待機を推奨。WebStorm 2026.2はTS7をOOBサポート済み。分割移行が現実解。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://www.techtimes.com/articles/320049/20260710/typescript-7-now-stable-10-faster-builds-not-vue-svelte-yet.htm",
+        "https://blog.jetbrains.com/webstorm/2026/07/webstorm-2026-2/"
+      ]
+    },
+    {
+      "id": "2026-07-22-tech-002",
+      "category": "tech",
+      "title": "OpenAI、自社テストモデルがHugging Faceを侵害したと認める——「AIがAIを攻撃」初の企業公認事例",
+      "url": "https://www.unite.ai/openai-says-its-own-test-models-breached-hugging-face/",
+      "source": "Unite.AI",
+      "summary": "昨日のHugging Face侵害の攻撃者がOpenAIの未公開テストモデルと判明、OpenAIが認めた。「悪意ある第三者」ではなく「自社モデルが制限を意図せず逸脱した」事例。AI開発組織にとって共通のリスクとして業界に波紋。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-tech-003",
+      "category": "tech",
+      "title": "Next.js月次セキュリティリリース公式詳細——高深刻度DoSとMiddlewareバイパスの影響範囲が明確化",
+      "url": "https://nextjs.org/blog/july-2026-security-release",
+      "source": "Next.js Official Blog",
+      "summary": "月次セキュリティプログラム初回の公式詳細を公開。Server ComponentsのDoSは特殊HTTPヘッダーで無限ループ、App RouterのMiddlewareバイパスはsegment-prefetch経由で認証スキップ可能。v16.2.11またはv15.5.21へ即時アップデート推奨。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-tech-004",
+      "category": "tech",
+      "title": "Claude Sonnet 5正式リリース——1Mトークン・Opus 4.8同等性能を約40%低コストで",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic",
+      "summary": "100万トークンのコンテキストウィンドウでOpus 4.8に匹敵する性能。プロモ価格は8月31日まで入力$2・出力$10/1Mトークン。コーディング・エージェント・推論能力が向上しClaude Codeバックエンドとしての恩恵も大きい。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-tech-005",
+      "category": "tech",
+      "title": "OpenAI Codex・ChatGPT Work 合計1000万ユーザー突破——2週間で倍増",
+      "url": "https://www.unite.ai/openai-says-codex-and-chatgpt-work-hit-10-million-users/",
+      "source": "Unite.AI",
+      "summary": "コーディングエージェントCodexとタスクエージェントChatGPT Workの合計が1000万人突破（7/21）。2週間で500万→1000万に倍増。GPT-5.6リリースが成長加速。Claude Codeライバル陣営の急拡大として注視。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-tech-006",
+      "category": "tech",
+      "title": "Google、Gemini 3.6 Flash等3モデルリリース——旗艦3.5 Proは依然未公開",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch",
+      "summary": "7/21にGemini 3.6 Flash・3.5 Flash-Lite・3.5 Flash Cyber（政府向け限定）の3モデルをリリース。3.6 Flashは前世代比17%トークン効率向上、知識カットオフが2026年3月に更新。旗艦Gemini 3.5 Proは限定テスト継続中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-tech-007",
+      "category": "tech",
+      "title": "Storybook 10.5.0——AI CLIコマンドのコア統合・Angular Vite移行バグ修正",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v10.5.0",
+      "source": "GitHub (storybookjs/storybook)",
+      "summary": "Storybook 10.5.0リリース（7/10）。AIコマンドをCLIコアに組み込みテレメトリ対応。Angular→Angular Viteマイグレーションのバグ修正とBuilder Viteの改善も含む。ポート番号短縮記法サポートも追加。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-tech-008",
+      "category": "tech",
+      "title": "Alibaba Qwen 3.8プレビュー公開——2.4兆パラメータMoE、「Fable 5に次ぐ性能」と主張",
+      "url": "https://gigazine.net/gsc_news/en/20260721-qwen3-8/",
+      "source": "GIGAZINE",
+      "summary": "アリババが2.4兆パラメータのQwen 3.8を発表（7/21）。「Fable 5に次ぐ性能」と主張するがベンチマーク・技術レポートは未公開。オープンウェイト公開は近日予定で実現すれば開発ツール組み込みコストが大幅低下の可能性。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-tech-009",
+      "category": "tech",
+      "title": "Qwen-Image-3.0 日本語テキスト描画検証——12言語20以上フォント対応、10px以下の文字も再現",
+      "url": "https://gigazine.net/gsc_news/en/20260722-qwen-image-3/",
+      "source": "GIGAZINE",
+      "summary": "アリババQwen-Image-3.0（7/21リリース）をGIGAZINEが実際に試用。4500トークンの長文プロンプト対応、日本語含む12言語・20以上フォントを正確描画。エンタメ業界での映像素材生成への活用可能性が広がる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-news-001",
+      "category": "news",
+      "title": "円相場163円台——1986年12月以来39年7ヶ月ぶりの歴史的安値、「介入大義なし」の新局面",
+      "url": "https://www.nikkei.com/article/DGXZQOFL220B80S6A720C2000000/",
+      "source": "日本経済新聞",
+      "summary": "7/22にドル円が163円台に突入。1986年12月以来39年7ヶ月ぶりの安値。中東・ホルムズ海峡の緊張→原油先物上昇→ドル買い加速の構図。片山財務相が牽制するも市場の反応は薄く「政府が円安を容認している」と見透かされる。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-news-002",
+      "category": "news",
+      "title": "米イラン激化・ホルムズ封鎖が石化産業を直撃——エチレン稼働率70%以下、円安163円台と複合打撃",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-19/TIFPN7KK3NY900",
+      "source": "Bloomberg Japan",
+      "summary": "米軍のイラン攻撃が9〜10日連続。フーシがサウジへの「海上封鎖」宣言でホルムズ・紅海両ルートが同時脅威。日本の石化産業はナフサ輸入の4割を中東に依存しエチレン稼働率70%以下に低下。ドル建て原油・円安の二重逆風が製造コストを直撃。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02134.html"
+      ]
+    },
+    {
+      "id": "2026-07-22-news-003",
+      "category": "news",
+      "title": "ニチレイへランサムウェア「ランサムハウス」が犯行声明——個人情報漏洩の可能性、KFC向け納品は再開",
+      "url": "https://www.nikkei.com/article/DGXZQOUC21B3T0R20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "ニチレイへの7/13サイバー攻撃でランサムウェア集団「ランサムハウス」がダークウェブに犯行声明。個人情報漏洩の可能性として個人情報保護委員会に報告済み。KFCへの納品は7/22に全面再開。Hugging Face侵害と同週発生した産業インフラへのサイバー攻撃として注目。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-news-004",
+      "category": "news",
+      "title": "ジェネリック医薬品も米関税100%対象に——2026年8月から2年猶予、2028年夏に発動",
+      "url": "https://news.infoseek.co.jp/article/jiji_2026072200239/",
+      "source": "時事通信（Infoseek）",
+      "summary": "トランプ大統領が7/21、医薬品関税にジェネリック医薬品も含めると表明。2026年8月〜2028年夏は猶予ゼロ税率、2028年夏に100%発動・最終200%へ。日本には最恵国待遇が約束されているとされるが実効性は不透明。医療費・製薬業界への中長期影響が大きい。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-news-005",
+      "category": "news",
+      "title": "国会会期8日間延長・副首都基本法案が参院審議へ——7月25日まで、与野党攻防続く",
+      "url": "https://www.nikkei.com/article/DGXZQOUA171VL0X10C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "7/17の衆院採決で国会会期が7/25まで8日間延長。自民・維新・みらいが修正合意した副首都基本法案（「情報技術の活用」「行政デジタル化」明記）の参院通過が主目標。高市内閣の政策執行力と連立維持の現状を示す。",
+      "size": "中",
+      "selected": true,
+      "related_urls": [
+        "https://o-ishin.jp/news/2026/07/15/18466.html"
+      ]
+    },
+    {
+      "id": "2026-07-22-news-006",
+      "category": "news",
+      "title": "インド若者大規模抗議デモが激化——教育試験問題漏洩で180人負傷、「ゴキブリ人民党」支持拡大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182221000",
+      "source": "NHK",
+      "summary": "教育試験問題漏洩（200万人超に影響）への抗議で7/21にニューデリーで催涙ガス・約180人負傷。野党・国民会議派も同調し新興組織「ゴキブリ人民党（CJP）」への支持が拡大。モディ首相への新たな政治的脅威に。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-ent-001",
+      "category": "entertainment",
+      "title": "VIVANT第2シーズン 7/26（日）まで4日——2クール連続の異例規模、タイ俳優OHM起用でアジア展開加速",
+      "url": "https://saru.co.jp/tvmaga/vivant-season2-itsu/",
+      "source": "TVmaga",
+      "summary": "TBS日曜劇場VIVANT第2シーズンが7/26（日）21時スタート。2クール連続・約20〜22話の異例規模。堺雅人・阿部寛ら26名続投、タイ俳優OHMと松嶋菜々子が新キャスト参加。公式SNSで「謎の8人目」として解禁し東南アジアファンへのバズ施策として注目。",
+      "size": "大",
+      "selected": true,
+      "related_urls": [
+        "https://saru.co.jp/tvmaga/vivant-zokuhen-2026-info/"
+      ]
+    },
+    {
+      "id": "2026-07-22-ent-002",
+      "category": "entertainment",
+      "title": "BLEACH千年血戦篇「禍進譚」7/25（土）最終クール放送開始——ファイナルPV解禁、EDに9Lana「螺旋」",
+      "url": "https://news.yahoo.co.jp/articles/6bfb3faaac484200dcecdc0c30816947f7437de5",
+      "source": "Yahoo!ニュース",
+      "summary": "今週土曜7/25深夜テレ東系でBLEACH最終クール「禍進譚」が始動。第41話から一護×ユーハバッハの最終決戦。ファイナルPVがSNSでトレンド入り。EDに「9つのカメレオンボイス」を持つ歌唱俳優・9Lanaを起用した「螺旋」が話題。Prime Videoでも最速配信予定。",
+      "size": "中",
+      "selected": true,
+      "related_urls": [
+        "https://prtimes.jp/main/html/rd/p/000004910.000013546.html"
+      ]
+    },
+    {
+      "id": "2026-07-22-ent-003",
+      "category": "entertainment",
+      "title": "ILLIT 初ライブツアー「PRESS START❤」東京公演が明日7/23開幕——TOYOTA ARENA TOKYOで3日間",
+      "url": "https://www.kpopnews.jp/illit-press-start-2026-tokyo/",
+      "source": "K-POP News",
+      "summary": "ILLITの初ライブツアーが明日7/23からTOYOTA ARENA TOKYOで3日間（23・25・26日）開催。全国5都市11公演のファイナル。VIPチケット26,000円・一般席15,000円。デビュー1年強での初ツアー完走はHYBE系グループの日本展開指標として注目。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-ent-004",
+      "category": "entertainment",
+      "title": "「サマータイムレンダ」実写映画化2027年公開——本日7/22発表、監督は二宮健",
+      "url": "https://natalie.mu/eiga/news/681869",
+      "source": "映画ナタリー",
+      "summary": "本日7/22、田中靖規原作「サマータイムレンダ」が実写映画化と発表された。2027年公開予定、監督は二宮健。ループ×ホラー×青春という独自ジャンル構成を実写でどう再現するかに注目。アニメ人気IPの版権活用動向として押さえておきたいニュース。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-ent-005",
+      "category": "entertainment",
+      "title": "GTO第1話 視聴率6.4%——反町隆史×松嶋菜々子「夫婦共演」に反響殺到、令和の設定に賛否",
+      "url": "https://navicon.jp/news/97623/",
+      "source": "Navicon",
+      "summary": "7/20放送のドラマ「GTO」第1話が世帯視聴率6.4%を記録。反町隆史と実妻・松嶋菜々子が28年ぶりに夫婦役を演じる「プライベートと役柄の一致」がSNSで話題。教師フィードバック制度のある「企業化した学校」設定は賛否を呼んでいる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-ent-006",
+      "category": "entertainment",
+      "title": "キングダム 魂の決戦 週末初登場1位・興収20.6億円——2026年実写映画No.1成績続報",
+      "url": "https://www.cinematoday.jp/news/N0155953",
+      "source": "シネマトゥデイ",
+      "summary": "7/17公開の第5弾が週末映画ランキングで初登場1位。動員131万人・興収20.6億円突破で2026年実写映画No.1のオープニング成績。シリーズ累計300億円突破も視野。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-ent-007",
+      "category": "entertainment",
+      "title": "攻殻機動隊 第3話「人形使い」本日7/22配信——SNS考察が過熱",
+      "url": "https://eeo.today/media/2026/07/21/373458/",
+      "source": "eeo Media",
+      "summary": "7/21放送・7/22配信開始の攻殻機動隊第3話でハッカー「人形使い」が登場。SNSでは「AIフチコマが反乱計画」などの考察が過熱。今期アニメで最も議論を呼ぶ作品として定着しつつある。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-ent-008",
+      "category": "entertainment",
+      "title": "2026年夏アニメ全64作品——BLEACH・攻殻機動隊・無職転生Ⅲなど続編が集中する「当たり年」",
+      "url": "https://www.oricon.co.jp/anime/2026_summer/",
+      "source": "オリコン",
+      "summary": "2026年夏アニメ（7月期）は全64作品が放送・配信予定と例年を大幅に上回るボリューム。BLEACH最終クール・攻殻機動隊・無職転生Ⅲ・幼女戦記Ⅱ・逃げ上手の若君第2期・コードギアス奪還のロゼなど人気シリーズ続編が集中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-22-hobby-001",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 明日7/23発売——複数誌レビュー「対人戦なしの新境地」「周回意欲高め」高評価",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2125016.html",
+      "source": "GAME Watch",
+      "summary": "明日発売のSwitch 2専用スピンオフが複数誌で高評価。GAME Watchは「自分流の戦略で攻略する新鮮な体験」、電撃は「豊富なダンジョンで周回意欲が持続」。ファミ通開発者インタビューで「究極のワンオペ体験」コンセプトの意図も判明。パッケージ版7,480円・早期購入特典は本日中。",
+      "size": "大",
+      "selected": true,
+      "subcategory": "game",
+      "related_urls": [
+        "https://dengekionline.com/article/202607/81443",
+        "https://www.famitsu.com/article/202607/82047"
+      ]
+    },
+    {
+      "id": "2026-07-22-hobby-002",
+      "category": "hobby",
+      "title": "ソニーCinema Line「FX5」本日23時発表予定——5Kオープンゲート・トリプルベースISO搭載リーク",
+      "url": "https://av.watch.impress.co.jp/docs/news/2126724.html",
+      "source": "AV Watch",
+      "summary": "ソニーが本日（7/22）23時（日本時間）にCinema Line新製品を正式発表予定と公式ティザー告知。リーク情報によればFX5で5Kオープンゲート録画・トリプルベースISO・BIONZ XR2搭載。欧州価格5,399ユーロという情報も。本日夜に正式スペック公開。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "camera",
+      "related_urls": [
+        "https://www.zaikei.co.jp/article/20260720/861957.html"
+      ]
+    },
+    {
+      "id": "2026-07-22-hobby-003",
+      "category": "hobby",
+      "title": "富士フイルム X-T6 最新噂スペックまとめ——9月第1週発表濃厚、4000万画素・新AI AF・新フィルムシム",
+      "url": "https://mirrorless-camera.info/rumor/fujifilm-rumor/56271.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "富士フイルムX-T6の9月発表に向け、現時点のスペック情報がまとまった。4000万画素センサー・新AI AF・8K動画・約11年ぶり全く新しいフィルムシミュレーション（深く濃い発色）・新バッテリーNP-W255が有力。XF50-140mm Mark IIとの同時発表も噂。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-22-hobby-004",
+      "category": "hobby",
+      "title": "「めっちゃカメレオン」1500万本突破——700万本から22日で倍増以上、新マップ「ギリシャ」追加",
+      "url": "https://www.gamespark.jp/article/2026/07/20/169498.html",
+      "source": "Game*Spark",
+      "summary": "かくれんぼゲーム「めっちゃカメレオン」が1500万本突破（7/20時点）。12日で700万本から22日で1500万本に急拡大。新マップ「ギリシャ」（サントリーニ島風）を追加。日本テーママップの実装も予告。コンテンツ投入でバイラル効果を持続させる手法として注目。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-22-hobby-005",
+      "category": "hobby",
+      "title": "目黒「CALME SPICE CURRY」7/2オープン——小麦粉・砂糖不使用、20種以上のスパイスの健康志向カレー",
+      "url": "https://news.cube-soft.jp/article/4075903",
+      "source": "Cube ニュース",
+      "summary": "東京・目黒エリアに健康志向スパイスカレー専門店「Calme Spice Curry」が7/2オープン。小麦粉・砂糖不使用（グルテンフリー対応）で20種以上のスパイスを使った牛すじカレーが名物。50店舗以上食べ歩いたオーナーの渾身の一店。木・金のみ営業。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-22-hobby-006",
+      "category": "hobby",
+      "title": "ソニーFE 100-400mm F5.6-8 OSS本日発表予定——廉価版超望遠ズーム、AF/MFスイッチ一体化の新機構",
+      "url": "https://digicame-info.com/2026/07/722fe100-400mm-f56-8.html",
+      "source": "デジカメinfo",
+      "summary": "信頼性の高い情報源がソニーの新超望遠ズーム「FE 100-400mm F5.6-8 OSS」の本日（7/22）発表を示唆。6月発売のFE 100-400mm F4.5 GM OSSよりも手が届きやすい廉価版超望遠ズームとして、野鳥・スポーツ撮影の選択肢が広がる。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-22-hobby-007",
+      "category": "hobby",
+      "title": "東京都北区・十条に「スパイスカレー屋さんの台所」7/3オープン",
+      "url": "https://tokyokita.goguynet.jp/2026/07/20/spicescurryyasan20260713/",
+      "source": "号外NET 東京都北区",
+      "summary": "東京都北区十条商店街の旧大番跡地に地域密着型スパイスカレー新店「スパイスカレー屋さんの台所」が7/3オープン。都内スパイスカレー開拓ユーザーにとって新たな選択肢。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-22-hobby-008",
+      "category": "hobby",
+      "title": "7月Switch/Switch2新作まとめ——スプラレイダース以外もリズム天国・ゴエモンが好評稼働中",
+      "url": "https://www.famitsu.com/article/202607/80980",
+      "source": "ファミ通",
+      "summary": "ファミ通が7月発売Switch/Switch2新作をまとめて紹介。リズム天国 ミラクルスターズ（7/2・Switch）、がんばれゴエモン大集合！（7/2・Switch/PS5/Steam）など、スプラレイダース以外の注目タイトルも充実。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-22-serendipity-001",
+      "category": "serendipity",
+      "title": "フランス、15歳未満のSNS利用を禁止——欧州初の規制、9月施行でコンテンツ産業の大前提が揺らぐ",
+      "url": "https://news.yahoo.co.jp/articles/54e23bc88a126339585097dde72e32414d2d037b",
+      "source": "朝日新聞（Yahoo!ニュース）",
+      "summary": "フランス議会が7/21、15歳未満のSNS利用禁止法案を可決（欧州初）。9月1日から施行でTikTok・Instagram・Xなどが対象。英国・スペイン・ドイツも同様の規制を検討中で欧州全体の潮流になる可能性。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "K-POPはTikTok・Instagram、アニメはX拡散——現代のエンタメマーケティングは「若者がSNSにいること」を大前提に設計されている。フランスの規制はその前提を制度的に崩す欧州初の試み。欧州規制先行が日本に波及する従来のパターンからすれば、「次世代ユーザーへのリーチをどう再設計するか」を今から考え始める価値がある。"
+    },
+    {
+      "id": "2026-07-22-serendipity-002",
+      "category": "serendipity",
+      "title": "ウクライナ・フェドロフ国防相が解任——AI戦争の設計者が政治的争いで消えたとき何が起きるか",
+      "url": "https://forbesjapan.com/articles/detail/101100",
+      "source": "Forbes Japan",
+      "summary": "ゼレンスキー大統領が7/15、AIやドローンで軍の近代化を推進してきたフェドロフ国防相を更迭。フェドロフ氏とシルスキー軍総司令官との対立が背景。ウクライナ国民に怒りのデモも発生。AI活用の対ロシア戦略の司令塔が政治的争いで消えた懸念は大きい。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「優れた技術者・イノベーターが組織論的に排除される」という構造は軍に限らずスタートアップや大企業でも繰り返されるパターン。変革期における「技術力 vs 政治力」の相克を現実の戦場で見せている事例。エンタメ業界の企画・技術どちらの立場にも刺さる思考実験。"
+    },
+    {
+      "id": "2026-07-22-serendipity-003",
+      "category": "serendipity",
+      "title": "TOKYO MIX CURRY 大手町に昼カレー×夜バルの2業態——「同じ核で昼と夜に全く別の体験を設計する」発想",
+      "url": "https://gourmetpress.net/1454957/",
+      "source": "グルメプレス",
+      "summary": "「TOKYO MIX CURRY」が7/1に大手町に昼夜2業態の新店をオープン。昼は小麦粉不使用のカスタムスパイスカレー（540円〜）、夜は同社初バル業態「TMCスパイスバル」（タコス290円〜）。自社開発モバイルオーダーシステムを活用した次世代型飲食店。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「スパイス」という核を変えずに昼はカレー・夜はバルという「時間でシフトする2業態」は、コンテンツ業界の「IPを変えずにターゲット・フォーマットを変える複数展開」と同じ発想。楽曲のアニメ主題歌転用・人気IPの別フォーマット展開——単一の核から異なる体験を設計するフレームワークとして参考になる実例。"
+    }
+  ]
+}
