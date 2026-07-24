@@ -1,0 +1,532 @@
+{
+  "date": "2026-07-24",
+  "notion_page_id": "3a7a41a3-cf9b-8122-8247-e22b4e3be795",
+  "articles": [
+    {
+      "id": "2026-07-24-tech-001",
+      "category": "tech",
+      "title": "Angular 22 公式WebMCPドキュメント——AngularアプリをブラウザAIエージェントのツールとして公開する新パラダイム",
+      "url": "https://angular.dev/ai/webmcp",
+      "source": "Angular.dev",
+      "summary": "Angular 22がWebMCPを正式サポート。provideWebMcpTools()でSignal FormsやAPIをブラウザ内AIエージェントが直接呼び出せるツールとして公開可能。Telerik/Kendo UIも対応拡張を提供。Angular×AI統合の新パラダイムを公式解説。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-002",
+      "category": "tech",
+      "title": "Next.js 16.3——Turbopack永続ビルドキャッシュでメモリ90%削減・CI/CDの再ビルドが劇的改善",
+      "url": "https://nextjs.org/blog/next-16-3-turbopack",
+      "source": "Next.js Blog",
+      "summary": "Next.js 16.3でTurbopackのメモリ使用量を最大90%削減（21.5GB→2GB）。永続ビルドキャッシュがnext buildでも使用可能になりCI再ビルドが高速化。Rust製React Compiler統合でコンパイル速度20〜50%向上。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-003",
+      "category": "tech",
+      "title": "【本日UTC 15:59期限】DeepSeek `deepseek-chat` エイリアスが廃止——`deepseek-v4-pro` への変更で対応完了",
+      "url": "https://dev.to/agdex_ai/deepseek-v4-api-migration-guide-everything-before-the-july-24-2026-deadline-4m30",
+      "source": "DEV Community",
+      "summary": "本日(7/24)UTC 15:59でdeepseek-chatとdeepseek-reasonerが廃止。猶予なしでエラー返却へ。deepseek-v4-proまたはdeepseek-v4-flashへのモデル名変更（1行）で対応可能。LLM組み込みアプリ開発者は即時確認が必要。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-004",
+      "category": "tech",
+      "title": "Gemini 3.6 Flash ローンチ——1Mコンテキスト対応・前世代比17%省トークン、Gemini 4プリトレーニング開始も初表明",
+      "url": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
+      "source": "9to5Google",
+      "summary": "Googleが3モデルを同時リリース。1Mコンテキスト・$1.50/$7.50でGemini 3.5より17%少ないトークンで高スコア達成。「Gemini 4のプリトレーニング開始」をGoogleが公式に初表明。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-005",
+      "category": "tech",
+      "title": "Gemini 3.6 Flash が GitHub Copilot で利用可能に——コーディング・長文コンテキストでGemini 3.5超え",
+      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot/",
+      "source": "GitHub Changelog",
+      "summary": "GitHub CopilotでGemini 3.6 Flashが選択可能に。約280トークン/秒でリアルタイムのAIコーディング支援に最適。コーディング・長文コンテキスト・コンピューターユース系ベンチマークでGemini 3.5を上回る。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-006",
+      "category": "tech",
+      "title": "Claude Code v2.1.217——絵文字ショートコード補完・書き込み失敗警告を追加",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
+      "source": "GitHub (Anthropic)",
+      "summary": "プロンプト入力で:heart:→❤️の絵文字ショートコード補完が追加（設定でオフ可）。ディスクフル等の書き込み失敗警告とサブエージェント制限の動作も改善。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-007",
+      "category": "tech",
+      "title": "Claude Code `/code-review` がバックグラウンドサブエージェント化——レビュー中に別コマンドをスタック可能に",
+      "url": "https://dev.classmethod.jp/en/articles/20260722-cc-updates-v2-1-217/",
+      "source": "DevelopersIO",
+      "summary": "/code-reviewがバックグラウンド実行に変更（7/22）。レビュー作業が会話を占有しなくなりスラッシュコマンドのスタックが可能に。アーティファクトへのMCPライブデータ対応とスクリーンリーダーモードも追加。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-008",
+      "category": "tech",
+      "title": "AnimeGen——Apache 2.0・商用利用可の国産アニメ特化動画生成AIが公開",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
+      "source": "ITmedia AI+",
+      "summary": "AIdeaLabが国内初のアニメ特化動画生成AI「AnimeGen」をApache 2.0で公開（7/13）。Alibaba Wan 2.2ベースに経産省GENIACプロジェクト支援で開発。Text-to-VideoとImage-to-Videoに対応し商用利用も可能。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-009",
+      "category": "tech",
+      "title": "WebMCP現状2026年7月——Chrome実験中、Angularを含む主要FWが移行対応中だが本番デプロイはほぼゼロ",
+      "url": "https://www.spronta.com/blog/state-of-webmcp-july-2026/",
+      "source": "Spronta",
+      "summary": "Chrome 149でWebMCPオリジントライアル開始中。API仕様がnavigator→documentに変更されAngularを含む主要FWが移行対応中。Expedia等が実験導入しているが本番デプロイはほぼゼロ。Gemini in ChromeのWebMCP対応も近日予定。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-010",
+      "category": "tech",
+      "title": "React 19.2.8 / 19.1.9 / 19.0.8 同時パッチリリース——RSCデコードパフォーマンス改善",
+      "url": "https://github.com/react/react/releases/tag/v19.2.8",
+      "source": "GitHub",
+      "summary": "React 19の3バージョンが7/21に同時パッチリリース。React Server Componentsのデコードパフォーマンス改善が主要変更点。複数バージョンブランチの同時メンテナンスを継続。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-011",
+      "category": "tech",
+      "title": "Tencent Hunyuan Hy3——295B Apache 2.0のオープンソースMoEモデル公開",
+      "url": "https://www.tencent.com/en-us/articles/2202386.html",
+      "source": "Tencent",
+      "summary": "TencentがHy3を公開（7/6）。295B総パラメーター・21Bアクティブ・256Kコンテキスト・Apache 2.0のオープンMoEモデル。コーディング・エージェント・長文理解が大幅向上。OpenRouter・Cline等から利用可能。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-012",
+      "category": "tech",
+      "title": "Perplexity Computer「Brain」——セッションを超えて自己改善するAIエージェントメモリシステム",
+      "url": "https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents",
+      "source": "Perplexity AI",
+      "summary": "PerplexityのAIエージェントComputerに自己改善型メモリ「Brain」が追加。コンテキストグラフを構築し夜間処理で自律学習。繰り返しタスクの回答精度25%向上・コスト13%削減。Max・Enterprise Maxで研究プレビュー提供中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-tech-013",
+      "category": "tech",
+      "title": "KAT-Coder-Pro V2.5——エンドツーエンド自律ソフトウェアエンジニアリングエージェント by 快手",
+      "url": "https://arxiv.org/abs/2607.05471",
+      "source": "arXiv",
+      "summary": "快手がKAT-Coder-Pro V2.5を公開。256Kコンテキスト・80K出力対応。AutoBuilderパイプラインで12言語・10万超のリポジトリ環境を検証し自律的なソフトウェアエンジニアリング能力を大幅強化。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-24-news-001",
+      "category": "news",
+      "title": "トランプ政権、日本に12.5%新追加関税を本日発動——赤沢経産相「最終的に日米合意超えず」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184731000",
+      "source": "NHKニュース",
+      "summary": "トランプ政権は通商法301条に基づく新関税を日本時間24日午後1時1分に発動。日本には既存の関税と合わせ12.5%が適用。赤沢経産相は「最終的に2025年日米合意の水準を超えない」と確認取れていると説明。",
+      "size": "大",
+      "selected": true,
+      "related_urls": ["https://www.nikkei.com/article/DGXZQOUA241440U6A720C2000000/"]
+    },
+    {
+      "id": "2026-07-24-news-002",
+      "category": "news",
+      "title": "NY円、39年8ヶ月ぶり163円台後半——有事ドル買い×対日関税×日銀慎重姿勢の三重圧力",
+      "url": "https://www.nikkei.com/article/DGXZQOFL23BX40T20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "23日のニューヨーク外為で円相場が一時163円99銭と1986年11月以来39年8ヶ月ぶりの安値を更新。ホルムズ有事ドル買い・対日関税発動・日銀利上げ後退観測の三重圧力が円安を加速。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-003",
+      "category": "news",
+      "title": "衆院議運委、7月24日で今国会事実上閉会で与野党合意——17法案が積み残し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183861000",
+      "source": "NHKニュース",
+      "summary": "衆院議院運営委理事会で7月24日に本会議を開いて会期末処理を行い事実上閉会することで与野党が合意。副首都法案など17法案が積み残しとなった。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-004",
+      "category": "news",
+      "title": "副首都法案、国会会期末まで攻防——採決見送りで継続審議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184951000",
+      "source": "NHKニュース",
+      "summary": "24日中の採決を目指した与党に対し野党が附帯決議の修正を求めて折り合えず、採決は見送りとなった。副首都整備推進法案は継続審議扱いとなり次の国会での再審議を待つ。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-005",
+      "category": "news",
+      "title": "ルビオ国務長官、NHK単独インタビューで「中国は日本を標的にしているよう」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184661000",
+      "source": "NHKニュース",
+      "summary": "ルビオ米国務長官がNHK単独インタビューで「中国の発言が非常に攻撃的で日本を標的にしているように見える」と述べ懸念を表明。マニラのASEAN外相会議で王毅外相とも会談した。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-006",
+      "category": "news",
+      "title": "超党派議員、AIを国会活用する改革提言を衆参議長へ提出——タブレット導入・リモート出席も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185181000",
+      "source": "NHKニュース",
+      "summary": "7党の超党派「AIと民主主義に関する勉強会」が立法支援へのAI活用・デジタルアーカイブ強化・タブレット導入・リモート出席を盛り込んだ国会改革提言を提出した。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-007",
+      "category": "news",
+      "title": "経済財政白書、中東情勢が家計の実質所得を圧迫するリスクを明記",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185251000",
+      "source": "NHKニュース",
+      "summary": "政府が2026年度「経済財政白書」を公表。中東情勢緊迫化による原油価格上昇が家計の実質所得を押し下げるリスクを指摘し、個人消費の動向を注視すべきとの立場を明示。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-008",
+      "category": "news",
+      "title": "米軍11日連続でイラン攻撃——ホルムズ海峡の管理権めぐりこう着状態",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182341000",
+      "source": "NHKニュース",
+      "summary": "米中央軍のイランへの攻撃が11日連続に。ホルムズ海峡の管理権をめぐりアメリカとイランの主張が平行線をたどり、非イラン船の通航が前年比90%減でサプライチェーンに深刻な影響。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-009",
+      "category": "news",
+      "title": "佐久間で41.1℃・日本歴代6位——全国7地点で酷暑日",
+      "url": "https://weathernews.jp/news/202607/230201/",
+      "source": "ウェザーニュース",
+      "summary": "7月23日、静岡県天竜区佐久間で41.1℃を観測し日本の観測史上歴代6位の高温を記録。全国7地点で酷暑日（40℃以上）となり、24日以降も危険な暑さが続く見込み。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-010",
+      "category": "news",
+      "title": "ウクライナ軍総司令官がシルスキー→ドラパティに交代——戦時下の異例の指導部刷新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182271000",
+      "source": "NHKニュース",
+      "summary": "ゼレンスキー大統領がシルスキー軍総司令官を解任しドラパティ少将を後任に指名。国防相に続く異例の戦時指導部交代で、軍改革路線の継続を示す人事とみられる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-011",
+      "category": "news",
+      "title": "最低賃金審議、第4回小委員会でも目安決まらず——月内決着へ向け追加会合",
+      "url": "https://taxlabor.com/minimum-wage-update/",
+      "source": "Tax Labor",
+      "summary": "中央最低賃金審議会小委員会は7月23日に第4回会合を開いたが、労使の隔たりが縮まらず目安額の決定は持ち越し。過去最大規模の引き上げが有力視される中、月内決着を目指す。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-news-012",
+      "category": "news",
+      "title": "インバウンド消費4〜6月 2.5兆円——米国が初めて中国を抜きトップに",
+      "url": "https://www.travelvoice.jp/20260716-160185",
+      "source": "トラベルボイス",
+      "summary": "観光庁発表の4〜6月期インバウンド消費額は2兆5,096億円（前年同期比0.2%増）。国籍別では米国が全体の15.3%を占めトップとなり、初めて中国を上回った。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-001",
+      "category": "entertainment",
+      "title": "VIVANT第2シーズン放送前夜——TVerお気に入り220万超で歴代連ドラ最多、明日7/26よる9時スタート",
+      "url": "https://www.oricon.co.jp/news/2469659/full/",
+      "source": "Oricon",
+      "summary": "7月26日放送開始の「VIVANT」第2シーズンに先立ち、第1シーズン無料配信が1100万再生突破。TVerお気に入り登録が220万超でTBS歴代連続ドラマ最高を更新。異例の2クール連続放送として期待値が高い。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-002",
+      "category": "entertainment",
+      "title": "映画「キングダム 魂の決戦」公開4日間で興収20.6億円——2026年実写映画No.1スタート",
+      "url": "https://www.crank-in.net/news/188483",
+      "source": "crank-in.net",
+      "summary": "7月17日公開から4日間で動員131万人・興収20.6億円を記録。前作「大将軍の帰還」比で動員89.5%を維持し2026年実写映画No.1のオープニング成績を達成した。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-003",
+      "category": "entertainment",
+      "title": "aespa、日本1stミニアルバム「KISS N TELL」を本日7月24日リリース——約2年ぶりのカムバック",
+      "url": "https://www.rbbtoday.com/article/2026/07/24/251090.html",
+      "source": "RBB TODAY",
+      "summary": "aespaが約2年ぶりに日本カムバック。全6曲の日本オリジナル楽曲を収録した「KISS N TELL」が本日リリース。夏らしいMVも公開され、SM所属グループの日本市場本格再参入として注目される。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-004",
+      "category": "entertainment",
+      "title": "ILLIT、本日Mステに出演——日本2ndシングル「I Got Your Back」を初披露",
+      "url": "https://ototoy.jp/news/130898",
+      "source": "OTOTOY",
+      "summary": "ILLITが7月24日放送のミュージックステーションに出演。7月29日発売の日本2ndシングル「I Got Your Back」とミニアルバム収録の「It's Me」を披露。ドラマ「バカンスの法則」OP曲にも決定したロック調ナンバー。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-005",
+      "category": "entertainment",
+      "title": "新作TVアニメ「攻殻機動隊 THE GHOST IN THE SHELL」放送中——坂本真綾・King Gnu主題歌で原作コミックへ原点回帰",
+      "url": "https://game.watch.impress.co.jp/docs/news/2120150.html",
+      "source": "GAME Watch",
+      "summary": "7月7日から放送中の新作TVアニメが原作コミックへの原点回帰として高評価。坂本真綾が草薙素子を演じ、主題歌はKing Gnu「GO GHOST」。Disney+での国際同時展開も好調。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-006",
+      "category": "entertainment",
+      "title": "2026年夏ドラマ視聴率ランキング——「豊臣兄弟！」11.3%トップ・「大空港GATE24」初回好スタート",
+      "url": "https://ciatr.jp/topics/311573",
+      "source": "ciatr",
+      "summary": "「豊臣兄弟！」（NHK）が11.3%でトップを維持。テレ朝「クロスロード」7.2%・TBS「Tシャツが乾くまで」6.9%が続く。VIVANT第2シーズン開幕でランキングが動く週末を迎える。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-007",
+      "category": "entertainment",
+      "title": "堺雅人、ラヴィット！に初登場でビリビリイスの洗礼——SNSでVIVANTバズが波及",
+      "url": "https://www.oricon.co.jp/news/2469771/full/",
+      "source": "Oricon",
+      "summary": "堺雅人が7月24日のTBS「ラヴィット！」にVIVANT第2シーズン告知で初登場。ビリビリイスの電流反応がSNSで話題に。26日スタートのVIVANTへの注目をさらに高めた。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-008",
+      "category": "entertainment",
+      "title": "KO1KEYZ、デビュー曲タイトルが「KO1KEYZ」に決定——10月7日に日韓同時デビュー",
+      "url": "https://k-plaza.com/2026/07/ko1keyz-260723.html",
+      "source": "K-PLAZA",
+      "summary": "PRODUCE 101 JAPAN 新世界から誕生した12人組グループKO1KEYZのデビュー曲タイトルが決定。新ビジュアルとジャケット写真も公開され、10月7日の日韓同時デビューに向けてカウントダウンが始まった。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-009",
+      "category": "entertainment",
+      "title": "ILLIT「It's Me」MVが累計1億ビューを突破",
+      "url": "https://e.usen.com/news/news-release/illitits-memv1.html",
+      "source": "encore（USEN）",
+      "summary": "ILLITの「It's Me」MVが累計1億ビューを突破。4thミニアルバム収録のタイトル曲で、K-POPファンから高い支持を得ている。本日Mステ出演でさらなる認知拡大へ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-010",
+      "category": "entertainment",
+      "title": "韓国ドラマ「エージェント・キム」ソ・ジソブ主演で視聴率上昇中",
+      "url": "https://www.koari.net/attention/257187/",
+      "source": "koari.net",
+      "summary": "2026年7月第3週の韓国ドラマ視聴率でソ・ジソブ主演「エージェント・キム」が上昇傾向を継続。日本での配信展開も期待される注目作として人気を集めている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-24-ent-011",
+      "category": "entertainment",
+      "title": "2026年7月の日本K-POPリリースまとめ",
+      "url": "https://danmee.jp/knews/k-pop/kpop-release2607/",
+      "source": "danmee.jp",
+      "summary": "2026年7月の日本K-POPリリース情報。NCT WISH「YO-I-DON!/BOY MEETS GIRL」・QWER日本デビューシングルなども続き夏のK-POPが活況を呈している。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-24-hobby-001",
+      "category": "hobby",
+      "title": "「写ルンです」発売40周年——防水モデル「Active」＆黒白モデル「Black and White」が新登場",
+      "url": "https://www.watch.impress.co.jp/docs/news/2121522.html",
+      "source": "Impress Watch",
+      "summary": "富士フイルムが「写ルンです」40周年を記念し、水深10m対応防水モデル「Active」と黒白フィルムモデル「Black and White」を新発売。8月上旬〜順次発売予定。フィルム写真ブームに乗った記念展開。",
+      "size": "大",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-24-hobby-002",
+      "category": "hobby",
+      "title": "Xbox、広告付きゲームストリーミングをXbox Insidersで試験開始——クラウドゲームを無料で遊ぶ代わりに広告を視聴",
+      "url": "https://automaton-media.com/articles/newsjp/xbox-20260724-456425/",
+      "source": "AUTOMATON",
+      "summary": "Microsoftが7/24よりXbox InsidersでHD広告付き無料ゲームストリーミングのテストを開始。ゲーム開始前に広告が流れる形式で1セッション1時間制限。クラウドゲーミング普及への新アプローチ。",
+      "size": "大",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-24-hobby-003",
+      "category": "hobby",
+      "title": "ソニーFX5詳報——5K積層型センサー×16bit内部RAW、8月21日発売（81万円〜）",
+      "url": "https://digicame-info.com/2026/07/fx5-6.html",
+      "source": "デジカメinfo",
+      "summary": "有効約1660万画素の5K積層型フルサイズExmor RSセンサーとBIONZ XR2搭載のCinema Lineカメラ。8/21発売、本体のみ81万2,900円。FXシリーズ初のオープンゲート撮影にも対応。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-24-hobby-004",
+      "category": "hobby",
+      "title": "ソニーRX10V 正式発表——1型積層型×光学25倍×7月31日発売・約36万円",
+      "url": "https://digicame-info.com/2026/07/rx10v-2.html",
+      "source": "デジカメinfo",
+      "summary": "有効2010万画素1型積層型Exmor RS搭載の高倍率ズーム機「RX10V」発表。ZEISS 24-600mm F2.4-4.0・AI AF・秒30コマ連写対応。7/31発売・市場想定価格約36万円。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-24-hobby-005",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 電撃先行レビュー——豊富なカスタマイズと周回設計が高評価",
+      "url": "https://dengekionline.com/article/202607/81443",
+      "source": "電撃オンライン",
+      "summary": "先行レビューでは豊富なダンジョン・ブキ・ガジェットのカスタマイズが高評価。周回プレイで次々と新要素が解禁される設計と最大4人協力の相性が抜群。IGN 90点の理由をプレイ視点から詳細解説。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-24-hobby-006",
+      "category": "hobby",
+      "title": "キヤノン、積層型センサー搭載APS-Cカメラを数ヶ月以内に発表か——EOS R7後継機候補",
+      "url": "https://digicame-info.com/2026/07/aps-c-47.html",
+      "source": "デジカメinfo",
+      "summary": "情報筋によればキヤノンが積層型センサー採用のAPS-Cミラーレスを近日発表予定。EOS R7後継機相当と見られ、約3900万画素クラスと予想される。フジX-T6と同時期の秋発表となれば2026年秋はAPS-C祭りに。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-24-hobby-007",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース メタスコア81——海外で「病みつきになる脱出シューター」と絶賛",
+      "url": "https://news.denfaminicogamer.jp/news/260722e",
+      "source": "でんファミニコゲーマー",
+      "summary": "Nintendo Insider 90/100、TheSixthAxis 90/100など高評価が続出。「見事に病みつきになる脱出シューター」と絶賛。シリーズ初のPvE特化が高く評価された。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-24-hobby-008",
+      "category": "hobby",
+      "title": "キヤノン 9月にスチル特化PowerShot新機種を発表か",
+      "url": "https://digicame-info.com/2026/07/9powershot.html",
+      "source": "デジカメinfo",
+      "summary": "キヤノンが9月に従来モデルより格段に優れたスチル志向のPowerShot新機種を発表する見通し。コンパクトカメラ市場への本格復帰が期待される。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-24-hobby-009",
+      "category": "hobby",
+      "title": "足利「スパイスカレーRoo」群馬・太田市に9月2号店開業予定——無添加・グルテンフリーの実力店が群馬初進出",
+      "url": "https://ota.goguynet.jp/2026/07/20/roo/",
+      "source": "号外NET 太田市",
+      "summary": "栃木・足利で人気の無添加グルテンフリースパイスカレー店「Roo」が群馬県太田市に2号店を2026年9月オープン予定。有機・国産食材にこだわる26歳店主が群馬初進出。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-24-hobby-010",
+      "category": "hobby",
+      "title": "十条「スパイスカレー屋さんの台所」実食レポ——7月3日オープンのトッピングカスタム型新店",
+      "url": "https://akabane-shinbun.com/archives/255678",
+      "source": "赤羽マガジン",
+      "summary": "北区十条に7月3日オープンした新店を実食レポ。トッピング次第で多彩な組み合わせを楽しめる個性的なスパイスカレーが地域で話題に。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-24-hobby-011",
+      "category": "hobby",
+      "title": "TOKYO MIX CURRY 大手町に昼カスタムカレー×夜スパイスバルの2業態で新店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000093740.html",
+      "source": "PR TIMES（FOODCODE）",
+      "summary": "TOKYO MIX CURRYが7/1に大手町カンファレンスセンターに新店舗。昼はアプリ注文の小麦粉不使用スパイスカレー専門店、夜は同社初のバル業態「TMCスパイスバル」を展開。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-24-hobby-012",
+      "category": "hobby",
+      "title": "「奈落のキッチン」本日Steam配信開始——「AI不使用・全イラスト手描き」を差別化軸にするインディーゲーム",
+      "url": "https://www.4gamer.net/games/951/G095173/20260724031/",
+      "source": "4Gamer.net",
+      "summary": "料理人ロップとして冒険者パーティを食事でサポートするサバイバルアクション。全イラスト手描き・AI不使用を標榜。Steam税込1,500円、8/7まで10%OFF。",
+      "size": "小",
+      "selected": false,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-24-serendipity-001",
+      "category": "serendipity",
+      "title": "NewJeans、デビュー4周年に活動停止から1年4ヶ月ぶりにメンバー4人が集結した動画を公開",
+      "url": "https://mdpr.jp/k-enta/detail/4817564",
+      "source": "モデルプレス",
+      "summary": "2026年7月22日、NewJeansがデビュー4周年に合わせてMINJI・HANNI・HAERIN・HYEINの4人が集結した記念動画を公開。活動休止から約1年4か月ぶりのチームコンテンツとして世界中のファンが反応した。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "活動停止状態のグループが「4周年」という記念日だけを使って動画を公開し世界中のファンを集めた。コンテンツを出さなくても「記念日」で存在感を保つという間合いの設計として非常に興味深い。エンタメ企画職として「ファンのエンゲージメントを維持するタイミング設計」を生のケースから学べる事例で、『何を出すか』より『いつ出すか』という設計論が問われる。法的紛争の渦中にあるグループが1年4ヶ月の沈黙を4周年に破ったことで、ファンが安心感を持つような「再会の設計」を同時に行っているように見える点も業界的に参考になる。"
+    },
+    {
+      "id": "2026-07-24-serendipity-002",
+      "category": "serendipity",
+      "title": "EU AI Act第50条、来週木曜8月2日から透明性義務が適用——エンタメ業界のAI生成コンテンツも対象に",
+      "url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/",
+      "source": "Technology.org",
+      "summary": "8月2日からEU AI Act第50条の透明性義務が適用開始。チャットボット使用明示・AI生成コンテンツへの機械可読マーク・ディープフェイクのラベリングが義務化。2026年8月2日以前からの既存システムは12月2日まで移行猶予あり。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "テック規制として受け取りがちだが、エンタメ業界でAI活用コンテンツをEU圏ユーザー向けに配信する場合は来週木曜から「AI生成コンテンツへの機械可読ラベル義務」が適用される。日本企業でも「EU圏ユーザーが閲覧できるWebサービス」はすべて対象になりうるため、AI活用の企画を担当するエンタメ業界従事者にとっても他人事ではない規制だ。『AIを使ったコンテンツは開示する』という慣行がグローバルスタンダードになっていく起点として、この8月2日という日付は覚えておく価値がある。"
+    },
+    {
+      "id": "2026-07-24-serendipity-003",
+      "category": "serendipity",
+      "title": "「奈落のキッチン」——「AI不使用・全イラスト手描き」をSteam販売の差別化軸に掲げた2026年のインディーゲーム",
+      "url": "https://www.4gamer.net/games/951/G095173/20260724031/",
+      "source": "4Gamer.net",
+      "summary": "料理×冒険のユニーク設計のサバイバルACT。全イラスト手描き・AI不使用を標榜し、Steam税込1,500円・本日配信開始。「AI不使用」を明示的に差別化ポイントとしてマーケティングに使う事例として2026年に登場した。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "2026年に『AI不使用』を差別化ポイントとしてマーケティングに使うゲームが登場した。コンテンツ業界全体で『AIで作ったコンテンツか手作りか』が消費者の選択基準になりつつある転換点の象徴例として面白い。エンタメ業界でも『AI生成か非AIか』の開示圧力が高まる中、『手作り』を付加価値にするポジショニングが有効になるかどうかを考えさせる一事例。EU AI Actの透明性義務と同じ方向の動きが、ゲーム販売の現場にも自然発生的に現れているという流れが興味深い。"
+    }
+  ]
+}
