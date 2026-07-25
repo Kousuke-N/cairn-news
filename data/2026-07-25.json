@@ -1,0 +1,460 @@
+{
+  "date": "2026-07-25",
+  "notion_page_id": "3a8a41a3-cf9b-8196-8d87-d01df7a62a04",
+  "articles": [
+    {
+      "id": "2026-07-25-tech-001",
+      "category": "tech",
+      "title": "Claude Opus 5 発表——Fable 5の半額でフロンティア級性能、Fast modeで標準比2.5倍速",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic",
+      "summary": "AnthropicがClaude Opus 5を発表（7/24）。Fable 5の半額($5/Mトークン)でFrontier-Bench v0.1にて43.3%を記録しFable 5を超えた。タスク負荷を低・中・高で切り替えるAdaptive modeと、標準の2.5倍速のFast modeを搭載。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-002",
+      "category": "tech",
+      "title": "TypeScript 7.0 正式リリース——Go移植でフルビルドが8〜12倍高速化、VS Code規模で77秒→7秒",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "source": "Microsoft TypeScript Blog",
+      "summary": "Project Corsa（GoへのTS完全移植）が正式版に。フルビルドが8〜12倍高速。VS Code規模（150万行）で77.8秒→7.5秒。ネイティブバイナリと並列ゴルーチンで実現。型チェックのセマンティクスは6.0と同一。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-003",
+      "category": "tech",
+      "title": "MCP 2026-07-28 RC——ステートレス化・MCP Apps/Tasks追加で設計パラダイムが変わる",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "source": "Model Context Protocol Blog",
+      "summary": "MCPの最大規模改訂が7月28日に最終化予定。セッションIDとinitializeハンドシェイクを廃止しステートレス化。MCP Apps/Tasksを正式拡張として追加。OAuth 2.1によるエンタープライズ認可強化と12ヶ月の非推奨ポリシーも導入。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-004",
+      "category": "tech",
+      "title": "Angular 22: Signal Forms安定版・OnPushデフォルト化——プロジェクト設計への影響まとめ",
+      "url": "https://angular.love/angular-22-key-features-and-changes",
+      "source": "Angular.love",
+      "summary": "Angular 22（6/3リリース）の主要変更まとめ。Signal Forms・Resource API・httpResourceが安定版へ昇格。OnPushが変更検知のデフォルトに。WebMCPでブラウザ内AIエージェントがフォームをツールとして呼び出し可能になった。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-005",
+      "category": "tech",
+      "title": "Claude Code auto mode が全ユーザーに一般提供——バックグラウンドAIクラシファイアーでリスク評価",
+      "url": "https://claude.com/blog/auto-mode",
+      "source": "Anthropic Claude Blog",
+      "summary": "Claude Code auto modeが7/10より全ユーザーGA。各ファイル書き込み・シェルコマンド・ネットワーク呼び出しをAIクラシファイアーがリスク評価し、人間の確認なしで長時間エージェントセッションを実行可能に。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-006",
+      "category": "tech",
+      "title": "Claude Code v2.1.218——長時間セッションの二乗コスト問題を修正",
+      "url": "https://www.techtimes.com/articles/321326/20260723/claude-code-update-kills-quadratic-slowdown-that-compounded-auto-modes-longest-sessions.htm",
+      "source": "TechTimes",
+      "summary": "50ターンのセッションが10ターンの2500倍遅延する深刻なバグを修正。メッセージ正規化コストがターン数の二乗で増大していた問題が解消。OAuthトークン期限切れ時のauto modeエラーも合わせて修正。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-007",
+      "category": "tech",
+      "title": "GitHub MCPサーバーが2026-07-28新仕様に先行対応——ステートレス接続でスケールアウト容易に",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification/",
+      "source": "GitHub Changelog",
+      "summary": "GitHubのMCPサーバーが仕様確定前に新仕様へ先行対応（7/23）。ステートレス接続でスティッキーセッション不要になりスケールアウトが容易に。Copilotなどのエコシステムへの影響が注目される。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-008",
+      "category": "tech",
+      "title": "GitHub Copilot June 2026 VS Codeアップデート——ブラウザエージェントGA・並列セッション整理UI",
+      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases/",
+      "source": "GitHub Changelog",
+      "summary": "ブラウザナビゲーション・スクリーンショット取得などのブラウザエージェントツールがGA。並列エージェントセッションの整理UI、セッションコスト可視化、Autopilotの自律性向上を追加。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-009",
+      "category": "tech",
+      "title": "Claude Cowork Web/iOS/Android展開——リモートセッションで24時間稼働・定期タスクのスケジュール実行も対応",
+      "url": "https://claude.com/blog/cowork-web-mobile",
+      "source": "Anthropic Claude Blog",
+      "summary": "Claude CoworkがMaxプランからWebとモバイルに展開。Anthropicサーバー上のリモートセッションでデスクトップ不在でも作業継続。定期タスクのスケジュール実行も対応。利用量上限を8/5まで2倍に拡大中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-010",
+      "category": "tech",
+      "title": "EU AI Act 高リスクAI規制、8月2日施行まで残り8日——対応済みは企業全体の22%のみ",
+      "url": "https://responsibleailabs.ai/knowledge-hub/articles/eu-ai-act-august-2026-compliance",
+      "source": "Responsible AI Labs",
+      "summary": "高リスクAIシステム義務条項が8/2施行まで残り8日。適合性評価・透明性義務・CE表示・AI Office強制権限が発動。罰則は最大€3500万または全世界売上の7%。対応済みは企業全体の22%のみ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-tech-011",
+      "category": "tech",
+      "title": "The Register: MCPのステートレス化でインフラ設計はどう変わるか",
+      "url": "https://www.theregister.com/devops/2026/07/23/model-context-protocol-prepares-to-break-with-its-stateful-past/5276722",
+      "source": "The Register",
+      "summary": "7/28仕様変更の実装面分析。セッションIDとinitializeを廃止しリクエストごとに_metaオブジェクトで能力情報を伝達。スティッキーセッション不要でロードバランサー配下に並べるだけでスケール可能に。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-001",
+      "category": "news",
+      "title": "中ロ外相が「日本の再軍備阻止」で一致——ASEAN外相会議の陰で対日包囲網が動く",
+      "url": "https://news.yahoo.co.jp/articles/884be16793d1a55f548b4f983e6410214ee5a794",
+      "source": "Yahoo!ニュース（共同通信）",
+      "summary": "中国・王毅外相とロシア・ラブロフ外相がキルギスで会談し、日本の防衛力強化を「再軍備」と批判し阻止方針で一致。「第2次大戦の勝利の成果を守る」と互いに主張。ルビオ米国務長官の「中国は日本を標的に」発言と合わせて読むべき動き。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-002",
+      "category": "news",
+      "title": "中国が台湾海峡で実弾演習——航行禁止区域設定、台湾は海軍・海巡署の合同演習で即応",
+      "url": "https://www.zaikei.co.jp/article/20260721/862140.html",
+      "source": "財経新聞",
+      "summary": "中国海事局が7月23〜24日に台湾海峡の一部で実弾演習に伴う航行警告を発令。台湾東方では中国海警局による封鎖行動も確認。台湾は海軍と海巡署の合同演習で対応。ホルムズ・関税・円安への「台湾海峡緊張」加算。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-003",
+      "category": "news",
+      "title": "第221回特別国会が事実上閉会——政府提出64法案が全成立、高市政権の立法基盤確定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185801000",
+      "source": "NHKニュース",
+      "summary": "7月25日、衆院の3分の2超という圧倒的議席数のもと政府提出の全64法案が成立し事実上閉会。副首都法案など17法案は積み残しとなった。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-004",
+      "category": "news",
+      "title": "日銀、7月30〜31日の会合で政策金利（1.0%）を据え置きへ",
+      "url": "https://www.nikkei.com/article/DGXZQOUB2329U0T20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "日銀は7月30〜31日の金融政策決定会合で政策金利（現行1.0%）を据え置く方針。6月に0.75%から1.0%へ利上げした効果を見極めつつ、26年度の成長率見通しを上方修正する方向で検討中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-005",
+      "category": "news",
+      "title": "フランス・スペインで山火事が拡大——欧州猛暑で16万人以上が避難、マクロン大統領が軍動員",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185881000",
+      "source": "NHKニュース",
+      "summary": "欧州を覆う猛暑の中、スペイン・マドリード首都圏とフランス南西部で山火事が拡大。両国合計で16万人以上が避難を余儀なくされ、マクロン仏大統領は軍の動員とEU支援を要請した。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-006",
+      "category": "news",
+      "title": "6月の消費者物価1.6%上昇——5ヶ月連続で日銀目標2%を下回る",
+      "url": "https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "総務省が7月23日に発表した6月の消費者物価指数（生鮮食品除く）は前年同月比1.6%上昇。日銀の物価安定目標2%を5カ月連続で下回り、物価上昇の鈍化傾向が続いている。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-007",
+      "category": "news",
+      "title": "東京・北区にレベル4大雨危険警報——猛暑続く中での局地的豪雨",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185461000",
+      "source": "NHKニュース",
+      "summary": "東京都北区と板橋区に7月24〜25日にかけてレベル4の大雨危険警報が相次いで発表。猛暑が続く中での局地的な激しい雨で、低地の浸水や河川氾濫への厳重な警戒が呼びかけられた。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-008",
+      "category": "news",
+      "title": "熱中症急増、1週間で全国1万人超が救急搬送——前週比約2.4倍に",
+      "url": "https://resemom.jp/article/2026/07/24/86941.html",
+      "source": "リセマム",
+      "summary": "総務省消防庁によると、7月13〜19日の1週間で全国1万857人が熱中症疑いで救急搬送され、前週比約2.4倍に急増。大阪・愛知・東京の順に搬送者数が多かった。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-009",
+      "category": "news",
+      "title": "セブン&アイ、ポーランドのコンビニ最大手への出資を見送り",
+      "url": "https://news.yahoo.co.jp/articles/10ba72b9f63f532d7f4d6e01aae880954b6b2a41",
+      "source": "Yahoo!ニュース（共同通信）",
+      "summary": "セブン&アイ・ホールディングスが25日、ポーランドのコンビニ最大手ジャプカ・グループへの数千億円規模の出資を見送ると発表。条件面で折り合えず、東欧進出計画が白紙となった。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-010",
+      "category": "news",
+      "title": "台風12号「ノウル」フィリピン東方で発生——南シナ海へ向かう見通し",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/07/24/39753.html",
+      "source": "tenki.jp",
+      "summary": "7月24日午前3時、フィリピンの東で台風12号「ノウル」が発生。今月4つ目の台風で南シナ海を経て中国大陸に向かう見通し。日本への直接的な影響はなく、先島諸島は高波に注意。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-news-011",
+      "category": "news",
+      "title": "ICC主任検察官を解任——ICC史上初の検察官解任",
+      "url": "https://www.jiji.com/jc/article?k=2026072500162&g=int",
+      "source": "時事通信",
+      "summary": "国際刑事裁判所（ICC）の締約国会議特別会合で、性加害疑惑により停職中のカーン主任検察官の解任を加盟国82カ国の賛成多数で決定。ICC史上初の検察官解任となった。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-001",
+      "category": "entertainment",
+      "title": "VIVANT 第2シーズン、明日7月26日（日）よる9時スタート——TBSの配信×地上波二段階戦略が220万お気に入りを生んだ",
+      "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/life/toyokeizai-952201",
+      "source": "東洋経済オンライン",
+      "summary": "堺雅人主演「VIVANT」第2期が7月26日スタート。TVerお気に入り登録が220万超でTBS歴代連続ドラマ最高記録更新。第1シーズン無料配信が1100万再生突破。異例の2クール連続放送で堺雅人・阿部寛・二階堂ふみが続投。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-002",
+      "category": "entertainment",
+      "title": "BTS 完全体7人でFIFA W杯2026決勝ハーフタイムショーに出演——「Dynamite」披露",
+      "url": "https://news.yahoo.co.jp/articles/ae2334967a3c5a4aa0231d8c0e7a3f9be03e459a",
+      "source": "Yahoo!ニュース（The Hollywood Reporter Japan）",
+      "summary": "BTSが7月19日のFIFA W杯2026決勝ハーフタイムショーに完全体7人で出演し「Dynamite」を披露。マドンナ・シャキーラとの共演。W杯史上初のハーフタイムショーをメットライフスタジアムで開催。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-003",
+      "category": "entertainment",
+      "title": "BLEACH 千年血戦篇-禍進譚- 最終クール、本日7月25日よる11時放送開始",
+      "url": "https://bleach-anime.com/news/?id=70662",
+      "source": "BLEACH千年血戦篇公式",
+      "summary": "TVアニメ「BLEACH 千年血戦篇-禍進譚-」最終クールがテレ東系で本日23時より放送開始。監督・田口智久ら当初からのスタッフが集結した完結篇。複数配信サービスでも同日配信。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-004",
+      "category": "entertainment",
+      "title": "トイ・ストーリー5、日本公開ディズニー作品最速で72億円突破——洋画アニメ史上最大の興収更新中",
+      "url": "https://theriver.jp/toy-story5-5billion-jp/",
+      "source": "THE RIVER",
+      "summary": "7月3日公開「トイ・ストーリー5」が日本公開ディズニー作品歴代最速で50億円超を達成後、72億円も突破。洋画アニメーション史上歴代No.1のオープニング記録を更新する歴史的大ヒット中。3週連続洋画No.1。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-005",
+      "category": "entertainment",
+      "title": "RIIZE、日本ファンミーティングで新曲「Sunburst」を世界初披露",
+      "url": "https://kstyle.com/article.ksn?articleNo=2281312",
+      "source": "Kstyle",
+      "summary": "RIIZEが日本ファンミーティング「RPG - RIIZE PLAYING GAME -」福岡公演で3rdシングル曲「Sunburst」を世界初披露。日本各地7公演のツアーを展開中。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-006",
+      "category": "entertainment",
+      "title": "無職転生Ⅲ 第5話先行場面カット公開——7月26日放送予定",
+      "url": "https://www.animatetimes.com/news/details.php?id=1783492462",
+      "source": "アニメイトタイムズ",
+      "summary": "アニメ「無職転生Ⅲ」の第5話先行場面カットが公開。7月5日より毎週日曜深夜放送中で第5話は7月26日放送予定。AT-Xでの一挙追いかけ再放送も決定。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-007",
+      "category": "entertainment",
+      "title": "RIIZE 2ndミニアルバム「II」オリコンデイリー1位獲得",
+      "url": "https://news.livedoor.com/topics/detail/31779554/",
+      "source": "ライブドアニュース",
+      "summary": "RIIZEの2ndミニアルバム「II」が7月8日に日本リリースされオリコンデイリーアルバムチャートで1位を獲得。韓国での活動に続き日本でも圧倒的な存在感を示し快進撃が続く。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-ent-008",
+      "category": "entertainment",
+      "title": "逃げ上手の若君 第二期放送開始——CloverWorks制作でノイタミナ枠に",
+      "url": "https://news.yahoo.co.jp/articles/ce10fbb90ebf437ba6a3e833f582ecda1fc83f83",
+      "source": "Yahoo!ニュース",
+      "summary": "人気歴史マンガ「逃げ上手の若君」第2期がCloverWorks制作でノイタミナ枠にて放送開始。第1期から連続2クール体制での放送。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-25-hobby-001",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース、メタスコア81点でSwitch 2最高峰に——「究極のワンオペ」が形にする協力型脱出シューター",
+      "url": "https://www.gamespark.jp/article/2026/07/22/169584.html",
+      "source": "Game*Spark",
+      "summary": "7月23日発売。メタスコア81点（66件中83%ポジティブ）、IGNは90点「Switch 2最高峰タイトルのひとつ」。最大4人協力でシャケが蔓延る島からオタカラを持ち出す「脱出シューター」というジャンルを確立。",
+      "size": "大",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-25-hobby-002",
+      "category": "hobby",
+      "title": "富士フイルム「X-T6」9月第1週に100%確実に発表——4000万画素・8K動画・新バッテリー搭載",
+      "url": "https://digicame-info.com/2026/07/x-t610091.html",
+      "source": "デジカメinfo",
+      "summary": "FUJIFILM X-T6が9月第1週に発表される信頼性の高い情報が浮上。4,000万画素センサー・新フィルムシミュレーション・8K動画・新バッテリーNP-W255を搭載予定。同時にXFレンズ2本も発表か。",
+      "size": "大",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-25-hobby-003",
+      "category": "hobby",
+      "title": "ソニー「FX5」詳細——5K積層型センサー・8月21日発売・81万2,900円",
+      "url": "https://cameota.com/sony/51279.html",
+      "source": "CAMEOTA.com",
+      "summary": "ソニーが7月22日にCinemaLine新機種「ILME-FX5」を発表。有効約1660万画素の5K積層型フルサイズセンサーにBIONZ XR2搭載。8月21日発売、税込812,900円。予約は7月28日10時から。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-25-hobby-004",
+      "category": "hobby",
+      "title": "ほの暮しの庭——「夜廻」スタッフのスローライフ×ホラー、7月30日発売前にゲームプレイ動画5種を公開",
+      "url": "https://www.4gamer.net/games/933/G093331/20260710025/",
+      "source": "4Gamer.net",
+      "summary": "日本一ソフトウェアの新作『ほの暮しの庭』(7月30日発売)のゲームプレイ動画5種が公開。農業・釣り・DIY・狩りなど多彩な田舎生活と、夜の不気味な変貌を紹介するスローライフ×ホラー。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-25-hobby-005",
+      "category": "hobby",
+      "title": "リズム天国 ミラクルスターズ メタスコア82点——11年ぶり完全新作が高評価スタート",
+      "url": "https://www.gamespark.jp/article/2026/07/03/168787.html",
+      "source": "Game*Spark",
+      "summary": "7月2日発売のリズム天国 ミラクルスターズがメタスコア82点を獲得。シリーズ初のローグライク風モード「ビートスペル」が高評価。11年ぶり完全新作としてシリーズの期待に応えた。",
+      "size": "中",
+      "selected": true,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-25-hobby-006",
+      "category": "hobby",
+      "title": "ソニーFE100-400mm F5.6-8 OSS——FX5と同日発表の廉価版望遠ズーム・新設計詳細",
+      "url": "https://camera.sirius.news/2026/07/23/8905/",
+      "source": "Camera News - Sirius",
+      "summary": "7月22日にFX5と同日発表されたソニー新望遠ズームの詳細が判明。AF/MFスイッチにフォーカスリミッター（∞-3m）を統合した新設計。価格は899ユーロ前後。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-25-hobby-007",
+      "category": "hobby",
+      "title": "チェキ「instax mini 99」新色シルバー、7月30日発売——マット仕上げのクラシックデザイン",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2125700.html",
+      "source": "デジカメ Watch",
+      "summary": "富士フイルムがinstax mini 99に新色シルバーを追加、7月30日発売。マット仕上げでよりクラシックなカメラデザインを実現。カラーエフェクトコントロールやビネットモードなどの機能は従来通り。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-25-hobby-008",
+      "category": "hobby",
+      "title": "キヤノン未発表EOS Rは3台——EOS R8 Mark II・R10 Mark II等が数ヶ月以内に登場か",
+      "url": "https://cameota.com/canon/51241.html",
+      "source": "CAMEOTA.com",
+      "summary": "キヤノンが今後数カ月以内に複数のEOS Rシリーズを発表予定。EOS R8 Mark IIは8月下旬発表見込みで、レトロスタイルデザイン採用の噂も。RF 24-70mm F2 L同時期発表予定。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "camera"
+    },
+    {
+      "id": "2026-07-25-hobby-009",
+      "category": "hobby",
+      "title": "SPICE DIVE! OSAKA 2026、カツカレーテーマで〜8月16日まで開催中",
+      "url": "https://metro9.osaka/lp/spicecurry26/",
+      "source": "Osaka Metro（公式）",
+      "summary": "Osaka Metro×ハウス食品グループのスパイスカレースタンプラリー「SPICE DIVE! OSAKA 2026」が6月15日〜8月16日開催中。テーマはカツカレー、関西カレー保安協会監修の21店舗が参加。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-25-hobby-010",
+      "category": "hobby",
+      "title": "「咖喱狂人はちわん」神保町に2号店——副菜ビュッフェ付き2種盛り1,320円",
+      "url": "https://news.yahoo.co.jp/articles/77ec200efb311de136550a0f72a6358fcd8edfae",
+      "source": "Yahoo!ニュース（食べログマガジン）",
+      "summary": "豊洲千客万来に1号店を持つ「咖喱狂人はちわん」が神保町に2号店オープン。副菜ビュッフェ付き2種盛り1,320円と高コスパ。定番2種＋日替わり1種のカレーを提供。",
+      "size": "小",
+      "selected": true,
+      "subcategory": "curry"
+    },
+    {
+      "id": "2026-07-25-hobby-011",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース開発秘話——「究極のワンオペ」を目指した設計思想",
+      "url": "https://www.famitsu.com/article/202607/82047",
+      "source": "ファミ通",
+      "summary": "スプラトゥーン レイダース開発者インタビュー。「究極のワンオペ」ゲームを目指した経緯が明かされた。塩をまとって強化されるシャケの設定や、ガジェットシステムの設計思想など開発秘話が続々公開。",
+      "size": "小",
+      "selected": false,
+      "subcategory": "game"
+    },
+    {
+      "id": "2026-07-25-serendipity-001",
+      "category": "serendipity",
+      "title": "GTO 28年ぶり連続ドラマ復活——「令和の鬼塚」が問うIP再活用の設計論",
+      "url": "https://www.oricon.co.jp/drama/984/",
+      "source": "ORICON",
+      "summary": "反町隆史主演「GTO」が28年ぶりに連続ドラマ復活。フジテレビ系月曜22時枠で7月20日スタート。令和の学校に鬼塚英吉が真正面から切り込む設定で、オリジナルファンと新規層の同時獲得を狙う。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "1998年の大ヒット作が28年後にオリジナルキャスト（反町隆史）で連続ドラマ復活。エンタメ業界の企画担当として「レガシーIPをどう現代に蘇らせるか」は本質的な問いだ。「そのまま続ける」ではなく「令和の学校に鬼塚が何をしに行くか」という設定を作ることで、オリジナルファン（40〜50代）と新規層（10〜20代）の両方を取り込もうとする構造が見える。GTO復活が成功するかどうかは「28年後にIPをリブートする意味をどう設計するか」の答えが出るテストケースとして業界的に重要。"
+    },
+    {
+      "id": "2026-07-25-serendipity-002",
+      "category": "serendipity",
+      "title": "日本政府・NVIDIA・産業界が「FRONTia」始動——世界初の国家AIインフラにVera Rubin GPU 2万7千基",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2125873.html",
+      "source": "AI Watch（Impress）",
+      "summary": "日本政府・産業界・NVIDIAが7月16日、Vera Rubin GPUを2万7千基超搭載する世界初の国家規模AIインフラ「FRONTia」を始動。ロボット・自動運転などの「フィジカルAI」で世界シェア3割獲得を目標に掲げる。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「AIインフラを国家が持つ」という概念が実装フェーズに入った瞬間の記事。従来AIはクラウドベンダーから借りるものだったが、日本は国家レベルで専用インフラを持つことを選択した。フロントエンドエンジニア兼エンタメ業界勤務というプロフィールに対して、今後の国産AIサービスや官民プロジェクトへの関わり方を考える上で知っておくべき転換点だ。「FRONTia上で動く国産AIサービス」が次の2〜3年でどう育つか、フロントエンド開発者として注目する価値がある。"
+    },
+    {
+      "id": "2026-07-25-serendipity-003",
+      "category": "serendipity",
+      "title": "アサクリ ブラックフラッグ RE:シンクロ——14年前の名作を「現代基準」でリメイクする体験の再設計",
+      "url": "https://www.gamer.ne.jp/news/202607080034/",
+      "source": "Gamer",
+      "summary": "7月9日PS5発売のアサクリ ブラックフラッグ RE:シンクロ。最新Anvilエンジンで戦闘・グラフィック・操作性を現代基準に刷新。「よりリアルになったカリブ海と現代基準の遊びやすさ」と高評価。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "2012年発売の名作を最新エンジンで再構築した本作は「コンテンツのリメイク設計論」として興味深い。「当時の体験をそのまま再現するのか、現代のプレイヤー水準に合わせて再設計するのか」というジレンマをどう解いたか。VIVANTのシーズン制設計、GTOのIPリブートと合わせて「既存コンテンツをどう再利用するか」というエンタメ業界の今週のテーマとして読むと面白い。"
+    }
+  ]
+}
