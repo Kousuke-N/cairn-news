@@ -1,0 +1,407 @@
+{
+  "date": "2026-07-26",
+  "notion_page_id": "3a9a41a3-cf9b-8180-a34c-d33fb7a194a4",
+  "articles": [
+    {
+      "id": "2026-07-26-tech-001",
+      "category": "tech",
+      "title": "MCP 2026-07-28 仕様変更——2日後に迫る破壊的変更と移行ガイド",
+      "url": "https://www.developersdigest.tech/blog/mcp-2026-07-28-breaking-changes",
+      "source": "Developers Digest",
+      "summary": "MCP 2026-07-28仕様の破壊的変更と移行ガイド。ステートレスコア化・Extensionsフレームワーク・Tasks・MCP Appsが導入。旧クライアント・サーバーとの互換性がなくなるため早急な対応が必要。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-002",
+      "category": "tech",
+      "title": "Angular Signals + Zoneless 完全安定——本番移行の障壁がついに解消、20〜30%性能向上",
+      "url": "https://dev.to/mhmoud_ashour_5547515422e/angular-signals-zoneless-change-detection-the-biggest-performance-upgrade-in-2026-3ipa",
+      "source": "DEV Community",
+      "summary": "Angular 22でSignals + Zoneless変更検知が2026年最大のパフォーマンスアップグレードとして安定版に昇格。Zone.jsを廃止しシグナル依存コンポーネントのみ再レンダリングで20〜30%の性能向上。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-003",
+      "category": "tech",
+      "title": "TypeScript 7.0 採用可否ガイド——Vue・Svelte・Astroは7.1（10月頃）待ち",
+      "url": "https://zenn.dev/akari1106/articles/7655beb9e13090",
+      "source": "Zenn",
+      "summary": "AstroプロジェクトでTypeScript 7を実測し約5倍の高速化を確認しつつ、Astro・Vue・Svelte・MDX・ESLint型情報ルール利用者はTS 7.1を待つ必要があると判明。VS Code型チェックが125秒→11秒以下に。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-004",
+      "category": "tech",
+      "title": "MCP Enterprise-Managed Authorization 安定版——Okta等IdPで全社MCPアクセスを一元管理",
+      "url": "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/",
+      "source": "InfoQ",
+      "summary": "MCPにEMA（Enterprise-Managed Authorization）が追加され安定版に昇格。Okta等IdPと統合し従業員の初回ログイン時に承認済みMCPサーバーへ自動アクセスできる仕組みを提供。ゼロタッチOAuthが実現。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-005",
+      "category": "tech",
+      "title": "Gemini 3.6 Flash GA——100万トークン・前世代比17%コスト削減、Gemini 4も予告",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch",
+      "summary": "Googleが7月21日にGemini 3.6 Flash・3.5 Flash-Lite・3.5 Flash Cyberを発表。100万トークンコンテキスト、前モデル比17%コスト削減、コーディング性能向上。Gemini 4の予告も。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-006",
+      "category": "tech",
+      "title": "GPT-5.6 Sol——105万トークン・$5/Mトークン、Claude Opus 5と並ぶ最高峰クラス",
+      "url": "https://gate.ai/blog/gpt-5-6-sol-openai-specs-pricing-api-access-use-cases",
+      "source": "Gate.AI",
+      "summary": "OpenAIが7月9日にGPT-5.6（Sol/Terra/Luna）をGA。Solは105万トークンコンテキスト・$5/$30/100万tokens。コーディング・研究・ツール活用に最適化。Claude Opus 5と並ぶ最高性能クラス。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-007",
+      "category": "tech",
+      "title": "Biome v2.4——CSS-in-JSスニペットのLint対応・HTMLアクセシビリティルール15件追加",
+      "url": "https://biomejs.dev/blog/biome-v2-4/",
+      "source": "Biome",
+      "summary": "Biome v2.4リリース。JS/TSファイル内のCSS・GraphQLスニペットを直接フォーマット・Lint可能に。styled-components等のCSS-in-JSやGraphQLクエリに対応。HTML a11yルール15件も追加。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-008",
+      "category": "tech",
+      "title": "AngularはAI志向のフレームワークへ——LLMフレンドリー設計という新競争軸",
+      "url": "https://zenn.dev/lacolaco/articles/angular-ai-forward",
+      "source": "Zenn (lacolaco)",
+      "summary": "AngularチームがLLMによる高品質なAngularコード生成を促進する「Web Codegen Scorer」を開発。AI時代にLLMフレンドリーなAPIとドキュメント設計へ転換する方針を打ち出した。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-009",
+      "category": "tech",
+      "title": "TypeScript 7.0 移行プレイブック——ビルド10倍高速化の実践ガイド",
+      "url": "https://www.digitalapplied.com/blog/typescript-7-0-ga-native-compiler-migration-playbook-2026",
+      "source": "Digital Applied",
+      "summary": "TypeScript 7.0 GAリリースを受けたネイティブコンパイラ移行の実践ガイド。移行手順・注意点・tsconfig設定変更を網羅。ビルド10倍高速化と型チェック11秒以下を実現するための具体的手順を解説。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-tech-010",
+      "category": "tech",
+      "title": "Angular Signal Forms: 3つの本番対応アップデート",
+      "url": "https://medium.com/@Angular_With_Awais/angular-signal-forms-in-2026-3-production-ready-updates-you-should-know-033d76e9bb0c",
+      "source": "Medium",
+      "summary": "Angular Signal Formsに3つの本番対応アップデートが追加。シグナルベースのバリデーション、非同期状態管理の改善、型安全なフォームコントロールが実装可能に。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-26-news-001",
+      "category": "news",
+      "title": "「飛鳥・藤原の宮都」が世界文化遺産に——20年越しの悲願、日本の世界遺産は27件に",
+      "url": "https://news.yahoo.co.jp/articles/b561b834ecea98cb59c4b3e4a95fb5319bc80781",
+      "source": "Yahoo!ニュース（テレビ朝日系）",
+      "summary": "奈良県にある「飛鳥・藤原の宮都」が7月26日、韓国・釜山で開催中のユネスコ世界遺産委員会において世界文化遺産への登録が正式決定。19の遺跡群で構成され、推薦開始から20年越しの悲願が実現。日本の世界遺産は27件に。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-002",
+      "category": "news",
+      "title": "トランプ政権、新追加関税を発動——日本は既存税率合わせて12.5%",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184731000",
+      "source": "NHKニュース",
+      "summary": "トランプ米政権が7月24日に通商法301条に基づく新追加関税を発動。日本への税率は既存税率と合わせ最大12.5%。強制労働に関する日本の禁輸措置の不備を法的根拠とする代替措置。日本企業の輸出競争力への影響が懸念される。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-003",
+      "category": "news",
+      "title": "米軍イラン攻撃が11日連続——ホルムズ海峡封鎖宣言でエネルギー危機が深刻化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182341000",
+      "source": "NHKニュース",
+      "summary": "米軍によるイランへの攻撃が11日連続。イランがホルムズ海峡を「追って通知があるまで」封鎖すると宣言し、世界の石油輸送の要衝で緊張が続く。こう着状態が日本を含む世界経済のエネルギー供給に深刻な影響を与えている。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-004",
+      "category": "news",
+      "title": "ウクライナ 国防相・軍総司令官がダブル交代——戦時下の異例人事",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182271000",
+      "source": "NHKニュース",
+      "summary": "ゼレンスキー大統領が7月22日にシルスキー軍総司令官を解任。7月15日のフェドロフ国防相更迭に続き、国防と軍のトップが相次いで交代する異例の事態。フェドロフ氏の更迭には国民の抗議デモも発生した。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-005",
+      "category": "news",
+      "title": "新潟市中心部が大雨で冠水——バスセンターも浸水、江南区に避難指示",
+      "url": "https://www.niigata-nippo.co.jp/articles/-/874325",
+      "source": "新潟日報",
+      "summary": "7月26日、梅雨前線の影響で新潟市中心部の各所で大規模な冠水が発生。市内バスセンターも浸水し交通機能に支障。新潟市江南区の一部に避難指示が発令された。北陸・東北でも大雨警報が続出。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-006",
+      "category": "news",
+      "title": "米中外相会談 マニラで実施——習近平訪米・9月首脳会談に向けた議題調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182871000",
+      "source": "NHKニュース",
+      "summary": "ルビオ米国務長官と王毅中国外相が7月22〜23日にマニラで会談。9月予定のトランプ・習近平首脳会談実現に向けた議題調整が主目的。台湾問題・南シナ海・イラン問題も協議された。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-007",
+      "category": "news",
+      "title": "欧州山火事 死者発生・25万人超が避難——スペイン東部で1人死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186461000",
+      "source": "NHKニュース",
+      "summary": "フランス・スペインの山火事がさらに拡大し、スペイン東部で1人が死亡。ボルドー空港付近にも即時避難命令が出た。両国合計で25万人超が避難を余儀なくされている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-008",
+      "category": "news",
+      "title": "日銀 7月会合 全員が据え置き予想——追加利上げは12月が最多",
+      "url": "https://news.yahoo.co.jp/articles/d1752bc0d1b24a5a75d567167f421d6915983890",
+      "source": "Yahoo!ニュース（朝日新聞）",
+      "summary": "7月30〜31日の日銀会合では政策金利を据え置く公算が大きい。市場関係者調査で全員が据え置きを予想。次回の追加利上げは12月との見方が最多。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-news-009",
+      "category": "news",
+      "title": "今日の天気——西日本猛暑・東日本大雨という二分した気象",
+      "url": "https://weathernews.jp/news/202607/260041/",
+      "source": "ウェザーニュース",
+      "summary": "7月26日の全国天気。西日本から東海は最高気温35度以上の猛暑日が続く一方、関東や東北南部では梅雨前線の影響で急な強雨のリスク。熱中症と水害への注意が同時に必要な一日。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-001",
+      "category": "entertainment",
+      "title": "VIVANT 第2シーズン、本日21時放送開始——直前生放送特番も実施、TBSが総力戦",
+      "url": "https://news.livedoor.com/topics/detail/31915378/",
+      "source": "ライブドアニュース",
+      "summary": "TBS日曜劇場「VIVANT」第2シーズンが本日7月26日21時から放送開始。初回1時間前の20時から異例の直前生放送特番を実施。TVerお気に入り登録220万超・S1無料配信1100万再生でTBS歴代連ドラ最高記録を更新。2クール連続放送。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-002",
+      "category": "entertainment",
+      "title": "NewJeans、4人体制カムバックを予告——「2026 Summer of NewJeans」公開",
+      "url": "https://inmusicblog.com/k-pop/newjeans-2026-summer-of-newjeans-comeback-teaser/",
+      "source": "InMusic Blog",
+      "summary": "デビュー4周年の7月21日にMINJI・HANNI・HAERIN・HYEINの4人体制での活動再開を示唆する映像を公開。Danielle（2025年12月に契約解除）は含まれず。秋以降の本格カムバックが濃厚。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-003",
+      "category": "entertainment",
+      "title": "キングダム 魂の決戦、公開4日で20.6億円突破——2026年実写映画No.1のOP成績",
+      "url": "https://realsound.jp/movie/2026/07/post-2466337.html",
+      "source": "リアルサウンド",
+      "summary": "山崎賢人主演「キングダム 魂の決戦」（7月17日公開）が公開4日間で動員131万人・興行収入20.6億円を突破し、2026年実写映画No.1のオープニング成績を記録。シリーズ4作目にして最大スケールの合従軍編。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-004",
+      "category": "entertainment",
+      "title": "24時間テレビ SPドラマ——北川景子主演でつんく♂の実話を「妻目線」で描く",
+      "url": "https://www.crank-in.net/news/188622/1",
+      "source": "CRANK-IN!",
+      "summary": "8月29〜30日放送の「24時間テレビ49」SPドラマに北川景子が主演。つんく♂が喉頭がんで声を失いながらも活動を続ける実話を妻・加奈子さんの視点で描く。脚本は岡田惠和。本日発表。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-005",
+      "category": "entertainment",
+      "title": "ILLIT 本日東京お台場で最終公演——ジャパンツアー「PRESS START❤」クライマックス",
+      "url": "https://www.kpopnews.jp/illit-press-start-2026-tokyo/",
+      "source": "K-POPライブ&イベント情報",
+      "summary": "ILLITの初ジャパンツアー「PRESS START❤」が本日17時からTOYOTA ARENA TOKYO（お台場）で最終公演。東京3公演でツアーを締めくくる。全5都市11公演。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-006",
+      "category": "entertainment",
+      "title": "フジロック2026本日最終日——Massive Attackが16年ぶりヘッドライナー",
+      "url": "https://www.universal-music.co.jp/massive-attack/news/2026-07-24/",
+      "source": "ユニバーサルミュージック",
+      "summary": "7月24〜26日に苗場で開催のFUJI ROCK FESTIVAL 2026最終日（本日）はMassive Attackが2010年以来16年ぶりにヘッドライナーを務める。Hi-STANDARD・藤井風・XGも出演。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-007",
+      "category": "entertainment",
+      "title": "無職転生III第5話「お祝い」本日深夜放送",
+      "url": "https://cho-animedia.jp/article/2026/07/26/61710.html",
+      "source": "超！アニメディア",
+      "summary": "本日7月26日放送の無職転生III第5話「お祝い」の先行カットが公開。ノルン・アイシャの10歳の誕生日を祝うルーデウスが、シルフィ・ロキシーとともに街へ繰り出す内容。毎週日曜深夜放送中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-008",
+      "category": "entertainment",
+      "title": "BLEACH 千年血戦篇 最終クール——本日12時より8サービスで配信開始",
+      "url": "https://www.famitsu.com/article/202607/82448",
+      "source": "ファミ通.com",
+      "summary": "昨日放送開始のBLEACH千年血戦篇最終クールが、本日7月26日12時よりU-NEXT・Disney+・DMM TV・Huluなど主要8サービスで配信開始。ABEMAでは全話期間限定無料配信も実施中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-ent-009",
+      "category": "entertainment",
+      "title": "松村北斗「告白-25年目の秘密-」TVer総合1位——SNSで考察が続出",
+      "url": "https://news.yahoo.co.jp/articles/a951070abe8687cd60bd6dad05b07c68bade523c",
+      "source": "Yahoo!ニュース（映画チャンネル）",
+      "summary": "7月11日スタートの日テレ土曜ドラマ「告白-25年目の秘密-」第1話がTVer総合・国内ドラマランキング1位を記録。公式Xの謎めいた動画に「怖すぎる」「見返してしまう」とSNSで考察が続出。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-001",
+      "category": "hobby",
+      "title": "Halo: Campaign Evolved、7月28日にPS5・Xbox・PC同時発売——シリーズ初のPlayStation参入",
+      "url": "https://www.vgchartz.com/article/468103/halo-campaign-evolved-launches-july-28-for-ps5-xbox-series-pc-and-game-pass/",
+      "source": "VGChartz",
+      "subcategory": "game",
+      "summary": "Haloシリーズ史上初のPS5展開。7月28日発売（日本時間7/29）でXbox・PCとクロスプレイ・クロスプログレッション対応。早期アクセスは7月23日（日本7/24）から開始済み。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-002",
+      "category": "hobby",
+      "title": "「ほの暮しの庭」先行レビュー——7月30日発売、夜の恐怖は「本当にヤバい」",
+      "url": "https://gamewith.jp/gamedb/14087/articles/58895",
+      "source": "GameWith",
+      "subcategory": "game",
+      "summary": "7月30日発売予定の生活シム「ほの暮しの庭」先行プレイレビュー。農業・釣り・村人交流など田舎暮らし要素は高完成度。夜23時以降の外出が「激怖」と話題に。ほのぼのと恐怖が同居する独自の雰囲気が口コミで広がっている。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-003",
+      "category": "hobby",
+      "title": "ソニー RX10 V 国内予約開始——市場価格36万円前後、7月31日発売",
+      "url": "https://mirrorless-camera.info/news/sony-news/56627.html",
+      "source": "ミラーレスカメラ情報",
+      "subcategory": "camera",
+      "summary": "ソニー「RX10 V」の国内予約が7月16日10時より開始。カメラのキタムラ最安326,700円前後、市場想定価格36万円前後。1.0型センサーと24-600mm F2.8-4.0ツァイスレンズ搭載。7月31日発売予定。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-004",
+      "category": "hobby",
+      "title": "ソニーFX5、Ver.2.0で4K240p対応予定——2027年8月以降にアップデート",
+      "url": "https://digicame-info.com/2026/07/fx54k120p.html",
+      "source": "デジカメinfo",
+      "subcategory": "camera",
+      "summary": "発売前後に指摘されていたFX5の高フレームレート不足が、Ver.2.0ソフトウェアアップデート（2027年8月以降予定）で4K240p記録対応になる見通しが浮上。X-OCN記録形式での実装予定。購入検討者に朗報。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-005",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 開発者インタビュー——「究極のワンオペ」設計思想が明かされる",
+      "url": "https://game.watch.impress.co.jp/docs/news/2126779.html",
+      "source": "GAME Watch",
+      "subcategory": "game",
+      "summary": "GAME Watchの開発者インタビューで「究極のワンオペ」の詳細が明かされた。1人でスパイキーな体験が完結することを目指した経緯、ダンジョン探索型にした理由、武器システムの設計思想が語られた。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-006",
+      "category": "hobby",
+      "title": "スパイスカレー屋さんの台所 東京・北区十条に新店",
+      "url": "https://tokyokita.goguynet.jp/2026/07/20/spicescurryyasan20260713/",
+      "source": "号外NET 東京都北区",
+      "subcategory": "curry",
+      "summary": "東京・北区十条に7月3日オープンした「スパイスカレー屋さんの台所」のメニュー紹介。旧「大番」跡地で、トッピング次第で多彩な顔を持つメニュー構成が特徴。リーズナブルな価格設定で地域密着型。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-007",
+      "category": "hobby",
+      "title": "SPICE BLUES 福岡・渡辺通に7月11日オープン",
+      "url": "https://twitfukuoka.com/?p=409728",
+      "source": "TwitFukuoka",
+      "subcategory": "curry",
+      "summary": "福岡市中央区渡辺通に元「タマガワカリードットコム」店主が手がける「SPICE BLUES」が7月11日オープン。看板はエビバターマサラと屋久島産焼き鯖マサラ。ランチのみ（11:30〜14:00）の間借り営業。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-hobby-008",
+      "category": "hobby",
+      "title": "TOKYO MIX CURRY 大手町に昼夜2業態で7月1日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000093740.html",
+      "source": "PR TIMES",
+      "subcategory": "curry",
+      "summary": "TOKYO MIX CURRYが大手町に7月1日オープン。昼はカスタムスパイスカレー専門、夜は初のバル業態「TMCスパイスバル」を展開。小麦粉不使用のヘルシーなスパイスカレーが特徴。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-26-serendipity-001",
+      "category": "serendipity",
+      "title": "GTO 2026年版 第1話 賛否両論——28年前のIPリブートが市場でテストされる",
+      "url": "https://note.com/zatsunenmamire/n/ncd2bf881b1dd",
+      "source": "note",
+      "summary": "7月20日スタートのフジテレビ「GTO」第1話への視聴者反応。「5分で泣けた」という感動の声とともに「やっぱなんか違う」という批判的な声も。28年後のIPリブートが市場でどう受容されるかというテストが始まっている。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "昨日の朝刊でIPリブートの「設計論」を取り上げたが、今日はその実際の受容結果を見ることができる。「5分で泣けた」「青春が戻ってきた」という感動の声とともに「やっぱなんか違う」という批判的な声も混在。28年後のIPリブートが成功するかどうかは「どちらの感情が市場を動かすか」という問いの答えが出始めている。エンタメ業界の企画担当として、この反応のミックスをどう読むか。VIVANT・キングダム・トイストーリー5などの今週の大ヒット作と並べて、市場の読み方を考えてみてほしい。"
+    },
+    {
+      "id": "2026-07-26-serendipity-002",
+      "category": "serendipity",
+      "title": "MAMA AWARDS 2026、大阪・京セラドームで開催決定——K-POPが「大阪経済圏」を選んだ理由",
+      "url": "https://www.hwaiting.me/wow/read/527882.html",
+      "source": "hwaiting.me",
+      "summary": "K-POPの最大授賞式「2026 MAMA AWARDS」が11月に京セラドーム大阪で開催決定。Stray Kids・NCT 127・NewJeansらの参加が期待される。K-POPの日本市場における存在感がさらに高まる。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "K-POPの最大授賞式MAMAが2026年も日本で、しかも大阪を選んだことは単なるビジネス判断以上の意味を持つ。ライブ市場での動員力・在日コリアンコミュニティの規模・大阪万博後のインバウンド需要——複数の要因が絡み合う中でエンタメ業界がどこに「お金が動く」と判断しているかを示す事例として読める。Stray Kids・NCT 127・参加を期待されるNewJeansらが集う11月の動員見込みを試算してみると面白い。"
+    },
+    {
+      "id": "2026-07-26-serendipity-003",
+      "category": "serendipity",
+      "title": "AngularはAI志向のフレームワークへ——LLMフレンドリー設計という新しい競争軸",
+      "url": "https://zenn.dev/lacolaco/articles/angular-ai-forward",
+      "source": "Zenn (lacolaco)",
+      "summary": "AngularチームがLLMによる高品質なAngularコード生成を促進する「Web Codegen Scorer」を開発。AI時代にLLMフレンドリーなAPIとドキュメント設計へ転換する方針を打ち出した。フレームワーク選定の競争軸が変わりつつある。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "Angularチームが「LLMによる高品質なAngularコード生成」を促進する「Web Codegen Scorer」を開発しているという情報は、フレームワーク競争の次の軸が「人間が書きやすいか」から「AIが正しいコードを生成しやすいか」に移行しつつあることを示す。フロントエンドエンジニアとして「AIとともに書くAngularコード」の品質がどう定義されるかは業務の設計方針にも影響する。エンタメ業界でのAIツール活用を考える際の視野を広げる記事。"
+    }
+  ]
+}
