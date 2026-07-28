@@ -1,0 +1,518 @@
+{
+  "date": "2026-07-28",
+  "notion_page_id": "3aba41a3-cf9b-81c7-aca5-ec447660fc0b",
+  "articles": [
+    {
+      "id": "2026-07-28-tech-001",
+      "category": "tech",
+      "title": "MCP 2026-07-28新仕様：Stateless化・OAuth 2.1・MCP Apps/Tasksが正式発効",
+      "url": "https://www.scalekit.com/blog/mcp-spec-update-july-2026",
+      "source": "Scalekit",
+      "summary": "2026-07-28付けMCP（Model Context Protocol）仕様が発効。主な変更は①完全Stateless化（SSE廃止→ChunkedTransfer）、②OAuth 2.1+PKCE必須化によるエージェント間認証標準化、③MCP Apps（エージェントマーケットプレイス機能）とMCP Tasks（非同期処理プリミティブ）の追加。既存のステートフル実装は6か月以内の移行が推奨される。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-002",
+      "category": "tech",
+      "title": "Angular 22 Zoneless完全移行ガイド：Zone.jsなし時代のSignal・Effectsとは",
+      "url": "https://safwen.dev/blog/angular-22-signals-zoneless-everything-that-finally-shipped",
+      "source": "Safwen.dev",
+      "summary": "Angular 22でZoneless（Zone.jsレス）モードが安定版に。変更検知のトリガーをSignalベースに完全移行し、Zone.jsの暗黙的なパッチが不要になる。effectsAPIの安定化・input/output signal化・クエリシグナルとの組み合わせも解説。パフォーマンス向上はアプリ規模に比例し、大規模SPAで最大40%の描画時間削減報告も。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-003",
+      "category": "tech",
+      "title": "EU AI Act Omnibus発効（7/27）：高リスクAI施行は延期もNudifier系アプリは即日禁止",
+      "url": "https://www.techtimes.com/articles/321681/20260727/eu-ai-act-omnibus-law-six-days-transparency-deadline-nudifier-apps-banned-december.htm",
+      "source": "TechTimes",
+      "summary": "EU AI Act Omnibusが7月27日に正式発効。高リスクAIシステムへの規制は中小企業配慮で一部延期が確定したが、AIによる性的なディープフェイク（Nudifier）アプリは今年12月を期限に全面禁止。透明性義務（AIであることの表示）は6日以内に即時適用が求められ、違反時は最大3,500万ユーロの制裁金。日本企業も域外適用対象。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-004",
+      "category": "tech",
+      "title": "AngularアプリにMCPサーバーを組み込む実践ガイド（Zenn）",
+      "url": "https://zenn.dev/akai/articles/f608e3d27e88b4",
+      "source": "Zenn",
+      "summary": "AngularアプリにMCPサーバー機能を組み込む手法を解説したZenn記事。MCPのHTTP Streamingトランスポートを使いブラウザからLLMにツール呼び出しさせる構成、Angular SignalとMCPのリアクティブな状態連携、認証フローのOAuth 2.1対応なども含む実践的な内容。今日発効した新MCP仕様への対応コードも含まれる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-005",
+      "category": "tech",
+      "title": "Claude CodeとClaude Cowork、政府機関向けに提供開始——Anthropic初の官公庁向け展開",
+      "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
+      "source": "Anthropic Blog",
+      "summary": "AnthropicがClaude CodeとClaude Coworkを米国政府機関向けに正式展開開始。FedRAMP High認定取得見通し、エアギャップ環境への対応、政府向けデータ保持ポリシーなどエンタープライズ仕様を追加。防衛省・社会保障局などとのパイロットが始まっているとされ、GovTechへのAIコーディングエージェント普及が本格化する節目。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-006",
+      "category": "tech",
+      "title": "MCP新仕様セキュリティ解説：OAuth 2.1移行でセキュリティチームが準備すべきこと（Akamai）",
+      "url": "https://www.akamai.com/blog/security-research/new-mcp-specification-security-teams-must-prepare",
+      "source": "Akamai",
+      "summary": "Akamaiが新MCP仕様のセキュリティ観点を解説。OAuth 2.1必須化でトークン漏洩リスクが減少するが、MCP Tasksの非同期処理がServer-Side Request Forgery（SSRF）の新たな攻撃面を生む可能性を指摘。Stateless移行期（旧SSE仕様との混在期）のダウングレード攻撃にも警戒を促す。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-007",
+      "category": "tech",
+      "title": "MCP新仕様の変更点をcurlで確認する（Zenn）",
+      "url": "https://zenn.dev/melonps/articles/6ff82981f18cb7",
+      "source": "Zenn",
+      "summary": "MCP 2026-07-28仕様変更をcurlコマンドで実際に叩いて確認するハンズオン記事。Stateless化によりリクエスト構造がどう変わるか、OAuth 2.1のトークン取得フロー、MCP Tasksの非同期レスポンス形式を具体的なコード例で解説。実装者向けのクイックリファレンスとして有用。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-008",
+      "category": "tech",
+      "title": "MCPエコシステム2026：AAIF・gRPC・MCP Appsの三つ巴（Zenn）",
+      "url": "https://zenn.dev/kai_kou/articles/007-mcp-aaif-grpc-apps-ecosystem-2026",
+      "source": "Zenn",
+      "summary": "2026年のAIエージェント通信プロトコル競争を俯瞰。MCPの新仕様拡充に対し、GoogleのAAIF（Agent-to-Agent Interchange Format）とgRPC系のエージェントフレームワークが競合。MCP Appsの登場はgRPCのサービスディスカバリーと似た概念で、エコシステムの収れん方向を考察する論考。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-009",
+      "category": "tech",
+      "title": "MCP 2026-07-28 Stateless移行ガイド：既存実装者向けチェックリスト（Digital Applied）",
+      "url": "https://www.digitalapplied.com/blog/mcp-2026-07-28-spec-stateless-migration-guide",
+      "source": "Digital Applied",
+      "summary": "MCP Stateless移行の実装チェックリスト。①セッションIDの廃止と代替設計、②認証コンテキストの各リクエストへの付加方法、③ストリーミングのChunked Transfer Encoding移行、④MCP Tasks用のポーリングvsWebhook設計パターンを整理。移行期間6か月を踏まえたロードマップ提示も。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-010",
+      "category": "tech",
+      "title": "MCPエージェント認証の変更点：WorkOSが解説するOAuth 2.1移行",
+      "url": "https://workos.com/blog/mcp-2026-spec-agent-authentication",
+      "source": "WorkOS",
+      "summary": "WorkOSがMCP新仕様のOAuth 2.1エージェント認証を解説。マルチエージェント環境でのA2A（Agent-to-Agent）通信認証、スコープの細粒度制御、リフレッシュトークン有効期限の短縮化（24h→1h）、PKCE必須化など。WorkOSのMCPサポートライブラリ更新情報も含む。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-011",
+      "category": "tech",
+      "title": "MCP仕様変更の全体像：Stacktreeによるサマリー",
+      "url": "https://stacktr.ee/blog/mcp-2026-spec-changes",
+      "source": "Stacktree",
+      "summary": "StacktreeがまとめるMCP 2026-07-28仕様変更の全体像。Stateless化・OAuth 2.1・MCP Apps/MCP Tasksの4大変更に加え、ツール定義のバージョニング標準化、エラーコードの拡充（HTTP準拠）、サーバー側のRate Limiting推奨なども変更点として挙げる。実装者向けの差分表形式でまとめた一覧が便利。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-012",
+      "category": "tech",
+      "title": "フロントエンド週次まとめ（7/21〜7/27）",
+      "url": "https://design-tech.xtone.co.jp/entry/2026/07/24/200000",
+      "source": "xtone design-tech",
+      "summary": "先週のフロントエンド主要ニュースまとめ。React 20 RC・Vite 7.1・Angular 22 Zoneless安定化・Astro 5.5リリースなどの動向を整理。CSS Cascading Layers対応ブラウザ状況やWeb Components最新動向も含む週次ダイジェスト形式。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-tech-013",
+      "category": "tech",
+      "title": "Claude Opus 5リリース——最高性能モデルの更新",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic Blog",
+      "summary": "DEDUP: 2026-07-25に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-tech-014",
+      "category": "tech",
+      "title": "Angular Signal Forms in 2026：3つの本番対応アップデート",
+      "url": "https://medium.com/@Angular_With_Awais/angular-signal-forms-in-2026-3-production-ready-updates-you-should-know-033d76e9bb0c",
+      "source": "Medium",
+      "summary": "DEDUP: 2026-07-26に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-tech-015",
+      "category": "tech",
+      "title": "OpenAI、GPT-5.6ファミリーをリリース",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch",
+      "summary": "SKIP: 7/9付けの旧記事のため掲載しない",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-news-001",
+      "category": "news",
+      "title": "【速報】熊本・宇城市と氷川町で震度7　有明海・八代海に津波注意報（7/28 16:27）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188221000",
+      "source": "NHKニュース",
+      "summary": "2026年7月28日16時27分頃、熊本県熊本地方でM7.1の地震が発生。宇城市・氷川町で最大震度7を観測、熊本市南区・八代市・宇土市なども震度6強。有明海・八代海に津波注意報が発令された。震源の深さは約10km。九州新幹線は運転見合わせ、熊本市の一部で停電が発生。熊本城の被害確認中。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-002",
+      "category": "news",
+      "title": "FOMC（7/28〜29）：5会合連続据え置き見通し、一部委員が利上げ提案リスクも",
+      "url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260728/",
+      "source": "三井住友DSアセットマネジメント",
+      "summary": "7月28〜29日開催のFOMCでFRBはFF金利3.50〜3.75%を据え置く見通し。ただしイラン情勢を背景とした原油高リスクから、一部委員が利上げを提案する確率が30%超に。年内は9月・12月に計50bpの追加利上げが市場コンセンサス。結果は日本時間7/30早朝に発表予定。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-003",
+      "category": "news",
+      "title": "日銀7月会合（7/30〜31）：全員が現状維持予想、次の利上げは12月が最多",
+      "url": "https://news.yahoo.co.jp/articles/564cd3d8eb2d1c4ede179f9e58c8ec8c93d57a49",
+      "source": "時事通信",
+      "summary": "日銀は7月30〜31日の金融政策決定会合で1.0%の政策金利を据え置く公算が大きい。6月に約31年ぶりの高水準となる1%への利上げを決定したばかりで効果見極め期間に入る。日経識者調査では全員が現状維持を予想、次回利上げは12月が最多。展望リポートで2026年度成長率の上方修正も議論予定。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-004",
+      "category": "news",
+      "title": "高市内閣支持率が10P急落し58%に——無党派では不支持が逆転",
+      "url": "https://www.nikkei.com/article/DGXZQOUA235PT0T20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "日経・テレビ東京の7月世論調査で高市内閣の支持率が6月比10P減の58%に急落し発足後初めて50%台となった。不支持は37%（10P増）に上昇し無党派層では不支持51%が支持を逆転。読売・ANN・時事通信など各社調査でも軒並み大幅低下が続く。10月の参院選に向けた政権運営への影響が注目される。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-005",
+      "category": "news",
+      "title": "米国相互関税12.5%が日本にも発動（7/24）——製造業・食品のサプライチェーンに即時影響",
+      "url": "https://www.pwc.com/jp/ja/knowledge/news/tax-customs/cta-20260727.html",
+      "source": "PwC Japan",
+      "summary": "トランプ政権は7月24日、通商法301条に基づき日本など60カ国・地域に追加関税を発動。日本はMFN税率と301条関税の合計が12.5%の「合計調整方式」。輸出製造業・食品・半導体製造装置などのサプライチェーン全体に即時影響が及んでいる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-006",
+      "category": "news",
+      "title": "イラン、ホルムズ海峡を事実上封鎖——原油価格高騰・LNG調達に影響",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-11/TI1AKUKJH6V800",
+      "source": "Bloomberg",
+      "summary": "イランの革命防衛隊が7月12日にホルムズ海峡の通航を認めないと発表。LNG船の通過が途絶えブレント原油先物が約79ドルに上昇。米軍によるイラン攻撃が11日連続で継続し、アジア各国は代替ルート確保を急ぐ。日本のLNG調達コスト上昇と電力価格への波及が懸念される。（deep_dive_topic：イラン情勢・エネルギー市場）",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-007",
+      "category": "news",
+      "title": "ドル円163円台後半——FOMC前ドル高、40年ぶり164円台も視野",
+      "url": "https://www.gaitame.com/media/entry/2026/07/28/081514",
+      "source": "外為どっとコム",
+      "summary": "7月28日午前のドル円は163円73〜74銭と円安推移。28〜29日のFOMCを前にドル買いが優勢で40年ぶりの164円台突入も視野に。日銀会合（30〜31日）での現状維持見通しが円売りを後押し。輸入物価への波及と企業業績への影響が続く。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-008",
+      "category": "news",
+      "title": "酷暑日5日連続で最長記録更新——熱中症警戒アラート継続中",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185701000",
+      "source": "NHKニュース",
+      "summary": "7月25日で最高気温40度超の「酷暑日」が東海・山梨で5日連続となり国内最長記録を更新。7月21日に岐阜・愛知で国内初の酷暑日を観測以来、記録的な高温が継続。28日以降も各地で猛暑が続く予報で熱中症への厳重警戒を呼びかけている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-009",
+      "category": "news",
+      "title": "ウクライナ国防相を解任——戦時下の異例の指導部刷新に国民が抗議デモ",
+      "url": "https://news.yahoo.co.jp/articles/a99ef95ebc728c5fe51a41d3cc4c42e5b6eee4a2",
+      "source": "Forbes JAPAN",
+      "summary": "ゼレンスキー大統領が7月15日、ドローン戦の第一人者として人気のフェドロフ国防相を解任。突然の解任に国内で強い反発が広がり各地で大規模な抗議デモが発生。その後、軍の総司令官も解任され戦時下の異例の指導部刷新となっている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-010",
+      "category": "news",
+      "title": "最低賃金審議が大詰め——労働側「75円引き上げ」、経営側と折り合わず",
+      "url": "https://www.jiji.com/jc/article?k=2026072300857&g=soc",
+      "source": "時事通信",
+      "summary": "2026年度最低賃金を審議する厚労省中央最低賃金審議会は7月23日の第4回小委でも決着しなかった。労働側は75円引き上げを主張するも経営側との隔たりが大きい。月内の「目安」提示を目指し7月27日に第5回会合を開催。実現すれば全国加重平均が1,123円程度に。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-news-011",
+      "category": "news",
+      "title": "EU AI Act：2026年8月2日から高リスクAI規制が本格適用",
+      "url": "https://www.sei-san-sei.com/blog/blog-0470.html",
+      "source": "Sei San Sei",
+      "summary": "DEDUP: テックカテゴリのEU AI Act記事（tech-003）でカバー済みのため除外",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-news-012",
+      "category": "news",
+      "title": "日銀7月会合：識者調査で全員が現状維持予想",
+      "url": "https://www.nikkei.com/article/DGXZQOFL175BMTX10C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "DEDUP: news-003（日銀7月会合）と同一トピックのため除外",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-news-013",
+      "category": "news",
+      "title": "ホルムズ海峡危機：情勢と今後の見通し（2026年7月14日更新）",
+      "url": "https://global-scm.com/blog/?p=7885",
+      "source": "Global SCM",
+      "summary": "DEDUP: news-006（イラン・ホルムズ）と同一トピックのため除外",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-news-014",
+      "category": "news",
+      "title": "外為：ドル円163円台（7/28 8:30）",
+      "url": "https://www.nikkei.com/article/DGXZQOFL2809X0Y6A720C2000000/",
+      "source": "日本経済新聞",
+      "summary": "DEDUP: news-007（ドル円）と同一トピックのため除外",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-entertainment-001",
+      "category": "entertainment",
+      "title": "「VIVANT」第2シーズン初回視聴率18.8%——今夏ドラマぶっちぎりトップ",
+      "url": "https://news.yahoo.co.jp/articles/a88b34f51bcf96c1b1e804f4558aa890bab9b3c2",
+      "source": "スポニチアネックス（Yahoo!ニュース）",
+      "summary": "TBS日曜劇場「VIVANT」第2シーズンが7月26日に放送開始。初回視聴率は世帯18.8%・個人12.1%を記録し今夏民放ドラマでぶっちぎりトップ。前作最終話（19.6%）に迫る好発進で「第1シーズンより面白い」とSNSでも大きな反響。出演：堺雅人・二階堂ふみ・松坂桃李ほか。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-002",
+      "category": "entertainment",
+      "title": "映画ちいかわ、公開3日間で興収22.4億円・動員150万人——コナン初日記録を超える歴史的大ヒット",
+      "url": "https://news.livedoor.com/article/detail/31927458/",
+      "source": "ライブドアニュース",
+      "summary": "7月24日公開の『映画ちいかわ 人魚の島のひみつ』が公開3日間（7/24〜26）で興収22.4億円、動員150万8,500人を記録。初日だけで9.9億円を稼ぎコナン初日記録（9.6億円）を超える歴史的大ヒットスタート。447館（IMAX含む）で公開中。エンタメ業界で「今年の映画最大のサプライズ」と評される。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-003",
+      "category": "entertainment",
+      "title": "映画ちいかわ「ホラー映画みたい」とSNSで考察ブーム——かわいさと恐怖の二重性がバズを生む",
+      "url": "https://news.yahoo.co.jp/expert/articles/de83e7f251b47472ebcc5068ff41c8fe4bafe0e5",
+      "source": "Yahoo!ニュース エキスパート",
+      "summary": "映画ちいかわが可愛い見た目とは裏腹にシリアス・ホラー的な展開を持つとして「ホラー映画みたい」とSNSで拡散。視聴後の考察ツイートが急増しており、コンテンツの二重性が口コミの爆発的な拡大を加速させている。企画職必見の「コントラストがバイラルを生む」設計事例。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-004",
+      "category": "entertainment",
+      "title": "超実写版『モアナと伝説の海』世界興収152億円突破——日本は7/31公開",
+      "url": "https://www.oricon.co.jp/news/2467422/full/",
+      "source": "ORICON NEWS",
+      "summary": "ディズニー実写版『モアナ』（7/10全米公開）が世界興収152億円を突破し全米首位を獲得。「ディズニー史上最高の実写化」との称賛の声がある一方、批評家スコアは34%と低調。一般観客評価は90%台と乖離が話題。日本は7月31日（木）公開で、モアナ役吹替はME:IのTSUZUMIが担当。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-005",
+      "category": "entertainment",
+      "title": "NewJeans、デビュー4周年に4人体制でカムバック示唆「2026 Summer of NewJeans」映像公開",
+      "url": "https://www.soompi.com/article/1856451wpp/watch-newjeans-announces-return-as-4-member-group-with-2026-summer-of-newjeans-films",
+      "source": "Soompi",
+      "summary": "7月22日、NewJeansがデビュー4周年にミンジ・ハニ・ハリン・ヒョインの4人で「2026 Summer of NewJeans」フィルムと写真を公開。ダニエル脱退後約16ヶ月ぶりの4人揃ったコンテンツで、ファンの間で新曲への期待が急騰している。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-006",
+      "category": "entertainment",
+      "title": "BLEACH千年血戦最終クール第41話「GOD OF THUNDER」放送——浦原喜助と雷獣戦形が話題",
+      "url": "https://animeanime.jp/article/2026/07/26/101471.html",
+      "source": "アニメ！アニメ！",
+      "summary": "7月25日放送のBLEACH千年血戦篇最終クール第41話が放送。浦原喜助の活躍に「かっこよすぎ」の声多数、夜一の新形態「雷獣戦形」も話題に。2026夏アニメ最注目の最終クール開幕として高い熱量でSNSが盛り上がった。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-007",
+      "category": "entertainment",
+      "title": "BABYMONSTERワールドツアー本日福岡開幕、9月に初の京セラドーム公演も決定",
+      "url": "https://natalie.mu/music/news/664297",
+      "source": "音楽ナタリー",
+      "summary": "BABYMONSTERの「2026-27 WORLD TOUR [춤(CHOOM)] IN JAPAN」日本公演が本日7月28日（火）、福岡マリンメッセA館で開幕（18:00〜）。29日まで2日間。さらに9月22〜23日には京セラドーム大阪での初ドーム公演も決定。全国6都市を巡る大規模ジャパンツアーが展開中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-008",
+      "category": "entertainment",
+      "title": "aespa 日本1stミニアルバム「KISS N TELL」7/24リリース——約2年ぶりの本格日本カムバック",
+      "url": "https://aespa-official.jp/news/kissntell-visual/",
+      "source": "aespa JAPAN OFFICIAL",
+      "summary": "aespaが日本1stミニアルバム『KISS N TELL』を7月24日にリリース。全6曲の日本語オリジナル楽曲を収録。4月の初ドームツアー成功を経た約2年ぶりの本格的な日本カムバック。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-entertainment-009",
+      "category": "entertainment",
+      "title": "2026夏ドラマ視聴率：VIVANT2独走（18.8%）・大空港10.7%・豊臣兄弟10.5%が追走",
+      "url": "https://pixiin.com/drama-rating-ranking2026/",
+      "source": "映画ドラマ評価ピクシーン",
+      "summary": "7/26時点の2026年夏ドラマ視聴率ランキング：1位VIVANT第2シーズン（18.8%）、2位テレ朝「大空港〜GATE24〜」（10.7%）、3位NHK「豊臣兄弟！」（10.5%）。VIVANT2を除く民放各局が10%台での激しい競争を展開中。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-entertainment-010",
+      "category": "entertainment",
+      "title": "板東英二さん死去——元中日投手・タレント、SNSで「ゆで卵」追悼の輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188041000",
+      "source": "NHKニュース",
+      "summary": "元プロ野球・中日ドラゴンズ投手でタレントとして長年活躍した板東英二さんが7月22日、慢性心不全のため死去。86歳。「ゆで卵が好き」キャラクターで親しまれ、SNSではゆで卵の画像で追悼する投稿が多数広がっている。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-hobby-001",
+      "category": "hobby",
+      "title": "ソニー Cinema Line FX5、本日7/28 10時より予約受付開始——5K・X-OCN内部記録・8/21発売",
+      "url": "https://jp.pronews.com/news/202607222300768439.html",
+      "source": "PRONEWS",
+      "summary": "ソニーのCinema LineカメラFX5（ILME-FX5）の予約受付が本日7/28 10時より開始。有効約1,660万画素の積層型フルサイズExmor RSセンサー、BIONZ XR2搭載。5Kオープンゲート撮影・16bit X-OCN内部記録・トリプルベースISO（800/4000/12800）対応。将来のVer.2.00で最大240fps予定。ボディのみ812,900円、8/21発売。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-002",
+      "category": "hobby",
+      "title": "ソニー RX10V 正式発表——約9年ぶりの高倍率ズーム新型機、24-600mm搭載で7/31発売",
+      "url": "https://dclife.jp/archives/15785",
+      "source": "Digital Camera Life",
+      "summary": "ソニーが約9年ぶりの高倍率ズームカメラRX10 V（DSC-RX10M5）を正式発表。約2,010万画素1インチ積層型Exmor RSセンサー、24-600mm F2.4-4.0ツァイスレンズ、4K120fps・HD240fps対応。ソニーストア363,000円で7/31発売。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-003",
+      "category": "hobby",
+      "title": "富士フイルム X-T6 噂まとめ——4,000万画素・8K動画・新フィルムシミュレーション、9月第1週発表か",
+      "url": "https://cameota.com/fujifilm/50837.html",
+      "source": "CAMEOTA.com",
+      "summary": "2026年9月第1週（9/3有力）発表確実とされる富士フイルムX-T6の噂スペックまとめ。約4,000万画素の新センサー、X Processor 6採用、AI AF強化、8K動画対応が有力視。新フィルムシミュレーションは「深く力強い色彩表現」が特徴。複数リーカーが9月第1週発表を確認。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-004",
+      "category": "hobby",
+      "title": "富士フイルム新型バッテリー「NP-W255」は旧型比10%増の2,550mAh——X-T6搭載に向けた続報",
+      "url": "https://digicame-info.com/2026/07/np-w25510.html",
+      "source": "デジカメinfo",
+      "summary": "富士フイルムX-T6採用予定の新バッテリーNP-W255が旧型NP-W235比で約10%増の2,550mAhと判明。Panasonic蘇州製でX Processor 6の消費電力増加に対応した電源強化と見られる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-005",
+      "category": "hobby",
+      "title": "DJI Osmo Pocket 4P レビュー——2眼の望遠は実際どこまで使えるか",
+      "url": "https://blog.skeg.jp/archives/2026/07/dji-osmo-pocket-4-pro-review.html",
+      "source": "スーログ",
+      "summary": "6/29発売のDJI Osmo Pocket 4P実写レビュー。ジンバル一体型初の2眼システム（標準＋60mm望遠）、4K240fps・17段ダイナミックレンジ・1インチCMOS。屋内シーンでの60mm望遠の実用性を検証した動画制作者向けレビュー。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-hobby-006",
+      "category": "hobby",
+      "title": "『Halo: Campaign Evolved』本日7/28発売——UE5完全リメイク、シリーズ初のPS5参戦",
+      "url": "https://fpsjp.net/archives/552046",
+      "source": "EAA FPS News",
+      "summary": "初代HaloキャンペーンをUnreal Engine 5で完全リメイクした『Halo: Campaign Evolved』が本日7/28発売。Xbox Series X|S・PC・PS5対応、シリーズ史上初のPS5参入。4人協力プレイ・クロスプレイ対応、新プリクエルキャンペーン「Operation: METEORITE」収録。Game Pass初日対応。MetacriticはPS5版81点・Xbox版84点。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-007",
+      "category": "hobby",
+      "title": "『ゼノブレイド2 Nintendo Switch 2 Edition』7/30発売直前——M.O.M.O.参戦・ブレイド操作モード追加",
+      "url": "https://www.gamespark.jp/article/2026/07/24/169682.html",
+      "source": "Game*Spark",
+      "summary": "7/30発売のゼノブレイド2 Switch2 Editionが7/24に追加要素を公開。ゼノサーガより「M.O.M.O.」が新ブレイドとして参戦。ホムラ・ヒカリの新衣装とブレイド直接操作の新クエスト「傭兵団アクション」も追加。TVモード4K/60fps対応。DL版9,778円、アップグレードパス1,000円。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-008",
+      "category": "hobby",
+      "title": "『スプラトゥーン レイダース』7/23発売——Switch2専用スピンオフが好調スタート",
+      "url": "https://www.famitsu.com/article/202607/82204",
+      "source": "ファミ通.com",
+      "summary": "スプラトゥーンシリーズ初のスピンオフ作品『スプラトゥーン レイダース』が7/23にNintendo Switch 2専用で発売。シングルプレイ中心のアドベンチャーで、Amazonでの1か月前予約は5万本超の好調スタート。すりみ連合amiibo同日発売。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-009",
+      "category": "hobby",
+      "title": "TOKYO MIX CURRY、大手町に7/1オープン——昼はカスタムカレー、夜はスパイスバルの2業態新店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000093740.html",
+      "source": "PR TIMES",
+      "summary": "TOKYO MIX CURRY（株式会社FOODCODE）が千代田区大手町カンファレンスセンターB1に7/1オープン。昼（11:00〜14:30）はカスタムカレー専門店、夜（17:00〜22:00）は同社初のバル業態「TMCスパイスバル」を展開。大手町オフィスワーカーをターゲットとした昼夜2業態の特徴的な展開。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-28-hobby-010",
+      "category": "hobby",
+      "title": "料理本『スパイスカレーの教科書』Kindle版が62%オフ499円セール",
+      "url": "https://news.denfaminicogamer.jp/news/2607233b",
+      "source": "でんファミニコゲーマー",
+      "summary": "スパイスカレーのレシピとスパイスブレンドを体系的に解説した料理本『スパイスカレーの教科書』Kindle版が日替わりセールで62%オフの499円（通常1,324円）で販売。本格スパイスカレーの作り方からスパイスブレンド理論まで解説した入門〜中級者向け書籍。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-28-serendipity-001",
+      "category": "serendipity",
+      "title": "映画ちいかわ「ホラー映画みたい」とMCPセキュリティ——「かわいさ/便利さ」と「潜む恐怖」の二重性",
+      "url": "https://news.yahoo.co.jp/expert/articles/de83e7f251b47472ebcc5068ff41c8fe4bafe0e5",
+      "source": "Yahoo!ニュース エキスパート",
+      "summary": "映画ちいかわが「ホラー映画みたい」とバズる構造と、MCPのセキュリティ問題（43%にインジェクション脆弱性）は驚くほど似た構造を持つ。可愛いキャラクター/便利なAPIという表面の下にダークな複雑性が潜んでいることが、逆説的に強い印象とバイラルを生む。コンテンツ設計とAPI設計に共通する「コントラストの法則」が面白い。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "エンタメのバズ分析とテックのセキュリティ設計に「外見と本質のコントラストがインパクトを生む」という共通原則を見出した。企画職・フロントエンドエンジニア両方の視点が交差するセレンディピティ。"
+    },
+    {
+      "id": "2026-07-28-serendipity-002",
+      "category": "serendipity",
+      "title": "ゼノブレイド2 Switch2 Edition × Angular Zoneless——「古い負債を断ち切ってリメイクする勇気」",
+      "url": "https://www.gamespark.jp/article/2026/07/24/169682.html",
+      "source": "Game*Spark",
+      "summary": "7/30発売のゼノブレイド2 Switch2 Editionは「同じIPでも古いゲームプレイの負債（難しすぎるシステム）を断ち切り、新ハードに最適化して再生させる」リメイク哲学が貫かれている。Angular ZonelessもZone.jsという長年の技術負債を断ち切り同じフレームワーク名で新アーキに移行した。「ユーザーが慣れ親しんだ外見を保ちつつ、根底から作り直す」リスクと覚悟がゲームとフレームワークで共鳴する。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "Switch2向けリメイクとAngular Zoneless化はどちらも「レガシーを壊す勇気でブランドを保ちながら技術革新する」戦略。趣味のゲームとデイリーのAngular開発が意外なところで繋がる洞察。"
+    }
+  ]
+}
