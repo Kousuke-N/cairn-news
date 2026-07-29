@@ -1,0 +1,578 @@
+{
+  "date": "2026-07-29",
+  "notion_page_id": "3aca41a3-cf9b-8152-8e75-f2ea677f44cf",
+  "articles": [
+    {
+      "id": "2026-07-29-tech-001",
+      "category": "tech",
+      "title": "Claude Code v2.1.217 でサブエージェントの挙動が大きく変更——並列上限20・ネスト無効化の影響と移行方法",
+      "url": "https://qiita.com/picnic/items/4d467229dd1d0d4bb96d",
+      "source": "Qiita",
+      "summary": "v2.1.217からサブエージェントの並列上限がデフォルト20に設定され、ネストしたサブエージェント起動もデフォルト無効化。既存のマルチエージェント構成が動かなくなるケースも。環境変数CLAUDE_CODE_MAX_CONCURRENT_SUBAGENTSでの上書き方法と移行ポイントを具体的に解説。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-002",
+      "category": "tech",
+      "title": "Claude Code 7/14〜7/23 fork刷新・サブエージェント制御まとめ（サーバーワークス、7/28公開）",
+      "url": "https://blog.serverworks.co.jp/2026/07/28/190000",
+      "source": "サーバーワークスエンジニアブログ",
+      "summary": "Claude Code 7/14〜7/23週のアップデートを技術的に整理。forkセマンティクス刷新、サブエージェントの並列上限（デフォルト20）設定、ネストしたエージェント起動の無効化など、マルチエージェント実行の安定性に直結する変更が集中した2週間を日本語で解説。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-003",
+      "category": "tech",
+      "title": "Angular WebMCP解説：あなたのAngularアプリがAIエージェントのツールになる",
+      "url": "https://levelup.gitconnected.com/your-web-app-meet-your-ai-agent-angular-webmcp-31605e983b22",
+      "source": "Level Up Coding (Medium)",
+      "summary": "Angular 22のWebMCP統合を実装コードで解説。navigator.modelContextへのツール登録方法、provideExperimentalWebMcpToolsの設定、Signal Formsとの連携パターンを紹介。Edge 147ネイティブ対応・Chrome 149 Origin Trial開始の最新ブラウザ対応状況も整理。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-004",
+      "category": "tech",
+      "title": "オープンソースLLMランキング2026：2.8兆パラメータ時代の選び方",
+      "url": "https://zenn.dev/appare/articles/jp-digest-20260724-open-weight-llm-ranking",
+      "source": "Zenn",
+      "summary": "2026年7月時点のオープンウェイトLLMを用途別にランキング比較。2.8兆パラメータ規模モデルが登場したLLM市場で、各モデルの推論・コスト・ライセンスを横断的に評価。クラウドAPIに依存しないローカル・プライベート運用を検討するエンジニア向けの実践ガイド。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-005",
+      "category": "tech",
+      "title": "2026年7月のAI分野主要アップデート：国産LLM「源内」政府基盤に試験導入へ",
+      "url": "https://agentsystem.sakura.ne.jp/blog/2026%E5%B9%B47%E6%9C%88%E3%81%AEai%E5%88%86%E9%87%8E%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%A8%E3%81%AE%E3%81%93%E3%81%A8/",
+      "source": "AIラボノート",
+      "summary": "松本デジタル相発表の行政向け生成AI基盤「源内」へNTTデータなど5社の国産LLMが9月から試験導入予定。Gemini・Claude・GPT各新モデルの投入状況も含む7月の国内外AI動向月次レポート。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-006",
+      "category": "tech",
+      "title": "GPT-5.6 全量公開・ChatGPT Work同時解禁：マルチエージェントで数時間の自律タスク実行",
+      "url": "https://www.payforchat.com/articles/chatgpt-work-gpt-5-6-launch-guide-2026",
+      "source": "Payforchat",
+      "summary": "OpenAIがGPT-5.6（旗艦Sol・均衡Terra・軽量Luna）とChatGPT Workを同時発表。ChatGPT Workはクロスアプリ・クロスファイルで数時間連続自律作業するエージェント製品。Claude対抗となるOpenAIのエージェント戦略の全容。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-007",
+      "category": "tech",
+      "title": "Claude Code 週次アップデートまとめ Week28（7/6-10）：Artifacts Pro解放・/doctorリニューアル",
+      "url": "https://qiita.com/saitoko/items/992631068d62dfef46b0",
+      "source": "Qiita",
+      "summary": "Claude Code v2.1.202〜v2.1.206の変更点まとめ。ArtifactsのブラウザプレビューがPro/Maxで全面解放、/doctorが自動修復機能を追加、内蔵ブラウザ搭載など7月前半の注目アップデートを日本語で整理。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-008",
+      "category": "tech",
+      "title": "Frontend Nation 2026の発表から見るフロントエンド開発の現在地",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "source": "Zenn",
+      "summary": "Frontend Nation 2026カンファレンスのZennレポート。Vue Vapor・Angular Signalsなどコンパイラ駆動の細粒度リアクティビティへの移行加速と、AI開発ツール標準化の影響を整理。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-009",
+      "category": "tech",
+      "title": "2026年版フロントエンド技術選定：React・Vue・AngularのAI時代の生存戦略",
+      "url": "https://zenn.dev/nijima/articles/651ed3c1f2ded5",
+      "source": "Zenn",
+      "summary": "Claude Code・CursorなどAI開発ツールが標準化した2026年の開発環境前提で、React・Vue・Angularを再評価する実務向け比較記事。Angularのエンタープライズ強みとSignals・Standalone構成のメリットをAI時代の文脈でまとめる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-010",
+      "category": "tech",
+      "title": "生成AIニュースまとめ（2026-07-06〜07-12）：TypeScript 7・Claude Code内蔵ブラウザ・GPT-5.6全量公開",
+      "url": "https://follow-next.com/%E7%94%9F%E6%88%90ai/%E7%94%9F%E6%88%90ai%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%882026-07-06%E3%80%9C2026-07-12%EF%BC%89/",
+      "source": "株式会社フォロー",
+      "summary": "7月6〜12日の生成AI主要ニュースを週次まとめ。TypeScript 7リリース・Claude Code内蔵ブラウザ・GPT-5.6全量公開など活発な動きが集中した1週間を日本語で横断レポート。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-tech-011",
+      "category": "tech",
+      "title": "Claude Sonnet 5 正式リリース（Anthropic）",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic",
+      "summary": "DEDUP: 2026-07-26に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-tech-012",
+      "category": "tech",
+      "title": "Angular 22 Key Features（angular.love）",
+      "url": "https://angular.love/angular-22-key-features-and-changes",
+      "source": "Angular.love",
+      "summary": "DEDUP: 2026-07-27に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-tech-013",
+      "category": "tech",
+      "title": "TypeScript 7.0 正式リリース：GoネイティブコンパイラでVS Code起動が1分→10秒に",
+      "url": "https://www.theregister.com/devops/2026/07/09/speedier-type-checks-in-typescript-70-as-first-stable-go-release-ships/5268828",
+      "source": "The Register",
+      "summary": "SKIP: 同内容がdevblogs.microsoft.com・ecorpit.comですでに掲載済みのため、別URL表記でも同一ニュースとして除外",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-tech-014",
+      "category": "tech",
+      "title": "Claude Code デスクトップに内蔵ブラウザ搭載（7/10）",
+      "url": "https://mlq.ai/news/anthropic-adds-built-in-web-browser-to-claude-code-desktop-app/",
+      "source": "MLQ AI News",
+      "summary": "SKIP: 7/10の旧記事で、Week28まとめ（tech-007）で言及済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-tech-015",
+      "category": "tech",
+      "title": "JavaScript 2026：Bun・Deno・TypeScript 7・Viteが切り拓く新時代",
+      "url": "https://javascript.plainenglish.io/javascript-2026-the-new-era-of-bun-deno-typescript-7-vite-and-what-developers-should-learn-next-ced385ffc648",
+      "source": "JavaScript in Plain English",
+      "summary": "SKIP: 5月公開の旧記事で、フロントエンドトレンド関連は他記事でカバー済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-news-001",
+      "category": "news",
+      "title": "熊本地震続報（7/29午後）——高市首相「死者13人」・イオンモール爆発・自衛隊4600人派遣",
+      "url": "https://www.nikkei.com/article/DGXZQOUA291320Z20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "7月28日M7.1・最大震度7の熊本地震で、7/29午後時点で死者13人（安否不明4人、捜索継続）。イオンモール熊本でLPガス爆発・崩壊（死者3人）、日本製紙八代工場でも死者5人。停電3.7万戸、避難者1万人。自衛隊4600人派遣、政府は非常災害対策本部設置。余震活動が活発で気象庁は今後1週間の震度7クラス発生を警戒。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-002",
+      "category": "news",
+      "title": "熊本地震 ライフライン・避難状況（7/29）——停電3.7万戸・八代市ガス復旧8/3・避難者1万人",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188841000",
+      "source": "NHKニュース",
+      "summary": "大記事（news-001）に統合",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-news-003",
+      "category": "news",
+      "title": "熊本地震 自衛隊4600人体制で救助活動・政府が非常災害対策本部を設置",
+      "url": "https://www.nikkei.com/article/DGXZQOUA289AM0Y6A720C2000000/",
+      "source": "日本経済新聞",
+      "summary": "大記事（news-001）に統合",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-news-004",
+      "category": "news",
+      "title": "イオンモール熊本でLPガス爆発・崩壊——死者3人・心肺停止1人（7/29）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188721000",
+      "source": "NHKニュース",
+      "summary": "大記事（news-001）に統合",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-news-005",
+      "category": "news",
+      "title": "熊本 日本製紙八代工場で死者5人・安否不明4人",
+      "url": "https://kumanichi.com/articles/2019288",
+      "source": "熊本日日新聞",
+      "summary": "大記事（news-001）に統合",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-news-006",
+      "category": "news",
+      "title": "熊本地震 余震活動が活発——気象庁「今後1週間は震度7クラスにも注意を」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189251000",
+      "source": "NHKニュース",
+      "summary": "大記事（news-001）に統合",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-news-007",
+      "category": "news",
+      "title": "食品消費税1%減税、高市首相が7/30に自公両党へ指示する方向で最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189201000",
+      "source": "NHKニュース",
+      "summary": "高市首相は食品の消費税を来年4月から2年間1%に引き下げる案を軸に判断し、7月30日に自民・公明両党に指示する見通し。超党派の社会保障国民会議では合意に至らず首相判断に委ねられた格好。10月参院選の公約実現が焦点。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-008",
+      "category": "news",
+      "title": "日銀 7月30・31日会合で政策金利1%を据え置き予定（日経）",
+      "url": "https://www.nikkei.com/article/DGXZQOUB2329U0T20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "DEDUP: 2026-07-27に掲載済み",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-news-009",
+      "category": "news",
+      "title": "FOMC 7月28・29日会合 本日声明発表——金利据え置き64%予想もタカ派リスク35%と拮抗",
+      "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262054028-july-fomc-fed-oil-us-oil-tradingkey",
+      "source": "TradingKey",
+      "summary": "7/28〜29日開催のFOMCで、FRBは日本時間7/30早朝に政策金利3.50〜3.75%据え置き（64.2%予想）を発表見通し。ただし利上げ確率も35.8%と高く、ウォーシュ議長の記者会見のトーン次第で市場が大きく動く可能性。ドットチャートは今回公表なし。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-010",
+      "category": "news",
+      "title": "ドル円 163円台でFOMC前の様子見、方向感欠く展開（7/29東京市場）",
+      "url": "https://www.zaikei.co.jp/article/20260729/863443.html",
+      "source": "財経新聞",
+      "summary": "7/29東京市場のドル円は163円28〜88銭レンジで方向感を欠く展開。FOMC前に積極的なポジション形成が手控えられた。熊本地震やイラン停戦継続も材料として意識。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-011",
+      "category": "news",
+      "title": "日経平均 大幅続落1270円安——東エレクが503円分押し下げ、FOMC前リスク回避",
+      "url": "https://www.zaikei.co.jp/article/20260729/863397.html",
+      "source": "財経新聞",
+      "summary": "7/29の東京株式市場で日経平均が大幅続落。東京エレクトロン1銘柄で約503円分の指数押し下げ。AI・半導体株への売りが後場に加速し一時6万1000円台割れ。FOMC前リスク回避と熊本地震の先行き不安が重なった。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-012",
+      "category": "news",
+      "title": "WTI原油 79.08ドルで3日続落——米イラン停戦継続でホルムズ再開期待高まる",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_07_29_wtioil/",
+      "source": "OANDA Japan",
+      "summary": "7/29のWTI先物9月限は前日比1.17ドル安の79.08ドルで3日続落、80ドルを下回った。米イランの攻撃停止継続でホルムズ再開への期待が供給不安を和らげた。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-013",
+      "category": "news",
+      "title": "米イラン「停戦は終わった」もトランプが協議継続同意——ホルムズ正常化への期待",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-10/THYRDQKK3NY800",
+      "source": "Bloomberg",
+      "summary": "トランプ大統領はSNSで「停戦は終わった」と表明しながらも、イランとの協議継続に同意。オマーンを仲介国として交渉が続けられ、ホルムズ海峡の通航正常化に向けた動きが水面下で進む。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-014",
+      "category": "news",
+      "title": "ホルムズ海峡、通航数が6月末比で増加——IMO発表、約6000人の船員足止めは回復傾向へ",
+      "url": "https://www.jetro.go.jp/biznews/2026/07/8662506e622c2132.html",
+      "source": "ジェトロ",
+      "summary": "国際海事機関（IMO）が7月29日、ホルムズ海峡の通航数が6月水準より増加したと発表。ペルシャ湾でなお約6000人の船員が足止め状態だが回復傾向に転じつつある。日本の原油・LNG輸入への影響が緩和方向へ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-news-015",
+      "category": "news",
+      "title": "熊本地震 公共交通が一部再開——路線バス・鉄道で運行再開、避難生活支援が本格化",
+      "url": "https://kumanichi.com/articles/2019192",
+      "source": "熊本日日新聞",
+      "summary": "7/29から路線バスや一部鉄道路線で徐々に復旧が始まった。九州新幹線は安全確認のため運休継続。給水所や物資配給も開始され、避難者の生活支援体制が整いつつある。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-001",
+      "category": "entertainment",
+      "title": "映画ちいかわ「怖い」「お通夜状態」——かわいさと闇深さのコントラストがSNS考察ブームを加速",
+      "url": "https://news.yahoo.co.jp/articles/70afb09d66df144cc42a4db8927eb3370170218e",
+      "source": "Yahoo!ニュース（映画.com）",
+      "summary": "公開3日間で興収22.4億円の映画ちいかわだが、SNSでは「ホラー映画みたい」「東野圭吾か湊かなえか」「お通夜状態だった」との感想が続出。かわいい外見と裏腹のシリアス展開が緻密な伏線考察ツイートを急増させており、「見た人が語りたくなる」設計が口コミ拡散をさらに加速。企画職必見のバイラル設計事例。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-002",
+      "category": "entertainment",
+      "title": "映画ちいかわ 公開3日間で興収22.4億円・動員150万人、週末動員ランキング初登場1位",
+      "url": "https://animeanime.jp/article/2026/07/27/101496.html",
+      "source": "アニメ！アニメ！",
+      "summary": "DEDUP-ADJACENT: 同内容（興収22.4億円）を2026-07-28 entertainment-002で掲載済み（別URL）。entertainment-001（考察バズ）で言及して統合。",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-entertainment-003",
+      "category": "entertainment",
+      "title": "VIVANT 第2シーズン初回18.8%、SNS考察班が放送直後から大きく動き出す",
+      "url": "https://news.mynavi.jp/article/20260727-4746389/",
+      "source": "マイナビニュース",
+      "summary": "TBS日曜劇場VIVANT第2シーズンが7/26スタート。初回世帯平均視聴率18.8%で今夏民放ドラマぶっちぎり1位。第1シーズン最終話（19.6%）に迫る好発進。放送直後からSNSの考察班が伏線探しやキャラクター分析を活発に展開中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-004",
+      "category": "entertainment",
+      "title": "BABYMONSTER 福岡2日目（7/29）開催・9月に初の京セラドーム公演確定",
+      "url": "https://www.mainichikpop.com/news/babymonster-choom-japan/",
+      "source": "まいにちKポ",
+      "summary": "BABYMONSTERのワールドツアー「춤(CHOOM)」日本公演が福岡マリンメッセA館で2日間開催（7/28〜29）。9月22〜23日の京セラドーム大阪での初ドーム公演も確定。全国6都市11公演のジャパンツアーが展開中。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-005",
+      "category": "entertainment",
+      "title": "実写版モアナ 7月31日日本公開直前——全米開幕週に世界興収首位、吹替はME:IのTSUZUMI",
+      "url": "https://news.mynavi.jp/article/20260713-4697375/",
+      "source": "マイナビニュース",
+      "summary": "7/10全米公開の実写版モアナが世界興収首位を達成。日本公開は7月31日（木）と2日後に迫る。批評家スコア34% vs 一般観客90%の評価乖離が話題。吹替モアナ役はME:IのTSUZUMI。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-006",
+      "category": "entertainment",
+      "title": "ILLIT、本日7/29に日本2ndシングル「I Got Your Back」リリース——JISOOとHANA・MOMOKAのコラボ",
+      "url": "https://k-plaza.com/2026/07/illit-260717.html",
+      "source": "K-PLAZA",
+      "summary": "ILLITが日本2ndシングル「I Got Your Back」を本日7月29日にリリース。BLACKPINK JISOOとHANA・MOMOKAをフィーチャリング。ABEMAオリジナルドラマのテーマ曲でもありJ×K-POPクロスオーバー戦略の注目作。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-007",
+      "category": "entertainment",
+      "title": "NewJeans（4人体制）がデビュー4周年映像公開——DEDUP",
+      "url": "https://mdpr.jp/k-enta/detail/4817564",
+      "source": "モデルプレス",
+      "summary": "DEDUP: 2026-07-28に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-entertainment-008",
+      "category": "entertainment",
+      "title": "NiziU・RIOが無期限活動休止——体調不良のため、残る8人で活動継続",
+      "url": "https://natalie.mu/music/news/682689",
+      "source": "音楽ナタリー",
+      "summary": "NiziUのメンバーRIOが7月27日、当面の間活動休止することが発表。体調不良が原因とされ本人の意思を尊重する形での決定。残る8人（MAKO・MAYA・RIKU・AYAKA・MAYUKA・RIMA・MIIHI・NINA）で予定の配信・番組出演・イベントを継続。復帰時期は未定。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-009",
+      "category": "entertainment",
+      "title": "aespa 世界25都市ツアー「SYNK : COMPLaeXITY」発表——8月ソウル皮切りにアジア・北米・欧州を網羅",
+      "url": "https://news.yahoo.co.jp/articles/5082469b1cb5ec757744f41a4e2390d326c99436",
+      "source": "Yahoo!ニュース（Kstyle）",
+      "summary": "aespaが2026〜27年の新ワールドツアー「SYNK : COMPLaeXITY」を発表。8月のソウルを皮切りに25都市を巡る大規模展開。日本での初ドームツアー17万人動員の勢いを国際展開に転換する。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-010",
+      "category": "entertainment",
+      "title": "夏アニメ『攻殻機動隊 THE GHOST IN THE SHELL』——サイエンスSARU制作の原点回帰が話題",
+      "url": "https://news.yahoo.co.jp/articles/925672052fd38febe0f799aa1d1aa6324699caa9",
+      "source": "Yahoo!ニュース（映画.com）",
+      "summary": "2026年夏アニメの攻殻機動隊はダンダダンのサイエンスSARUが担当し原作コミックへの原点回帰を軸に制作。アニメーションの質の高さと初見者にも入りやすい構成が話題。夏アニメ期待度ランキング上位。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-011",
+      "category": "entertainment",
+      "title": "BLEACH 千年血戦篇最終クール（7/25放送開始）——DEDUP",
+      "url": "https://www.famitsu.com/article/202607/82448",
+      "source": "ファミ通",
+      "summary": "DEDUP: 2026-07-28に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-entertainment-012",
+      "category": "entertainment",
+      "title": "コードギアス 奪還のロゼ 地上波初放送——Disney+独占配信から全国展開へ、逆流モデルの新事例",
+      "url": "https://news.yahoo.co.jp/articles/d9ad119d0a94de09d2efa59fc4e5618233348f42",
+      "source": "Yahoo!ニュース（オタク総研）",
+      "summary": "Disney+独占配信していたコードギアス 奪還のロゼが7月10日から地上波（MBS/TBS/CBC系）でも放送開始。配信限定作品の地上波展開という逆流モデルとして、コンテンツ配信戦略の新事例として業界注目。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-entertainment-013",
+      "category": "entertainment",
+      "title": "夏アニメ『無職転生Ⅲ』第3話、原作者直筆アニオリが「完成度が桁違い」と大反響——覇権候補の呼び声",
+      "url": "https://animatetimes.com/news/details.php?id=1784006168",
+      "source": "アニメイトタイムズ",
+      "summary": "無職転生Ⅲ第3話で原作者自らが手がけたアニメオリジナル展開が「完成度が桁違い」と称賛を浴びる。賛否を生みながらも熱量は高く、2026年夏アニメの覇権候補として視聴動向が注目されている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-001",
+      "category": "hobby",
+      "title": "ソニー RX10V 発売2日前の実機レビュー——AF性能に不安の声も・7/31購入前に確認を",
+      "url": "https://digicame-info.com/2026/07/rx10v-3.html",
+      "source": "デジカメinfo",
+      "summary": "7/31発売のRX10V（363,000円）の先行レビューで、AFが不安定で旧型から期待していたほど改善されていないとの指摘が複数出ている。外観はEマウントαスタイルにフルリニューアルで好評（kunkoku.jp外観レビュー）。9年ぶりの新型として期待値が高かっただけに、AF面での不満は購入判断に影響しそうだ。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-002",
+      "category": "hobby",
+      "title": "ソニー RX10V 実機レビュー（外観編）——デザインがEマウントαと同スタイルに一新",
+      "url": "https://kunkoku.jp/dsc-rx10m5-6.html",
+      "source": "kunkoku.jp",
+      "summary": "hobby-001（RX10Vレビュー）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-hobby-003",
+      "category": "hobby",
+      "title": "ソニー FX5 予約注文数が非常に多く販売好調——8/21発売、ボディ812,900円",
+      "url": "https://mirrorless-camera.info/news/sony-news/56750.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "昨日10時の予約開始からFX5の予約注文数が非常に多く販売好調との報告。高額帯（ハンドルユニット有900,900円）にもかかわらず高い注目度。FX3ユーザーの不満点をすべて改善した定番機候補との評価も出ている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-004",
+      "category": "hobby",
+      "title": "FX5 低予算映像制作の定番機になる——不満点をすべて改善（ミラーレスカメラ情報）",
+      "url": "https://mirrorless-camera.info/review/sony-review/56757.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "hobby-003（FX5予約）に統合",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-hobby-005",
+      "category": "hobby",
+      "title": "富士フイルム X-T6、新フィルムシミュレーション「深みある力強い色彩」搭載の噂——9月第1週発表有力",
+      "url": "https://mirrorless-camera.info/rumor/fujifilm-rumor/56085.html",
+      "source": "ミラーレスカメラ情報",
+      "summary": "富士フイルムX-T6に「非常に深みがあり、力強い色彩表現」が特徴の新フィルムシミュレーションモードが搭載される噂。トッププレートのダイヤルも再設計される模様。9月第1週発表が複数リーカーで一致。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-006",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース、MetacriticユーザースコアがNintendoゲームで最高記録9.2点に",
+      "url": "https://www.gamespark.jp/article/2026/07/27/169821.html",
+      "source": "Game*Spark",
+      "summary": "7/23発売のスプラトゥーン レイダースのMetacriticユーザースコアが9.2点に達し、任天堂ゲームの中でトップ記録に。協力プレイとハクスラ要素が幅広いユーザー層から支持を集めている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-007",
+      "category": "hobby",
+      "title": "ゼノブレイド2 Nintendo Switch 2 Edition、Ver.3.0.0配信開始——明日7/30のDL版解禁に向けて事前DLを",
+      "url": "https://game8.jp/switch2/792754",
+      "source": "ゲームエイト",
+      "summary": "ゼノブレイド2 Nintendo Switch 2 EditionのDL版・アップグレードパスが明日7月30日（木）配信予定。任天堂サポートより更新データVer.3.0.0の配信が開始されており、事前DLが推奨されている。パッケージ版は10月1日発売。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-008",
+      "category": "hobby",
+      "title": "「東京カレー万博2026」全国48店が新宿に集結——9月11日開幕、ビリヤニや「ラーカレ」も",
+      "url": "https://www.rbbtoday.com/article/2026/07/29/251298.html",
+      "source": "RBB TODAY",
+      "summary": "本日7/29発表。全国48店舗のカレーが新宿・大久保公園特設会場に集結する「東京カレー万博2026」が9月11日から開幕。スパイスカレーを含む多彩なジャンルのカレーが楽しめる大型フードイベント。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-009",
+      "category": "hobby",
+      "title": "1110 CAFE/BAKERYに夏限定「発酵スパイスカレー」登場——旬野菜たっぷりの珍しい発酵×スパイス",
+      "url": "https://prtimes.jp/main/html/rd/p/000000308.000045733.html",
+      "source": "PR TIMES",
+      "summary": "大泉工場が手がける1110 CAFE/BAKERYで旬野菜たっぷりの発酵スパイスカレーが7月17日より夏限定で提供開始。発酵スパイスを使った独自の味わいで、今が旬の夏野菜を活かした珍しい組み合わせ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-29-hobby-010",
+      "category": "hobby",
+      "title": "スパイスカレーの教科書 Kindle版62%オフ499円セール——DEDUP",
+      "url": "https://news.denfaminicogamer.jp/news/2607233b",
+      "source": "でんファミニコゲーマー",
+      "summary": "DEDUP: 2026-07-28に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-hobby-011",
+      "category": "hobby",
+      "title": "スプラトゥーン レイダース 発売！メタスコアも上々（7/23）",
+      "url": "https://www.gamespark.jp/article/2026/07/23/169606.html",
+      "source": "Game*Spark",
+      "summary": "SKIP: hobby-006（Metacriticスコア記事）が直近情報として上位なため、7/23発売記事は除外",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-hobby-012",
+      "category": "hobby",
+      "title": "ゼノブレイド2 Switch 2 Edition 追加要素を披露——M.O.M.O.参戦・ホムヒカ新衣装",
+      "url": "https://automaton-media.com/articles/newsjp/20260724-456430/",
+      "source": "AUTOMATON",
+      "summary": "hobby-007（ゼノブレイド2 Switch2 Edition DL解禁）に統合",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-29-serendipity-001",
+      "category": "serendipity",
+      "title": "今夜と明朝、二つの「結果」が同時に世界へ——FOMCとゼノブレイド2 Switch2版",
+      "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262054028-july-fomc-fed-oil-us-oil-tradingkey",
+      "source": "TradingKey / ゲームエイト（クロスリファレンス）",
+      "summary": "今夜（日本時間7/30早朝）、FRBはFOMCで「金利を変えるか・変えないか」を世界に発表する。同じ7/30早朝、任天堂はゼノブレイド2 Switch2 Editionを配信解禁し「15年前の名作をどこまで変えたか」をゲーマーに届ける。どちらも長い沈黙の後の「結果発表」。FRBが「変えない勇気」を選ぶと予想される一方、任天堂は思い切り「変えた」。同じ夜に届く対照的な決断がシンボリックだ。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「変えるか・変えないか」という同じ問いを、全く異なる文脈で今夜と明朝に同時に迎えるのが面白い。金融と趣味が交差するカレンダーの偶然。"
+    },
+    {
+      "id": "2026-07-29-serendipity-002",
+      "category": "serendipity",
+      "title": "スパイスの道が再び動き出す——ホルムズ海峡の緩和と9月の東京カレー万博",
+      "url": "https://www.rbbtoday.com/article/2026/07/29/251298.html",
+      "source": "RBB TODAY / OANDA Japan（クロスリファレンス）",
+      "summary": "今日WTI原油が79ドルに下落し、ホルムズ海峡の通航再開への期待が高まった。この話題はエネルギー文脈で語られがちだが、インド・中東産スパイスの多くも中東の海上ルートで輸出されている。7月のホルムズ実質封鎖はスパイスのサプライチェーンにも影を落としていたが、通航数が増加した今、9月11日開幕の「東京カレー万博2026」のスパイスが安心して届きそうだ。地政学を食卓レベルで体感できる秋になるかもしれない。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "地政学と食卓がつながる意外な視点。原油・LNG以外の「ホルムズ緩和の恩恵」をスパイスという観点から考えさせてくれる洞察。"
+    }
+  ]
+}
