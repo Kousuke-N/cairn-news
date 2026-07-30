@@ -1,0 +1,559 @@
+{
+  "date": "2026-07-30",
+  "notion_page_id": "3ada41a3-cf9b-81c0-8e5d-f7cf6c524bac",
+  "articles": [
+    {
+      "id": "2026-07-30-tech-001",
+      "category": "tech",
+      "title": "Angular Signal Forms & Zoneless、Angular 22で双方Stable——2026年のAngular設計標準が確立",
+      "url": "https://dev.to/rigole/angular-22-is-here-everything-you-need-to-know-4g3c",
+      "source": "DEV Community（Angular Architects / JS in Plain English 複数ソース統合）",
+      "summary": "Angular 22（6/3リリース）でSignal FormsとResource APIが実験段階を卒業しStableに昇格。Zone.jsを不要とするゾーンレスアーキテクチャも正式Stable、OnPushがデフォルト変更検知戦略に採用。submit()が新APIを受け取りboolean結果を返す設計に。ControlValueAccessorとの後方互換確保でReactive Formsからの段階的移行が可能。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://www.angulararchitects.io/blog/all-about-angulars-new-signal-forms/",
+        "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+        "https://dev.to/cyrilletuzi/angular-zoneless-lint-rules-enforce-signals-patterns-4fc"
+      ]
+    },
+    {
+      "id": "2026-07-30-tech-002",
+      "category": "tech",
+      "title": "AI開発「ペーシング」公開書簡：OpenAI・Anthropic従業員1,178人が国際調整を政府に要請",
+      "url": "https://www.techtimes.com/articles/322125/20260729/openai-anthropic-formally-back-plan-slow-ai-that-writes-its-own-code.htm",
+      "source": "TechTimes",
+      "summary": "7月28日にフロンティアラボ従業員1,178人が「Pacing the Frontier」書簡に署名。Dario Amodei・Jakub Pachocki（OpenAI主任科学者）ら著名人が参加。AIが自律的にコードを書く段階に備えて米政府が国際ペーシング機能を構築するよう要請。即時開発停止ではなく「ステアリングホイールを先に作る」という主旨で翌29日にOpenAI・Anthropicが企業として正式支持。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-003",
+      "category": "tech",
+      "title": "Next.js 7月セキュリティリリース——SSRF・認証バイパス等9件を修正",
+      "url": "https://nextjs.org/blog/july-2026-security-release",
+      "source": "Next.js Blog",
+      "summary": "v16.2.11とv15.5.21をリリース。SSRF・ミドルウェア認証バイパス・DoS・キャッシュ開示など高深刻度4件・中深刻度5件の計9件を修正。今後は毎月の定期スケジュールで事前予告付きセキュリティパッチを提供する新運用に移行した。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-004",
+      "category": "tech",
+      "title": "Google Gemini 3.6 Flash他3モデル同時リリース——コーディング性能49%・価格引き下げ",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "source": "Google Blog",
+      "summary": "Gemini 3.6 FlashはDeepSWEで37%→49%に向上し価格は$7.50/M出力トークンに引き下げ。3.5 Flash-Liteは350トークン/秒設計、3.5 Flash Cyberはサイバーセキュリティ特化で政府・信頼パートナー限定提供。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-005",
+      "category": "tech",
+      "title": "Claudeで暗号アルゴリズムの弱点を発見——HAWK・AES（ラウンド削減版）への攻撃手法改善",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "source": "Anthropic Research",
+      "summary": "Claude Mythos Previewを活用し、ポスト量子署名方式HAWKと対称暗号AESのラウンド削減版への攻撃手法を発見（7/28公開）。責任ある開示を経てコミュニティへ公表済み。LLMが理論研究・セキュリティ分野でも実用価値を持つことを示す事例。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-006",
+      "category": "tech",
+      "title": "Mastering Angular Signals v22エディション——Resource API・Signal Formsまで体系解説",
+      "url": "https://blog.codewithahsan.dev/mastering-angular-signals-v22-edition/",
+      "source": "Code With Ahsan Blog",
+      "summary": "signal()・computed()・effect()の基礎からLinkedSignal・Resource API・Signal Formsとの連携まで、v22で安定化した機能を中心に体系的に整理したガイド。ゾーンレス環境でのSignals活用パターンも含まれ、モダンAngular開発の全体像を俯瞰できる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-007",
+      "category": "tech",
+      "title": "Angular v22 ゾーンレス完全実践ガイド——Zone.jsなしでアプリを構築する手順",
+      "url": "https://blog.codewithahsan.dev/angular-zoneless-guide/",
+      "source": "Code With Ahsan Blog",
+      "summary": "angular.json設定からprovide API移行・OnPushデフォルト化対応まで移行フローを網羅。本番プロジェクトへの段階的適用における注意点と検証方法も紹介。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-008",
+      "category": "tech",
+      "title": "Template-DrivenからSignal-Drivenへ——Angularフォームの完全進化史と設計思想",
+      "url": "https://www.codemag.com/Article/264041/From-Template-Driven-to-Signal-Driven-The-Complete-Evolution-of-Angular-Forms",
+      "source": "CODE Magazine",
+      "summary": "Template-Driven Forms・Reactive Formsを経てAngular 22のSignal Formsに至る進化の経緯を設計上のトレードオフという視点から解説。Signal Forms採用の意義が腑に落ちる歴史的文脈を提供する。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-009",
+      "category": "tech",
+      "title": "アルバータ州政府がClaude Codeで4.66億行を20時間でセキュリティスキャン",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "source": "Anthropic",
+      "summary": "カナダ・アルバータ州政府がClaude Codeを活用し、466百万行のコードベースのセキュリティ脆弱性スキャンと修正を20時間以内に完了した事例（7/6公開）。政府機関規模の大規模コードレビュー自動化の実例。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-010",
+      "category": "tech",
+      "title": "Claude Science AI Workbench公開——科学者向け60以上の科学DBを統合",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "Anthropic",
+      "summary": "ゲノミクス・プロテオミクス・構造生物学など60以上の科学データベースとツールキットを統合したAIワークベンチ（7/1リリース）。文献解析から多段階実験実行まで一貫してサポート。Claude Pro/Max/Team/Enterpriseユーザー向けベータ提供開始。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-011",
+      "category": "tech",
+      "title": "Anthropic Economic Index Connector公開——経済データを自然言語で直接探索",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "source": "Anthropic",
+      "summary": "AIが労働市場・経済に与える影響データをClaude上で自然言語により直接探索・可視化できる機能（7/22公開）。Connectorエコシステムの拡充を示す事例。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-tech-012",
+      "category": "tech",
+      "title": "Anthropic Claude for Teachers発表（DEDUP相当・関連度低）",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "Anthropic",
+      "summary": "SKIP: 7/14の旧記事で他のAnthropicニュースで十分カバー済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-tech-013",
+      "category": "tech",
+      "title": "Angular Signal Forms Zoneless Lint Rules（tech-001に統合）",
+      "url": "https://dev.to/cyrilletuzi/angular-zoneless-lint-rules-enforce-signals-patterns-4fc",
+      "source": "DEV Community",
+      "summary": "MERGE: tech-001（Angular大記事）に統合",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-tech-014",
+      "category": "tech",
+      "title": "Signal Formsがついに本番稼働（tech-001に統合）",
+      "url": "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+      "source": "JavaScript in Plain English",
+      "summary": "MERGE: tech-001（Angular大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-tech-015",
+      "category": "tech",
+      "title": "Angular Signal Formsのすべて（tech-001に統合）",
+      "url": "https://www.angulararchitects.io/blog/all-about-angulars-new-signal-forms/",
+      "source": "Angular Architects",
+      "summary": "MERGE: tech-001（Angular大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-news-001",
+      "category": "news",
+      "title": "熊本地震3日目（7/30）——死者18〜34人・断水7.9万戸・猛暑日が続く中で復旧作業が本格化",
+      "url": "https://www.nikkei.com/article/DGXZQOUD29B730Z20C26A7000000/",
+      "source": "日本経済新聞（熊日・NHK・国交省 複数ソース統合）",
+      "summary": "7/28発生のM7.1熊本地震から3日目。死者は18人（日経）〜34人（熊本日日速報・調査中含む）、余震200回超。断水7万9700戸。猛暑日（35度超）が続く中415カ所の避難所に1万400人超が避難。九州電力31日夜までに停電全面復旧見通し、JR九州は30日昼頃から一部再開。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015190511000",
+        "https://kumanichi.com/articles/2018619",
+        "https://www.mlit.go.jp/saigai/saigai_260728.html"
+      ]
+    },
+    {
+      "id": "2026-07-30-news-002",
+      "category": "news",
+      "title": "イラン情勢急転：革命防衛隊がヨルダン米軍基地を攻撃・トランプが報復予告——原油85ドル台に急騰",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-29/TIWZ1ZKJH6V400",
+      "source": "Bloomberg（NHK・時事・OANDA 複数ソース統合）",
+      "summary": "7/29イラン革命防衛隊が「ナスル2作戦第2波」としてヨルダン米軍基地に弾道ミサイル発射、LNGタンカー3隻も攻撃・阻止。ヨルダン軍・米軍が全弾迎撃し死傷者なし。トランプ「次はわれわれの番だ」と報復予告。WTI原油が4営業日ぶりに85ドル台へ急騰。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015190271000",
+        "https://www.jiji.com/jc/article?k=2026072900202&g=int",
+        "https://www.oanda.jp/lab-education/market_news/2026_07_30_wtioil/"
+      ]
+    },
+    {
+      "id": "2026-07-30-news-003",
+      "category": "news",
+      "title": "食品消費税1%減税——高市首相が本日正式表明、2027年4月から2年間・低中所得者には給付金",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190631000",
+      "source": "NHKニュース（日経 複数ソース統合）",
+      "summary": "高市首相が7/30自民党臨時役員会で食料品消費税を2027年4月から2年間1%に引き下げる方針を正式表明。低中所得者には給付金を支給し実質ゼロ負担を目指す設計。POS改修に5〜6ヶ月必要なためゼロ税率ではなく1%。政府国民会議では合意に至らず首相主導での決定。",
+      "size": "中",
+      "selected": true,
+      "merged_urls": [
+        "https://www.nikkei.com/article/DGXZQOUA292ZG0Z20C26A7000000/"
+      ]
+    },
+    {
+      "id": "2026-07-30-news-004",
+      "category": "news",
+      "title": "FOMC 5会合連続据え置き——3地区連銀が利上げ反対票・9月以降の利上げ観測が台頭",
+      "url": "https://www.nli-research.co.jp/report/detail/id=86405?site=nli",
+      "source": "ニッセイ基礎研究所（日経 複数ソース統合）",
+      "summary": "FRBが7/29に政策金利3.50〜3.75%の据え置きを9対3の多数決で決定。クリーブランド・ミネアポリス・ダラスの各地区連銀総裁が利上げを主張して反対票。ウォーシュ議長「今後数カ月でより明確な判断」と発言し9月利上げ観測が台頭。",
+      "size": "中",
+      "selected": true,
+      "merged_urls": [
+        "https://www.nikkei.com/article/DGXZQOGN29CM30Z20C26A7000000/"
+      ]
+    },
+    {
+      "id": "2026-07-30-news-005",
+      "category": "news",
+      "title": "米長期金利急騰・ドル下落——FOMC後の市場、ウォーシュ議長に「言葉だけのタカ派」警告",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-07-30/TIYKVST96OSH00",
+      "source": "Bloomberg",
+      "summary": "FOMC据え置き決定後に投資家が米国債を売却し長期金利が急騰。市場はウォーシュ議長の発言を「言葉だけのタカ派」と受け止め、インフレ期待が上昇、ドルが下落した。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-news-006",
+      "category": "news",
+      "title": "日経平均700円高——FOMC据え置き歓迎も後場は上げ幅縮小して325円高",
+      "url": "https://s.kabutan.jp/news/n202607300481/",
+      "source": "株探",
+      "summary": "東京株式市場で日経平均が一時6万2155円まで上昇。FOMC金利据え置きを歓迎した初期反応だが後場は縮小。ドル円は163円台半ば。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-news-007",
+      "category": "news",
+      "title": "WTI原油85ドル台急騰——イラン情勢再燃で4営業日ぶりに上昇、フーシ派通行料徴収も追加材料",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_07_30_wtioil/",
+      "source": "OANDA",
+      "summary": "WTI原油先物が7/30に4営業日ぶりに上昇し85ドル台で推移。イラン革命防衛隊のヨルダン米軍基地ミサイル攻撃が主因。フーシ派のバベルマンデブ海峡通行料徴収検討報道も追加材料。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-news-008",
+      "category": "news",
+      "title": "横浜市長がパワハラ認定——「切腹」発言・銃で撃つマネなど重大行為と第三者委が認定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190641000",
+      "source": "NHKニュース",
+      "summary": "横浜市の山中竹春市長のパワーハラスメントを外部弁護士による第三者調査委員会が7/30認定。「切腹」発言、銃で撃つマネでの威圧、気に入らない職員の市長室出入り禁止などの実態が確認された。進退問題に発展する可能性がある。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-news-009",
+      "category": "news",
+      "title": "熊本地震 断水7.9万戸・給水所情報（news-001に統合）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190511000",
+      "source": "NHKニュース",
+      "summary": "MERGE: news-001（熊本地震大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-news-010",
+      "category": "news",
+      "title": "熊本県 死者34人速報（news-001に統合）",
+      "url": "https://kumanichi.com/articles/2018619",
+      "source": "熊本日日新聞",
+      "summary": "MERGE: news-001（熊本地震大記事）に統合",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-news-011",
+      "category": "news",
+      "title": "トランプ「イランを激しく攻撃する」（news-002に統合）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190271000",
+      "source": "NHKニュース",
+      "summary": "MERGE: news-002（イラン情勢大記事）に統合",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-news-012",
+      "category": "news",
+      "title": "食品消費税 日経（news-003に統合）",
+      "url": "https://www.nikkei.com/article/DGXZQOUA292ZG0Z20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "MERGE: news-003（食品消費税記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-news-013",
+      "category": "news",
+      "title": "ウォーシュ議長記者会見（news-004に統合）",
+      "url": "https://www.nikkei.com/article/DGXZQOGN29CM30Z20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "MERGE: news-004（FOMC記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-news-014",
+      "category": "news",
+      "title": "国交省インフラ被害状況（news-001に統合）",
+      "url": "https://www.mlit.go.jp/saigai/saigai_260728.html",
+      "source": "国土交通省",
+      "summary": "MERGE: news-001（熊本地震大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-news-015",
+      "category": "news",
+      "title": "イランが弾道ミサイル発射（news-002に統合）",
+      "url": "https://www.jiji.com/jc/article?k=2026072900202&g=int",
+      "source": "時事通信",
+      "summary": "MERGE: news-002（イラン情勢大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-entertainment-001",
+      "category": "entertainment",
+      "title": "映画ちいかわの「かわいい×ダーク」バイラル設計——「語りたくなる」コンテンツが興収22.4億円を動かした構造",
+      "url": "https://eiga.com/news/20260727/12/",
+      "source": "映画.com（Yahoo!ニュース・アニメイトタイムズ 複数ソース統合）",
+      "summary": "公開3日間で興収22.4億円・動員150万人。初日9.9億円はコナン「100万ドルの五稜星」超え。「かわいい外見×情け容赦ない展開」という二律背反が「誰が悪い？」という議論参加型コンテンツを生成し、考察→SNS拡散→口コミの連鎖がバイラルの核心。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://news.yahoo.co.jp/articles/11f47bbba9b96a46411b9d52b3ca61f8defe3d55",
+        "https://www.animatetimes.com/news/details.php?id=1785125098"
+      ]
+    },
+    {
+      "id": "2026-07-30-entertainment-002",
+      "category": "entertainment",
+      "title": "実写版モアナ 明日（7/31）公開直前——ミュージカルプレミアでTSUZUMI感涙・MOMONAサプライズ登場",
+      "url": "https://www.disney.co.jp/movie/moana-movie/news/20260729_01",
+      "source": "ディズニー公式（cinemacafe 複数ソース統合）",
+      "summary": "7/29のミュージカルプレミアでは日本版声優陣（TSUZUMI・尾上松也・屋比久知奈）が劇中歌4曲を生歌唱。ME:IのMOMONAがサプライズ登場しTSUZUMIが感涙。批評家34% vs 一般観客90%という評価乖離がむしろ話題を呼んでいる。",
+      "size": "中",
+      "selected": true,
+      "merged_urls": [
+        "https://www.cinemacafe.net/article/2026/07/30/111336.html"
+      ]
+    },
+    {
+      "id": "2026-07-30-entertainment-003",
+      "category": "entertainment",
+      "title": "ILLIT「I Got Your Back」配信＆MV公開——JISOO×HANA・ユイカ作詞・初ツアー完走",
+      "url": "https://natalie.mu/music/news/682529",
+      "source": "音楽ナタリー（NewsCafe 複数ソース統合）",
+      "summary": "ILLITの日本2ndシングルが7/26配信。BLACKPINK JISOOとHANA（MOMOKA）フィーチャリング、ユイカが作詞に参加。同日に初ライブツアー「PRESS START」日本公演も完走し、最終日にHANAがサプライズ登場して新曲を初披露。",
+      "size": "中",
+      "selected": true,
+      "merged_urls": [
+        "https://www.newscafe.ne.jp/article/2026/07/27/3024123.html"
+      ]
+    },
+    {
+      "id": "2026-07-30-entertainment-004",
+      "category": "entertainment",
+      "title": "VIVANT第2シーズン初回18.8%・視聴の「量」「質」で裏番組を圧倒——注目度71.9%",
+      "url": "https://mantan-web.jp/article/20260727dog00m200000000a.html",
+      "source": "MANTANWEB",
+      "summary": "7/26放送のVIVANT第2シーズン初回で世帯視聴率18.8%・個人12.1%を記録し今夏民放トップ。注目度平均71.9%で裏番組を圧倒。角田夏実・高山みなみのサプライズ出演も話題。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-entertainment-005",
+      "category": "entertainment",
+      "title": "aespa 日本カムバック「KISS N TELL」7/24発売——全6曲オリジナル・キルアオOP収録",
+      "url": "https://wmg.jp/aespa/news/90876/",
+      "source": "Warner Music Japan",
+      "summary": "aespaが約2年ぶりの日本カムバックとして日本ファーストミニアルバム「KISS N TELL」を7/24リリース。全6曲日本オリジナル楽曲で、TVアニメ「キルアオ」OP「ATTITUDE」やドラマ主題歌「In Halo」を収録。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-entertainment-006",
+      "category": "entertainment",
+      "title": "NewJeans 4周年・「2026 Summer of NewJeans」動画公開——4人体制での再始動",
+      "url": "https://news.yahoo.co.jp/articles/9817bb0fcf1a21d5fc6f5fe71ee31c9e4a542d8f",
+      "source": "Yahoo!ニュース（モデルプレス）",
+      "summary": "7/22デビュー4周年にMINJI・HANNI・HAERIN・HYEINの4人が集結した動画を公開。DANIELLE脱退後初の本格的なグループとしての表明として業界の視線が集まっている。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-entertainment-007",
+      "category": "entertainment",
+      "title": "BABYMONSTER 京セラドーム大阪公演確定——初ドーム・オフィシャル先着先行開始",
+      "url": "https://e.usen.com/news/news-event/babymonster-2026-27-babymonster-world-tour-choom-in-japan-special-live-at-kyocera-dome-osaka.html",
+      "source": "encore（USEN）",
+      "summary": "9月のBABYMONSTER京セラドーム大阪公演が「SPECIAL LIVE AT KYOCERA DOME OSAKA」の特別タイトルで確定。神戸・福岡を経てのドーム初進出。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-entertainment-008",
+      "category": "entertainment",
+      "title": "2026年夏アニメ期待度ランキング——攻殻機動隊・逃げ若・BLEACH・無職転生が上位",
+      "url": "https://news.yahoo.co.jp/articles/8b2cd275c7c1e556f11bf167327127db0e61e6fe",
+      "source": "Yahoo!ニュース（WEBザテレビジョン）",
+      "summary": "2026年夏アニメ期待度ランキングで「攻殻機動隊 THE GHOST IN THE SHELL」「逃げ上手の若君 第二期」「BLEACH 千年血戦篇-禍進譚-」「無職転生Ⅲ」が上位。大作最終章と名作新作が頂上争い。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-entertainment-009",
+      "category": "entertainment",
+      "title": "ILLIT「うたコン」出演——NHK地上波でK-POPグループが幅広い世代にリーチ",
+      "url": "https://natalie.mu/music/news/682686",
+      "source": "音楽ナタリー",
+      "summary": "ILLITが7/28放送のNHK総合「うたコン」に出演し最新曲を披露。さだまさし・観月ありさら幅広い世代と共演し、K-POPグループの地上波露出拡大戦略の好事例。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-entertainment-010",
+      "category": "entertainment",
+      "title": "ちいかわ 興収22.4億円（entertainment-001に統合）",
+      "url": "https://news.yahoo.co.jp/articles/11f47bbba9b96a46411b9d52b3ca61f8defe3d55",
+      "source": "Yahoo!ニュース",
+      "summary": "MERGE: entertainment-001（映画ちいかわ大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-entertainment-011",
+      "category": "entertainment",
+      "title": "VIVANT 視聴量・質分析（entertainment-004に統合）",
+      "url": "https://news.yahoo.co.jp/articles/e3ca47768563d592b8a3b017f171480c3b6c9d0c",
+      "source": "Yahoo!ニュース",
+      "summary": "MERGE: entertainment-004（VIVANT小記事）に統合",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-hobby-001",
+      "category": "hobby",
+      "title": "ゼノブレイド2 Nintendo Switch 2 Edition 本日（7/30）配信開始——M.O.M.O.参戦・新衣装・傭兵団アクション",
+      "url": "https://www.famitsu.com/article/202607/82817",
+      "source": "ファミ通（ASCII.jp・4Gamer 複数ソース統合）",
+      "summary": "7/30よりダウンロード版（9,778円）・アップグレードパス（1,000円）が配信開始。新レアブレイドM.O.M.O.（ゼノサーガ）は光/闇切り替えメカニクスを持つ。ホムラ・ヒカリの新衣装と傭兵団アクション（新クエストモード）も追加。",
+      "size": "中",
+      "selected": true,
+      "merged_urls": [
+        "https://ascii.jp/elem/000/004/423/4423285/",
+        "https://www.4gamer.net/games/015/G101580/20260724028/"
+      ]
+    },
+    {
+      "id": "2026-07-30-hobby-002",
+      "category": "hobby",
+      "title": "ソニー RX10V 明日（7/31）発売——最終レビューと購入前の確認ポイント",
+      "url": "https://www.minnacamera.com/mags/6006",
+      "source": "みんなのカメラ（GENIC Web 複数ソース統合）",
+      "summary": "9年ぶり新型のRX10V（363,000円）が明日発売。1インチ積層型センサー・AI被写体認識AF・4K120p・24-600mmツァイスレンズ搭載。外観はEマウントαスタイルに刷新で好評。一方で先行レビューでAFの不安定さを指摘する声が複数出ており、発売日購入前に実機確認を推奨。",
+      "size": "中",
+      "selected": true,
+      "merged_urls": [
+        "https://genic-web.com/articles/i2xBi"
+      ]
+    },
+    {
+      "id": "2026-07-30-hobby-003",
+      "category": "hobby",
+      "title": "東京カレー万博2026 詳細発表——入場無料・全国48店・食券制（200円/チケット）・9月11日〜27日間",
+      "url": "https://newscast.jp/smart/news/7499817",
+      "source": "NEWSCAST（dtimes 複数ソース統合）",
+      "summary": "2026年9月11日〜10月7日の27日間、新宿区立大久保公園で開催。全国48店舗が集結し入場無料、200円券の食券制を採用。スパイスカレー・ビリヤニ・ドーサなど多彩なカレー料理が楽しめる大型フードイベント。",
+      "size": "小",
+      "selected": true,
+      "merged_urls": [
+        "https://dtimes.jp/post-1277443/"
+      ]
+    },
+    {
+      "id": "2026-07-30-hobby-004",
+      "category": "hobby",
+      "title": "ゼノブレイド2 M.O.M.O.（ゼノサーガ）参戦——光/闇切り替えメカニクスの詳細",
+      "url": "https://www.inside-games.jp/article/2026/07/24/185060.html",
+      "source": "インサイド",
+      "summary": "ゼノサーガの主人公M.O.M.O.が新レアブレイドとして登場。通常は光属性の回復型、イマジナリーモードで闇属性の攻撃型に切り替わる。シリーズの垣根を越えた歴史的コラボ。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-hobby-005",
+      "category": "hobby",
+      "title": "富士フイルム X-T6 9月第1週発表が有力——「深みある力強い色彩」新フィルムシミュレーション搭載の噂",
+      "url": "https://www.motorcamera.jp/entry/fujifilm-xt6-rumors2",
+      "source": "バイクとカメラのある暮らし",
+      "summary": "富士フイルムX-T6は9月発表が有力視されている。XF50-140mmF2.8後継や新XF400mm望遠レンズとの同時発表も予定。新フィルムシミュレーション「深みある力強い色彩」搭載の噂。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-hobby-006",
+      "category": "hobby",
+      "title": "2026年夏発売カメラ新製品カレンダー（7/14更新）",
+      "url": "https://www.minnacamera.com/mags/238651522767",
+      "source": "みんなのカメラ",
+      "summary": "2026年発売予定のカメラ本体・レンズ新製品を一覧できるカレンダー。7/31のRX10V・DJI Osmo Pocket 4P・ライカD-LUX8など夏の注目製品を網羅。9月以降の富士フイルム動向も含めた年間計画参考に。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-30-hobby-007",
+      "category": "hobby",
+      "title": "レトルトスパイスカレーランキングTOP5（サタプラ2026）",
+      "url": "https://gohan58.com/satapra-spicecurry5/",
+      "source": "毎日おいしいごはん",
+      "summary": "SKIP: 7/4の旧番組情報で他のカレーニュースでカバー済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-hobby-008",
+      "category": "hobby",
+      "title": "新カレー店情報・夏2026（食べログマガジン）",
+      "url": "https://magazine.tabelog.com/articles/501273",
+      "source": "食べログマガジン",
+      "summary": "SKIP: 東京カレー万博2026（hobby-003）で十分カバー済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-07-30-serendipity-001",
+      "category": "serendipity",
+      "title": "「移植」という愛の作業——ゼノブレイド2 Switch2版とAngular Zoneless移行の共通テーマ",
+      "url": "https://www.famitsu.com/article/202607/82817",
+      "source": "ファミ通 / DEV Community（クロスリファレンス）",
+      "summary": "本日ゼノブレイド2 Switch 2 EditionのDL版が配信開始し、同日のテックセクションではAngular 22のゾーンレス移行がStableになったニュースが届いた。どちらも「古いアーキテクチャを新しい基盤に持ち込む」という同じ問いに向き合っている。ゼノブレイドは新要素を加え、AngularはSignal Formsという新しい表現力を手に入れた。「移植」は後退ではなく過去への敬意と未来への投資が重なる場所。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「テック」と「趣味」の両面に同じ問いが潜んでいた。古いアーキテクチャを新しい基盤にどう持ってくるかというエンジニア・ゲーマー共通の問い。"
+    },
+    {
+      "id": "2026-07-30-serendipity-002",
+      "category": "serendipity",
+      "title": "「語らせる設計」——映画ちいかわとFOMC議長発言に潜む共通コミュニケーション術",
+      "url": "https://eiga.com/news/20260727/12/",
+      "source": "映画.com / Bloomberg（クロスリファレンス）",
+      "summary": "映画ちいかわは「誰が悪い？」という問いで観客を議論参加者に変え興収22.4億円を動かした。同日早朝のFOMCではウォーシュ議長が「今後数カ月でより明確な判断」と語り、市場参加者に「では9月は？」という問いを持ち帰らせ長期金利が急騰した。どちらも「明示しないことで相手を動かす」という設計の妙。コンテンツ企画においても「答えを渡しすぎる」より「問いを渡す」設計が強いエンゲージメントを生む。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "「エンタメ」と「ニュース（経済）」の両面に「語らせる設計」というコミュニケーション術が現れた偶然の一致。企画職への実務的示唆にもなる。"
+    }
+  ]
+}
