@@ -1,0 +1,349 @@
+{
+  "date": "2026-07-31",
+  "notion_page_id": "3aea41a3-cf9b-8175-8f6f-c5d70e580b47",
+  "articles": [
+    {
+      "id": "2026-07-31-tech-001",
+      "category": "tech",
+      "title": "OpenAI GPT-5.6 Luna を80%・Terra を20%値下げ——API利用コストが激変",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+      "source": "CNBC",
+      "summary": "OpenAIが7月30日にGPT-5.6の価格を大幅改定。LunaはAPI入力$0.20/Mtok・出力$1.20/Mtokへ80%削減、Terraも20%値下げ。中国DeepSeek・Kimiとのコスト競争と効率化が背景。LLMのコモディティ化が加速する局面。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-002",
+      "category": "tech",
+      "title": "MCP 2026-07-28仕様が正式リリース——ステートレス化・破壊的変更で既存SDKの移行が必要",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "source": "Model Context Protocol Blog",
+      "summary": "MCPがステートフル双方向からステートレスリクエスト/レスポンスへ移行。initializeハンドシェイク廃止、HTTP経由ルーティング対応、RFC 9207準拠認証強化、Multi Round-Trip Requests追加。TS/Python/Go/C# SDKもv2対応。Claude Codeユーザーは既存MCPツール対応状況の確認が必要。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-003",
+      "category": "tech",
+      "title": "Claude Code アップデート——Claude Sonnet 5がデフォルトモデルに、絵文字補完・DirectoryAddedフック追加",
+      "url": "https://code.claude.com/docs/en/whats-new",
+      "source": "Claude Code Docs",
+      "summary": "Claude CodeのデフォルトモデルがClaude Sonnet 5（1Mトークンコンテキスト）に刷新。絵文字ショートコード自動補完、サブエージェントの予算・ネットワーク制御強化、DirectoryAddedフック追加など開発体験が向上。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-004",
+      "category": "tech",
+      "title": "AI Fairground + Xumo——クリエイターコンテンツをFASTチャンネルへAI自動変換",
+      "url": "https://media-entertainment.news-articles.net/content/2026/07/30/ai-fairground-transforms-creator-content-into-broadcast-ready-streams.html",
+      "source": "Media Entertainment News",
+      "summary": "AIがクリエイターのバラバラな動画コンテンツを自動でFAST（広告付き無料配信）チャンネルとして放送品質のストリームに変換・編成するサービス。エンタメ業界での配信プラットフォーム設計に直結するAI×コンテンツ実装事例。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-005",
+      "category": "tech",
+      "title": "AIが「ユニバーサル・エンタメアプリ」の台頭を促す——Netflix・Spotify・YouTubeが全方位化",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "source": "TechCrunch",
+      "summary": "AIによりコンテンツ生成・推薦が容易になる中、動画・音楽・ポッドキャスト・ゲームを横断する「ヒマつぶし万能アプリ」として各プラットフォームが競争を激化。エンタメ×エンジニアとして必読の構造変化論。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-006",
+      "category": "tech",
+      "title": "Anthropic×Cognizant パートナー拡大——3.5万人研修完了・契約審査40%削減など成果公表",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "source": "Anthropic",
+      "summary": "CognizantがAnthropicのGlobal Premier Partnerに昇格。3万人以上がClaude研修を修了し、契約審査時間40%削減・抽出精度88%超などの成果を報告。Anthropicエンタープライズ展開の進捗指標。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-007",
+      "category": "tech",
+      "title": "OpenAI 学術研究者向け GPT-5.6 Sol Pro 無償提供——1万人から10万人規模へ拡大予定",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+      "source": "OpenAI",
+      "summary": "IASやENSなど主要機関の研究者1万人からスタートし、2027年までに10万人へ拡大。GPT-5.6 Sol Pro・Codexへのアクセスと4名まで招待可能。LLM研究活用実績の蓄積が加速する流れを追う参照点。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-008",
+      "category": "tech",
+      "title": "VentureBeat MCP最大アップデート解説——AIエージェントへの影響と移行手順",
+      "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+      "source": "VentureBeat",
+      "summary": "MCP 2026-07-28仕様の破壊的変更点を解説。セッション管理廃止・ステートレス化の実装影響と移行手順を詳報。上記MCP大記事の補足として実装者向け情報。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-tech-009",
+      "category": "tech",
+      "title": "MCP EMA（Enterprise Managed Authorization）安定版昇格（tech-002に統合）",
+      "url": "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/",
+      "source": "InfoQ",
+      "summary": "SKIP: 過去7日の掲載済みURL",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-31-tech-010",
+      "category": "tech",
+      "title": "Angular 18 EOL到達（過去掲載済み）",
+      "url": "https://www.herodevs.com/blog-posts/angular-18-has-officially-reached-full-end-of-life----what-that-means-for-your-app-today",
+      "source": "HeroDevs Blog",
+      "summary": "SKIP: 過去7日の掲載済みURL",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-31-news-001",
+      "category": "news",
+      "title": "熊本地震 4日目（7/31）——死者35人・日本製紙工場9人死亡・TSMC稼働調整・新幹線部分再開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191421000",
+      "source": "NHKニュース（日本製紙/日経/TSMC/レイルラボ 複数ソース統合）",
+      "summary": "熊本地震4日目。死者35人、9105人が390か所の避難所に。日本製紙八代工場で煙突倒壊・11人中9人死亡。住宅被害1507棟。九州新幹線 博多〜熊本が本日再開。TSMC・ソニーセミコン工場は精密装置調整中でフル稼働に至らず。半導体サプライチェーンへの影響が注視される。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://news.yahoo.co.jp/articles/6852c574d45e386b32a9991697c768c56d423c1b",
+        "https://www.nikkei.com/article/DGXZQOUD313B00R30C26A7000000/",
+        "https://raillab.jp/news/article/35192",
+        "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news101.html",
+        "https://www.nishinippon.co.jp/item/1521803/"
+      ]
+    },
+    {
+      "id": "2026-07-31-news-002",
+      "category": "news",
+      "title": "米・イラン再び攻撃応酬——中東全域に戦火拡大・原油84ドル台続伸・日本のエネルギー安保が急務",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191311000",
+      "source": "NHKニュース（東洋経済・財経新聞 複数ソース統合）",
+      "summary": "米軍がイラン軍事拠点数十か所を攻撃、イランがヨルダン・クウェートの米軍基地へ弾道ミサイルで報復し中東全域に戦火が拡大。WTI原油は前日比$2.08高の84.12ドルで続伸。ホルムズ海峡封鎖リスクが再燃し日本のエネルギー輸入コストへの波及が懸念される。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://toyokeizai.net/articles/-/953283",
+        "https://www.zaikei.co.jp/article/20260731/863767.html"
+      ]
+    },
+    {
+      "id": "2026-07-31-news-003",
+      "category": "news",
+      "title": "日銀 7月会合 1.0%据え置き——植田総裁が午後会見、6月利上げの影響見極めへ",
+      "url": "https://www.nikkei.com/article/DGXZQOUB310PN0R30C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "FRBの据え置きに続き日銀も1.0%を維持。6月利上げの経済・物価への影響を見極める段階で、熊本地震・中東情勢という追加の不確実性が重なる中での現状維持判断。植田総裁が午後3時半から会見。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-news-004",
+      "category": "news",
+      "title": "日経平均2494円高——マイクロソフト好決算でAI過剰投資懸念が後退、半導体・AI株急騰",
+      "url": "https://www.nikkei.com/article/DGXZQOFL311NVTR30C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "MS4〜6月期売上18%増・純利益31%増・AzureAI需要43%増という決算が前日発表。東京市場でアドバンテスト・SBGなどAI関連株に海外勢の買いが集中し終値6万4362円。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-news-005",
+      "category": "news",
+      "title": "高市首相「食品消費税1%、私が責任を持って元に戻す」——国民への理解促進を改めて表明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191031000",
+      "source": "NHKニュース",
+      "summary": "昨日表明した食品消費税1%引き下げについて本日改めて「私が責任を持って元に戻す」と明言。2027年4月〜2年間の時限措置として、低中所得者への給付と合わせて国民に説明していく姿勢を示した。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-news-006",
+      "category": "news",
+      "title": "マイクロソフト4〜6月期 3割増益・AI需要43%増——東京株式市場に波及",
+      "url": "https://www.nikkei.com/article/DGXZQOGN297180Z20C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "Azure AI需要が43%増と急伸し、年内のAI投資継続を裏付ける決算内容。日本の半導体・AI関連株の急騰を牽引した直接要因として押さえる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-news-007",
+      "category": "news",
+      "title": "熱中症警戒アラート 30都府県——甲府39℃・京都38℃、8月上旬40℃超予測",
+      "url": "https://weathernews.jp/news/202607/310021/",
+      "source": "ウェザーニュース",
+      "summary": "関東以西30都府県に熱中症警戒アラート発表。8月1〜3日に最高気温40℃超の酷暑日が予測される。熊本被災地での避難者も酷暑にさらされており二重被害として深刻。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-entertainment-001",
+      "category": "entertainment",
+      "title": "実写版モアナ 本日日本公開・全米No.1・世界興収152億円——批評家34% vs 観客90%の乖離が生む「口コミ映画」の構造",
+      "url": "https://news.yahoo.co.jp/articles/4ad120b4cbc422d04ddb91184188a16041019e1f",
+      "source": "オリコン/Yahoo!ニュース（ForbesJapan・映画ナタリー 複数ソース統合）",
+      "summary": "ディズニー実写版モアナが本日日本公開。全米初登場1位・世界興収152億円の好発進だが、アニメ版には及ばずForbesが収益性に警鐘。批評家34% vs 一般観客90%という評価乖離がSNS口コミを加速する逆説的な動員構造が注目点。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://forbesjapan.com/articles/detail/100848",
+        "https://natalie.mu/eiga/news/683008",
+        "https://www.banger.jp/news/176901/"
+      ]
+    },
+    {
+      "id": "2026-07-31-entertainment-002",
+      "category": "entertainment",
+      "title": "スパイダーマン：ブランド・ニュー・デイ 本日日本公開——ノー・ウェイ・ホームから4年ぶりの新章",
+      "url": "https://eiga.com/news/20260730/25/",
+      "source": "映画.com",
+      "summary": "トム・ホランド主演の新章が本日日米同時公開。シリーズ13作品の集大成として位置づけられるマーベル最新作。グローバルIPの動向として日本映画市場への影響を測る重要な指標。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-entertainment-003",
+      "category": "entertainment",
+      "title": "攻殻機動隊 新TVアニメ——サイエンスSARU制作・押井守版との比較検証が業界で話題",
+      "url": "https://realsound.jp/movie/2026/07/post-2459995.html",
+      "source": "Real Sound",
+      "summary": "Production I.G以外では初の攻殻機動隊アニメ化。押井守版・PS版との原作再現度を業界メディアが比較。AI不使用の手描きスタイルも注目点。原作IP再解釈の成否検証は業界のリメイク戦略の参考になる。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-entertainment-004",
+      "category": "entertainment",
+      "title": "aespa 日本ドームツアー発表——京セラドーム大阪・東京ドームでスペシャルLIVE",
+      "url": "https://aespa-official.jp/news/synkaexisline-dometour-tb/",
+      "source": "aespa JAPAN OFFICIAL",
+      "summary": "aespaが日本カムバック直後にドームツアーの先行チケット抽選をスタート。K-popグループの日本ドーム進出ラッシュは続いており、市場の厚みが増している。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-entertainment-005",
+      "category": "entertainment",
+      "title": "2026年夏アニメ73作品まとめ——攻殻機動隊・無職転生・BLEACH・ワンピースが競合",
+      "url": "https://futaman.futabanet.jp/articles/-/131685",
+      "source": "ふたまん+",
+      "summary": "2026年夏スタートの新アニメ73作品を総まとめ。配信プラットフォーム別ラインナップはコンテンツ競合状況と市場規模を俯瞰できる業界情報。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-entertainment-006",
+      "category": "entertainment",
+      "title": "K-POPカムバック7月最新まとめ——NewJeans復帰テザー・izna参戦・i-dleカムバック",
+      "url": "https://www.mainichikpop.com/comeback/3838/",
+      "source": "まいにちKポ",
+      "summary": "7月K-pop全体動向を網羅。競合する活動スケジュールの把握はK-pop関連ビジネスおよびライブ・配信戦略の立案に不可欠な業界情報源。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-entertainment-007",
+      "category": "entertainment",
+      "title": "リゼロ4期 夏祭りビジュアル公開・秋葉原電気街まつりタイアップ決定",
+      "url": "https://www.pashplus.jp/anime/483089/",
+      "source": "PASH! PLUS",
+      "summary": "リゼロ4th season 奪還編より夏祭りビジュアル公開。秋葉原電気街まつり2026とのリアルイベントタイアップも決定。アニメ×地域イベント連携の企画事例として参考になる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-entertainment-008",
+      "category": "entertainment",
+      "title": "映画ちいかわ 興収22.4億円続報（entertainment-001と主題重複）",
+      "url": "https://www.animatetimes.com/news/details.php?id=1785131866",
+      "source": "アニメイトタイムズ",
+      "summary": "SKIP: 昨日（7/30）の大記事と同内容",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-07-31-hobby-001",
+      "category": "hobby",
+      "title": "ソニーRX10V 本日発売レビューまとめ——万能カメラの高評価と36万円の価格適正論争",
+      "url": "https://mirrorless-camera.info/review/sony-review/56516.html",
+      "source": "ミラーレスカメラ情報（kunkoku.jp・CAMEOTA辛口レビュー・VIDEO SALON 複数ソース統合）",
+      "summary": "9年ぶりのRX10シリーズ刷新が本日発売。国内レビューは「汎用性高く高性能」と絶賛だが、海外PetaPixelは36万円の費用対効果に疑問符。ライブ・推し活の実写サンプルも多数公開中。4K120p・AI AF・24-600mmを総合評価。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://kunkoku.jp/dsc-rx10m5-9.html",
+        "https://cameota.com/sony/51087.html",
+        "https://videosalon.jp/news/sony_rx10v/"
+      ]
+    },
+    {
+      "id": "2026-07-31-hobby-002",
+      "category": "hobby",
+      "title": "スーパーマリオサンシャイン Switch 2配信決定——8月13日にGCNintendo Classicsへ追加",
+      "url": "https://www.4gamer.net/games/440/G044018/20260731007/",
+      "source": "4Gamer.net",
+      "summary": "任天堂が本日発表。2002年GC名作がSwitch 2のNintendo Online+追加パックに8月13日追加配信。「4:3か16:9か」論争がSNSを沸騰させるなど往年ファンが早速反応。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-hobby-003",
+      "category": "hobby",
+      "title": "ルミネス リマスター iOS/Android版 本日配信——960円で全コンテンツ解放",
+      "url": "https://www.4gamer.net/games/029/G102914/20260730024/",
+      "source": "4Gamer.net",
+      "summary": "エンハンスの音楽×パズルゲーム「ルミネス リマスター」がスマホに登場。基本無料・960円でフルコンテンツアンロック。Switch/PS4版に続くマルチプラットフォーム展開。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-hobby-004",
+      "category": "hobby",
+      "title": "ゼンゼロ×ZOZO コラボウェア本日発売——星見雅ら4キャラのゲーム内衣装をリアルに再現",
+      "url": "https://www.famitsu.com/article/202607/82757",
+      "source": "ファミ通",
+      "summary": "人気ゲーム「ゼンレスゾーンゼロ」とZOZOTOWNが期間限定コラボ。ゲーム内衣装を再現したリアルウェアの予約販売が本日正午スタート。ゲーム×ファッションコラボの最新事例。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-hobby-005",
+      "category": "hobby",
+      "title": "スパイスカレー専門店「PAR（パール）」大阪・吹田にオープン——インド5ッ星ホテル出身シェフ在籍",
+      "url": "https://suichan.jp/open/2026/07/p=109201",
+      "source": "吹チャン！",
+      "summary": "2026年7月9日、大阪・吹田市山田東に本格インドカレー・スパイス料理専門店がオープン。インドの5ッ星ホテルで腕を振るったシェフが在籍する話題の新店。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-07-31-serendipity-001",
+      "category": "serendipity",
+      "title": "「止まっていたものが動き出す日」——7月31日に重なった再開と公開の偶然",
+      "url": "https://raillab.jp/news/article/35192",
+      "source": "レイルラボ/ディズニー公式/任天堂（クロスリファレンス）",
+      "summary": "熊本地震4日目に九州新幹線博多〜熊本間が3日ぶり再開。同日、実写版モアナが日本で劇場公開し、スーパーマリオサンシャインが24年ぶりにSwitch 2で復活。「復旧」「公開」「復活」というまったく異なる文脈の「再開」が1日に重なった。止まっていたものを動かす力は、場所も媒体も違えど同じ人間の意志から生まれる。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "災害・映画・ゲームという全く異なるニュースが「止まっていたものが動き出す」という共通の感触を共有した偶然の一致。"
+    },
+    {
+      "id": "2026-07-31-serendipity-002",
+      "category": "serendipity",
+      "title": "「AIは80%安くなった、でもレンズは36万円のまま」——デジタルとアナログの価値分岐が今日鮮明になった",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+      "source": "CNBC/ソニー（クロスリファレンス）",
+      "summary": "今日のテックではOpenAI GPT-5.6が80%値下げ。同日、趣味ではソニーRX10Vが363,000円で発売。ソフトウェアのAI能力は指数的に安くなる一方、精密光学の価値は変わらない。「AIで代替できるもの」と「アナログの精密さが残るもの」の分岐点を今日という日が鮮明にしてくれた。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "テックと趣味のセクションに「正反対の価格変動」が同時に現れた。AIのコスト観を持つエンジニアがカメラを買うときの思考実験として面白い対比。"
+    }
+  ]
+}
