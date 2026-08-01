@@ -1,0 +1,367 @@
+{
+  "date": "2026-08-01",
+  "notion_page_id": "3afa41a3-cf9b-81fc-ba60-ded40d01f71c",
+  "articles": [
+    {
+      "id": "2026-08-01-tech-001",
+      "category": "tech",
+      "title": "Angular 22.1 リリース——Rolldown安定化・@Serviceデコレーター移行・JSONP非推奨化",
+      "url": "https://blog.ninja-squad.com/2026/07/29/what-is-new-angular-22.1",
+      "source": "Ninja Squad",
+      "summary": "2026年7月29日にAngular 22.1がリリース。Rolldownがデフォルトで安定版となりチャンク最適化が自動適用。@Service()デコレーターへの自動マイグレーションツール追加で古い@Injectable()クラスを変換可能に。HTTPクライアントのwithJsonpSupport()などJSONP APIが非推奨化。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-002",
+      "category": "tech",
+      "title": "GPT-Live に SynthID ウォーターマーク対応——AI生成音声の出所証明が標準化へ",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "source": "OpenAI",
+      "summary": "OpenAIがGPT-Liveで生成した音声にSynthIDの透かしを自動埋め込み。ChatGPT VoiceとAPIの両方に対応し、開発者が検証ツールを自社ワークフローに組み込める。AI生成コンテンツの真正性確認がエンタメ・メディア業界でも求められる動き。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-003",
+      "category": "tech",
+      "title": "Google Gemini アプリ次世代化——Sparkエージェントが常時稼働・Daily Brief登場",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+      "source": "Google Blog",
+      "summary": "GeminiアプリにSpark（常時バックグラウンド稼働エージェント）が統合。メール送信・クレジットカードサブスク検出・会議メモ整理を自動化。毎朝のパーソナルブリーフィング「Daily Brief」も登場。月間9億人・230カ国で「反応するAI」から「能動的に動くAI」へ転換。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-004",
+      "category": "tech",
+      "title": "Angular Addicts #41——アニメーション刷新・Angular 22.0の実装まとめ",
+      "url": "https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4",
+      "source": "DEV Community（This is Angular）",
+      "summary": "Angularコミュニティニュースレター最新号。Angular 22.0のアニメーション新API、モノレポサポート改善、Signal Formsの実践的実装例が収録。deep_dive_topicsのAngular Zoneless・Signal Formsの最新コンテキストを網羅。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-005",
+      "category": "tech",
+      "title": "デジタル庁「源内」8月から国産LLM試用開始——全府省庁18万人対象",
+      "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E7%89%88%E3%80%91%E5%9B%BD%E7%94%A3llm7%E9%81%B8%EF%BD%9C%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%80%8C%E6%BA%90%E5%86%85%E3%80%8D%E3%81%8C%E9%81%B8%E3%82%93%E3%81%A0ai/",
+      "source": "フィデックス株式会社",
+      "summary": "全府省庁職員18万人向けAI「源内」がNTT「tsuzumi」等の国産LLMの試用を8月から開始。クラウド巨大モデルとオンプレ軽量モデルの二層構造が行政AIのスタンダードになりつつある。国内LLM採用トレンドの参照点。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-006",
+      "category": "tech",
+      "title": "DeepSeek V4 正式版リリース——V4 Pro・V4 Flash 2モデル体系",
+      "url": "https://aigentlab.tech/articles/deepseek-v4-stable-migration-2026/",
+      "source": "AIgent Lab",
+      "summary": "2026年7月15日にDeepSeek V4が正式公開。V4 Pro・V4 Flashの2モデル体系でピーク/オフピーク時間帯別料金という独自価格体系。7月24日に旧モデル名廃止でAPIエンドポイント更新が必要。低コストLLMの最有力候補として継続注視。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-007",
+      "category": "tech",
+      "title": "Claude Sonnet 5 日本語効率化・プロモ価格（〜8/31）",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2121349.html",
+      "source": "窓の杜（Impress）",
+      "summary": "新トークナイザーで日本語・数式・コードのトークン化効率が向上。API入力$2/M・出力$10/Mの特別価格は8月末まで。プロモ期間中のコスト最適化タイミングとして把握。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-008",
+      "category": "tech",
+      "title": "Claude Code v2.1.101——5週間で30以上の新機能・内蔵ブラウザ搭載",
+      "url": "https://uravation.com/media/claude-code-v2-1-101-30-releases-5-weeks-guide-2026/",
+      "source": "Uravation",
+      "summary": "内蔵ブラウザ追加、バックグラウンドセッションのダイアログ改善など30以上の新機能。デフォルトモデルがClaude Sonnet 5に。日常的に使うツールの最新機能把握として。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-tech-009",
+      "category": "tech",
+      "title": "OpenAI GPT-5.6 Luna 80%値下げ（重複）",
+      "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "source": "VentureBeat",
+      "summary": "SKIP: 7/31に大記事として掲載済みのトピック",
+      "size": "大",
+      "selected": false
+    },
+    {
+      "id": "2026-08-01-tech-010",
+      "category": "tech",
+      "title": "MCP stateless化（重複）",
+      "url": "https://www.theregister.com/devops/2026/07/23/model-context-protocol-prepares-to-break-with-its-stateful-past/",
+      "source": "The Register",
+      "summary": "SKIP: 7/31にMCP仕様変更として大記事掲載済み",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-01-news-001",
+      "category": "news",
+      "title": "熊本地震5日目——死者36人・TSMC 8月4日段階的再開・九州新幹線博多〜熊本が本日始発再開",
+      "url": "https://kumanichi.com/articles/2018619",
+      "source": "熊本日日新聞（ITmedia・NHK・時事通信 複数ソース統合）",
+      "summary": "死者36人（前日比+1人）、避難者506か所9,186人、九州電力の停電は全解消。TSMCのJASMが8月4日から段階的操業再開・中旬に地震前水準回復見込みと発表。九州新幹線 博多〜熊本が本日始発再開。熊本〜新水俣は損傷200か所超で8月中再開困難。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://www.itmedia.co.jp/news/article/2607/29/2000000266/",
+        "https://news.web.nhk/newsweb/na/na-k10015191431000",
+        "https://www.jiji.com/jc/article?k=2026073101278&g=soc"
+      ]
+    },
+    {
+      "id": "2026-08-01-news-002",
+      "category": "news",
+      "title": "食品消費税 2027年4月から1%に——高市首相が正式表明、閣議決定は8月上旬へ",
+      "url": "https://www.nikkei.com/article/DGXZQOUA29AI80Z20C26A7000000/",
+      "source": "日本経済新聞（産経新聞/Yahoo!ニュース 複数ソース統合）",
+      "summary": "高市首相が食料品消費税を8%→1%に引き下げると正式表明。2027年4月から2年間の時限措置、年約6,000億円減収を給付で補う設計。今週中に閣議決定、秋の臨時国会に法案提出。決済・ECシステムへの対応確認も急務。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://news.yahoo.co.jp/articles/8afedb72fd05533b9d1a8b78c921dfd401703dd1"
+      ]
+    },
+    {
+      "id": "2026-08-01-news-003",
+      "category": "news",
+      "title": "米イラン・ホルムズ封鎖継続——4シナリオ別原油価格見通し浮上",
+      "url": "https://www.nomura.co.jp/wealthstyle/article/0716/",
+      "source": "野村證券（NHK・JETRO 複数ソース統合）",
+      "summary": "イラン革命防衛隊がホルムズ封鎖宣言を継続、LNG船通航ゼロ。米軍がイラン140か所標的への攻撃完了と発表。野村証券が4シナリオ別原油見通し公開（悲観A：WTI 100〜110ドル、標準B/C：75〜95ドル）。現在84ドル台は標準シナリオ上限付近。",
+      "size": "中",
+      "selected": true,
+      "merged_urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015174811000",
+        "https://www.jetro.go.jp/biznews/feature/ISIR0617.html"
+      ]
+    },
+    {
+      "id": "2026-08-01-news-004",
+      "category": "news",
+      "title": "ドル円157円台に急落——為替介入観測と財務省のけん制発言",
+      "url": "https://fx-happiness.com/daily-report-2026-08-01/",
+      "source": "FX Daily Report",
+      "summary": "8月1日NY市場でドル円が157円台に急落。政府・日銀による介入観測が浮上し財務省幹部が円安をけん制。4〜5月実施の過去最大規模11.7兆円介入実績を踏まえた市場の警戒感。消費税減税・地震復興コスト・中東リスクが重なる局面での円相場動向。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-news-005",
+      "category": "news",
+      "title": "ホルムズ海峡危機の構造と日本への影響（2026年7月版）",
+      "url": "https://www.jetro.go.jp/biznews/feature/ISIR0617.html",
+      "source": "JETRO",
+      "summary": "2026年2月以降のホルムズ危機の経緯と日本貿易への影響をJETROが整理。タンカー通航激減・LNG代替調達ルート確保の現状を解説。ホルムズ情勢の構造を把握するための信頼度の高い一次情報。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-news-006",
+      "category": "news",
+      "title": "国土交通省 令和8年熊本地震 第15報（8/1 11:30）",
+      "url": "https://www.mlit.go.jp/saigai/saigai_260728.html",
+      "source": "国土交通省",
+      "summary": "道路・鉄道・港湾被害と復旧工事の進捗を一元的に把握できる公式統計第15報。住宅被害棟数調査結果も含む最も信頼性の高いデータソース。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-news-007",
+      "category": "news",
+      "title": "令和8年熊本地震 半導体メーカー工場の対応状況まとめ",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news101.html",
+      "source": "EE Times Japan",
+      "summary": "TSMC・ソニーセミコン・ロームなど熊本・宮崎の工場対応を専門メディアが整理。各社操業停止・再開状況の比較と半導体サプライチェーンへの影響を俯瞰できる。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-001",
+      "category": "entertainment",
+      "title": "スパイダーマン：ブランド・ニュー・デイ 全世界初週4.65億ドル——MCU歴代2位の可能性",
+      "url": "https://news.yahoo.co.jp/articles/e8294a544720c71cd04d051909018577c3154228",
+      "source": "Yahoo!ニュース（THE Hollywood Reporter Japan）",
+      "summary": "全世界初週4億6,500万ドル（約757億円）の予測でMCU映画歴代2位も視野。日本では7月31日公開。シリーズ13作品の集大成として4年間の観客期待値を動員に変えた構造がIPフランチャイズ設計の参考として注目。",
+      "size": "大",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-002",
+      "category": "entertainment",
+      "title": "映画ちいかわ 公開3日間で興収22.4億円・観客動員150万人",
+      "url": "https://www.crank-in.net/news/188691",
+      "source": "クランクイン！",
+      "summary": "公開3日間で150万人・22.4億円。447スクリーン中規模展開で爆発的スタート。SNS考察が二次拡散を牽引し、劇場体験と感想シェアのループが動員を加速。SNS発IPの劇場版成功パターンの最新確定値。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-003",
+      "category": "entertainment",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL——草薙素子に坂本真綾、キャスト全容判明",
+      "url": "https://dengekionline.com/article/202607/80708",
+      "source": "電撃オンライン",
+      "summary": "7月7日放送開始の新TVアニメの声優陣が公開。少佐役・坂本真綾というキャスティング。監督：モコちゃん、シリーズ構成：円城塔、制作：サイエンスSARU。原作コミックへの原点回帰を掲げシリーズ未体験者にも入りやすい構成と評価。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-004",
+      "category": "entertainment",
+      "title": "Netflix映画「THE RIBBON HERO」8月8日世界独占配信——手塚治虫原案×サーヤ（ラランド）",
+      "url": "https://about.netflix.com/ja/news/the-ribbon-hero-keyart",
+      "source": "About Netflix",
+      "summary": "手塚治虫『リボンの騎士』原案のアニメ映画が8月8日にNetflixで世界配信。主人公・サファイア役の声をラランドのサーヤが担当。Netflixが国内クラシックIPを世界向けに再解釈する戦略の最新事例。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-005",
+      "category": "entertainment",
+      "title": "サマーソニック2026 全タイムテーブル発表——Ado・L'Arc-en-Ciel・THE STROKESが3ヘッドライン",
+      "url": "https://festival-life.com/167062",
+      "source": "Festival Life",
+      "summary": "8月14〜16日開催。史上初めて国内2組（Ado・L'Arc-en-Ciel）がヘッドラインを担う構成。BABYMONSTERやJENNIE、BABYMETAL等も出演。東京3日通し券は即日完売。J-POPグローバル化とK-POPが共存するフェス構成の変化として注目。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-006",
+      "category": "entertainment",
+      "title": "BABYMONSTERワールドツアー横浜公演、本日開幕",
+      "url": "https://www.babymonster.jp/babymonster-yokohama-2026/",
+      "source": "BABYMONSTER Japan",
+      "summary": "8月1〜2日横浜ぴあアリーナMM、8/11〜12千葉、8/16名古屋と続くワールドツアー日本公演。日本総動員20万人規模見込み。K-POPライブ市場の旺盛な需要を示す。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-007",
+      "category": "entertainment",
+      "title": "TWS 日本2ndシングル「SODA SODA」8月4日リリース",
+      "url": "https://news.yahoo.co.jp/articles/9587e03e10f58e9776b7f2e91eb87ba727bfe324",
+      "source": "Yahoo!ニュース（Billboard JAPAN）",
+      "summary": "日本オリジナル曲も含む全3曲。SUMMER SONIC 2026初出演・ツアーも。2025年7月日本デビューから1年での急成長が話題の新興K-POPグループの最新展開。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-entertainment-008",
+      "category": "entertainment",
+      "title": "Prime Video 2026年8月新着——木村拓哉「TOKYOタクシー」・踊る大捜査線全4作",
+      "url": "https://www.oricon.co.jp/news/2471182/full/",
+      "source": "ORICON NEWS",
+      "summary": "木村拓哉主演新作「TOKYOタクシー」と踊る大捜査線劇場版全4作+スピンオフ2本が目玉。配信プラットフォームのコンテンツ獲得戦略が月次で読める。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-hobby-001",
+      "category": "hobby",
+      "title": "8月はゲームタイトル大豊作——エルデンリング・シュタゲ・MGSマスコレ・FF14・ゲームフリーク新作が集結",
+      "url": "https://www.famitsu.com/article/202608/82593",
+      "source": "ファミ通.com（4Gamer・PlayStation Blog・公式サイト 複数ソース統合）",
+      "summary": "MGS4他機種初移植（マスコレVol.2・8/27）、エルデンリング SW2版（8/28）、STEINS;GATE RE:BOOT（8/20）、FF14 SW2版（8/4・1ヶ月料金無料）、ゲームフリーク新作「Beast of Reincarnation」（8/4・PS5/PC）が同月に集結。",
+      "size": "大",
+      "selected": true,
+      "merged_urls": [
+        "https://prtimes.jp/main/html/rd/p/000001356.000050711.html",
+        "https://www.techno-edge.net/article/2026/06/04/5146.html",
+        "https://steinsgate.jp/reboot/ja-jp/",
+        "https://game.watch.impress.co.jp/docs/news/2127868.html",
+        "https://blog.ja.playstation.com/2026/07/24/20260724-bor-hands-on-preview-s/"
+      ]
+    },
+    {
+      "id": "2026-08-01-hobby-002",
+      "category": "hobby",
+      "title": "ソニー Cinema Line「FX5」8月21日発売——5Kオープンゲート・X-OCN内部収録・90万円",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2127017.html",
+      "source": "デジカメ Watch",
+      "summary": "FX3同等サイズに積層型フルサイズExmor RSと5Kオープンゲート撮影・16bit X-OCN内部収録を実現したCinema Line機。ハンドル同梱版90万900円。写真より動画に特化した本格映像制作者向け新製品。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-hobby-003",
+      "category": "hobby",
+      "title": "タムロン「12-20mm F2.8」8月27日発売——フルサイズ超広角大口径ズーム・星景向け光学設計",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2125047.html",
+      "source": "デジカメ Watch",
+      "summary": "35mmフルサイズ対応・ズーム全域F2.8維持の超広角ズーム。ソニーE：37万9,500円、ニコンZ：39万9,960円。星景撮影を考慮した光学設計とリニアモーターVXD AF搭載。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-hobby-004",
+      "category": "hobby",
+      "title": "エリックサウス監修スパイスカレー、セブンイレブンで8月3日発売——699円",
+      "url": "https://shingekifood.com/entry/2026/07/21/015954",
+      "source": "進撃のグルメ",
+      "summary": "南インドカレーの名店「エリックサウス」監修の「2種スパイスカレー（699円）」がセブンイレブンで8月3日発売。バターチキンとチキンの2種。販売地域は東北・茨城・四国・九州の一部。スパイスカレーファン必チェック。",
+      "size": "中",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-hobby-005",
+      "category": "hobby",
+      "title": "DJI Osmo Pocket 4P レビュー——2眼・4K/240fps・17ストップDR",
+      "url": "https://dc.watch.impress.co.jp/docs/review/moviewatch/2120710.html",
+      "source": "デジカメ Watch",
+      "summary": "シリーズ初の2眼スタイル、4K/240fpsとPocketシリーズ最大のダイナミックレンジ17ストップを実現。ブレ補正の安定感と望遠レンズが高評価。国内販売価格8〜10万円台。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-hobby-006",
+      "category": "hobby",
+      "title": "FF14 SW2版 本日15時に発売記念生放送——吉田P/Dの飛び入り参加も可能性",
+      "url": "https://www.famitsu.com/article/202607/81500",
+      "source": "ファミ通.com",
+      "summary": "東京・渋谷サクラステージから実機プレイ披露。吉田直樹P/Dの飛び入り参加も示唆。本日15時配信予定。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-hobby-007",
+      "category": "hobby",
+      "title": "キヤノン EOS 5機種向けファームウェア8月上旬公開——C70/R5 C/C400/C80/C50対象",
+      "url": "https://corporate.jp.canon/newsroom/newsrelease/2026/pr-0416d",
+      "source": "キヤノン MJグループ",
+      "summary": "5機種を対象とした無償ファームウェアアップデートを8月上旬に公開予定。外部機器との連携強化など撮影の自由度とワークフロー効率が向上。",
+      "size": "小",
+      "selected": true
+    },
+    {
+      "id": "2026-08-01-serendipity-001",
+      "category": "serendipity",
+      "title": "サカナクション「夜の踊り子」が2026年TikTok世界チャート1位——14年前の楽曲が2度目の命を得た",
+      "url": "https://wakuwakuhappy2024.com/sakanaction-yoru-no-odoriko-tiktok-2026/",
+      "source": "ほのぼのんびり",
+      "summary": "2012年リリースのサカナクション「夜の踊り子」が2026年にTikTokで世界チャート2週連続1位。インドネシアの伝統ボートレース動画との組み合わせがバイラル拡散。山口一郎本人もミームに参加。「コンテンツの賞味期限はゼロ」を体現する事例。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "旧コンテンツがUGCきっかけで世界的復活する現象が「配信に残ったコンテンツの賞味期限はゼロ」という命題を体現。エンタメ企画とアーカイブ設計の両方に示唆がある。"
+    },
+    {
+      "id": "2026-08-01-serendipity-002",
+      "category": "serendipity",
+      "title": "「食品消費税1%」と「エリックサウス監修スパイスカレー699円」——政策と商品が同じ方向を指す週",
+      "url": "https://shingekifood.com/entry/2026/07/21/015954",
+      "source": "進撃のグルメ（日本経済新聞 クロスリファレンス）",
+      "summary": "高市首相が食料品消費税8%→1%を表明した同じ週に、南インドカレー名店エリックサウス監修699円スパイスカレーがコンビニ発売。「安く本物を食べる」経路がマクロ（税制）とミクロ（新商品）の両面から同時に開かれた偶然の一致。",
+      "size": "中",
+      "selected": true,
+      "serendipity_reason": "マクロ経済政策と日常の趣味（スパイスカレー）が同じ週に同じ方向を向くという珍しい交差点。経済動向を自分の生活レベルに翻訳してみる思考実験として。"
+    }
+  ]
+}
