@@ -1,0 +1,493 @@
+{
+  "date": "2026-08-04",
+  "notion_page_id": "3b2a41a3-cf9b-8125-9c68-cb787c74665e",
+  "articles": [
+    {
+      "id": "2026-08-04-tech-001",
+      "category": "tech",
+      "title": "Claude Opus 4.1 明日8/5廃止——Claude Code 8月大型アップデート統合報告",
+      "url": "https://qiita.com/saitoko/items/a95cbb5888835be0f7fd",
+      "source": "Qiita（Claude Code週次まとめ v2.1.213〜220）",
+      "summary": "claude-opus-4-1-20250805が明日8/5に完全廃止。移行先はOpus 4.8またはOpus 5。Claude Code 8月の主要変更はSonnet 5（1Mコンテキスト）がデフォルトモデルに刷新、fast modeがOpus 5/4.8専用に変更、/verify・/code-reviewが手動呼び出しに変更。50%週次利用ブーストは8/19まで延長。",
+      "size": "大",
+      "selected": true,
+      "tags": ["Claude Code", "Anthropic", "API", "廃止"],
+      "merged_urls": [
+        "https://therouter.ai/news/anthropic-deprecates-claude-opus-4-1-august-5-migration-guide/",
+        "https://www.gradually.ai/en/changelogs/claude-code/"
+      ]
+    },
+    {
+      "id": "2026-08-04-tech-002",
+      "category": "tech",
+      "title": "Angular Signal Forms 詳解——API設計・バリデーション・既存フォームとの共存パターン",
+      "url": "https://blog.rasc.ch/2026/08/angular-signal-forms.html",
+      "source": "blog.rasc.ch",
+      "summary": "Angular 22で安定化されたSignal FormsのAPIを実例で詳解。WritableSignalをフォームモデルとして使い、型安全なフィールドアクセス・スキーマベースバリデーションを提供。Template-driven・ReactiveFormsとの共存パターンも網羅。",
+      "size": "中",
+      "selected": true,
+      "tags": ["Angular", "Signal Forms", "フロントエンド"]
+    },
+    {
+      "id": "2026-08-04-tech-003",
+      "category": "tech",
+      "title": "TypeScript 7.0 GA——Go製コンパイラで最大12倍高速化、Angular移行はTS 7.1待ち",
+      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/",
+      "source": "InfoQ",
+      "summary": "TypeScript 7.0が正式GA。Goネイティブコンパイラで最大12倍の高速化を実現。ただしAngularのテンプレートエンジンはTypeScript APIに直接依存するため、Angular・Vue・SvelteはTS 7.1（10月予定）まで移行不可。tscのCLI型チェックは高速化を享受可能。",
+      "size": "小",
+      "selected": true,
+      "tags": ["TypeScript", "Angular", "フロントエンド"]
+    },
+    {
+      "id": "2026-08-04-tech-004",
+      "category": "tech",
+      "title": "Claude Opus 4.1 廃止 Migration Guide（tech-001に統合）",
+      "url": "https://therouter.ai/news/anthropic-deprecates-claude-opus-4-1-august-5-migration-guide/",
+      "source": "TheRouter.ai",
+      "summary": "MERGE: tech-001に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-tech-005",
+      "category": "tech",
+      "title": "Claude Code Changelog August 2026（tech-001に統合）",
+      "url": "https://www.gradually.ai/en/changelogs/claude-code/",
+      "source": "Gradually.ai",
+      "summary": "MERGE: tech-001に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-tech-006",
+      "category": "tech",
+      "title": "MCP stateless化 The Register（過去7日掲載済み）",
+      "url": "https://www.theregister.com/devops/2026/07/23/model-context-protocol-prepares-to-break-with-its-stateful-past/",
+      "source": "The Register",
+      "summary": "SKIP: 7/31 tech-008 VentureBeatとして除外済みの同内容",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-tech-007",
+      "category": "tech",
+      "title": "MCP 2026年ロードマップ公開——ステートレス化・Tasks拡張・MCPアプリ・OAuth/OIDC認証強化の4本柱",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-mcp-roadmap/",
+      "source": "Model Context Protocol Blog",
+      "summary": "MCP公式が2026年ロードマップを公開。ステートレスプロトコルコア化・MCPアプリ（サーバーレンダリングUI）・Tasks拡張（長時間処理管理）・OAuth/OIDCに準拠した認証強化の4本柱。普通のHTTPインフラでAIエージェントが動くアーキテクチャへの転換を促進。",
+      "size": "小",
+      "selected": true,
+      "tags": ["MCP", "AIエージェント", "アーキテクチャ"]
+    },
+    {
+      "id": "2026-08-04-tech-008",
+      "category": "tech",
+      "title": "AI Safety Index Summer 2026——AnthropicがC+でトップ、業界全体は「C以下」",
+      "url": "https://futureoflife.org/ai-safety-index-summer-2026/",
+      "source": "Future of Life Institute",
+      "summary": "Future of Life InstituteがAI企業9社を格付け。AnthropicがC+でトップ、OpenAI・Google DeepMindがC、MetaはD+、xAI・DeepSeek・MistralはF評価。複数社が安全コミットメントを後退させ、国家安全保障・防衛契約を優先する姿勢が指摘される。",
+      "size": "小",
+      "selected": true,
+      "tags": ["AI安全性", "Anthropic", "業界動向"]
+    },
+    {
+      "id": "2026-08-04-tech-009",
+      "category": "tech",
+      "title": "GPT-Red 自動レッドチーミングシステム公開（不採用）",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "source": "OpenAI",
+      "summary": "SKIP: 社内専用ツールで外部影響限定的。他記事優先",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-tech-010",
+      "category": "tech",
+      "title": "npm 12 インストール時セキュリティ強化・GAT 2FA回避廃止——CI設定の見直しが必要",
+      "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/",
+      "source": "GitHub Changelog",
+      "summary": "npm 12がデフォルトでインストールスクリプトをオフに。8月初旬よりGranular Access Tokenの2FA回避機能が廃止。トークン作成・パッケージアクセス管理などの機密操作にインタラクティブセッション+2FAが必須に。CIパイプライン・自動化スクリプトの設定見直しが必要。",
+      "size": "小",
+      "selected": true,
+      "tags": ["npm", "セキュリティ", "CI/CD"]
+    },
+    {
+      "id": "2026-08-04-tech-011",
+      "category": "tech",
+      "title": "世界のAI最新ニュース8/4まとめ（不採用）",
+      "url": "https://eguweb.jp/ai/81283/",
+      "source": "eguweb",
+      "summary": "SKIP: 個別記事で十分カバー済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-tech-012",
+      "category": "tech",
+      "title": "Gemini Robotics 2（不採用）",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Google DeepMind",
+      "summary": "SKIP: ロボット分野で本ユーザーの関心度低め",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-tech-013",
+      "category": "tech",
+      "title": "California AI Transparency Act（不採用）",
+      "url": "https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm",
+      "source": "TechTimes",
+      "summary": "SKIP: EU AI法（8/2大記事）と内容が重複",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-news-001",
+      "category": "news",
+      "title": "熊本地震1週間——死者38人・TSMC全面復旧・高市首相現地視察、復旧フェーズへ転換",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194741000",
+      "source": "NHKニュース（フォーカス台湾・週刊アスキー・時事ドットコム 複数ソース統合）",
+      "summary": "8/4、熊本地震から1週間。死者38人（8/3時点）、避難者506か所9,186人。TSMC熊本（JASM）が全面復旧・2.5億円寄付表明。ソニーセミコン工場も8/4より段階的再開で中旬に地震前水準回復見込み。高市首相が8/3に初現地視察、支援体制を本格化。8/4早朝もM4.1の余震を観測。",
+      "size": "大",
+      "selected": true,
+      "tags": ["熊本地震", "TSMC", "復旧", "速報"],
+      "merged_urls": [
+        "https://japan.focustaiwan.tw/economy/202608040001",
+        "https://weekly.ascii.jp/elem/000/004/423/4423998/",
+        "https://www.jiji.com/jc/article?k=2026080300053&g=pol"
+      ]
+    },
+    {
+      "id": "2026-08-04-news-002",
+      "category": "news",
+      "title": "TSMC熊本工場 全面復旧確認・2.5億円支援（news-001に統合）",
+      "url": "https://japan.focustaiwan.tw/economy/202608040001",
+      "source": "フォーカス台湾",
+      "summary": "MERGE: news-001（熊本地震大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-news-003",
+      "category": "news",
+      "title": "ソニーセミコン熊本工場 段階的再開（news-001に統合）",
+      "url": "https://weekly.ascii.jp/elem/000/004/423/4423998/",
+      "source": "週刊アスキー",
+      "summary": "MERGE: news-001（熊本地震大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-news-004",
+      "category": "news",
+      "title": "高市首相 熊本被災地初訪問（news-001に統合）",
+      "url": "https://www.jiji.com/jc/article?k=2026080300053&g=pol",
+      "source": "時事ドットコム",
+      "summary": "MERGE: news-001（熊本地震大記事）に統合",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-news-005",
+      "category": "news",
+      "title": "2026年版防衛白書 閣議了解——中国「最大の戦略的挑戦」、AI・無人機に独立章を新設",
+      "url": "https://www.jiji.com/jc/article?k=2026080400394&g=pol",
+      "source": "時事ドットコム",
+      "summary": "防衛省が8/4、2026年版防衛白書を閣議了解。中国を「最大の戦略的挑戦」と明記し、AI・無人機を活用した「新しい戦い方」への対応を独立章として新設。中露両軍の太平洋での共同活動拡大にも「戦略的連携強化」への深刻な懸念を初めて明示。",
+      "size": "中",
+      "selected": true,
+      "tags": ["防衛", "AI", "安全保障", "中国"]
+    },
+    {
+      "id": "2026-08-04-news-006",
+      "category": "news",
+      "title": "農産物・食品輸出 上半期2年連続過去最高8977億円——抹茶ブームで緑茶が牽引",
+      "url": "https://news.yahoo.co.jp/articles/0c02fa0a3202a3cf85060f2276bc36c495561d67",
+      "source": "Yahoo!ニュース（共同通信）",
+      "summary": "農水省が8/4発表した2026年上半期輸出額は前年同期比10.9%増の8977億円で2年連続の上半期過去最高。世界的な抹茶ブームを背景に緑茶が伸長。主要輸出先10カ国・地域すべてで前年を上回った。",
+      "size": "小",
+      "selected": true,
+      "tags": ["農産物輸出", "経済", "抹茶"]
+    },
+    {
+      "id": "2026-08-04-news-007",
+      "category": "news",
+      "title": "ドル円157円台・日米財務相が協調介入示唆——28年ぶり介入後の水準を維持",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_08_04_usdjpy/",
+      "source": "OANDA",
+      "summary": "8/4東京外為市場でドル円は157円台前半。日米両財務相が再度の協調為替介入の可能性を示唆し上値が抑えられる展開。7/31に28年ぶりの日米協調円買い介入が実施され164円台から急落した後、水準を維持している。",
+      "size": "小",
+      "selected": true,
+      "tags": ["為替", "円高", "介入", "経済"]
+    },
+    {
+      "id": "2026-08-04-news-008",
+      "category": "news",
+      "title": "日経平均202円高（不採用）",
+      "url": "https://www.nikkei.com/article/DGXZQOFL040GH0U6A800C2000000/",
+      "source": "日本経済新聞",
+      "summary": "SKIP: 通常の株価変動として優先度低め",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-news-009",
+      "category": "news",
+      "title": "習近平 党内粛清拡大——年間処分98万人で過去最高水準、来年の党大会前に盟友にも矛先",
+      "url": "https://www.jiji.com/jc/v8?id=20260804-chinawatch",
+      "source": "時事ドットコム",
+      "summary": "習近平主席が来年の党大会（4期目続投）前に党内粛清を拡大。年間処分者数98万人と過去最高水準。最大の盟友・中央規律検査委元副書記の調査観測も浮上し、独裁的統制が強まっている。",
+      "size": "小",
+      "selected": true,
+      "tags": ["中国", "習近平", "政治", "国際"]
+    },
+    {
+      "id": "2026-08-04-news-010",
+      "category": "news",
+      "title": "ガザ「平和評議会」声明（不採用）",
+      "url": "https://www.nikkei.com/article/DGXZQOCB046TL0U6A800C2000000/",
+      "source": "日本経済新聞",
+      "summary": "SKIP: 中東情勢の基本的な対立構造は過去に掲載済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-news-011",
+      "category": "news",
+      "title": "日メキシコ外相会談（不採用）",
+      "url": "https://www.jiji.com/jc/article?k=2026080400323&g=pol",
+      "source": "時事ドットコム",
+      "summary": "SKIP: 優先度低め",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-entertainment-001",
+      "category": "entertainment",
+      "title": "劇場版TOKYO MER「CAPITAL CRISIS」8/4公開延期——鈴木亮平主演、2週間前の突然発表・新公開日未定",
+      "url": "https://www.cinemacafe.net/article/2026/08/04/111477.html",
+      "source": "cinemacafe.net",
+      "summary": "8月21日公開予定だった鈴木亮平主演「劇場版TOKYO MER CAPITAL CRISIS」が8月4日に公開延期を発表。諸般の状況を総合的に勘案した結果とのみ説明され新公開日は未定。首都直下地震をテーマにした集大成作品として期待を集めていた。",
+      "size": "小",
+      "selected": true,
+      "tags": ["映画", "TOKYO MER", "鈴木亮平", "公開延期"]
+    },
+    {
+      "id": "2026-08-04-entertainment-002",
+      "category": "entertainment",
+      "title": "TXTヨンジュン 8/6にZ100 Summer Bash NYへ——韓国アーティスト初の快挙",
+      "url": "https://www.soompi.com/article/1854710wpp/txts-yeonjun-to-become-1st-korean-artist-to-perform-at-iheartradios-z100-summer-bash-in-new-york",
+      "source": "Soompi",
+      "summary": "TOMORROW X TOGETHERのヨンジュンが8月6日、ニューヨーク・ハドソンヤードで開催されるiHeartRadio「Z100 Summer Bash 2026」に出演。韓国アーティスト史上初の快挙で、Charlie Puthらと同ステージに立つ。K-POPのグローバル進出の最前線を象徴する動向。",
+      "size": "小",
+      "selected": true,
+      "tags": ["TXT", "K-POP", "グローバル", "NYC"]
+    },
+    {
+      "id": "2026-08-04-entertainment-003",
+      "category": "entertainment",
+      "title": "映画クレヨンしんちゃん 公開3日間で興収5.3億・シリーズ歴代最高スタート",
+      "url": "https://www.oricon.co.jp/news/2471732/full/",
+      "source": "ORICON NEWS",
+      "summary": "「映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション」が公開3日間で動員44万人・興収5.3億円を突破。前作比120%の動員でシリーズ歴代最高スタートを記録。歴代最高26.9億円の更新に期待が高まる。",
+      "size": "小",
+      "selected": true,
+      "tags": ["クレヨンしんちゃん", "映画", "興収", "アニメ映画"]
+    },
+    {
+      "id": "2026-08-04-entertainment-004",
+      "category": "entertainment",
+      "title": "HYBEの新ガールズグループ「TUIDE」8/24デビュー（不採用）",
+      "url": "https://natalie.mu/music/news/683583",
+      "source": "音楽ナタリー",
+      "summary": "SKIP: 情報量が少なく本稿では小記事に収まらない。デビュー後に採用",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-entertainment-005",
+      "category": "entertainment",
+      "title": "実写映画「ブルーロック」8/7公開直前——高橋文哉×窪田正孝、Ado「モンストロ」が主題歌",
+      "url": "https://www.animatetimes.com/news/details.php?id=1770454466",
+      "source": "アニメイトタイムズ",
+      "summary": "「ブルーロック」の初実写映画化が8月7日に全国公開。主人公・潔世一役に高橋文哉、絵心甚八役に窪田正孝が起用。主題歌はAdoの「モンストロ」。人気漫画原作×実写×人気アーティスト主題歌という強力なIP展開が注目される。",
+      "size": "中",
+      "selected": true,
+      "tags": ["ブルーロック", "映画", "実写化", "Ado"]
+    },
+    {
+      "id": "2026-08-04-entertainment-006",
+      "category": "entertainment",
+      "title": "劇場版まどか☆マギカ「ワルプルギスの廻天」8/28公開確定——13年ぶり続編が延期を経てついに",
+      "url": "https://kai-you.net/article/94755",
+      "source": "KAI-YOU",
+      "summary": "「劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉」が8月28日に公開。2013年「叛逆の物語」以来13年ぶりの続編。新房昭之総監督、虚淵玄脚本、シャフト制作。冬2024・冬2025・2月2026と度重なる延期を経てようやく確定し、ファンの期待が再燃している。",
+      "size": "中",
+      "selected": true,
+      "tags": ["まどか☆マギカ", "アニメ映画", "シャフト", "8月公開"]
+    },
+    {
+      "id": "2026-08-04-entertainment-007",
+      "category": "entertainment",
+      "title": "Stray Kids「THIS & THAT」コンセプトトレーラー（8/2掲載済みカムバックの続報のためスキップ）",
+      "url": "https://k-pop-planet.com/blogs/latest-news/stray-kids-kick-off-a-new-era-with-the-surreal-this-that-comeback-trailer",
+      "source": "Kpop Planet Global",
+      "summary": "SKIP: 8/2に大記事として掲載済みの同カムバックの続報。8/7リリース後に採用",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-entertainment-008",
+      "category": "entertainment",
+      "title": "松本潤アイドルプロデュース企画（不採用）",
+      "url": "https://geitopi.com/",
+      "source": "芸トピ（週刊女性）",
+      "summary": "SKIP: 週刊誌報道レベルで確度低め",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-entertainment-009",
+      "category": "entertainment",
+      "title": "2026 MAMA AWARDS 11月20・21日 京セラドーム大阪開催決定——BTSへの期待が高まる",
+      "url": "https://www.musicman.co.jp/business/719230",
+      "source": "Musicman",
+      "summary": "K-POP最大の授賞式「2026 MAMA AWARDS」が11月20・21日に京セラドーム大阪で2日間開催される。大阪観光局との連携で新体験プログラムも展開予定。完全体カムバックを果たしたBTSの出演を巡ってファンの期待が高まっており、Mnet Plusで生中継配信予定。",
+      "size": "中",
+      "selected": true,
+      "tags": ["MAMA AWARDS", "K-POP", "大阪", "BTS"]
+    },
+    {
+      "id": "2026-08-04-hobby-001",
+      "category": "hobby",
+      "title": "ソニー FE 100-400mm F5.6-8 OSS 本日正式発表——G Masterではなく廉価Gレンズ、欧州899ユーロで望遠の敷居を下げる",
+      "url": "https://asobinet.com/will-the-fe-100-400mm-f5-6-8-oss-be-announced-on-august-4/",
+      "source": "とるなら（asobinet）",
+      "summary": "ソニーが8/4、FEマウント望遠ズーム「FE 100-400mm F5.6-8 OSS」を正式発表。欧州899ユーロ（国内13〜15万円台想定）の廉価Gレンズとして登場。事前予想のG Master IIとは別ライン。AF/MFスイッチにフォーカスリミッター（∞-3m）を統合した新機構採用。OSS搭載。FE 100-400mm GM OSS（約45万円）の廉価版として望遠撮影の選択肢を拡大。",
+      "size": "大",
+      "selected": true,
+      "tags": ["ソニー", "カメラ", "レンズ", "Gレンズ"]
+    },
+    {
+      "id": "2026-08-04-hobby-002",
+      "category": "hobby",
+      "title": "セブンイレブン「夏こそスパイス！カレーフェス」本日スタート——銀座デリー監修カシミールカレーなど全15品",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2130072.html",
+      "source": "グルメWatch",
+      "summary": "セブン-イレブンが「夏こそスパイス！カレーフェス」を8月4日より3週間にわたって展開。全15品が順次登場し、銀座デリー看板メニュー「カシミールカレー」（598円税別、8/10〜）やビリヤニなど。対象レトルトカレー2個購入で100円引きキャンペーンも8/9まで実施。",
+      "size": "中",
+      "selected": true,
+      "tags": ["スパイスカレー", "セブンイレブン", "銀座デリー", "グルメ"]
+    },
+    {
+      "id": "2026-08-04-hobby-003",
+      "category": "hobby",
+      "title": "進撃の巨人3 12月10日発売決定——PS5/Switch 2/PC対応、マーレ編含む集大成作品",
+      "url": "https://www.4gamer.net/games/013/G101375/20260804001/",
+      "source": "4Gamer.net",
+      "summary": "コーエーテクモゲームスのω-Force開発による「進撃の巨人3」が12月10日発売決定。PS5・Nintendo Switch 2・Xbox Series X|S・Steam対応。物語をマーレ編含め最後まで描く集大成作品。DL版の予約受付を8月4日開始。アートブックなど同梱の限定版も発表。",
+      "size": "小",
+      "selected": true,
+      "tags": ["進撃の巨人", "ゲーム", "Switch 2", "PS5"]
+    },
+    {
+      "id": "2026-08-04-hobby-004",
+      "category": "hobby",
+      "title": "ジャパニーズカレーフェスティバル仙台（不採用）",
+      "url": "https://kahoku.news/kiji/nor1452157164456427825.html",
+      "source": "河北新報",
+      "summary": "SKIP: 継続中のイベント。他カレーニュースでカバー済み",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-hobby-005",
+      "category": "hobby",
+      "title": "FINAL FANTASY XIV Nintendo Switch 2版 本日19時サービス開始",
+      "url": "https://www.famitsu.com/article/202608/83420",
+      "source": "ファミ通",
+      "summary": "FF14 Nintendo Switch 2版が8月4日（火）19時よりサービス開始。容量117.2GB。既存プレイヤーはSwitch 2用ライセンス別途要購入（他プラットフォーム版ゲームタイムあり→半額）。フリートライアル版もeショップに同日配信。",
+      "size": "中",
+      "selected": true,
+      "tags": ["FF14", "Nintendo Switch 2", "ゲーム", "MMORPG"]
+    },
+    {
+      "id": "2026-08-04-hobby-006",
+      "category": "hobby",
+      "title": "SPICE DIVE! OSAKA 2026（不採用）",
+      "url": "https://metro9.osaka/lp/spicecurry26/",
+      "source": "Osaka Metro",
+      "summary": "SKIP: 継続中のイベントで新鮮味に欠ける",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-hobby-007",
+      "category": "hobby",
+      "title": "ぽこあポケモン DLC（不採用）",
+      "url": "https://www.appbank.net/2026/08/04/game/3070444.php",
+      "source": "AppBank",
+      "summary": "SKIP: 優先度低め",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-hobby-008",
+      "category": "hobby",
+      "title": "SPICE POT な Yummy's 旭川復活（不採用）",
+      "url": "https://asatan.com/articles/9913",
+      "source": "asatan",
+      "summary": "SKIP: 地域限定・優先度低め",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-04-hobby-009",
+      "category": "hobby",
+      "title": "ニンテンドーeショップ サマーセール 2026——8/4〜17、最大60%OFF・400本超が対象",
+      "url": "https://automaton-media.com/articles/newsjp/20260731-457509/",
+      "source": "AUTOMATON",
+      "summary": "任天堂「ニンテンドーeショップ サマーセール 2026」が8月4日（火）0時〜8月17日（月）23時59分まで開催。最大60%OFFで「あつ森」30%OFF（4,604円）、「FF7 REMAKE INTERGRADE」60%OFF（2,191円）など400本超が対象。",
+      "size": "小",
+      "selected": true,
+      "tags": ["Nintendo Switch", "セール", "ゲーム"]
+    },
+    {
+      "id": "2026-08-04-serendipity-001",
+      "category": "tech",
+      "title": "【セレンディピティ】AI企業の安全格付けが「最高でもC+」——AI Safety Indexが届いた日に考えること",
+      "url": "https://futureoflife.org/ai-safety-index-summer-2026/",
+      "source": "Future of Life Institute",
+      "summary": "AnthropicがC+で最高評価、しかし「最高がC+」という事実は業界全体の安全性への取り組みが依然不十分であることを示す。複数社が安全コミットメントを後退させ防衛契約を優先する中、EU AI法施行直後のタイミングでこの格付けが届いた。エンタメ業界でAIを活用するエンジニアとして、使っているサービスの安全評価を知っておくことは今後の職業倫理の基礎になるかもしれない。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "AI業界の安全性格付けを職業倫理の観点から考えさせる記事。エンタメ×テックの両面で関与するユーザーに刺さる越境視点。"
+    },
+    {
+      "id": "2026-08-04-serendipity-002",
+      "category": "hobby",
+      "title": "【セレンディピティ】スパイスが「日常」になった夏——東京・仙台・大阪・セブンが同時多発",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2130072.html",
+      "source": "グルメWatch（クロスリファレンス）",
+      "summary": "本日セブンイレブンカレーフェス開幕（全国）、仙台三越カレーフェスティバル開催中、大阪Metro「SPICE DIVE!」終盤、東京カレー万博9月開幕予定。全国大手チェーンがスパイスカレーをテーマ企画として本格展開するのは「一部マニアの嗜好」ではなく「主流の食文化」として認知された証左。ホルムズ情勢でスパイス供給懸念もあったが、それでも各地でフェスが展開されるたくましさがある。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "スパイスカレーの「日常化」を全国同時多発のフェスで可視化。地政学リスクと食文化の交差点という前回の視点の発展形。"
+    },
+    {
+      "id": "2026-08-04-serendipity-003",
+      "category": "tech",
+      "title": "【セレンディピティ】「廉価版」が同日に2つ届いた——ソニーFE100-400mmとTypeScript 7が示すアクセス拡大の日",
+      "url": "https://asobinet.com/will-the-fe-100-400mm-f5-6-8-oss-be-announced-on-august-4/",
+      "source": "とるなら / InfoQ（クロスリファレンス）",
+      "summary": "本日発表のソニーFE 100-400mm F5.6-8 OSSは約13万円の廉価望遠ズーム（G Masterの1/3以下）。同日、TypeScript 7.0がGAで「10倍速ビルド」を無償提供。高機能カメラレンズとプログラミング言語が同じ方向に動いた日——「プロ向けの機能が民主化される」という流れは、エンジニアとしてもカメラマンとしても、同じ地平を歩いている。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "全く異なる分野（光学とソフトウェア）で「高機能の民主化」という同じベクトルが同日に揃った偶然の一致。"
+    }
+  ]
+}
