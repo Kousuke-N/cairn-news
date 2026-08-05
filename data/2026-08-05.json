@@ -1,0 +1,391 @@
+{
+  "date": "2026-08-05",
+  "notion_page_id": "3b3a41a3-cf9b-81cd-9172-ee59f8a2eb93",
+  "articles": [
+    {
+      "id": "2026-08-05-tech-001",
+      "category": "tech",
+      "title": "Claude Opus 4.1 本日8/5廃止——Claude Code最新動向と移行チェックリスト",
+      "url": "https://qiita.com/homhom44/items/a31f58e90f201b766ba7",
+      "source": "Qiita",
+      "summary": "本日8月5日、Claude Opus 4.1が完全廃止。移行先はOpus 4.8またはOpus 5を推奨。Claude CodeではSonnet 5（1Mコンテキスト）がデフォルトモデルとして稼働中。外部サービス連携コネクタが950種類超に到達。fast modeはOpus 5/4.8専用、/verifyと/code-reviewは手動呼び出し方式に変更済み。50%週次利用ブーストは8/19まで延長。",
+      "size": "大",
+      "selected": true,
+      "tags": ["Claude Code", "Anthropic", "廃止", "AI"]
+    },
+    {
+      "id": "2026-08-05-tech-002",
+      "category": "tech",
+      "title": "AngularはAI志向のフレームワークへ——MCP内蔵・AIエージェント向けプロンプト実装が意味すること",
+      "url": "https://zenn.dev/lacolaco/articles/angular-ai-forward",
+      "source": "Zenn",
+      "summary": "AngularチームがAI優先開発へ舵を切り、MCPサーバーをフレームワーク本体に内蔵。AIチューター・コード品質スコアラー・AIエージェント向けプロンプトセットを公式導入予定。LLMとの統合を強化し、フレームワーク設計自体をAIフレンドリーに改変する方針に転換。",
+      "size": "大",
+      "selected": true,
+      "tags": ["Angular", "AI", "MCP", "フロントエンド"]
+    },
+    {
+      "id": "2026-08-05-tech-003",
+      "category": "tech",
+      "title": "MCP 2026-07-28仕様、Claudeに正式実装——Enterprise認証とステートレス化が同時に来る",
+      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+      "source": "Claude Blog (Anthropic)",
+      "summary": "MCP 2026-07-28仕様がClaude本体に実装される。セッション管理とinitializeハンドシェイクを廃止したステートレス設計により通常のHTTPインフラでの横スケールが可能に。Enterprise-Managed AuthorizationでOkta・Entra IDとのSSO統合も実現。",
+      "size": "中",
+      "selected": true,
+      "tags": ["MCP", "Claude", "Anthropic", "エンタープライズ"]
+    },
+    {
+      "id": "2026-08-05-tech-004",
+      "category": "tech",
+      "title": "Angular 22: Signal Forms・httpResource・Angular AriaがすべてStable——プロダクション移行の判断タイミング",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "source": "Angular Architects",
+      "summary": "Angular 22でSignal Forms・resource/httpResource・Angular Ariaが安定版に昇格。@switchで複数条件マッチとneverキーワードによるコンパイル時エラーチェックも追加。ControlValueAccessorとの後方互換確保でReactive Formsからの段階的移行が現実的に。",
+      "size": "中",
+      "selected": true,
+      "tags": ["Angular", "Signal Forms", "フロントエンド"]
+    },
+    {
+      "id": "2026-08-05-tech-005",
+      "category": "tech",
+      "title": "TSKaigi 2026 発表資料まとめ——「AIとTypeScriptの型安全性の両立」がメインテーマ",
+      "url": "https://zenn.dev/yasse/articles/a7240304af804c",
+      "source": "Zenn",
+      "summary": "日本最大TypeScriptカンファレンスTSKaigi 2026の発表資料まとめ。「コーディングエージェントはTypeScriptの型エラーをどう自己修正しているか」「tsdownで10秒→1秒のビルド高速化」「typescript-goで変わるリンターの世界」など、AIと型安全性の共存がメインテーマ。",
+      "size": "中",
+      "selected": true,
+      "tags": ["TypeScript", "AI", "カンファレンス"]
+    },
+    {
+      "id": "2026-08-05-tech-006",
+      "category": "tech",
+      "title": "Frontend Nation 2026の発表から見る、フロントエンド開発の現在地",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "source": "Zenn",
+      "summary": "Frontend Nation 2026から2026年のフロントエンド現在地を分析。AIエージェント・コンパイラ・フレームワーク・ツールが急進化する中、「良いUI・良いアーキテクチャ・良いコントラクト・良いフィードバックループを作る力」がフロントエンドエンジニアの中心スキルと総括。",
+      "size": "小",
+      "selected": true,
+      "tags": ["フロントエンド", "カンファレンス", "AI"]
+    },
+    {
+      "id": "2026-08-05-tech-007",
+      "category": "tech",
+      "title": "Claude Opus 5 リリース（不採用）",
+      "url": "https://blog.serverworks.co.jp/2026/07/29/190000",
+      "source": "サーバーワークスエンジニアブログ",
+      "summary": "SKIP: 7月24日リリースの記事で鮮度低め。本日の記事でOpus 5の情報はカバー済み。",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-05-tech-008",
+      "category": "tech",
+      "title": "TypeScript 7.0 GA 関連記事（不採用）",
+      "url": "https://www.digitalapplied.com/blog/typescript-7-0-ga-native-compiler-migration-playbook-2026",
+      "source": "Digital Applied",
+      "summary": "SKIP: 8/4に大記事として掲載済みのTS7.0に関する記事。Zenn実測記事も含め除外。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-05-tech-009",
+      "category": "tech",
+      "title": "Signal Forms Production Ready Substack（不採用）",
+      "url": "https://codewithrajat.substack.com/p/signal-forms-are-finally-production",
+      "source": "Code With Rajat",
+      "summary": "SKIP: 8/4に掲載済みのAngular Signal Forms関連記事。",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-05-tech-010",
+      "category": "tech",
+      "title": "EU AI規制8月発効（不採用）",
+      "url": "https://aifriends.jp/eu-ai-act-august-2026-transparency-japan/",
+      "source": "AIフレンズ",
+      "summary": "SKIP: 8/2に大記事として掲載済みのEU AI法関連記事。",
+      "size": "中",
+      "selected": false
+    },
+    {
+      "id": "2026-08-05-news-001",
+      "category": "news",
+      "title": "消費税減税 閣議決定——食品1%・来年4月から2年間、1989年以来初の歴史的減税",
+      "url": "https://www.jiji.com/jc/article?k=2026080500718&g=pol",
+      "source": "時事通信",
+      "summary": "高市早苗政権が8月5日、食料品の消費税を2027年4月から2年間8%→1%に引き下げる基本方針を閣議決定。1989年の消費税導入以来初の実質的な税率引き下げ。関連法案は秋の臨時国会に提出予定。給付付き税額控除の本格導入までの「つなぎ措置」と位置付け。",
+      "size": "大",
+      "selected": true,
+      "tags": ["消費税", "政治", "経済", "減税"]
+    },
+    {
+      "id": "2026-08-05-news-002",
+      "category": "news",
+      "title": "熊本地震1週間続報——死者38人・断水8月末復旧目標・日本製紙9人・イオンモール爆発7人死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196991000",
+      "source": "NHKニュース（複数ソース統合）",
+      "summary": "8月5日時点で死者累計38人、避難者7,269人が継続避難中。断水は約3,200戸で継続、政府は8月末までの配水管復旧を目標設定。日本製紙八代工場で9人死亡（自社社員6・協力会社3）、イオンモール熊本のガス漏れ爆発で7人死亡が確認された。",
+      "size": "大",
+      "selected": true,
+      "tags": ["熊本地震", "復旧", "速報", "断水"],
+      "merged_urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015196431000",
+        "https://news.yahoo.co.jp/articles/658d366ea3701504aacdcc2365b259a2315609ed"
+      ]
+    },
+    {
+      "id": "2026-08-05-news-003",
+      "category": "news",
+      "title": "ホルムズ海峡 イランと早期合意の可能性——原油市場急落",
+      "url": "https://news.livedoor.com/topics/detail/31988622/",
+      "source": "ライブドアニュース（AFP=時事）",
+      "summary": "米財務長官が「今日か明日にも合意が成立する可能性がある」と発言。カタールが仲介した合意案が作成済みで、合意期待から国際原油市場が急落した。実現すれば世界石油輸送の20%を担うホルムズ海峡の緊張が緩和される。",
+      "size": "中",
+      "selected": true,
+      "tags": ["ホルムズ海峡", "イラン", "原油", "国際"]
+    },
+    {
+      "id": "2026-08-05-news-004",
+      "category": "news",
+      "title": "台湾 頼総統「最大の脅威は中国の威圧的行動」——日本との連携強化を訴え",
+      "url": "https://japan.focustaiwan.tw/politics/202608040002",
+      "source": "フォーカス台湾",
+      "summary": "頼清徳総統が自民党青年局代表団との会見で踏み込んだ発言。台湾と日本が共有する安全保障上の脅威認識を明確にし、民主主義陣営としての連帯を呼びかけた。金門島周辺での中国海警局の活発化を念頭に置いた発言。",
+      "size": "中",
+      "selected": true,
+      "tags": ["台湾", "中国", "安全保障", "国際"]
+    },
+    {
+      "id": "2026-08-05-news-005",
+      "category": "news",
+      "title": "北陸・東北 梅雨明け——熊本など危険な暑さ・台風も警戒",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/08/05/40014.html",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "気象庁が本日北陸と東北の梅雨明けを発表。熊本など九州〜東海では最高気温40℃に迫る危険な暑さ。被災地での断水×猛暑の複合リスクが深刻。台風の接近にも注意が必要。",
+      "size": "小",
+      "selected": true,
+      "tags": ["気象", "梅雨明け", "熊本地震", "熱中症"]
+    },
+    {
+      "id": "2026-08-05-news-006",
+      "category": "news",
+      "title": "ロシア、1年ぶり北朝鮮製ミサイルでウクライナ攻撃",
+      "url": "https://www.newsweekjapan.jp/articles/-/329904",
+      "source": "ニューズウィーク日本版（ロイター）",
+      "summary": "ゼレンスキー大統領が発表。中部クリブイリフへの攻撃で子ども含む一家5人が死亡。北朝鮮のロシア軍事支援（数百万発の砲弾・ミサイル）が継続していることが確認された。",
+      "size": "小",
+      "selected": true,
+      "tags": ["ロシア", "ウクライナ", "北朝鮮", "国際"]
+    },
+    {
+      "id": "2026-08-05-entertainment-001",
+      "category": "entertainment",
+      "title": "映画ちいかわ 公開10日で動員305万人・興収44億円——「コナン超え」の衝撃スタート",
+      "url": "https://www.oricon.co.jp/news/2471657/full/",
+      "source": "ORICON NEWS",
+      "summary": "7月24日公開の「映画ちいかわ 人魚の島のひみつ」が公開10日間で動員305万人・興収44億円を突破。初日興収9.9億円は「名探偵コナン 100万ドルの五稜星」の初日記録を超えた。SNS発IPが映画産業の頂点に立った事例。",
+      "size": "中",
+      "selected": true,
+      "tags": ["映画", "ちいかわ", "興収", "IP"]
+    },
+    {
+      "id": "2026-08-05-entertainment-002",
+      "category": "entertainment",
+      "title": "スパイダーマン「ブランド・ニュー・デイ」日本初日5.6億・世界史上2位のオープニング記録",
+      "url": "https://www.cinemacafe.net/article/2026/08/03/111446.html",
+      "source": "cinemacafe.net",
+      "summary": "7月31日日米同時公開のMCU新作が日本初日5億6543万円で2026年洋画No.1を達成。世界全体では9.2億ドル超の歴史的オープニングで映画史上2位を記録。MCUフランチャイズのグローバル集客力が健在であることを示した。",
+      "size": "中",
+      "selected": true,
+      "tags": ["映画", "スパイダーマン", "MCU", "興収"]
+    },
+    {
+      "id": "2026-08-05-entertainment-003",
+      "category": "entertainment",
+      "title": "Stray Kids「THIS & THAT」明日8/7リリース——3RACHAが全8曲プロデュース",
+      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260726/stray-kids-to-drop-digital-album-ahead-of-new-ep",
+      "source": "The Korea Times",
+      "summary": "10枚目ミニアルバム「THIS & THAT」が明日8月7日午後1時リリース。Bang Chan・Changbin・HanによるSTRAYRACHAが全8曲を手がける。6月21日発表以降「2026 STAYweeK」として段階的プロモーションを展開してきた集大成。",
+      "size": "中",
+      "selected": true,
+      "tags": ["Stray Kids", "K-POP", "新アルバム"]
+    },
+    {
+      "id": "2026-08-05-entertainment-004",
+      "category": "entertainment",
+      "title": "TXT「セツナハナビ」神宮外苑花火大会で最速初披露（8/8）——日本5thシングル発売前イベント",
+      "url": "https://news.yahoo.co.jp/articles/9c7fd3e869d007f2f11cb9e5ff8ae98acfbd4722",
+      "source": "Yahoo!ニュース（Kstyle）",
+      "summary": "TXTが8月8日「2026神宮外苑花火大会」でコラボパフォーマンスを実施。日本5thシングルタイトル曲「セツナハナビ」を花火メドレーで最速公開予定。先行曲「Nice to Meet Ya」は8月3日から配信中。シングル本体は8月19日リリース。",
+      "size": "中",
+      "selected": true,
+      "tags": ["TXT", "K-POP", "花火", "日本活動"]
+    },
+    {
+      "id": "2026-08-05-entertainment-005",
+      "category": "entertainment",
+      "title": "Ado「モンストロ」明日8/7配信リリース（ブルーロック主題歌）",
+      "url": "https://www.billboard-japan.com/d_news/detail/163475",
+      "source": "Billboard JAPAN",
+      "summary": "Adoが実写映画「ブルーロック」主題歌「モンストロ」を映画公開日8月7日に配信リリース。Giga & TeddyLoid作編曲、ryo（supercell）作詞。スペイン語で「怪物」の意。",
+      "size": "小",
+      "selected": true,
+      "tags": ["Ado", "ブルーロック", "音楽"]
+    },
+    {
+      "id": "2026-08-05-entertainment-006",
+      "category": "entertainment",
+      "title": "ミニオンズ&モンスターズ 明日8/7公開",
+      "url": "https://hollywoodreporter.jp/news/192782/",
+      "source": "THR Japan",
+      "summary": "人気アニメシリーズ「ミニオンズ」最新作が8月7日に日本公開。松平健×山寺宏一が吹替参加。実写ブルーロックとの同日興行対決が夏の映画市場の焦点に。",
+      "size": "小",
+      "selected": true,
+      "tags": ["映画", "ミニオンズ", "アニメ"]
+    },
+    {
+      "id": "2026-08-05-entertainment-007",
+      "category": "entertainment",
+      "title": "BOYNEXTDOOR 日本語シングル「Boom Boom Boom」8/18配信・K-Arena横浜初ライブ",
+      "url": "https://www.billboard-japan.com/d_news/detail/164151",
+      "source": "Billboard JAPAN",
+      "summary": "BOYNEXTDOORが8月18日に2作目の日本語オリジナル曲「Boom Boom Boom」を配信。8月21〜23日にK-Arena横浜で初ジャパンライブ。K-POPの次世代グループが日本市場に本格展開。",
+      "size": "小",
+      "selected": true,
+      "tags": ["BOYNEXTDOOR", "K-POP", "日本活動"]
+    },
+    {
+      "id": "2026-08-05-entertainment-008",
+      "category": "entertainment",
+      "title": "まどか☆マギカ「ワルプルギスの廻天」（8/4掲載済みのため不採用）",
+      "url": "https://news.yahoo.co.jp/articles/f24bd022ea2aa8b56c413decbbb7d2a5e0179cf4",
+      "source": "Yahoo!ニュース（映画.com）",
+      "summary": "SKIP: 8/4に中記事として掲載済み。同内容のため除外。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-05-entertainment-009",
+      "category": "entertainment",
+      "title": "ENHYPEN カムバック「THE SIN: BLISS」8/21（不採用）",
+      "url": "https://daebak.tokyo/2026/06/18/enhypen-august-comeback/",
+      "source": "デバク",
+      "summary": "SKIP: 6月記事で鮮度低め。他エンタメ記事優先。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-05-hobby-001",
+      "category": "hobby",
+      "title": "ソニー FE 100-400mm F5.6-8 OSS 発売日9月4日・国内14万円前後確定——予約受付8/18から",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2130342.html",
+      "source": "デジカメWatch",
+      "summary": "昨日正式発表のレンズの詳細判明。発売日は9月4日、市場推定価格14万円前後、予約受付開始8月18日。重量約654g。SEL14TC/SEL20TCのテレコンバーターに対応。欧州€899の国内価格が確定した。",
+      "size": "中",
+      "selected": true,
+      "tags": ["ソニー", "カメラ", "レンズ", "発売日"]
+    },
+    {
+      "id": "2026-08-05-hobby-002",
+      "category": "hobby",
+      "title": "STEINS;GATE RE:BOOT 8/20発売——全ボイス新録・新世界線・E-moteアニメーション導入",
+      "url": "https://steinsgate.jp/reboot/ja-jp/",
+      "source": "STEINS;GATE RE:BOOT公式",
+      "summary": "シュタインズ・ゲートの大型リブート版が8月20日にPS5・Switch 2・PC・Xbox等で発売。グラフィックス全面刷新、全ボイス新録、E-moteリアルタイムアニメーション導入、新世界線と新エンディング追加。初回版に「変移空間のオクテット」DLコード同梱。",
+      "size": "中",
+      "selected": true,
+      "tags": ["STEINS;GATE", "ゲーム", "Switch 2", "PS5"]
+    },
+    {
+      "id": "2026-08-05-hobby-003",
+      "category": "hobby",
+      "title": "エルデンリング Tarnished Edition Switch 2版 8/28発売——DLC収録の完全版が携帯機で初登場",
+      "url": "https://news.yahoo.co.jp/articles/c63d283b95fb0ffb5ff58182247a8de5404bd1ed",
+      "source": "Yahoo!ニュース（ファミ通.com）",
+      "summary": "Nintendo Switch 2向け「エルデンリング Tarnished Edition」が8月28日に発売。本編に加え大型DLC「SHADOW OF THE ERDTREE」・新防具4種・新素性2種を収録した全部入り版。価格9,020円（税込）。",
+      "size": "中",
+      "selected": true,
+      "tags": ["エルデンリング", "Switch 2", "ゲーム"]
+    },
+    {
+      "id": "2026-08-05-hobby-004",
+      "category": "hobby",
+      "title": "MARVEL Tōkon: Fighting Souls 明日8/7発売",
+      "url": "https://blog.ja.playstation.com/2026/02/13/20260213-mtfs/",
+      "source": "PlayStation Blog",
+      "summary": "マーベル×アークシステムワークス×PlayStation Studios共同開発の4対4タッグ格闘ゲームが8月7日にPS5・PCで発売。20キャラクター収録、初心者向けシンプル操作モード搭載。",
+      "size": "小",
+      "selected": true,
+      "tags": ["MARVEL", "ゲーム", "格闘", "PS5"]
+    },
+    {
+      "id": "2026-08-05-hobby-005",
+      "category": "hobby",
+      "title": "ほっともっと「プレミアム牛肉黒カレー」本日発売——6種スパイス使用",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2128404.html",
+      "source": "グルメWatch",
+      "summary": "6種のスパイスと牛肉・玉ねぎを使った「プレミアム牛肉黒カレー」が8月5日に新発売。ロースカツ・3種チーズなど4種のトッピングメニューも展開。弁当チェーンでもスパイスにこだわった本格カレーが広がる。",
+      "size": "小",
+      "selected": true,
+      "tags": ["カレー", "スパイスカレー", "新商品"]
+    },
+    {
+      "id": "2026-08-05-hobby-006",
+      "category": "hobby",
+      "title": "Beast of Reincarnation（ゲームフリーク新IP）PS5/PC 発売",
+      "url": "https://news.denfaminicogamer.jp/news/2608042v",
+      "source": "でんふぁみにこげーまー",
+      "summary": "ポケモン開発元・ゲームフリークの完全新作アクションRPG「Beast of Reincarnation」が8月4日にPS5・Xbox Series X|S・PCで発売。荒廃した未来の日本舞台に穢れ人の少女と犬が共闘するアクションRPG。",
+      "size": "小",
+      "selected": true,
+      "tags": ["ゲームフリーク", "ゲーム", "PS5", "新IP"]
+    },
+    {
+      "id": "2026-08-05-hobby-007",
+      "category": "hobby",
+      "title": "ソニー FX5 Cinema Line（不採用）",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2127017.html",
+      "source": "デジカメWatch",
+      "summary": "SKIP: プロ向けシネマカメラで価格81〜90万円台。ユーザーの優先度低め。",
+      "size": "小",
+      "selected": false
+    },
+    {
+      "id": "2026-08-05-serendipity-001",
+      "category": "news",
+      "title": "【セレンディピティ】ホルムズ合意の可能性 × スパイスカレー——深掘りトピック「イラン情勢」と食文化の交差点",
+      "url": "https://news.livedoor.com/topics/detail/31988622/",
+      "source": "ライブドアニュース（AFP=時事）",
+      "summary": "ホルムズ海峡の緊張緩和はスパイス供給安定化にも影響する。イランはサフランの世界生産の90%以上を占め、クミン・フェネグリーク等も湾岸地域から輸入される。世界情勢と日常の食文化が繋がっている意外な視点。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "deep_dive_topicの「イラン情勢・エネルギー市場」と趣味の「スパイスカレー」を繋げる視点。地政学と食文化の意外な交差点。"
+    },
+    {
+      "id": "2026-08-05-serendipity-002",
+      "category": "news",
+      "title": "【セレンディピティ】1989年以来初の消費税減税——37年間変わらなかった「仕様」が変わる日",
+      "url": "https://www.jiji.com/jc/article?k=2026080500718&g=pol",
+      "source": "時事通信",
+      "summary": "消費税導入1989年=ファミコン最盛期。37年後の減税=システム改修という逆説。会計ソフト・POS・Eコマースのシステム更新コストが発生し、歴史的な減税がエンジニアの仕事を増やすという皮肉な現実。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "「変更不可能だった仕様が変わる」というエンジニアの経験と重ねた歴史的減税の見方。1989年=消費税導入×ゲーム黄金期という時代の転換点の並列。"
+    },
+    {
+      "id": "2026-08-05-serendipity-003",
+      "category": "entertainment",
+      "title": "【セレンディピティ】ちいかわが10日で44億円——SNS発IPが映画産業の「老舗IP」に勝った日",
+      "url": "https://www.oricon.co.jp/news/2471657/full/",
+      "source": "ORICON NEWS",
+      "summary": "2020年X（旧Twitter）発のwebマンガが映画でコナン超え。SNSのバイラルから育ったキャラクターIPが既存の老舗フランチャイズと正面から戦えるフェーズに突入した。エンタメ業界で企画に携わる立場から「どこでIPを育てるか」の基準が更新されている。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "エンタメ業界勤務として、ちいかわのIP成長曲線はSNSからの映画化成功モデルの教科書。企画担当者として見ておくべき事例。"
+    }
+  ]
+}
