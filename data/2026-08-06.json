@@ -1,0 +1,353 @@
+{
+  "date": "2026-08-06",
+  "notion_page_id": "3b4a41a3-cf9b-8179-96e1-e95f3c8591a3",
+  "articles": [
+    {
+      "id": "2026-08-06-tech-001",
+      "category": "tech",
+      "title": "Angular Signal-First Era 確立——Signal Forms・Zoneless・OnPushが全て本番投入可能に",
+      "url": "https://javascript.plainenglish.io/signal-forms-are-finally-production-ready-in-angular-22-heres-what-changes-part-2-a2a092eba48f",
+      "source": "JavaScript in Plain English（Medium クロスリファレンス）",
+      "summary": "Angular 22でSignal FormsがProduction Ready昇格。Zoneless Change DetectionとOnPushがデフォルト化し「2つのリアクティビティ方言問題」解消。Signal-First設計がAIコード生成の精度向上にも貢献。新規プロジェクトは完全Signal-Firstで開始可能に。",
+      "size": "大",
+      "selected": true,
+      "tags": ["Angular", "Signal Forms", "Zoneless", "フロントエンド"],
+      "merged_urls": [
+        "https://medium.com/@marcomatto/angular-22-embracing-the-signal-first-era-b1c8803acea6"
+      ]
+    },
+    {
+      "id": "2026-08-06-tech-002",
+      "category": "tech",
+      "title": "Claude Code v2.1.219——`sandbox.network.strictAllowlist` でネットワーク制御強化（クラウド環境では未対応）",
+      "url": "https://qiita.com/kai_kou/items/9032a534a15a1eb55bae",
+      "source": "Qiita",
+      "summary": "v2.1.219追加の`sandbox.network.strictAllowlist`は許可リスト外ホストへの通信を強制遮断できる設定。ローカル環境では機能確認済みだが、クラウド環境では未対応の制限あり。同バージョンで`DirectoryAdded`フックも追加。",
+      "size": "中",
+      "selected": true,
+      "tags": ["Claude Code", "セキュリティ", "設定"]
+    },
+    {
+      "id": "2026-08-06-tech-003",
+      "category": "tech",
+      "title": "Claude Code `/checkup` コマンド——診断から自動修正まで一括実行",
+      "url": "https://zenn.dev/shirochan/articles/a24092cfebefa0",
+      "source": "Zenn",
+      "summary": "v2.1.205から追加の`/checkup`（旧`/doctor`）コマンド詳細解説。未使用スキル/MCPクリーンアップ・重複CLAUDE.md除去・遅いフック無効化・最新版更新を一括実行。定期メンテナンスコストを大幅削減。",
+      "size": "中",
+      "selected": true,
+      "tags": ["Claude Code", "開発ツール"]
+    },
+    {
+      "id": "2026-08-06-tech-004",
+      "category": "tech",
+      "title": "AIはなぜTypeScriptの普及を加速するか——GitHubがデータで解説",
+      "url": "https://www.publickey1.jp/blog/26/aitypescriptgithub.html",
+      "source": "Publickey",
+      "summary": "GitHubがAIコード生成と型付き言語の相関を分析。TypeScriptで生成精度が高くハルシネーションが少ない事実をデータで示し、TypeScriptがGitHubでPythonを抜きトップへ。AI×TypeScriptの正のフィードバックループを解説。",
+      "size": "中",
+      "selected": true,
+      "tags": ["TypeScript", "AI", "GitHub", "フロントエンド"]
+    },
+    {
+      "id": "2026-08-06-tech-005",
+      "category": "tech",
+      "title": "Vite 8.0 正式リリース——RustベースのRolldown採用でビルドが最大30倍高速化",
+      "url": "https://www.publickey1.jp/blog/26/vite_80rustrolldown.html",
+      "source": "Publickey",
+      "summary": "Vite 8.0でRustベースバンドラ「Rolldown」を採用し開発・本番のデュアルバンドラを一本化。本番ビルドが10〜30倍高速化。Linear社では46秒→6秒。既存Rollupプラグインとの互換性は維持。",
+      "size": "小",
+      "selected": true,
+      "tags": ["Vite", "Rolldown", "ビルドツール", "フロントエンド"]
+    },
+    {
+      "id": "2026-08-06-news-001",
+      "category": "news",
+      "title": "広島 原爆の日 81周年——過去最多123か国参列、松井市長「核兵器のない世界は遠のくばかり」",
+      "url": "https://www.nikkei.com/article/DGXZQOCC051HA0V00C26A8000000/",
+      "source": "日本経済新聞（中国新聞デジタル 複数ソース統合）",
+      "summary": "8月6日、広島平和記念公園で式典。過去最多の123か国・地域とEUが参列。松井市長がNPT再検討会議合意失敗に言及し核廃絶機運の後退に警告。高市首相は非核三原則を「政策上堅持する」と明言。",
+      "size": "大",
+      "selected": true,
+      "tags": ["広島", "原爆の日", "平和", "核廃絶"],
+      "merged_urls": [
+        "https://www.chugoku-np.co.jp/articles/-/875850",
+        "https://www.jiji.com/jc/article?k=2026080600425&g=pol"
+      ]
+    },
+    {
+      "id": "2026-08-06-news-002",
+      "category": "news",
+      "title": "イラン情勢急展開——「米艦船を攻撃する」と予告しつつオマーンとの新航路交渉が最終段階へ",
+      "url": "https://news.yahoo.co.jp/articles/a4cd00ef987fa429a8a821fc690f638354a3d976",
+      "source": "Yahoo!ニュース（AFP=時事・AP通信・JOGMEC 複数ソース統合）",
+      "summary": "イランが米艦船への攻撃を予告しつつ、オマーンを仲介とした新航路設定交渉は最終段階と発表。強硬姿勢と外交交渉の「二面作戦」が鮮明化。ゴールドマンが原油価格見通しを引き上げ、封鎖継続シナリオで150ドルとの試算も。",
+      "size": "大",
+      "selected": true,
+      "tags": ["イラン", "ホルムズ海峡", "エネルギー市場", "国際"],
+      "merged_urls": [
+        "https://news.yahoo.co.jp/articles/fd37bf010b96114e7a97b28a9b028062bf4b3e9b",
+        "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02134.html"
+      ]
+    },
+    {
+      "id": "2026-08-06-news-003",
+      "category": "news",
+      "title": "台風13号——大型で非常に強く、8〜9日沖縄本島に長時間の暴風",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1896614",
+      "source": "沖縄タイムス",
+      "summary": "大型・非常に強い台風13号が8月6日夜に大東島に最接近（中心気圧950hPa、最大風速40m/s）。移動速度が遅く7〜9日にかけて沖縄本島に長時間の暴風。熊本地震との複合災害として九州南部への影響も懸念。",
+      "size": "中",
+      "selected": true,
+      "tags": ["台風", "沖縄", "気象", "自然災害"]
+    },
+    {
+      "id": "2026-08-06-news-004",
+      "category": "news",
+      "title": "秋田に日本最大級AIデータセンター——UAE政府系ファンドが最大1兆円投資、整備費2兆円規模",
+      "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+      "source": "日本経済新聞",
+      "summary": "再エネ豊富な秋田市に最大受電容量500MWのAI向けデータセンター建設計画。UAEのムバダラ・インベストメントが数千億〜1兆円の投資を検討中。2030年代早期稼働目標。地方都市への外国資本流入モデルとして注目。",
+      "size": "中",
+      "selected": true,
+      "tags": ["AI", "データセンター", "UAE", "投資", "秋田"]
+    },
+    {
+      "id": "2026-08-06-news-005",
+      "category": "news",
+      "title": "熊本地震 余震継続——8月6日午前に天草・芦北でM4.1、避難者7122人に",
+      "url": "https://typhoon.yahoo.co.jp/weather/jp/earthquake/20260806075928.html",
+      "source": "Yahoo!天気・災害",
+      "summary": "8月6日午前7時59分に天草・芦北でM4.1の余震。避難者は7,122人（8/1比2,106人減）。金子国交相が8月末までの断水解消を表明。地震から10日を経ても余震活動が継続中。",
+      "size": "小",
+      "selected": true,
+      "tags": ["熊本地震", "余震", "復旧"]
+    },
+    {
+      "id": "2026-08-06-news-006",
+      "category": "news",
+      "title": "消費税減税制度の詳細——食料品1%・残る1%は現金給付で「実質ゼロ化」、9月に税制改正大綱",
+      "url": "https://taxlabor.com/shouhizei-genzei-2026-takaichi-itsu/",
+      "source": "税理士解説メディア（taxlabor.com）",
+      "summary": "2027年4月から2年間の食料品消費税8%→1%引き下げの制度設計が判明。残る1%分は中低所得者向け現金給付で実質ゼロ化。9月に税制改正大綱、秋の臨時国会で法案審議予定。",
+      "size": "小",
+      "selected": true,
+      "tags": ["消費税", "減税", "税制"]
+    },
+    {
+      "id": "2026-08-06-news-007",
+      "category": "news",
+      "title": "日経平均617円安・実質賃金6か月連続プラス——円高圧力で株反落",
+      "url": "https://kabushiki.jp/news/761701",
+      "source": "株式新聞Web",
+      "summary": "6月の現金給与総額が前年比+3.4%、実質賃金も+1.6%（6か月連続プラス）と好調。しかし円高圧力が強まり日経平均は617円安の65,683円。日銀の政策判断に影響が予想される。",
+      "size": "小",
+      "selected": true,
+      "tags": ["経済", "日経平均", "実質賃金", "円高"]
+    },
+    {
+      "id": "2026-08-06-news-008",
+      "category": "news",
+      "title": "改正労災法が成立——療養補償の消滅時効を2年から5年に延長、2027年4月施行",
+      "url": "https://www.rodo.co.jp/news/222888/",
+      "source": "労働新聞",
+      "summary": "難治性疾患の労災補償請求権の消滅時効を2年から5年に延長する改正法が成立。熊本地震被災者への対応が立法背景の一つ。2027年4月1日施行。",
+      "size": "小",
+      "selected": true,
+      "tags": ["労災", "法改正", "熊本地震"]
+    },
+    {
+      "id": "2026-08-06-entertainment-001",
+      "category": "entertainment",
+      "title": "TXTヨンジュン、NY「Z100 Summer Bash」で韓国アーティスト初の単独出演——米ソロ活動が本格始動",
+      "url": "https://www.rbbtoday.com/article/2026/08/06/251666.html",
+      "source": "RBB TODAY",
+      "summary": "本日8月6日、NYハドソン・ヤードでiHeartRadio「Z100 Summer Bash 2026」にヨンジュンが登場。チャーリー・プース、ベラ・ケイらと共演。8/12にBillboard One Night Only単独公演、8/13ドジャー・スタジアム始球式と米ソロ活動が本格化。",
+      "size": "中",
+      "selected": true,
+      "tags": ["TXT", "ヨンジュン", "K-POP", "グローバル", "NYC"]
+    },
+    {
+      "id": "2026-08-06-entertainment-002",
+      "category": "entertainment",
+      "title": "Stray Kids「THIS & THAT」本日リリース——3RACHAプロデュース全8曲、グローバル初動に注目",
+      "url": "https://seoulcurrent.com/en/articles/stray-kids-this-and-that-release-date-2026/",
+      "source": "Seoul Current",
+      "summary": "10枚目ミニアルバム「THIS & THAT」が8月7日13時KSTにリリース。スタジアムツアー後初の全員カムバックで3RACHAが全曲プロデュース。シネマティックな世界観を継続した全8曲の初動チャート成績に注目。",
+      "size": "中",
+      "selected": true,
+      "tags": ["Stray Kids", "K-POP", "カムバック"]
+    },
+    {
+      "id": "2026-08-06-entertainment-003",
+      "category": "entertainment",
+      "title": "Netflix「百年の孤独」パート2 昨日配信開始——全7話でブエンディア一族の物語が完結へ",
+      "url": "https://about.netflix.com/ja/news/the-second-part-of-one-hundred-years-of-solitude-will-arrive-in-august-2026",
+      "source": "Netflix公式",
+      "summary": "ガルシア=マルケスのノーベル賞原作ドラマ完結編が8月5日より全7話同時配信開始。8月26日には特別最終エピソードも配信予定。グローバルIPの映像化事例として追跡する価値のある作品。",
+      "size": "中",
+      "selected": true,
+      "tags": ["Netflix", "百年の孤独", "グローバルIP", "ドラマ"]
+    },
+    {
+      "id": "2026-08-06-entertainment-004",
+      "category": "entertainment",
+      "title": "ブルーロック実写 明日8/7公開・初日舞台挨拶——12名が全国71劇場で同時生中継",
+      "url": "https://movie.sasaru.media/article/20260804_001/",
+      "source": "SASARU movie",
+      "summary": "高橋文哉・高橋恭平・K（&TEAM）ら12名が初日舞台挨拶を全国71劇場へ同時生中継。IMAX同時公開も。SNS発人気漫画原作の大型実写化の興行成績として注目。",
+      "size": "小",
+      "selected": true,
+      "tags": ["ブルーロック", "映画", "実写化"]
+    },
+    {
+      "id": "2026-08-06-entertainment-005",
+      "category": "entertainment",
+      "title": "BIGBANG「XX : COSMOS」ワールドツアー8/21開幕直前——3人で全19都市33公演、日本は11月ドーム10公演",
+      "url": "https://www.rbbtoday.com/article/2026/08/04/251560.html",
+      "source": "RBB TODAY",
+      "summary": "結成20周年ワールドツアー「XX : COSMOS」が8月21日に韓国・高陽で開幕。G-DRAGON・TAEYANG・D-LITEの3人で全19都市33公演。日本公演は11月より4大ドームで10公演予定。約9年ぶりのワールドツアー。",
+      "size": "小",
+      "selected": true,
+      "tags": ["BIGBANG", "K-POP", "ワールドツアー"]
+    },
+    {
+      "id": "2026-08-06-entertainment-006",
+      "category": "entertainment",
+      "title": "Re:ゼロ 4th season 本予告PV本日解禁——8月12日放送開始",
+      "url": "https://animeanime.jp/article/2026/08/06/101766.html",
+      "source": "アニメ！アニメ！",
+      "summary": "「Re:ゼロ 4th season 奪還編」本予告PVが8月6日公開。8月8日よりABEMAでキャストコメンタリー付き全話一挙配信、8月12日より全国21局で本放送開始。",
+      "size": "小",
+      "selected": true,
+      "tags": ["Re:ゼロ", "アニメ", "2026夏アニメ"]
+    },
+    {
+      "id": "2026-08-06-entertainment-007",
+      "category": "entertainment",
+      "title": "ENHYPEN、6人体制で8/21カムバック「THE SIN : BLISS」——ヒスン脱退後初の新作",
+      "url": "https://koreawave.jp/enhypen%E3%80%818%E6%9C%8821%E6%97%A5%E3%81%AB8%E6%9E%9A%E7%9B%AE%E3%81%AE%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%81%A7%E3%82%AB%E3%83%A0%E3%83%90%E3%83%83%E3%82%AF/",
+      "source": "KOREA WAVE",
+      "summary": "ヒスン脱退後初のカムバックが8月21日に決定。8thミニアルバム「THE SIN : BLISS」は「THE SIN」シリーズ第2章。7か月ぶりの新作で6人体制での新スタートに注目。",
+      "size": "小",
+      "selected": true,
+      "tags": ["ENHYPEN", "K-POP", "カムバック"]
+    },
+    {
+      "id": "2026-08-06-entertainment-008",
+      "category": "entertainment",
+      "title": "亀梨和也「手紙」本日放送開始——東野圭吾原作×テレビ東京系、2026年夏ドラマ戦線が本格始動",
+      "url": "https://news.yahoo.co.jp/articles/4e0dcae7efc5478f60f60a70fe2033ea2bb78eaa",
+      "source": "Yahoo!ニュース（映画ナタリー）",
+      "summary": "東野圭吾原作の人間ドラマ「手紙」が8月6日よりテレビ東京系で放送開始。亀梨和也（KAT-TUN）主演。複数作品の夏ドラマが今日から同時スタートし、2026年夏ドラマ戦線が本格化。",
+      "size": "小",
+      "selected": true,
+      "tags": ["ドラマ", "東野圭吾", "亀梨和也", "夏ドラマ"]
+    },
+    {
+      "id": "2026-08-06-hobby-001",
+      "category": "hobby",
+      "title": "ソニー RX10 V 7月31日発売——9年ぶり刷新、24-600mm F2.4-4.0にAI被写体認識AF搭載",
+      "url": "https://asobinet.com/sony-rx10-v-dsc-rx10m5-officially-announced/",
+      "source": "とるなら（asobinet.com）",
+      "summary": "ツァイスバリオゾナーT* 24-600mm搭載の1.0型積層型センサー機が9年ぶり刷新。BIONZとAIプロセッシングユニットで被写体認識AF大幅向上。野鳥・風景・旅行まで1台完結。実勢価格36.3万円前後。",
+      "size": "中",
+      "selected": true,
+      "tags": ["ソニー", "カメラ", "RX10", "高倍率ズーム"]
+    },
+    {
+      "id": "2026-08-06-hobby-002",
+      "category": "hobby",
+      "title": "スパイスカレーフェス2連発——阪神梅田・伊勢丹新宿が8/19〜24に同時開催",
+      "url": "https://f-weeklyweb.com/kansai20260805-4/",
+      "source": "フードウイークリーWEB（PR TIMES クロスリファレンス）",
+      "summary": "「阪神のスパイスカレー博覧会2026」は全国15店舗が3ローテ制（梅田本店）。「ISETAN カレーフェス 2026」は38ブランド集結でミシュランビブグルマン店も参加（新宿本館6F）。両者が同期間に開催するのは初。",
+      "size": "中",
+      "selected": true,
+      "tags": ["スパイスカレー", "フェス", "大阪", "東京"],
+      "merged_urls": [
+        "https://prtimes.jp/main/html/rd/p/000003098.000008372.html"
+      ]
+    },
+    {
+      "id": "2026-08-06-hobby-003",
+      "category": "hobby",
+      "title": "ソニー α7C III リーク情報浮上——45MP説・AI AF強化・4K60fps改善が有力",
+      "url": "https://www.minnacamera.com/mags/5784",
+      "source": "みんなのカメラ",
+      "summary": "未発表のα7C III（仮称）について複数リーク情報が浮上。有効画素数45MP説と33〜36MP説が並立。AI支援AFの強化と4K60fps改善が注目点。発売時期は2026年後半〜2027年との見方が優勢。",
+      "size": "小",
+      "selected": true,
+      "tags": ["ソニー", "カメラ", "α7C III", "リーク"]
+    },
+    {
+      "id": "2026-08-06-hobby-004",
+      "category": "hobby",
+      "title": "Once Human PS5/Xbox版 8/26基本無料リリース——終末オープンワールドサバイバル、コンシューマー初上陸",
+      "url": "https://www.4gamer.net/games/926/G092653/20260710004/",
+      "source": "4Gamer.net",
+      "summary": "NetEase開発の人気PCサバイバル「Once Human」がPS5・Xbox Series X|Sに8月26日基本無料で登場。新規一人称視点モード追加、クロスプレイ・クロスプログレッション対応。",
+      "size": "小",
+      "selected": true,
+      "tags": ["ゲーム", "PS5", "オープンワールド", "基本無料"]
+    },
+    {
+      "id": "2026-08-06-hobby-005",
+      "category": "hobby",
+      "title": "ファミレス夏カレーまとめ——ジョナサン「情熱レッドカレー」・ロイヤルホスト7年ぶり復活「カシミール」など",
+      "url": "https://entabe.jp/61065/2026-aug-famires-curry-matome",
+      "source": "えん食べ",
+      "summary": "ジョナサン「海老と夏野菜の情熱レッドカレー」（〜9/2）、ロイヤルホスト7年ぶり復活「Good JAPAN夏のカレーフェア」（カシミールカレー含む4種）など各チェーンのスパイシー夏メニューを一覧。",
+      "size": "小",
+      "selected": true,
+      "tags": ["スパイスカレー", "カシミール", "ファミレス", "グルメ"]
+    },
+    {
+      "id": "2026-08-06-hobby-006",
+      "category": "hobby",
+      "title": "DJI 表参道フラッグシップストア 秋オープン予定——Hasselblad統合体験エリアと屋内フライト体験",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2126303.html",
+      "source": "デジカメ Watch",
+      "summary": "DJIが東京・表参道に日本初のフラッグシップストアを2026年秋にオープン予定。Hasselblad統合体験エリアと屋内フライト体験エリアを設置。東京・大阪・名古屋でのオフライン展開を加速。",
+      "size": "小",
+      "selected": true,
+      "tags": ["DJI", "カメラ", "Hasselblad", "ドローン"]
+    },
+    {
+      "id": "2026-08-06-serendipity-001",
+      "category": "news",
+      "title": "【セレンディピティ】「核の記憶」をAIはどう継承するか——広島81年に考えるアーカイブ設計の問い",
+      "url": "https://www.nikkei.com/article/DGXZQOCC051HA0V00C26A8000000/",
+      "source": "日本経済新聞（クロスリファレンス）",
+      "summary": "広島には被爆証言をAIが再現する「デジタルアーカイブ」の試みがある。「いつ作られたコンテンツが、いつ誰に届くか」という問いは映画・音楽・ゲームだけでなく歴史的記憶にも共通する設計課題だ。エンタメ業界でコンテンツアーカイブを設計するエンジニアとして考えたい視点。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "8月6日の最重要ニュース（広島原爆の日）をエンジニア×エンタメ業界の「アーカイブ設計」という切り口で接続。サカナクションの過去記事との連続性もある。"
+    },
+    {
+      "id": "2026-08-06-serendipity-002",
+      "category": "entertainment",
+      "title": "【セレンディピティ】ヨンジュンがZ100のステージに立った日——K-POPが「ハリウッドの隣」に座った構造",
+      "url": "https://www.rbbtoday.com/article/2026/08/06/251666.html",
+      "source": "RBB TODAY（クロスリファレンス）",
+      "summary": "K-POPが「ニッチな輸出コンテンツ」から「主流のグローバルポップ」へシフトした背景には、Weverse等のデジタル直接接触設計とTikTok/YouTubeのアルゴリズム最適化がある。エンタメ業界でIPの海外展開を考える際に「K-POPはなぜ成功したか」は必修の参照点。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "ヨンジュンのZ100出演を「エンタメのグローバル化の構造変化」として読む視点。企画職として重要な産業分析。"
+    },
+    {
+      "id": "2026-08-06-serendipity-003",
+      "category": "tech",
+      "title": "【セレンディピティ】UAEマネーが秋田へ向かう地政学——ホルムズ緊張とエネルギー地政学の逆流現象",
+      "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+      "source": "日本経済新聞（クロスリファレンス）",
+      "summary": "ホルムズ海峡の主要輸出国・UAEが秋田の再エネ基地にAI投資する逆説。化石燃料→デジタルインフラへの資本転換を「地政学の逆流」として読むと、スパイスカレーの材料費とAIサーバーが同じ資本フローに繋がっている世界が見える。",
+      "size": "中",
+      "selected": true,
+      "serendipity": true,
+      "serendipity_reason": "イラン情勢（deep_dive_topic）・秋田AIデータセンター・スパイスカレー趣味を結ぶ地政学トライアングル。"
+    }
+  ]
+}
