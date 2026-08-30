@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-24",
+  "notion_page_id": "3c6a41a3-cf9b-811d-a087-ca0439e50c43",
+  "fetched_at": "2026-08-25T00:00:00Z",
+  "checkboxes": {
+    "tech_good": false,
+    "news_good": false,
+    "entertainment_good": false,
+    "hobby_good": false,
+    "serendipity_good": false,
+    "more_deep_dive": false,
+    "too_many": false,
+    "too_few": false
+  },
+  "comments": [],
+  "preferences_changes": "none",
+  "notes": "全チェックボックス未チェック。フィードバックなし。"
+}
