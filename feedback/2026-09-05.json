@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-05",
+  "notion_page_id": "3d2a41a3-cf9b-816e-8d2c-c3088a41e1b0",
+  "fetched_at": "2026-09-06",
+  "checkboxes": {
+    "volume_just_right": false,
+    "volume_more": false,
+    "volume_less": false,
+    "increase_tech": false,
+    "increase_news": false,
+    "increase_entertainment": false,
+    "increase_hobby": false,
+    "decrease_tech": false,
+    "decrease_news": false,
+    "decrease_entertainment": false,
+    "decrease_hobby": false,
+    "deep_dive_angular_zoneless": false,
+    "deep_dive_iran_energy": false,
+    "source_suggestion": false
+  },
+  "comments": [],
+  "preferences_updated": false,
+  "note": "全チェックボックス未チェック。フィードバックなし。"
+}
