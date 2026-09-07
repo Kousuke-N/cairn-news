@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-06",
+  "notion_page_id": "3d3a41a3-cf9b-8105-ab26-eb169e9df810",
+  "fetched_at": "2026-09-07",
+  "checkboxes": {
+    "volume_just_right": false,
+    "volume_more": false,
+    "volume_less": false,
+    "increase_tech": false,
+    "increase_news": false,
+    "increase_entertainment": false,
+    "increase_hobby": false,
+    "decrease_tech": false,
+    "decrease_news": false,
+    "decrease_entertainment": false,
+    "decrease_hobby": false,
+    "deep_dive_nextjs_instant_navigations": false,
+    "deep_dive_claude_managed_agents": false,
+    "deep_dive_tokyo_curry_expo": false,
+    "source_suggestion": false
+  },
+  "comments": [],
+  "preferences_updated": false,
+  "note": "全チェックボックス未チェック。フィードバックなし。"
+}
