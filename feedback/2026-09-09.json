@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-09",
+  "collected_at": "2026-09-10T07:30:00+09:00",
+  "notion_page_id": "3d6a41a3-cf9b-81ba-8eaa-e7abbf459efb",
+  "feedback": {
+    "checkboxes": {
+      "volume": {},
+      "more_categories": {},
+      "less_categories": {},
+      "deep_dive": {},
+      "source_suggestions": {}
+    },
+    "comments": [],
+    "free_text": ""
+  },
+  "preferences_updated": false,
+  "note": "フィードバックチェックなし・コメントなし"
+}
