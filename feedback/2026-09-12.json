@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "notion_page_id": "3d9a41a3-cf9b-81f6-a620-c481fccc696a",
+  "fetched_at": "2026-09-13",
+  "checkboxes": {
+    "volume_just_right": false,
+    "volume_more": false,
+    "volume_less": false,
+    "increase_tech": false,
+    "increase_news": false,
+    "increase_entertainment": false,
+    "increase_hobby": false,
+    "decrease_tech": false,
+    "decrease_news": false,
+    "decrease_entertainment": false,
+    "decrease_hobby": false,
+    "deep_dive_anthropic_j_lens": false,
+    "deep_dive_angular_webmcp": false,
+    "deep_dive_okinawa_governor_election": false,
+    "source_luminate": false
+  },
+  "comments": [],
+  "preferences_updated": false,
+  "note": "全チェックボックス未チェック。フィードバックなし。"
+}
