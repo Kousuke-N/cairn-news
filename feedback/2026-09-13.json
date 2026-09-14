@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-13",
+  "notion_page_id": "3daa41a3-cf9b-8125-8a0e-e2dc05137db9",
+  "fetched_at": "2026-09-14",
+  "checkboxes": {
+    "volume_just_right": false,
+    "volume_more": false,
+    "volume_less": false,
+    "increase_tech": false,
+    "increase_news": false,
+    "increase_entertainment": false,
+    "increase_hobby": false,
+    "decrease_tech": false,
+    "decrease_news": false,
+    "decrease_entertainment": false,
+    "decrease_hobby": false,
+    "deep_dive_hamaoka_data_falsification": false,
+    "deep_dive_okinawa_election_result": false,
+    "deep_dive_fugu_mao_architecture": false
+  },
+  "comments": [],
+  "preferences_updated": false,
+  "note": "全チェックボックス未チェック。フィードバックなし。"
+}
