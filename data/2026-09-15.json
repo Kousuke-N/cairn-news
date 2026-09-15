@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-15",
+  "notion_page_id": "3dca41a3-cf9b-8116-a229-dd7cda93ce64",
+  "generated_at": "2026-09-15",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Claude Fable 5.1 & Mythos 5.1 リリース — キャッシュリード75%コスト削減でエージェント開発が変わる",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "Anthropic公式",
+      "summary": "9月1日リリース。キャッシュリード$1→$0.25/1Mトークンへ75%削減。Mythos 5.1はコーディングベンチ60.9%で業界最高水準。AWS・GCP・Azure全クラウドで即日利用可能。エージェント系タスクのコスト最大45%削減見込み。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "消費減税 食料品消費税1%へ閣議決定 — 1989年の導入以来初の税率引き下げ",
+      "url": "https://www.jiji.com/jc/article?k=2026091500787&g=flash",
+      "source": "時事ドットコム",
+      "summary": "高市政権は9/15、飲食料品の消費税率を2027年4月から2年間8%→1%に引き下げる税制改正大綱を閣議決定。消費税導入以来初の引き下げ。中低所得者への先行給付も盛り込み。SaaS・サブスクの価格設計ロジック見直しが必要に。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "エネルギー危機が一段と深刻化 — サウジパイプライン攻撃・GCC-イラン会合延期・ホルムズ封鎖リスク継続",
+      "url": "https://www.afpbb.com/articles/-/3652623",
+      "source": "AFPBB News",
+      "summary": "9/11サウジ東西パイプラインがドローン攻撃で稼働停止（復旧3〜5週間）。GCC-イラン外相会合も直前に延期。WTI原油102ドル台継続。IEA緊急協議。日本のエネルギー輸入9割がホルムズ経由で電力・データセンターコストへの波及リスクが高まる。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "OpenAI GPT-6 Astra 一般公開 — 推論速度30%向上、9/4から全ユーザーに提供",
+      "url": "https://en.wikipedia.org/wiki/GPT-6_Astra",
+      "source": "Wikipedia / OpenAI",
+      "summary": "Hugging Faceインシデント後のセーフガード強化を経て9月4日に一般公開。前世代比で推論速度30%向上。Claudeとの比較軸として主要LLMの世代交代が本格化。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "OpenAI Agents API パブリックベータ開始 — 長時間セッション・マルチエージェント協調を追加料金なしで提供",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "source": "OpenAI Developer Docs",
+      "summary": "長時間セッション管理・サブエージェント協調・コンテキスト圧縮・クラッシュリカバリーをマネージドで提供。トークン・ツール使用料のみで追加料金なし。エージェント系プロダクト開発の新基盤として注目。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "高市首相 9/16党人事・9/17内閣改造を確定 — 小林鷹之氏を重要閣僚へ",
+      "url": "https://www.nippon.com/ja/news/kd1472491512722359071/",
+      "source": "nippon.com",
+      "summary": "税制大綱閣議決定を受け本日確定した日程。小林鷹之政調会長を重要閣僚（経産相ないし財務相）に起用。茂木外相・小泉防衛相・片山財務相は続投が有力。梶山国対委員長の入閣も浮上。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "日銀 今週17-18日の会合で1.25%利上げ濃厚 — 市場織り込み80%、31年ぶり高水準",
+      "url": "https://diamond.jp/articles/-/398375",
+      "source": "ダイヤモンドオンライン",
+      "summary": "今週の金融政策決定会合（9/17-18）で0.25%の追加利上げが確実視。実現すれば1995年以来31年ぶりの1.25%水準。エネルギー高騰と円安によるインフレ継続が主要因。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "踊る大捜査線 N.E.W. 9/18公開3日前 — 過去4作累計3863万人IPのシルバーウィーク興行",
+      "url": "https://eiga.com/movie/103045/",
+      "source": "映画.com",
+      "summary": "14年ぶり新作劇場版第5作が3日後に公開。織田裕二主演・本広克行監督再集結で142分。過去累計興収524億円IPが、シルバーウィーク前半の混雑期を狙う公開戦略。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "薬屋のひとりごと 3期 10/2放送開始 — OP=ヨルシカ確定、TV+劇場版の大型メディアミックス展開",
+      "url": "https://times.abema.tv/articles/-/10078716",
+      "source": "ABEMAアニメフリークス",
+      "summary": "OPテーマがヨルシカ「雲を抜け風下へ私だけ」に決定。新キャラ白娘々役=上田麗奈起用。3期（分割2クール）放送と12月の劇場版公開を同時進行させる大型展開。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "ソニー FE 400mm F4.5 / 600mm F6.3 GM OSS 本日正式発表 — 994g・995gで世界最軽量クラスを達成",
+      "url": "https://digicame-info.com/2026/09/915fe400mm-f45-gm-ossfe600mm-f.html",
+      "source": "デジカメinfo",
+      "summary": "本日9/15正式発表。FE 400mm F4.5（994g・ニコン比14%軽量）とFE 600mm F6.3（995g・ニコン比28%軽量）を同時発表。フレネルレンズ採用で1kg未満を実現。日本時間23時より予約受付開始予定。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "ファイアーエムブレム万紫千紅 9/17発売2日前 — Switch 2専用・風花雪月の世界とつながる新作",
+      "url": "https://ninten-switch.com/fireemblemjp-banshi-senkou-for-switch2-release-deta",
+      "source": "NintenSwitch",
+      "summary": "Nintendo Switch 2専用で9/17（木）発売。「風花雪月」の世界観と繋がる「ダグザ帝国」が舞台、4人の主人公。DL版8,980円・パッケージ版9,980円。先行レビューは「期待を遥かに上回る」との評価。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Sakana AI Fugu Max & Fugu Ultra v2 同日リリース",
+      "url": "https://www.orcarouter.ai/blog/sakana-fugu-max-explained"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "AIエージェント週次まとめ 9/13週 — GPT-Live-1 API公開・マルチモデルオーケストレーション研究プレビュー",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "2026年WEB開発の基本になる変化 — メタフレームワーク・AI統合・エッジの標準化",
+      "url": "https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "WTI原油102ドル台で続伸 — サウジパイプライン停止・EIA在庫2週連続減少",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_09_15_wtioil/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "タイ ビザなし滞在60日→30日に短縮 本日施行 — 日本人も対象",
+      "url": "https://tabiris.com/archives/thai-visa2026/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "トランプ大統領「AI規制でっち上げ」発言 — 過度な規制は中国を利するとけん制",
+      "url": "https://www.afpbb.com/articles/-/3652890"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "映画ちいかわ 公開52日で1000万人動員・146億円突破 国内首位継続",
+      "url": "https://animeanime.jp/article/2026/08/24/102316.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "ジョジョSBR 2nd&3rd STAGE（11話）9/25 Netflix世界独占配信",
+      "url": "https://www.pashplus.jp/anime/485525/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "BABYMONSTER 初ドーム公演 9/22-23 京セラドーム大阪",
+      "url": "https://yg-babymonster-official.jp/news/live-event/1981/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Marvel's Wolverine Metacritic 78点 本日PS5発売 — 戦闘高評価・線形構成に批判",
+      "url": "https://comicbookco.com/news/marvels-wolverine-review-scores-metacritic-opencritic/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "キヤノン EOS R8 Mark II 本日発表 — 7.5段IBIS・40fps・3D動画対応、米国価格1,899ドル",
+      "url": "https://cameota.com/canon/52011.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "SPICE CURRY 77 本格オープン — 昼はスパイスカレー・夜はタコスの二毛作新業態",
+      "url": "https://highballman.com/2026/09/03/spicecurry77/"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "DeepSeek V4.1 Flash — MITライセンス・$0.003/1Mという価格破壊、GPT-6超えベンチマークを主張",
+      "url": "https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5",
+      "serendipity_reason": "Fable 5.1の値下げとGPT-6 Astraの一般公開というLLM競争が激化する中、MITライセンスのオープンウェイトでさらに安い選択肢が登場。ビジネス用途でのAI導入コストが急速に下がる大局観を把握するために。"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "ルックバック 是枝裕和監督実写 — 全編16mmフィルム撮影・海外4カ国配給決定",
+      "url": "https://eiga.com/movie/105185/",
+      "serendipity_reason": "藤本タツキ原作という人気IPを世界的巨匠が映像化する際の「素材の選択と解釈」は、エンタメ業界で企画を担う立場として直接参考になる。全編フィルム撮影という逆張りの演出判断とその海外展開結果がクリエイティブの意思決定事例として興味深い。"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "ソニー FE 8-14mm F3.5 Fisheye G — Eマウント初の魚眼ズームは「単焦点魚眼の終わり」か",
+      "url": "https://kunkoku.jp/sel814g.html",
+      "serendipity_reason": "本日の超望遠GM発表の陰に隠れた見逃しがちな発表。円周〜対角線魚眼まで1本で対応できる魚眼ズームが、ユニークな撮影体験の可能性を広げる。10/9発売で予算計画にも関係。"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 8,
+    "small": 12,
+    "serendipity": 3,
+    "total": 26
+  }
+}
