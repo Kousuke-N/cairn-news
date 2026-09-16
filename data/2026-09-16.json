@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-16",
+  "notion_page_id": "3dda41a3-cf9b-8151-86b9-c39c981968db",
+  "generated_at": "2026-09-16",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Angular XSS・XSRF・SSR 複数CVE発覚——i18n属性、トークン漏洩、データリーク3系統",
+      "url": "https://www.herodevs.com/blog-posts/new-angular-vulnerabilities-expose-xss-xsrf-token-leakage-and-ssr-data-leaks-across-multiple-versions",
+      "summary": "Angularの複数バージョンに影響するCVE-2026-22610（SSRデータリーク）、CVE-2026-32635（i18n属性XSS）、CVE-2026-69149（XSRFトークン漏洩）の3件が同時公開。i18n属性に任意HTMLを挿入可能なXSSは攻撃難易度が低く即時対応が必要。HeroDevs・Google Securityが対応パッチを提供。v19以前はEOLのためLTS版へのマイグレーションも推奨。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "自民党役員人事16日・内閣改造17日で確定——幹事長・官房長官ポストが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50391",
+      "summary": "高市首相は9/15、自民党役員人事を本日16日、内閣改造を17日に行うと正式表明。幹事長ポストと官房長官の続投・交代が焦点。維新から中司幹事長の初入閣を調整中で経産相または総務相ポストを打診。沖縄知事選の追い風を受けた連立強化路線が続く。17日夕方に新内閣発足予定。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "食料品消費税5%減税 閣議決定——2027年4月実施、生鮮・加工食品が対象",
+      "url": "https://topics.smt.docomo.ne.jp/article/mainichi/politics/mainichi-20260915k0000m010118000c",
+      "summary": "高市内閣は9/15、2027年4月より食料品（生鮮食品・加工食品）を対象に消費税率を10%から5%に引き下げる税制改正大綱を閣議決定。年間家計負担軽減は平均4.2万円試算。酒類・外食は対象外。財源は法人税付加税で賄う方針。デフレ脱却後の物価高対策として支持率回復も期待される。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "OpenAI Agents API パブリックベータ——ツール呼び出し・ハンドオフ・ガードレールを標準化",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "summary": "OpenAIがAgents APIをパブリックベータ公開。ツール呼び出し・エージェント間ハンドオフ・ガードレールをAPIレベルで標準化。Responses APIと統合されMCP連携とほぼ同等の機能をOpenAIエコシステムで実現。Claude Code競合として注目される。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude Code v2.1.259——managedMcpServers・headless権限スコープ追加",
+      "url": "https://clauding.de/en/posts/claude-code-2-1-259/",
+      "summary": "Claude Code v2.1.259でmanaged MCPサーバー設定とheadless実行時の権限スコープ細粒度制御が追加。CI/CDパイプラインでのClaude Code組み込みがより安全・柔軟に。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "日銀 17-18日会合で1.25%利上げへ——市場8割が織り込み、ドル円138円台",
+      "url": "https://news.yahoo.co.jp/articles/192ea14e21239dc29d6cd678a487bf4e35b5205c",
+      "summary": "日銀の17-18日政策会合での1.25%利上げを市場が約8割織り込み。円相場は138円台前半。米FOMCも同週に利上げ予想で日米同時利上げという異例シナリオが意識される。1995年以来31年ぶりの高水準となる。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "ホルムズ海峡 GCC-イラン合意後の最新情勢——フーシ派のハニシュ進出で二重封鎖リスク継続",
+      "url": "https://note.com/fast_laelia2536/n/n444c4cc4ab6f",
+      "summary": "9/14のGCC-イラン外相会合でホルムズ海峡暫定通航合意が説明されたが、フーシ派によるハニシュ諸島進出で紅海側の封鎖リスクは継続。原油先物は合意期待で小幅反落。日本向けLNG輸送は別ルート切り替えが加速。電力・データセンターコストへの影響は続く見通し。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "まどか☆マギカ新作 動員100万人・興収18億円突破——公開2週でシリーズ最高ペース",
+      "url": "https://animeanime.jp/article/2026/09/14/102930.html",
+      "summary": "劇場版「魔法少女まどか☆マギカ」新作が動員100万人・興収18億円を突破。公開2週目でシリーズ最高記録ペース。海外でもFathom Events経由で同時公開中。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "映画ちいかわ 興収146億円で2026年国内No.1——「スラムダンク」超え視野",
+      "url": "https://www.cinematoday.jp/news/N0156487",
+      "summary": "「映画ちいかわ」が累計興収146億円を突破し2026年国内No.1に。年末に向け200億円超えを目標とプロデューサーがコメント。2024年のジャパニーズアニメ記録を更新中。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "Sony FE 400mm F4.5 GM・600mm F6.3 GM 詳細——10/9発売、予約9/29開始",
+      "url": "https://kunkoku.jp/sel400f45gm-sel600f63gm.html",
+      "summary": "昨日正式発表のFE 400mm・600mm GMの詳細が判明。各994g・995gの超軽量設計で従来比約30%軽量化。テレコン対応で最大840mm F9相当。予約開始9/29、発売10/9。推定実売は各22万円台・17万円台。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "FE万紫千紅 明日9/17発売——GAME Watch先行評価「期待を超えた傑作」",
+      "url": "https://game.watch.impress.co.jp/docs/kikaku/2140301.html",
+      "summary": "ファイアーエムブレム「万紫千紅」が明日9/17発売。GAME Watch先行評価は「シリーズ最高水準のシナリオ密度」。中国・古代東洋風世界観が新鮮で戦略性は風花雪月超えとの声も。DL版の事前ダウンロードはすでに可能。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Vitest 5.0 リリース——Vite 7連携・Browser Mode GA",
+      "url": "https://vitest.dev/blog/vitest-5.html"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Claude Codeトークン節約にローカルLLM活用——Zennで実践手法が話題",
+      "url": "https://zenn.dev/iostar/articles/0247df0cef8df5"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "維新「首相の要請があれば入閣」——中司幹事長が言及",
+      "url": "https://www.nikkei.com/article/DGXZQOUA26A1Q0W6A820C2000000/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "米FOMC 9月利上げ予想9割——欧米主要金融機関が同様の見方",
+      "url": "https://www.nikkei.com/article/DGXZQOGN11BIU0R10C26A9000000/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "食料品消費税減税 詳細と課題——軽減税率との違い、インボイスへの影響は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197191000"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "VIVANT IMMERSIVE MISSION 本日9/16開幕——東京・大阪同時スタート",
+      "url": "https://www.scketto.com/news/20260825"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "BABYMONSTER 初ドーム公演 9/22-23——京セラドーム大阪",
+      "url": "https://yg-babymonster-official.jp/live/2026-2027_worldtour_in_japan/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "ルックバック実写 公開3日1.4億円・ベネチア国際映画祭5冠",
+      "url": "https://mantan-web.jp/article/20260914dog00m200053000a.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "オデュッセイア 公開初週4.5億円——洋画アクション好発進",
+      "url": "https://www.cinematoday.jp/news/N0156850"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Sony FE 8-14mm F2.8-4 魚眼ズーム 10/9発売——超広角から魚眼まで1本",
+      "url": "https://news.kakaku.com/prdnews/cd=camera/ctcd=1050/id=158716/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Marvel's Wolverine メタスコア77点——PS5独占アクションの新標準",
+      "url": "https://gametokka.com/marvelswolverinemetascore091126/"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "10層で見るAIスタックの現在地——2026年9月、エンジニア視点の俯瞰図",
+      "url": "https://zenn.dev/1amageek/articles/ai-stack-layers-2026",
+      "serendipity_reason": "Angular MCPやClaude Code連携を日常的に書くなかで「自分はAIスタックのどの層を触っているのか」を立ち止まって確認する機会として。ツール層・エージェント層・基盤層の整理は設計判断にも直結する。"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "Google Cloud エンタメ業界AIエージェント導入レポート2026",
+      "url": "https://cloud.google.com/resources/content/intl/ja-jp/ai-agent-trends-media-entertainment-2026?hl=ja",
+      "serendipity_reason": "エンタメ業界でシステム開発するエンジニアとして、同業他社がAIエージェントをどう実装しているかを業界横断レポートで把握する。技術選定の「業界標準」を知る参考資料になる。"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "ジャパニーズカレーフェスティバル2026——東京カレー万博と並ぶ秋の祭典",
+      "url": "https://www.fashion-press.net/news/149888",
+      "serendipity_reason": "東京カレー万博（シルバーウィーク）と時期が重なる別会場のカレーイベント。「どちらに行くか・両方行くか」の計画を立てる前に全体像を把握しておくと後悔がない。"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 8,
+    "small": 11,
+    "serendipity": 3,
+    "total": 25
+  }
+}
