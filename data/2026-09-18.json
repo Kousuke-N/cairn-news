@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-18",
+  "notion_page_id": "3dfa41a3-cf9b-816a-8c29-dceb3146f019",
+  "generated_at": "2026-09-18",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "AnthropicはClaudeが自社R&Dの26%を主導していると発表",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development",
+      "source": "Bloomberg",
+      "summary": "Anthropicは9月17日、Claude（Opus 5系）が社内R&Dの26%を主導していると発表。2月の1%未満から急拡大し、スタッフ90%の業務に関与。高レベルプロンプトからほぼE2Eでタスク実行が可能な水準に達した。完全自律ではなく人間監督下での実績で、独自のR&D自動化指数（ARI）を公開。AIが次世代AI開発を加速するフライホイール効果を社内実証しつつある。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Angular v22.2プレリリース — Signal Forms Stable化・デフォルトOnPush変更・TypeScript 6必須",
+      "url": "https://www.gitwatchman.com/track/angular/angular",
+      "source": "GitWatchman",
+      "summary": "v22.2.0-next.5が9月3日公開。Signal Forms・非同期シグナルがStable化し、デフォルトChange DetectionがOnPushに変更。TypeScript v6が必須要件に。Stable版は近日リリース見込みで、既存プロジェクトへの影響評価を今から着手推奨。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Storybook v11.0.0-alpha.0 / Stable v10.6.0 リリース",
+      "url": "https://storybook.js.org/blog/tag/release/",
+      "source": "Storybook Blog",
+      "summary": "v11のアルファ版が9/2公開。Vue・React・Next.js統合の改善と依存パッケージ更新を含む。Angular-Vite MCPスキルサポートは実験的機能として継続。Stable v10.6.0と並行してメジャーバージョンアップが進行中。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude Code September 2026 Updates — 信頼性・MCP統合・UX全般を大幅改善",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "Releasebot (Anthropic公式まとめ)",
+      "summary": "9月のClaude Codeは信頼性とMCP統合を中心に強化。デスクトップ・VS Code・Web・Slack・コードレビュー機能全般を改善。メモリ警告の明確化と起動高速化も含まれ、日常的なAI支援コーディングの体験が底上げされている。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "AIに「テストを書かせる」のをやめた — QAプロセスごとAIに渡した実践報告",
+      "url": "https://zenn.dev/rb_engineering/articles/08da796df3d58d",
+      "source": "Zenn",
+      "summary": "テストコード生成だけをAIに任せる手法の限界を認識し、金銭系の大型施策でQAプロセス全体をAIに委ねた事例。役割分担を再設計した結果と副作用をエンジニア目線で報告。AI活用開発フローを問い直す実践知として参考になる。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "生成AI主要8サービス料金早見表 2026年9月版 — Grok Bot・Gemini 3.7 Flash新登場",
+      "url": "https://www.businessinsider.jp/article/2609-how-much-did-major-generative-ai-service-fees/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "フロントエンドカンファレンス福岡2026 — 7年ぶり開催・PR TIMESがGold Sponsor",
+      "url": "https://developers.prtimes.com/2026/09/08/fec-fukuoka-2026-before/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "500MBのChromeトレースをLLMに丸読みさせない — FEデバッグ×LLM連携テクニック",
+      "url": "https://zenn.dev/devlog/articles/8cfe7d5f993eae"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "日銀、政策金利を1.25%に引き上げ決定 — 31年ぶり水準も「利上げで円安」の逆説",
+      "url": "https://www.nikkei.com/article/DGXZQOUB185520Y6A910C2000000/",
+      "source": "日本経済新聞",
+      "summary": "日銀が9/18の金融政策決定会合で政策金利を0.25%引き上げ1.25%に決定。1995年以来31年ぶり水準で中立金利レンジ下限を突破。植田総裁は「引き続き利上げ」と表明。しかし利上げ後にドル円は157円台へ上昇という逆説的な展開。前日FOMCが米金利を大幅上昇させており、日銀声明が追加利上げペース加速を示唆しなかったことで円売りが優勢となった。住宅ローン金利・IT輸入コスト・データセンター費用への影響が今後の焦点。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "台風25号が21日シルバーウィーク直撃へ — 接近前の18〜19日から大雨・強風警戒",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/09/18/40648.html",
+      "source": "日本気象協会 tenki.jp",
+      "summary": "大型の台風25号が21日（月・振替休日）頃に関東に最接近。9/18午前6時現在、中心気圧980hPa・最大風速30m。接近前の18〜19日から東日本太平洋側で大雨・強風に警戒が必要。シルバーウィーク3連休を直撃する恐れがあり、交通機関の計画運休が予想される。今日中に予定の確認と計画変更の検討を推奨。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "第2次高市改造内閣 本格始動 — 日銀利上げと物価高という早速の試練",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50970",
+      "source": "NHK",
+      "summary": "昨日発足した第2次高市改造内閣が18日から始動。日銀1.25%利上げという早速の経済的試練に直面。食料品消費税の2027年4月引き下げに向けた法案準備と、利上げ局面での物価対策という難題が早くも重なった形。"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "ホルムズ海峡封鎖データ追跡 — 通航数が1日6隻に激減・原油64%減・LNG95%減",
+      "url": "https://www.jiji.com/jc/tokushu?id=straitOfHormuzTradeTracker_2026&g=int"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "食料品消費税減税の法制化課題 — 財源確保・軽減税率整合性など難題を専門家解説",
+      "url": "https://www.all-senmonka.jp/moneyizm/news/314055/"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "踊る大捜査線 N.E.W. 公開初日レビュー —「進化を遂げて再始動」",
+      "url": "https://news.yahoo.co.jp/articles/aa47b614d5de1b9f3f8e8b53c9419476d7dc83dc",
+      "source": "シネマトゥデイ（Yahoo!ニュース）",
+      "summary": "本日公開の最注目作のシネマトゥデイ評。青島俊作（織田裕二）が室井との約束を胸に湾岸署で再び走り出す。「シリーズの進化を感じさせる仕上がり」と高評価。初日成績は映画ちいかわに阻まれ2位スタートの模様。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "2026年秋アニメ55作品 放送・配信スケジュール確定版 — 薬屋3期は10/2スタート",
+      "url": "https://www.animatetimes.com/news/details.php?id=1787733083",
+      "source": "アニメイトタイムズ",
+      "summary": "10月スタートの秋アニメ55作品のスケジュールが確定。薬屋のひとりごと3期（10/2〜）、魔法騎士レイアース（約30年ぶり・10/7〜）、ブラッククローバー2nd、アオのハコ2期など人気続編多数。10月1〜11日に初回放送が集中。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "映画『八つ墓村』本日9/18公開 — 清水崇監督×尾上松也で完全新作映画化",
+      "url": "https://www.cinematoday.jp/movie/T0031901",
+      "source": "シネマトゥデイ",
+      "summary": "清水崇監督（呪怨シリーズ）×主演・尾上松也（新・金田一耕助役）が横溝正史の傑作ミステリー『八つ墓村』を完全新作として映画化。踊る大捜査線と同日公開の話題作。リメイクではなく独自の新解釈・オリジナル展開を盛り込んだ作品として注目。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "福山雅治『超新星』Billboard Japan総合アルバム首位 — あいみょんベストが2位",
+      "url": "https://www.billboard-japan.com/d_news/detail/165595",
+      "source": "Billboard JAPAN",
+      "summary": "9月16日発表の週間アルバムチャートで福山雅治13枚目アルバム『超新星』がフィジカル11.3万枚で首位。あいみょん『AIMYON BEST ALBUM』がDL1位・6万枚で2位。物理販売とDL/ストリーミングの需要構造の差が浮き彫りとなった週。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "東京ゲームショウ2026 本日Day2 & FE万紫千紅がMetacritic 89点・IGN 10/10",
+      "url": "https://www.4gamer.net/games/991/G999110/20260917019/",
+      "source": "4Gamer.net",
+      "summary": "TGS2026が9/17幕張メッセで開幕（〜21日）。53カ国1138社出展で史上最多・最長5日間開催。本日Day2はビジネスデイ最終日で、カプコンブースでモンハンワイルズSwitch2版試遊が可能。FE万紫千紅はMetacritic 89点・IGN 10/10・Eurogamer 5/5・GameSpot 9/10と海外メディアが軒並み最高水準評価。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "原宿ビリヤニウィークエンド — 本日9/18〜20開催（台風25号接近に注意）",
+      "url": "https://www.food-festival.info/japanese-curry-festival-tokyo-2026/",
+      "source": "food-festival.info",
+      "summary": "ジャパニーズカレーフェスティバル2026の一環で、本日から20日まで原宿で「原宿ビリヤニウィークエンド」が開催。スパイスカレー・ビリヤニが集結する3日間イベント。ただし台風25号の接近により19〜20日の開催状況は公式SNSで要確認。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "メタファー：リファンタジオ Nintendo Switch 2版 — TGS2026で予約開始",
+      "url": "https://www.atlus.co.jp/news/37910/",
+      "source": "アトラス公式",
+      "summary": "TGS2026のアトラスブースでSEGA/アトラス人気RPG『メタファー：リファンタジオ』のSwitch 2ダウンロード版予約が開始。FE万紫千紅クリア後の次なるRPG候補として早めにチェックを。スペシャルトークステージも会期中に実施予定。"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "TGS2026出展タイトル一覧（試遊情報付き） — 一般公開は9/19〜21",
+      "url": "https://gamewith.jp/tgs/574121"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "jev同士に五目並べで対戦させた — 新興LLMアーキテクチャ「Jev」の探索実験",
+      "url": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
+      "serendipity_reason": "TypeSafe・高速・構造化データ直接処理という特性を持つ新興LLMアーキテクチャ「Jev」を五目並べ対戦で実地検証した実験。生成AI一色に見えるAI界隈でも静かに別の芽が育っている。新しいアーキテクチャが「五目並べ」という単純なゲームで探索されるという小さな話に、LLMの多様化と実験文化の広がりが凝縮されている。"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "生成AI時代の開発チームに、保育の道具箱を持ち込む",
+      "url": "https://zenn.dev/yesodco/articles/5150d56269e16d",
+      "serendipity_reason": "保育の実践知（個別対応・観察・環境設計）をAI時代の開発チームマネジメントに転用するアイデアが斬新。エンジニアリングの文脈で滅多に登場しない「保育」という異分野の知恵がAIが溢れる現場での人間の力を引き出す視点として新鮮。エンタメ業界でチームやプロジェクトを動かす立場からも参考になる異分野知識転用の好例。"
+    },
+    {
+      "category": "news",
+      "size": "serendipity",
+      "title": "令和のコメ騒動から一転 — コメ余りで5kg2971円・約2年ぶりの3000円割れ",
+      "url": "https://news.yahoo.co.jp/articles/48d62331fd693132b25380fd6b52f13213fd4ec8",
+      "serendipity_reason": "昨年「棚が空になった」のに今年は一転して余剰で価格急落。「農家からは収穫しない方がいい」という逆説は、農業政策・食料安全保障という普段エンジニアが触れない分野の脆弱性を一瞬で可視化する。生産過剰・価格崩壊・農家疲弊というサイクルはIT業界のサービス過当競争と構造が似ており、視野を広げる素材として。"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 11,
+    "small": 5,
+    "serendipity": 3,
+    "total": 22
+  }
+}
