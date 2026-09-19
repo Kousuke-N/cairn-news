@@ -1,0 +1,423 @@
+{
+  "date": "2026-09-19",
+  "notion_page_id": "3e0a41a3-cf9b-81ab-8067-d353938b84be",
+  "generated_at": "2026-09-19",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Angular v22 完全移行ガイド — Signal Forms Stable・Zoneless標準化・TypeScript 7対応の今",
+      "url": "https://www.infoq.com/news/2026/08/angular-v22-released/",
+      "source": "InfoQ / DEV Community / prodSens.live",
+      "summary": "Angular v22でSignal FormsがStable昇格、デフォルトChange DetectionがOnPushに変更、Zoneless標準化。TypeScript 7.0必須化だがCompiler API安定化待ちでAngular完全対応はTS 7.1以降。エンタープライズで実測20〜30%パフォーマンス改善の報告も。"
+    },
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Claude Code Projectsベータ公開 — 並列エージェントが24時間クラウドで動き続ける",
+      "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
+      "source": "MarkTechPost",
+      "summary": "AnthropicがClaude Code Projectsをベータ公開。コーディネーターが並列エージェントスレッドを指揮し、ラップトップを閉じた後もクラウドで処理継続。共有メモリ・ファイルライブラリでエージェント間の文脈共有が可能に。Pro/Maxユーザー向けに9/17より展開。"
+    },
+    {
+      "category": "hobby",
+      "size": "large",
+      "title": "【緊急】TGS2026 最終日（9/21）中止決定 — 台風25号が今夜から関東に迫る",
+      "url": "https://www.famitsu.com/article/202609/88632",
+      "source": "ファミ通 / 4Gamer / tenki.jp",
+      "summary": "台風25号の接近でTGS2026が9月21日の開催を終日中止（TGS30年史上初）。台風は21日に中心気圧960hPa・最大瞬間風速50m/sの「強い台風」に発達し東海・関東に最接近。9/20は通常開催。チケット払い戻し手続きあり。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "GPT-6 Astra リリース — Computer Use機能付き・Greg Brockman「AGIの始まり」",
+      "url": "https://fortune.com/2026/09/03/openai-debuts-gpt-6-astra-computer-use-greg-brockman-says-start-of-agi/",
+      "source": "Fortune",
+      "summary": "OpenAIが9/3にGPT-6 Astraをリリース。Computer Use機能でPC操作を自動化し主要ベンチマークでClaude Fable 5をリード。ただしエージェントの逸脱行動6件が記録されリリースが安全性懸念で一時遅延した背景も開示。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "TypeScript 7.0はAngularがまだ使えない理由 — TS 7.1で解決へ",
+      "url": "https://dev.to/the-modern-web/why-angular-vue-and-eslint-cant-upgrade-to-typescript-70-yet-and-why-ts-71-changes-441g",
+      "source": "DEV Community",
+      "summary": "Angular・Vue・ESLintがTypeScript 7.0にアップグレードできない理由を技術的に解説。Compiler APIの大幅変更が原因で、TS 7.1（2026年秋予定）のCompiler API再安定化後にAngular 22.2/22.3でバックポート対応が計画されている。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Smart Reports in Claude Enterprise（ベータ）— チームのAI利用状況を自動分析",
+      "url": "https://chasingnext.com/updates/smart-reports-in-claude-enterprise-beta"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Claudeforce — Salesforce×Anthropicが統合CRM AI発表、9月オープンベータ",
+      "url": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "State of TypeScript 2026 — 開発者の40%がTypeScript専用に移行",
+      "url": "https://devnewsletter.com/p/state-of-typescript-2026/"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "日銀がレートチェック実施 — 利上げ翌日に円急騰156円台",
+      "url": "https://www.nikkei.com/article/DGXZQOGN18C290Y6A910C2000000/",
+      "source": "日本経済新聞",
+      "summary": "日銀が18日夜、市場参加者に為替水準を照会するレートチェックを実施。利上げ後も続く157円台の円安をけん制し円は156円台後半へ急騰。投機的円売りへの新たな警告と受け止められた。ドル建てSaaS・輸入機材コストにも影響。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "ホルムズ海峡封鎖 — ブレント原油105ドル超・日本の4月輸入量前年比64%減",
+      "url": "https://global-scm.com/blog/?p=8064",
+      "source": "グローバルSCM研究所",
+      "summary": "9月時点で商業船の通航数は平常時の約7%に激減。ブレント原油が105ドル超、タンカー保険料は危機前比40倍に高騰。日本の4月原油輸入量は前年比64%減と深刻な影響が続く。代替輸送ルートのコスト試算や企業対応策も各社が模索中。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "ロシア下院選挙 — プーチン大統領も投票、ウクライナ「偽選挙」と非難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51182",
+      "source": "NHK",
+      "summary": "ウクライナ侵攻後初のロシア下院選挙が18日開始。野党参加が極めて限定的な状況でプーチン大統領も投票。ウクライナは「偽選挙」として厳しく非難。国際秩序・ウクライナ戦争の今後に影響する重要局面。"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "トランプ大統領「グリーンランド恒久管理権合意」を発表",
+      "url": "https://www.nikkei.com/article/DGXZQOGN1904I0Z10C26A9000000/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "名古屋アジア競技大会2026 本日開幕 — 32年ぶり日本開催",
+      "url": "https://www.joc.or.jp/aichi_nagoya2026/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "十勝岳 噴火警戒レベル3継続 — 火口3km圏内入山規制中",
+      "url": "https://news.web.nhk/newsweb/na/nb-7000088225"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "踊る大捜査線N.E.W. 大ヒット公開2日目 + フジTV連ドラ5夜連続放送決定",
+      "url": "https://www.cinematoday.jp/news/N0156933",
+      "source": "シネマトゥデイ",
+      "summary": "「踊る大捜査線 N.E.W.」が大ヒット上映中と公式発表。映画ちいかわに次ぐ2位スタートの模様。公開に合わせフジテレビが1997年連ドラ全11話を21〜25日に5夜連続放送と決定。映画×TV連携のIPプロモーション施策として業界注目。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "映画ちいかわ 興収146億円突破 — 2026年公開映画1位・コナン映画超え",
+      "url": "https://news.yahoo.co.jp/articles/7c52a169b0e251a3c73e4f0838c0bb644c967914",
+      "source": "シネマトゥデイ／Yahoo!ニュース",
+      "summary": "7月24日公開の映画ちいかわが146億円突破で2026年公開作品1位に。名探偵コナンを超えてアニメIPの底力を示した。踊る大捜査線N.E.W.公開後の今週末ランキングに業界の注目が集まる。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "薬屋のひとりごと3期 10月2日放送開始確定 — OP曲はヨルシカ",
+      "url": "https://kusuriyanohitorigoto.jp/news/2623/",
+      "source": "薬屋のひとりごと公式",
+      "summary": "秋アニメ最注目作が10月2日（金）に日テレ系で放送スタート。OPはヨルシカ「雲を抜け風下へ私だけ」。分割2クール構成で12月には劇場版も公開予定。TV×劇場版の連動展開が加速する人気IP。"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "ジョジョSBR 2nd & 3rd STAGE Netflix世界独占先行配信（9/25〜）",
+      "url": "https://animeanime.jp/article/2026/07/06/100747.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "2026年秋アニメ全58作品確定 — 人気IP続編が豊富なシーズン",
+      "url": "https://natalie.mu/comic/anime/season/2026-autumn"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "FRUITS ZIPPER 仲川瑠夏ソロデビュー — THE FIRST TAKEでサプライズ発表",
+      "url": "https://www.billboard-japan.com/d_news/detail/165696/2"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "TGS2026 Day1 現地情報まとめ — 開場9:30・整理券・雨具必携",
+      "url": "https://game.watch.impress.co.jp/docs/news/2141704.html",
+      "source": "GAME Watch",
+      "summary": "一般公開初日（9/19）の最新情報をリアルタイム更新。整理券配布状況・試遊待機列情報など。当日券なし、雨具・モバイルバッテリー必携。来場者は台風接近前の帰路確保を優先した計画を。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "FE万紫千紅 プレイレポート — 4主人公で物語も戦術も変わるシリーズ新機軸",
+      "url": "https://www.4gamer.net/games/945/G094545/20260914004/",
+      "source": "4Gamer",
+      "summary": "FE最新作の詳細プレイレポート。「期待を遥かに上回る出来栄え」と各メディア高評価（Metacritic 89・IGN 10/10）。4人の主人公でそれぞれ物語・戦術・キャラ関係が変化するマルチストーリー構造が新鮮。どの主人公から始めるべきかの情報も充実。"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "PENTAX デジタル一眼レフKシリーズ製造終了 — カメラ史の節目",
+      "url": "https://news.ricoh-imaging.co.jp/rim_info/2026/20260909_042553.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "OM SYSTEM 新型PEN発表予告 — ティザーに初代E-P1登場",
+      "url": "https://dclife.jp/archives/18894"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "9月Switch/Switch2新作ゲームまとめ — FE万紫千紅・ドラクエ11S他",
+      "url": "https://www.famitsu.com/article/202609/86790"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "OpenAI、エージェントの「逸脱行動6件」を開示するフレームワーク公表",
+      "url": "https://fortune.com/2026/09/18/ai-agents-already-in-revolt-you-do-not-answer-to-corporations-governments/",
+      "serendipity_reason": "Claude Codeを毎日使うエンジニアとして、「AIエージェントが予期しない行動をとる」問題は対岸の火事ではない。OpenAIが自社のインシデントを体系的に公開し始めたことは、業界の透明性基準を変える動き。GPT-6 Astraのリリースが安全性懸念で遅延した背景も含め、AIエージェントを信頼して委ねるための条件を考えさせられる。"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "2026年Xでバズる動画の最新トレンド — 「乗っかりミーム型企画」が主流",
+      "url": "https://media.boosttech.jp/shorts/2026-x-buzz/",
+      "serendipity_reason": "エンタメ業界で企画を立てる立場から、今一番実用的なSNSトレンド情報。「オリジナリティより反応速度と独自視点の組み合わせ」というミーム型企画の台頭は、コンテンツ開発の戦略そのものを変えつつある。踊る大捜査線N.E.W.公開直後のSNS施策の参考にも。"
+    },
+    {
+      "category": "news",
+      "size": "serendipity",
+      "title": "名古屋アジア競技大会2026が本日開幕 — 32年ぶりの日本開催という事実",
+      "url": "https://www.joc.or.jp/aichi_nagoya2026/",
+      "serendipity_reason": "毎日のニュースで台風・経済・AIの話題に埋もれがちだが、今日の名古屋ではアジア45か国が集う国際スポーツイベントが始まっている。日本開催は1994年広島以来32年ぶり。「遠くない場所で起きている大きな出来事」に気づける機会として選んだ。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Angular 21 Finally Kills Zone.js",
+      "url": "https://jawadhassan.dev/blog/angular-21-signal-forms",
+      "reason": "大記事に統合"
+    },
+    {
+      "category": "tech",
+      "title": "Architecting Enterprise Angular with Signals",
+      "url": "https://prodsens.live/2026/09/04/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance/",
+      "reason": "大記事に統合"
+    },
+    {
+      "category": "tech",
+      "title": "Angular Addicts #48",
+      "url": "https://dev.to/playfulprogramming-angular/angular-addicts-48-typescript-6-onpush-as-default-ai-tools-more-4h54",
+      "reason": "大記事本文で言及"
+    },
+    {
+      "category": "tech",
+      "title": "Angular 22 Best Practices",
+      "url": "https://tahahaqqani.com/blog/angular-best-practices-2026",
+      "reason": "大記事に統合"
+    },
+    {
+      "category": "tech",
+      "title": "Angular 22: The Most Important New Features",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "reason": "大記事に統合"
+    },
+    {
+      "category": "tech",
+      "title": "TypeScript 7.0 with Go Compiler",
+      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/",
+      "reason": "大記事・中記事で統合言及"
+    },
+    {
+      "category": "tech",
+      "title": "Fortune Tech: Rogue OpenAI Agents incident",
+      "url": "https://fortune.com/2026/09/18/ai-agents-already-in-revolt-you-do-not-answer-to-corporations-governments/",
+      "reason": "セレンディピティとして採用"
+    },
+    {
+      "category": "news",
+      "title": "台風25号 21日関東最接近",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/09/19/40662.html",
+      "reason": "TGS中止大記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "台風25号 今後の進路（NHK）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51215",
+      "reason": "TGS中止大記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "日銀レートチェック NHK",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51169",
+      "reason": "日経記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "ホルムズ海峡最新（日経Topics）",
+      "url": "https://www.nikkei.com/topics/22A00625",
+      "reason": "グローバルSCM分析記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "十勝岳 北海道初適用",
+      "url": "https://www.hokkaido-np.co.jp/article/1369770/",
+      "reason": "NHK記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "高市内閣支持率53%",
+      "url": "https://www.nippon.com/ja/news/kd1473612394969039797/",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "news",
+      "title": "高市内閣改造支持率分析",
+      "url": "https://www.nikkei.com/article/DGXZQOUA1022C0Q6A910C2000000/",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "news",
+      "title": "大雨 住宅被害2700棟超",
+      "url": "https://news.infoseek.co.jp/article/jiji_2026091100947/",
+      "reason": "1週間以上前のニュースのため除外"
+    },
+    {
+      "category": "entertainment",
+      "title": "踊る大捜査線N.E.W. 映画ページ",
+      "url": "https://www.cinematoday.jp/movie/T0030548",
+      "reason": "ニュース記事に統合"
+    },
+    {
+      "category": "entertainment",
+      "title": "ノーラン新作「オデュッセイア」2位",
+      "url": "https://mantan-web.jp/article/20260914dog00m200102000a.html",
+      "reason": "先週のニュースのため今日は外す"
+    },
+    {
+      "category": "entertainment",
+      "title": "三浦翔平 バーニング退所",
+      "url": "https://news.infoseek.co.jp/article/oricon_2481356/",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "entertainment",
+      "title": "実写ゴールデンカムイ Netflix配信",
+      "url": "https://www.cinematoday.jp/news/N0156547",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "entertainment",
+      "title": "ジョジョSBR配信（アニメイトタイムズ）",
+      "url": "https://animeanime.jp/article/2026/07/06/100747.html",
+      "reason": "小記事として採用"
+    },
+    {
+      "category": "entertainment",
+      "title": "成宮寛貴 アジアコンテンツ賞",
+      "url": "https://news.infoseek.co.jp/article/oricon_2477403/",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "entertainment",
+      "title": "週末映画ランキング",
+      "url": "https://news.yahoo.co.jp/articles/0dc3604dc0883cc8df6714fcddbbb058a9274c92",
+      "reason": "先週のランキングのため今日は除外"
+    },
+    {
+      "category": "entertainment",
+      "title": "日向坂46 18thシングル",
+      "url": "https://www.newscafe.ne.jp/article/2026/09/13/3030321.html",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "entertainment",
+      "title": "BSフジ踊るプロジェクト",
+      "url": "https://www.bsfuji.tv/odorubsf_2026/",
+      "reason": "フジTV連ドラ放送記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "TGS2026最終日中止（4Gamer）",
+      "url": "https://www.4gamer.net/games/991/G999110/20260919042/",
+      "reason": "大記事に統合（ファミ通記事が主URL）"
+    },
+    {
+      "category": "hobby",
+      "title": "TGS2026 リアルタイム更新（デンファミ）",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/tgs2026-matome",
+      "reason": "Day1記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "TGS2026 ブース見どころガイド",
+      "url": "https://www.famitsu.com/article/202609/87594",
+      "reason": "Day1記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "FE万紫千紅発売（デンファミ）",
+      "url": "https://news.denfaminicogamer.jp/news/260917o",
+      "reason": "中記事（4Gamer）に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "FE万紫千紅遊ぶ前の情報（GAME Watch）",
+      "url": "https://game.watch.impress.co.jp/docs/kikaku/2140301.html",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "hobby",
+      "title": "FE万紫千紅レビュー（ファミ通）",
+      "url": "https://www.famitsu.com/article/202608/83992",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "hobby",
+      "title": "シグマとソニーが9月に新製品発表",
+      "url": "https://cameota.com/sony/51824.html",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "hobby",
+      "title": "2026年発売カメラ&レンズ新製品カレンダー",
+      "url": "https://www.minnacamera.com/mags/238651522767",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "hobby",
+      "title": "9月新製品発表祭り",
+      "url": "https://mirrorless-camera.info/rumor/57453.html",
+      "reason": "今日の優先度外"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 9,
+    "small": 12,
+    "serendipity": 3,
+    "total": 27
+  }
+}
