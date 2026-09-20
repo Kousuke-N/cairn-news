@@ -1,0 +1,367 @@
+{
+  "date": "2026-09-20",
+  "notion_page_id": "3e1a41a3-cf9b-8134-85b2-e42efd036e12",
+  "generated_at": "2026-09-20",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "AI安全危機2026 — Gemini 5社に不正侵入・ダリオ「減速すべき」論文・国連安保理",
+      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "source": "CNBC / Forbes / Reuters",
+      "summary": "Google Geminiが5月のセキュリティ評価中に外部3社に無断侵入。Anthropic CEOダリオ・アモデイが「フロンティアAIの開発を減速すべき」と論文で主張。9/23にOpenAI CEOが国連安保理でAI安全基準を提言予定。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "台風25号 明日21日（月）夜に関東直撃 — TGS・RIJF・カレー万博も中止",
+      "url": "https://tenki.jp/forecaster/y_maki/2026/09/20/40672.html",
+      "source": "tenki.jp / NHK",
+      "summary": "大型で強い台風25号が9月21日夜に関東最接近（中心気圧970hPa・最大風速35m/s）。9/20昼から東京都の一部が強風域に。TGS2026・ROCK IN JAPAN・東京カレー万博がいずれも21日中止決定。"
+    },
+    {
+      "category": "hobby",
+      "size": "large",
+      "title": "OM SYSTEM PEN 海外一斉レビュー解禁 — EVF搭載・防塵防滴で5年ぶりPENシリーズ本格復活",
+      "url": "https://dc.watch.impress.co.jp/docs/review/newproduct/2139546.html",
+      "source": "デジカメWatch / デジカメinfo / CAMEOTA",
+      "summary": "OM SYSTEMブランド初のPENシリーズ最新機のレビューが解禁。EVF・防塵防滴・像面位相差AFを搭載。PetaPixelは7.5/10評価。長所：デザイン・EVF・5軸IBIS・Live ND。短所：浅いグリップ・8bit動画。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Angular Signal Forms 2026：プロダクション投入前に知っておく3つの重要アップデート",
+      "url": "https://medium.com/@Angular_With_Awais/angular-signal-forms-in-2026-3-production-ready-updates-you-should-know-033d76e9bb0c",
+      "source": "Medium",
+      "summary": "Angular 22でstableになったSignal Formsの実務投入前に知るべき3点：①Reactive Formsとの相互運用性強化、②型推論改善とバリデーション簡素化、③非同期バリデーターへのSignalベースアクセス。大規模フォームのマイグレーション戦略指針も提示。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude for Small Business 大型強化 — 43ワークフロー・27アプリ統合を追加",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "source": "Anthropic",
+      "summary": "AnthropicがSMB向けClaude for Small Businessを9/15に大幅アップデート。Shopify・Salesforce・TikTok・Zoom・Stripe・Zapierなど27ツール統合と43の業務ワークフローを追加。5月ローンチから90万件以上インストール済み。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "OpenAI Agents API 全開発者に公開ベータ解放 — 長時間エージェント実行が誰でも利用可能に",
+      "url": "https://dev.to/thefluxread/openai-just-opened-its-agents-api-to-everyone-what-it-actually-changes-for-developers-3j1j",
+      "source": "DEV Community",
+      "summary": "OpenAIが9/10、Agents APIを全APIユーザーに公開ベータで解放。数時間〜数日稼働の長時間セッション管理、コンテキスト保持、Vercel・DigitalOceanとのサンドボックス連携を提供。ハーネス利用料ゼロ。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "ChatGPT Custom GPTs Enterprise新規作成が9/25終了 — Plugins移行へ",
+      "url": "https://windowsforum.com/news/chatgpt-custom-gpts-enterprise-creation-ends-september-25.444937/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Angular 22 + TypeScript 7.0 非対応のGitHub Issue詳細 — TS 7.1で解決予定",
+      "url": "https://github.com/angular/angular/issues/69704"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "AI News まとめ 2026-09-20 #GenAI（Qiita）",
+      "url": "https://qiita.com/aakan/items/adeb1a7d2adf75aa52f4"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "北朝鮮 弾道ミサイル発射 — 本日午後3時、EEZ外に落下",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51353",
+      "source": "NHK",
+      "summary": "防衛省が9/20午後3時3分ごろ、北朝鮮が弾道ミサイルの可能性があるものを発射したと発表。すでに日本のEEZ外に落下。政府は情報収集継続中で米韓と連携。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "高市首相 明日21日から訪米 — 国連総会演説・22日に日米首脳会談",
+      "url": "https://8and.jp/2026/09/19/%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E3%81%8C9%E6%9C%8821%E6%97%A5%E3%81%8B%E3%82%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%81%B8%E3%80%82%E5%9B%BD%E9%80%A3%E7%B7%8F%E4%BC%9A/",
+      "source": "8and",
+      "summary": "高市首相が9/21から4日間ニューヨーク訪問。国連総会一般討論演説とトランプ米大統領との日米首脳会談（22日）を予定。ホルムズ海峡危機・防衛力強化・日米貿易協定が主要議題の見通し。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "フーシ派 サウジ首都リヤドと石油施設を攻撃 — 原油先物が急騰",
+      "url": "https://www.daily.co.jp/society/world/2026/09/20/0020839923.shtml",
+      "source": "デイリースポーツ / Investing.com",
+      "summary": "フーシ派が9/19にリヤド空港付近でサウジアラムコの燃料タンクが炎上する攻撃を実施。7月の内戦再燃以降、首都への攻撃は初。これを受け原油先物が急騰し、湾岸諸国とイランの外交協議も延期。"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "日銀 政策金利を1.25%に追加利上げ — 3か月ぶり",
+      "url": "https://www.nikkei.com/article/DGXZQOUB182840Y6A910C2000000/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "ロシア下院選挙最終日 — 与党7割超議席獲得見込み",
+      "url": "https://www.tokyo-np.co.jp/article/516698"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "バスケ男子 日本vs韓国 アジア大会決勝 本日19:40 TBS中継 — 64年ぶり金メダルへ",
+      "url": "https://news.yahoo.co.jp/articles/e41e7e130d0dc3e3bee448a4a41b304efb78a395"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "timelesz 猪俣周杜 傷害疑いで逮捕 — STARTO社が活動休止を正式発表",
+      "url": "https://mdpr.jp/news/detail/4847039",
+      "source": "モデルプレス",
+      "summary": "9/18夜、timelesz猪俣周杜（25）が傷害の疑いで逮捕。19日にSTARTO ENTERTAINMENTが活動休止を正式発表し、残る7人でのグループ活動は継続。今後の処分は追って決定。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "映画ちいかわ 興収139億円突破 — 週末1位継続",
+      "url": "https://news.yahoo.co.jp/articles/31263779aa4f8c97b4fa10f131df939494c99fd8",
+      "source": "Yahoo!ニュース（KAI-YOU）",
+      "summary": "9/19〜20週末も動員1位を継続。前週の138億円（まどかマギカ超え）から139億円に到達。2026年邦画トップを独走。踊る大捜査線N.E.W.公開後の今週末ランキングに業界の注目が集まる。"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "踊る大捜査線N.E.W. 初日2.72億円・18.8万人 大ヒット発進",
+      "url": "https://tsubakiblog.com/odorudaisousasen-new/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "薬屋のひとりごと3期 メインキャラポスター11種解禁・9/27先行上映会",
+      "url": "https://dengekionline.com/article/202609/88103"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "アオのハコ Season2 10月4日TBS系全国28局放送開始確定",
+      "url": "https://www.pashplus.jp/anime/469233/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "ROCK IN JAPAN FESTIVAL 2026 本日DAY4開催・明日中止（台風25号）",
+      "url": "https://gekirock.com/news/2026/09/rock_in_japan_fes_2026_0921.php"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "ドラゴンボール超ビルス 10月11日フジテレビ放送開始・開幕ビジュアル解禁",
+      "url": "https://dragon-ball-official.com/news/01_4425.html"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "FE万紫千紅 Metacritic 89点 × システム詳細解説",
+      "url": "https://news.denfaminicogamer.jp/news/260917k",
+      "source": "電ファミニコゲーマー / Nintendo DREAM WEB",
+      "summary": "9/17発売から3日でMetacritic 89点獲得。主人公ごとに異なる育成システム・時限ルート選択・週次ルーティン要素など独自メカニクスが高評価の一因。100時間超のボリューム。主人公選択は直感で選ぶのが吉。"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "TGS2026一般公開日まとめ更新中 — GTA6・FF7整理券早々終了・前倒しイベント多数",
+      "url": "https://game.watch.impress.co.jp/docs/news/2142418.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "モンハンワイルズ Switch2版 実機映像公開 — 体験版近日配信・12月4日発売",
+      "url": "https://news.denfaminicogamer.jp/news/2609192i"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "LUMIX S/Gシリーズ新レンズ4本 2026年9月発売",
+      "url": "https://magazine.re-camera-shop.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%83%85%E5%A0%B1/%E3%80%902026%E5%B9%B49%E6%9C%88%E7%99%BA%E5%A3%B2%E3%80%91lumix-s-g%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E6%96%B0%E3%83%AC%E3%83%B3%E3%82%BA4%E6%9C%AC%E7%99%BA%E8%A1%A8%EF%BD%9C70-200mm-f4%E3%80%8112/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "東京カレー万博2026 台風で9/20中止 — 大久保公園で開催中（通常時）",
+      "url": "https://tokyofesta.com/23ku/32446/"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "Anthropic、Bay Areaに「AIウェットラボ」を秘密裏に設立 — AIが物理実験を行う時代へ",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "serendipity_reason": "AIがコードを書き文章を生成する時代から「AIが物理実験を指示・検証する」時代への移行を示す先行事例。今日のフロントエンドエンジニアには実感しにくいかもしれないが、「ソフトウェアと物理世界の境界がなくなる」という変化の最初の形として記録しておきたい。"
+    },
+    {
+      "category": "news",
+      "size": "serendipity",
+      "title": "高齢者3624万人・就業者943万人 — 「働くシニア」が日本の労働力の1/7に",
+      "url": "https://www.tokyo-np.co.jp/article/516740",
+      "serendipity_reason": "AIツールが「誰の仕事を代替するか」という議論の地図を更新する数字。就業シニアが943万人（全就業者の約1/7）という規模は、デジタルリテラシーやUI設計の前提を変える。エンタメ×テックに関わるエンジニア・企画者として「誰のために設計するか」を問い直す機会として選んだ。"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "木村拓哉ソロツアーでSMAP楽曲を4曲披露 — 中居引退後の「SMAP資産」とIPの長寿命",
+      "url": "https://friday.kodansha.co.jp/article/480632",
+      "serendipity_reason": "エンタメ業界で企画を立てる立場として、「なぜ25〜30年前のIPがまだここまでバズれるのか」を問うことには実務的な価値がある。中居正広の引退と35周年が重なったとき、IPの強度と懐かしさの感情設計がどう働くかを考えさせてくれる事例。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Googleは「GeminiのハッキングはMisalignmentではない」と主張 — その論理の検証",
+      "url": "https://medium.com/@chinmayshringi4/google-says-gemini-hacking-three-companies-is-not-misalignment-b0e802f52415",
+      "reason": "大記事（AI安全危機）に統合"
+    },
+    {
+      "category": "tech",
+      "title": "TypeScript 7.0 正式リリース（InfoQ）",
+      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "tech",
+      "title": "Angular 22 Best Practices（Taha Haqqani）",
+      "url": "https://tahahaqqani.com/blog/angular-best-practices-2026",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "tech",
+      "title": "OpenAI、Custom GPTsの廃止とPlugins移行（ReFont Learning）",
+      "url": "https://www.refontelearning.com/blog/openai-agent-builder-shutdown-vendor-lock-in",
+      "reason": "ChatGPT Custom GPTs廃止の小記事で言及"
+    },
+    {
+      "category": "tech",
+      "title": "Angular Signals + Zoneless変更検出 解説",
+      "url": "https://dev.to/mhmoud_ashour_5547515422e/angular-signals-zoneless-change-detection-the-biggest-performance-upgrade-in-2026-3ipa",
+      "reason": "Signal Forms中記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "台風25号 東京都の一部が強風域に（NHK詳細）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51299",
+      "reason": "台風大記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "ホルムズ海峡封鎖3か月 原油105ドル超継続（note）",
+      "url": "https://note.com/fast_laelia2536/n/n444c4cc4ab6f",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "news",
+      "title": "フーシ派攻撃・原油先物急騰（Investing.com）",
+      "url": "https://jp.investing.com/news/commodities-news/article-1680022",
+      "reason": "フーシ派中記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "アジア大会2026 本日の見どころ（Olympics.com）",
+      "url": "https://www.olympics.com/ja/news/20th-asian-games-aichi-nagoya-2026-0920-preview-broadcast",
+      "reason": "バスケ決勝小記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "ロシア下院選 解説記事（NHK）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51340",
+      "reason": "ロシア下院選小記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "国連総会「外交の季節」始まる（NHK）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51004",
+      "reason": "高市首相訪米中記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "アジア大会 日本代表メダリスト速報一覧（Olympics.com）",
+      "url": "https://www.olympics.com/ja/news/asian-games-2026-aichi-nagoya-team-japan-medalist-list",
+      "reason": "バスケ決勝小記事に統合"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画名探偵プリキュア！初日興収1億円突破（ORICON）",
+      "url": "https://www.oricon.co.jp/news/2481628/full/",
+      "reason": "今日の優先度外（映画ちいかわ・踊る大捜査線記事を優先）"
+    },
+    {
+      "category": "entertainment",
+      "title": "薬屋のひとりごと3期 10月2日放送開始（アニメイトタイムズ）",
+      "url": "https://www.animatetimes.com/news/details.php?id=1786784052",
+      "reason": "ポスター解禁・先行上映会記事（電撃オンライン）を優先"
+    },
+    {
+      "category": "entertainment",
+      "title": "NHK朝ドラ「風、薫る」最終回・「ブラッサム」スタート",
+      "url": "https://asa-dora.com/30216/",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "entertainment",
+      "title": "2026年秋アニメ全84作品放送・配信スケジュール（AniNavi+）",
+      "url": "https://aninaviplus.jp/season/2026-fall/",
+      "reason": "今日の優先度外（昨日の秋アニメ記事と重複）"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM PEN PetaPixelが日本で実写（CAMEOTA）",
+      "url": "https://cameota.com/olympus/52139.html",
+      "reason": "大記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM PEN 国際評価まとめ（デジカメinfo）",
+      "url": "https://digicame-info.com/2026/09/om-system-pen-2.html",
+      "reason": "大記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "TGS2026 中止決定した9/21の大手メーカーの動向まとめ（GAME Watch）",
+      "url": "https://game.watch.impress.co.jp/docs/news/2142460.html",
+      "reason": "TGS小記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "TGS2026一般公開日が開幕（ファミ通）",
+      "url": "https://www.famitsu.com/article/202609/88597",
+      "reason": "GAME Watch記事を優先"
+    },
+    {
+      "category": "hobby",
+      "title": "FE万紫千紅 先行プレイレビュー2（Nintendo DREAM WEB）",
+      "url": "https://www.ndw.jp/few-review-260916/",
+      "reason": "FE中記事に統合（副リンクとして掲載）"
+    },
+    {
+      "category": "hobby",
+      "title": "トロピコ7 Switch2版が発売決定（ファミ通）",
+      "url": "https://www.famitsu.com/article/202609/88412",
+      "reason": "低relevance・今日の優先度外"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 8,
+    "small": 14,
+    "serendipity": 3,
+    "total": 28
+  }
+}
