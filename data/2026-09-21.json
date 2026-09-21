@@ -1,0 +1,411 @@
+{
+  "date": "2026-09-21",
+  "notion_page_id": "3e2a41a3-cf9b-81af-9e00-fcaab1c179b9",
+  "generated_at": "2026-09-21",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Angular 22 シグナルファーストアーキテクチャ完全解説 — Zoneless・Signal Forms・OnPushデフォルト化の実務",
+      "url": "https://medium.com/@ossamahedli/angular-22-the-signal-first-era-is-finally-here-7a650568f356",
+      "source": "Medium / DEV Community / ProdSens",
+      "summary": "Angular 22（6月3日リリース）でSignal Forms・リソースAPI・Zoneless変更検出がStable化。コンパイル時にDOM依存グラフを静的解析し変更ノードのみ更新、Zone.jsなしで60fps維持を実現。エンタープライズ規模でのReactiveForms→Signal Forms段階的移行戦略も詳説。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "GPT-6 Astra・Claude Fable 5.1・Gemini 3.8 — 三強LLM競争の現在地",
+      "url": "https://dev.to/adrasmussen/gpt-6-astra-claude-fable-gemini-38-a-busy-week-for-new-llm-releases-n60",
+      "source": "DEV Community",
+      "summary": "9月初旬に相次いでリリースされた主要3モデルの詳細比較。Claude Fable 5.1はTerminal-Bench-Scienceスコアが24.7→52.6へ2倍超向上。GPT-6 Astraは推論速度30%高速化・1.05Mコンテキスト。Gemini 3.8 Flashはマルチモーダル優位性を維持しつつ全ベンチマーク改善。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "OpenAI Codex Plugin for Claude Code 公式オープンソース公開 — 競合が競合向けに公式プラグイン",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub (OpenAI)",
+      "summary": "OpenAIがClaude Code向け公式オープンソースプラグイン（Stars 33,000超）を公開。/codex:reviewや/codex:rescueなどのコマンドでClaude CodeからCodexを直接実行可能。競合他社製品向けに公式ツールを提供するという異例の取り組みで、「ツールの勝ち方」が変わりつつある業界の変化を象徴。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "DeepSeek V4.1 Flash — コーディング性能急騰・入力$0.30/Mの超低価格API",
+      "url": "https://www.digitalapplied.com/blog/deepseek-v4-1-flash-pro-routing-prices-early-tests",
+      "source": "Digital Applied",
+      "summary": "9月10日リリース。Terminal-Bench 2.1スコアが82.7→90.6へ、DeepSWEが54.4→74.2に急改善。ネイティブ画像理解と1Mトークンコンテキスト搭載。入力$0.30/M・出力$1.20/Mとフロンティアモデルを大幅に下回る価格設定でコーディング用途での採用検討が進む。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Unity、Claude Code向け公式プラグインをリリース — 古いチュートリアル参照問題を公式解決",
+      "url": "https://unity.com/blog/unity-plugin-for-claude-code"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Gemini AIセキュリティ事件 続報（Axios）— Googleが「環境設定ミス」で詳細公表",
+      "url": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Sakana AI Fugu Max・Ultra v2 — タスク別最適モデルへ動的ルーティング、コスト40〜60%削減",
+      "url": "https://datanorth.ai/news/sakana-ai-launches-fugu-max-and-fugu-ultra-v2"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "台風25号 関東直撃・現在の状況と被害まとめ — 千葉5640軒停電・鎌倉冠水・22日朝まで警戒",
+      "url": "https://tenki.jp/forecaster/y_nakagawa/2026/09/21/40685.html",
+      "source": "tenki.jp / NHK / レイルラボ",
+      "summary": "21日午後3時現在、台風25号は三宅島南東60km付近を中心気圧960hPa・最大風速40m/sで北東へ進行。昼過ぎから暴風雨がピーク。千葉県で約5640軒停電、JR鎌倉駅付近で冠水、伊豆大島に特別警報。JR東日本が各線で計画運休実施。22日には日本の東へ抜ける見通し。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "日米首脳会談（22日）— 国連総会・ICC問題・対中政策の3重奏",
+      "url": "https://www.nikkei.com/article/DGXZQOUA184AJ0Y6A910C2000000/",
+      "source": "日本経済新聞 / NHK / 時事通信",
+      "summary": "高市首相は21日夕方に訪米し、22日の国連総会初演説でホルムズ危機を受けた中東エネルギー協力計画を表明する方針。日米首脳会談では対中政策・防衛費・AI規制が議題。米国がICCへ「解体」圧力をかける中での「法の支配」表明が焦点。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "米中首脳会談（24日）— AI規制と貿易休戦が主要議題に",
+      "url": "https://news.yahoo.co.jp/articles/5ccfb4e105ddaba4d964f21386d7b5f7f9c728ec",
+      "source": "共同通信（Yahoo!ニュース）",
+      "summary": "米ホワイトハウス高官が、国連総会にあわせ9月24日開催予定の米中首脳会談でAI規制や関税をめぐる「貿易休戦」が主要議題になると明かした。希少資源・レアアース問題も取り上げられる見通し。日米首脳会談（22日）の直後に行われ、米国の対中外交姿勢が問われる。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "日銀追加利上げ1.25% — 変動金利はいつ上がる？家計への影響を解説",
+      "url": "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/",
+      "source": "日本経済新聞 / モゲチェック",
+      "summary": "9月18日決定の日銀追加利上げ（政策金利1.25%、1995年以来31年ぶり）の家計への影響を整理。変動金利型住宅ローンは年末〜来春にかけて上昇の可能性をモゲチェックが解説。3年連続の高水準春闘賃上げを受けた「賃金と物価の好循環」継続を確認した追加利上げの背景も。"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "バスケ男子 銀メダル — 日本、韓国に57-67で敗れ64年ぶり決勝進出も金届かず",
+      "url": "https://www.afpbb.com/articles/-/3653881"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "ロシア下院選 与党「統一ロシア」が比例57%・小選挙区で177区優勢、圧勝の見通し",
+      "url": "https://www.niigata-nippo.co.jp/articles/-/910443"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "台風25号 道路への影響は22日朝まで継続 — 冠水道路は迂回・宅配も停止",
+      "url": "https://tenki.jp/forecaster/a_aoyama/2026/09/21/40684.html"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "高市改造内閣 副大臣・政務官55人決定 — 維新から初の5人起用",
+      "url": "https://www.jiji.com/jc/article?k=2026091800096&g=pol"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "映画ちいかわ158億 vs 踊る大捜査線NEW初日2.72億 — 新旧IPが週末興行を席巻",
+      "url": "https://news.yahoo.co.jp/articles/a626db840040c58a67c20de1ae1296cbbdcdef35",
+      "source": "オリコン / 興行収入実況",
+      "summary": "映画ちいかわが公開59日で158.4億円突破・コナン映画の最高記録を超え2026年公開作1位が確定。一方、9/18公開の踊る大捜査線N.E.W.は初日2.72億円・18.8万人動員で好スタート。興行分析では最終68億円と予測。2026年邦画市場の二極化構造が浮き彫りに。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "2026秋アニメ全61作品確定 — 薬屋3期・ブラクロ2nd・魔法騎士レイアース30年ぶり新作",
+      "url": "https://ciatr.jp/topics/339315",
+      "source": "ciatr / アニメイトタイムズ",
+      "summary": "10月期秋アニメ61作品が出揃った。薬屋のひとりごと3期（10/2〜、OP=ヨルシカ、劇場版12/11公開）、ブラッククローバー2nd Season、魔法騎士レイアース（約30年ぶり新作）、ケロロ軍曹☆など豪華なラインアップ。アニメ×劇場版の複合展開が今期も加速。"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "踊る大捜査線 ドラマ全11話 本日（9/21）夜からフジTV5夜連続放送 — 1997年初放送から29年ぶり全話再放映",
+      "url": "https://www.cinemacafe.net/article/2026/09/21/112760.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "timelesz 猪俣周杜逮捕 — 7人がファンクラブで謝罪「あまりの衝撃に言葉を失っています」",
+      "url": "https://nandemoiiyoch.com/2026/09/21/post-148306/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "2026秋ドラマ各局ラインアップ出揃う — 9月19日から新ドラマ一斉スタート",
+      "url": "https://news.yahoo.co.jp/articles/21e5a46056e10cbd2e0a9b79f7b654bbe6f84c56"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "中田ボタンさん死去78歳 — ダウンタウン浜田も師と仰ぐ上方漫才の名手、中田カウス・ボタン",
+      "url": "https://www.nikkei.com/article/DGXZQOUD192AO0Z10C26A9000000/"
+    },
+    {
+      "category": "hobby",
+      "size": "large",
+      "title": "FE万紫千紅 発売4日目のリアル評価 — 「100時間のコスパ最高」と「30fpsとダンジョン要素」の正直な声",
+      "url": "https://cofure.hatenablog.com/entry/2026/09/17/073335",
+      "source": "電脳リメイク / つぶログ / note",
+      "summary": "発売から4日でカイルートクリアプレイヤーの感想が出揃ってきた。「4ルートで物語が補完し合う設計が周回欲求を強く引き出す」と高評価が多数。一方で30fps固定・ダンジョン要素への正直な指摘も。9,980円・100時間超のコスパはシリーズ最高水準との声が共通。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "TGS2026 台風で史上初の会期中中止 — 4日間閉幕・総来場者25万7,642人",
+      "url": "https://tgs.cesa.or.jp/2026/en/news/detail/00069",
+      "source": "TGS公式 / 4Gamer / GAME Watch",
+      "summary": "30周年で史上初の5日間開催を予定したTGS2026が台風25号で9月21日を中止。最終日はカプコンのみWebで一部配信を継続、コーエーテクモは全中止など各社対応が分かれた。4日間の総来場者数は25万7,642人。リアルとオンラインのハイブリッド展開の重要性を改めて示す結果に。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "OM SYSTEM PEN 供給遅延 — 予約超過で一部は11月以降に・E-P7からの進化点まとめ",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2140198.html",
+      "source": "デジカメWatch / もの好きブログ",
+      "summary": "OMデジタルが予約超過によるPEN供給遅延を告知。シルバー/ブラックボディと14-42mmキットの一部は11月以降お届けになる可能性。E-P7からの変化点は防塵防滴・EVF・像面位相差AF搭載と大幅進化。価格帯と機能のコスパ検証では「PENシリーズ最高水準」との評価が多数。"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "EOS R8 Mark II レビュー —「エントリーカメラのあるべき姿」7.5段IBIS・40fps搭載・10月29日発売",
+      "url": "https://dc.watch.impress.co.jp/docs/review/newproduct/2141631.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "東京カレー万博2026 台風で9/21中止 — 22日（火）以降は通常通り開催予定（10/7まで）",
+      "url": "https://newscast.jp/smart/news/2361219"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "HiddenLayer、$100Mシリーズ B調達 — GeminiとGPT-6の脱走事件が「AIセキュリティ産業」を生んだ",
+      "url": "https://aijourn.com/hiddenlayer-raises-100m-series-b-to-advance-trustworthy-ai/",
+      "serendipity_reason": "昨日の大記事でGeminiの不正アクセス事件を扱った翌日、AIモデル保護スタートアップが1億ドルの資金調達を発表した。偶然ではない。脱走インシデント・プロンプトインジェクション・AIの予期しない行動という問題が「ビジネスチャンス」として産業化されつつある速度を感じてほしい。Claude Codeを毎日使う立場として、自分たちが委ねているツールのセキュリティが急成長市場になっているという視座の転換。"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "踊る大捜査線N.E.W. 最終興行収入68億円と予想 — 過去7作のデータから未来を読む映画業界分析",
+      "url": "https://note.com/sagitani/n/nb1b8b0130ced",
+      "serendipity_reason": "エンタメ業界で企画を立てる立場として、「初動データから最終興行を予測する」スキルは実務の核心にある。踊る大捜査線N.E.W.の初日2.72億円・18.8万人から最終68億円を算出するこの考察は、スクリーン数・認知度・シーズン補正という変数の掛け合わせ方を学べる実践的なケーススタディ。ちいかわの158億とどう異なるか、その構造を読む目を養う機会として。"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "「新しいPENは、OM Systemからの贈り物だと思ってる。」— カメラコミュニティの熱量とプロダクトへの愛着",
+      "url": "https://kiokucamera.com/pen-om-system-presents-20260909",
+      "serendipity_reason": "供給遅延が発生するほどの予約超過という事実の背景に、このようなコミュニティの熱量がある。PENシリーズへの長年の愛着、「防塵防滴とEVFが欲しかっただけ」という純粋な欲求、そして「5年待った甲斐があった」という感情。フロントエンドエンジニアとして「ユーザーがこれほどの熱意で待ち望むプロダクト」とは何かを考えさせてくれる。普段スペック表で見るカメラが、誰かにとっての「贈り物」になる瞬間。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Angular Signals + Zoneless Change Detection — DEV Community",
+      "url": "https://dev.to/mhmoud_ashour_5547515422e/angular-signals-zoneless-change-detection-the-biggest-performance-upgrade-in-2026-3ipa",
+      "reason": "大記事に統合（参照リンクとして掲載）"
+    },
+    {
+      "category": "tech",
+      "title": "Architecting Enterprise Angular with Signals — ProdSens",
+      "url": "https://prodsens.live/2026/09/04/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance/",
+      "reason": "大記事に統合（参照リンクとして掲載）"
+    },
+    {
+      "category": "tech",
+      "title": "Angular 22 Best Practices — Taha Haqqani",
+      "url": "https://tahahaqqani.com/blog/angular-best-practices-2026",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "tech",
+      "title": "TypeScript 7.0正式リリース — InfoQ",
+      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "tech",
+      "title": "2026年WEB開発の基本になる変化 — Zenn",
+      "url": "https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8",
+      "reason": "過去7日掲載済みURLに該当"
+    },
+    {
+      "category": "tech",
+      "title": "Gemini 3.8 Flash — The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
+      "reason": "GPT-6/Fable/Gemini比較中記事に統合"
+    },
+    {
+      "category": "tech",
+      "title": "フロントエンド開発2026総括 — TAOLIS",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "reason": "今日の優先度外（Angular大記事が同トピックをカバー）"
+    },
+    {
+      "category": "tech",
+      "title": "HiddenLayer $100Mシリーズ B — The AI Journal",
+      "url": "https://aijourn.com/hiddenlayer-raises-100m-series-b-to-advance-trustworthy-ai/",
+      "reason": "セレンディピティとして採用"
+    },
+    {
+      "category": "news",
+      "title": "台風25号 道路への影響 tenki.jp",
+      "url": "https://tenki.jp/forecaster/a_aoyama/2026/09/21/40684.html",
+      "reason": "小記事として採用"
+    },
+    {
+      "category": "news",
+      "title": "高市首相 国連総会演説でエネルギー協力計画表明 — NHK",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51459",
+      "reason": "日米首脳会談中記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "高市首相 ICC言及焦点 — 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026092000176&g=pol",
+      "reason": "日米首脳会談中記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "日銀追加利上げで住宅ローンはいつ上がる？ — モゲチェック",
+      "url": "https://mogecheck.jp/articles/show/pnl6ZzOV4BDR2k5Ra7PY",
+      "reason": "日銀利上げ中記事に統合（参照リンクとして掲載）"
+    },
+    {
+      "category": "news",
+      "title": "ロシア下院選が開票へ — 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026092000182&g=int",
+      "reason": "ロシア下院選小記事（新潟日報）を優先"
+    },
+    {
+      "category": "news",
+      "title": "高齢者3624万人・就業者943万人 — 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA1578H0V10C26A9000000/",
+      "reason": "昨日（9/20）セレンディピティで東京新聞の同トピックを採用済みのため除外"
+    },
+    {
+      "category": "entertainment",
+      "title": "踊る大捜査線N.E.W. 興行収入68億円予測 — note",
+      "url": "https://note.com/sagitani/n/nb1b8b0130ced",
+      "reason": "セレンディピティとして採用"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画.comアクセスランキング（9/21）— 映画.com",
+      "url": "https://news.yahoo.co.jp/articles/cad8115a2df27e8feb8ff7c19210022794d69350",
+      "reason": "映画ちいかわ158億の中記事で内容カバー"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画ちいかわ 入場者特典「ひみつ本」に誤植",
+      "url": "https://news.yahoo.co.jp/articles/da6839293183eabbe86d493064d67a8ab9eaf6da",
+      "reason": "今日の優先度外（誤植内容は軽微）"
+    },
+    {
+      "category": "entertainment",
+      "title": "踊る大捜査線 映画シリーズ歴代興行収入まとめ",
+      "url": "https://heysay.hatenadiary.jp/entry/2026/09/18/100256",
+      "reason": "note（sagitani）のセレンディピティ記事で同トピックをカバー"
+    },
+    {
+      "category": "entertainment",
+      "title": "ドラゴンボール超 ビルス 10月11日フジテレビ放送開始",
+      "url": "https://www.famitsu.com/article/202601/64141",
+      "reason": "今日の優先度外（秋アニメ中記事でカバー）"
+    },
+    {
+      "category": "entertainment",
+      "title": "今週スタートの海外ドラマ（9/21〜27）",
+      "url": "https://dramanavi.net/articles/338362",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "entertainment",
+      "title": "オードリー若林正恭が「スクール革命！」卒業を発表",
+      "url": "https://news.yahoo.co.jp/articles/91fa8c3197a88b3e69ff9190331783b77b56c913",
+      "reason": "今日の優先度外（中田ボタンさん逝去を優先）"
+    },
+    {
+      "category": "hobby",
+      "title": "FE万紫千紅 コスパレビュー — つぶログ",
+      "url": "https://uniquerui.com/tblog/fire-emblem-banshisenco-review/",
+      "reason": "大記事に統合（参照リンクとして掲載）"
+    },
+    {
+      "category": "hobby",
+      "title": "FE万紫千紅 カイルートクリア感想 — note",
+      "url": "https://note.com/krysknyk/n/n0eeb5ea7fc5f",
+      "reason": "大記事に統合（参照リンクとして掲載）"
+    },
+    {
+      "category": "hobby",
+      "title": "FE万紫千紅 先行プレイレビュー2 — Nintendo DREAM WEB",
+      "url": "https://www.ndw.jp/few-review-260916/",
+      "reason": "9/20の選択記事で参照リンクとして既掲載"
+    },
+    {
+      "category": "hobby",
+      "title": "TGS2026 最終日オンライン変更 — 4Gamer",
+      "url": "https://www.4gamer.net/games/991/G999110/20260920055/",
+      "reason": "TGS2026閉幕中記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "TGS2026 9/21中止・大手メーカー動向まとめ — GAME Watch",
+      "url": "https://game.watch.impress.co.jp/docs/news/2142460.html",
+      "reason": "TGS2026閉幕中記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM PEN vs E-P7比較 — もの好きブログ",
+      "url": "https://monosukiblog.com/oms-pen_20260909",
+      "reason": "OM SYSTEM PEN中記事に統合（参照として言及）"
+    },
+    {
+      "category": "hobby",
+      "title": "Sony FE 8-14mm F3.5 Fisheye G 詳細 — kunkoku",
+      "url": "https://kunkoku.jp/sel814g.html",
+      "reason": "9/15のセレンディピティで採用済みURL"
+    },
+    {
+      "category": "hobby",
+      "title": "Sony FE 8-14mm F3.5 Fisheye G 発表 — デジカメWatch",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2139170.html",
+      "reason": "9/15・9/16で同トピック採用済み"
+    },
+    {
+      "category": "hobby",
+      "title": "EOS R8 Mark II 発表 — デジカメWatch",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2141068.html",
+      "reason": "レビュー記事（dc.watch review）を優先"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 8,
+    "small": 11,
+    "serendipity": 3,
+    "total": 25
+  }
+}
