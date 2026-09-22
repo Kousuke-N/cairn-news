@@ -1,0 +1,383 @@
+{
+  "date": "2026-09-22",
+  "notion_page_id": "3e3a41a3-cf9b-8122-955e-e0e3d8ac411e",
+  "generated_at": "2026-09-22",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "xAI、Grok 4.7をリリース — 2.1兆パラメーター・SpaceXデータ訓練・GitHub Copilot即日対応",
+      "url": "https://decrypt.co/378824/xai-launches-grok-4-7",
+      "source": "Decrypt / GitHub Changelog",
+      "summary": "9月21日、xAIがGrok 4.7を公開。パラメーター数はGrok 4.6比40%増の2.1兆、コンテキスト50万トークン。SpaceXのStarlinkテレメトリーや製造記録で追加訓練しハードウェア・物理系推論を強化。料金は$2/$6/1Mで据え置き。GitHub CopilotのPro〜Enterpriseに即日追加され、三強LLMが開発ツールに集結。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "AnthropicがNasdaq上場を正式推進 — 評価額2兆ドル・10月デビュー目標",
+      "url": "https://www.kucoin.com/news/flash/anthropic-to-list-on-nasdaq-in-october-2026-targets-2-trillion-valuation",
+      "source": "KuCoin News",
+      "summary": "評価額2兆ドルでのNasdaq IPOに向けてAnthropicが正式に動き出した。6月にSECへ機密S-1を提出、直近四半期の年率換算収益は650億ドルを突破し初の調整後営業黒字も達成。Morgan Stanley・Goldman Sachs等が主幹事。10月上場が目標とされる。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Alibaba、Qwen-Image-2.1公開 — 7BオープンウェイトでRGBA画像生成・編集を統合",
+      "url": "https://technode.com/2026/09/21/alibabas-qwen-open-sources-qwen-image-2-1-for-unified-image-generation-and-editing/",
+      "source": "TechNode",
+      "summary": "7Bパラメーターの画像生成・編集統合モデルが9月20日に公開。64チャンネルVAEでアルファチャンネルを直接合成し最大10枚のリファレンス画像を1パスで処理。ComfyUI・Diffusersに初日対応。研究・評価用ライセンスで配布。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude Sonnet 5の$2/$10が正式標準価格に — 9月値上げを撤回",
+      "url": "https://tokencost.app/blog/claude-sonnet-5-price-increase-september-2026",
+      "source": "TokenCost",
+      "summary": "Anthropicが9月1日予定だったClaude Sonnet 5の$3/$15への値上げを撤回。導入価格の$2/$10 per 1Mトークンが正式な標準価格に。中量級APIユースケースへの安定したコスト計画が可能に。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "TypeScript-goリポジトリが9月にアーカイブ化 — TS 7.0完全移行完了のマイルストーン",
+      "url": "https://github.com/microsoft/typescript-go/discussions/4576",
+      "source": "GitHub Discussion",
+      "summary": "TypeScript 7.0（Go言語ネイティブポート・7月8日GA）の開発に使われたstaging repo「typescript-go」が9月1日に読み取り専用アーカイブ化。開発はmicrosoft/TypeScriptに一本化。ビルド速度8〜12倍向上のTS 7.0移行完了を示す節目。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "GitHub Copilot、HydraFusionによるアダプティブモデルオーケストレーション導入",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Google、ADK for Kotlin 1.0 GA — Android/JVMでAIエージェント構築正式対応",
+      "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Salesforce、Agentforce向け7専門AIエージェント発表 — 累計70億AWU達成",
+      "url": "https://aiweekly.co/alerts/salesforce-ships-seven-named-agentforce-agents-cites-7b-awus"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "国連総会一般討論演説開幕 & 日米首脳会談 — 高市首相が就任後初登壇・トランプと経済安保で合意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51782",
+      "source": "NHKニュース / 国際社会経済研究所(IISE)",
+      "summary": "9月22日〜28日、国連総会一般討論演説が開幕。高市首相が就任後初の国連演説でAIルール策定・中東エネルギー協力を表明。同日の日米首脳会談では半導体・AI・重要鉱物サプライチェーン連携強化と巨額対米投資を確認。24日の米中首脳会談前に対中政策を調整した形。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "台風25号被害まとめ — 神奈川・千葉で4人死亡・6人不明・住宅被害430棟超",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51778",
+      "source": "NHKニュース / ウェザーニュース",
+      "summary": "22日時点で土砂崩れにより神奈川・千葉両県で4人死亡・6人行方不明。住宅被害は430棟を超える。台風は日本の東海上を北上中で23日に温帯低気圧化の見通し。新たな熱帯低気圧2つの発生にも注意が必要。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "9月の食品値上げ4923品目 — 2026年最多・物価高に利上げが重なる家計への二重打撃",
+      "url": "https://at-next.jp/jiji-news/23825/",
+      "source": "@next（時事ニュース）",
+      "summary": "9月の飲食料品値上げが前月比で倍増の4923品目に達し2026年で最多。原材料高90.7%・エネルギー高65.1%・中東情勢起因も27.8%。日銀の1.25%利上げと重なり、家計への圧力が強まっている。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "習近平が9月23〜25日に訪米・24日に米中首脳会談 — AIと貿易休戦が主要議題",
+      "url": "https://news.yahoo.co.jp/articles/e171b8ad5a223d077103257d1f06776cd6f7d52a",
+      "source": "Yahoo!ニュース（共同通信）",
+      "summary": "習近平国家主席が国連総会には出席せず直接ワシントンを訪問し、24日にトランプ大統領と会談する見通し。AI規制や関税をめぐる「貿易休戦」・レアアース問題が主要議題。日米首脳会談の翌日に行われる点が注目。"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "NY株式市場が上昇 — ダウ366ドル高の52048ドル・ナスダック3.5ヵ月ぶり高値",
+      "url": "https://www.zaikei.co.jp/article/20260922/870827.html"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "北朝鮮が弾道ミサイル発射 — 最高高度60kmでEEZ外に落下、今月2度目",
+      "url": "https://kaigaihanno.net/archives/27276"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "次期国連事務総長選出へ — UNCTAD・グリンスパン事務局長が予備投票で首位",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51177"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "ロシア・ウクライナ — 休戦協定発効後も違反469件・消耗状態が継続",
+      "url": "https://www.ssri-j.com/MediaReport/Ru/Ru_2026.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "「俺たちの箱根駅伝」10月10日放送開始 — 池井戸潤×大泉洋×テレビ局舞台の企画担当必見作",
+      "url": "https://www.oricon.co.jp/drama/1203/",
+      "source": "オリコン",
+      "summary": "日本テレビ系ドラマ（10/10〜）。大泉洋がテレビ局チーフPD役、伊藤沙莉・山下智久が共演。箱根駅伝の中継を担うテレビマンとランナーたちの物語で、池井戸潤×スポーツ×テレビ局という三重の企画要素を持つ大型秋ドラマ。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "2026秋ドラマ出揃う — 「救命病棟24時」「南田南弁護士」「芦田愛菜主演作」など注目作",
+      "url": "https://mantan-web.jp/matome/26%E5%B9%B4%E7%A7%8B%E3%83%89%E3%83%A9%E3%83%9E/",
+      "source": "まんたんウェブ",
+      "summary": "10月期秋ドラマが出揃う。フジ「救命病棟24時」（江口洋介・松嶋菜々子）、「南田南弁護士は天才肌」（芦田愛菜）など。初回放送は10月10日以降に順次開始。"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "薬屋のひとりごと3期 10月2日放送開始 — OPはヨルシカ、新キャラに上田麗奈",
+      "url": "https://www.animatetimes.com/news/details.php?id=1761098158"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "魔法騎士レイアース 10月7日放送開始 — 29年ぶり新作・佐倉綾音ら豪華キャスト",
+      "url": "https://www.famitsu.com/article/202609/88701"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "原田夏希（42）が第4子出産を公表 — 「VERY」公式サイトで本日（9/22）発表",
+      "url": "https://news.livedoor.com/article/detail/32384088/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "L'Arc-en-Ciel 35周年エンタメくじ 本日9/22よりローソン・HMVで発売",
+      "url": "https://convenicheck.com/newitem/newit_lawson/135675/"
+    },
+    {
+      "category": "hobby",
+      "size": "large",
+      "title": "ニコン Z5IIC — 9月24日発表迫る・コンパクトフルサイズ・魚認識AF搭載か",
+      "url": "https://digicame-info.com/2026/09/z5iic924.html",
+      "source": "デジカメinfo / ミラーレスカメラ情報",
+      "summary": "9月24日の正式発表が濃厚視されているニコンのコンパクトフルサイズ新機種Z5IIC。EVF非搭載の小型設計でソニーα7Cシリーズと競合、IBIS搭載予測。新機能として「Fish（魚）認識AF」搭載の可能性が浮上。シルバー/ブラック2色展開、9月25日に発表会も予定。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "東京カレー万博2026 — 台風明け本日9/22再開・全国48店舗・入場無料",
+      "url": "https://www.shinjukuevent.com/tokyo-curry-expo-2026/",
+      "source": "新宿イベント情報 / いろはめぐり",
+      "summary": "9/20・21と台風で中止だった東京カレー万博2026が本日9/22（火）から通常通り11:00〜21:00で再開。新宿・大久保公園にて10/7まで開催。全国48店舗がスパイスカレー・南インドカレー・ビリヤニ・ドーサなど展開。入場無料・食券制（200円刻み）。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "Marvel's Wolverine — 批評家77点vsユーザー★4.85の大きな乖離が話題",
+      "url": "https://news.yahoo.co.jp/articles/20c8ea19c3026648cfe0d417f0af84c4e30498e7",
+      "source": "Yahoo!ニュース（Game Spark）",
+      "summary": "9月15日発売PS5「Marvel's Wolverine」でMetacritic77点とPS Store★4.85（約1.6万件）の評価乖離が話題。批評家は一本道ゆえの自由度を指摘、ユーザーはゴア表現と没入感の高い「遊べる映画」として絶賛。"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "FE万紫千紅 ファミ通24ページ大特集 — 4主人公・50人クランメンバー全紹介と攻略入門",
+      "url": "https://www.famitsu.com/article/202609/88080"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "鬼武者 Way of the Sword — メタスコア86点・IGN満点・発売初日100万本突破",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2136942.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "LUMIX S9 ファームウェア10月13日更新予定 — SNS向けMP4 Lite追加",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2141543.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "FEST. INAZUMA 2026、松岡修造がシークレット登場 — 「台風も逃げ出した！」サプライズ演出の力",
+      "url": "https://www.thefirsttimes.jp/news/0000886171/",
+      "serendipity_reason": "エンタメ業界で企画に携わる立場として、「完全に予測できないゲスト登場」という手法の効果を改めて考えさせてくれた事例。西川貴教主催フェスのラスト、台風でギリギリ開催できた最終日に松岡修造が現れ「台風も逃げ出しました」と言い放った——この1シーンのSNS拡散力と記憶への刻まれ方は計算外の産物だが、「計算外を仕込む余白を作る」という企画設計の考え方は再現可能だ。"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "The Blood of Dawnwalker — ウィッチャー元開発者独立新作が3日で100万本・メタ83点",
+      "url": "https://news.denfaminicogamer.jp/news/260901o",
+      "serendipity_reason": "フロントエンドエンジニアとして「大きな組織を離れた人が作るプロダクト」に興奮を感じる感覚がある。CD PROJEKT REDを離れた開発者たちが独立して作り上げた「昼は人間・夜は吸血鬼」という二面性システムのRPGが、発売3日で100万本という結果を出した。技術的なユニーク性（30日の時間制約システム）が批評と市場の両方で評価されている。大組織のIPではなく「作りたいものを作った」という純度の高いプロダクトが勝つ瞬間。"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "Anthropic、AIウェルビーイング研究グラント500万ドル — 自分が毎日使うAIの「精神的影響」を測定する",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "serendipity_reason": "Claude Codeを毎日使う立場として、少し止まって考えてほしいニュースだ。AnthropicがAIとの長時間インタラクションが孤独感・メンタルヘルスに与える影響を測定する研究に500万ドルを拠出した。「便利なツール」として使っているAIが、実は人間の精神的ウェルビーイングに影響を与えているかもしれないという視点。エンタメ業界で人の感情に働きかけるコンテンツを作る立場として、AIが担う「感情的な役割」の拡大についても考えてみる価値がある。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Angularに複数のCVE — XSS・XSRFトークン漏洩・SSRデータリークが複数バージョンに影響",
+      "url": "https://www.herodevs.com/blog-posts/new-angular-vulnerabilities-expose-xss-xsrf-token-leakage-and-ssr-data-leaks-across-multiple-versions",
+      "reason": "過去7日（2026-09-16）掲載済みURLに該当"
+    },
+    {
+      "category": "tech",
+      "title": "Claude Code Projects、並列クラウドセッションのベータ開始",
+      "url": "https://xenospectrum.com/en/claude-code-projects-redesign/",
+      "reason": "過去7日（2026-09-19）に同トピック（marktechpost記事）を掲載済み"
+    },
+    {
+      "category": "tech",
+      "title": "GitHub Copilotのインパクトダッシュボードに機能別エンゲージメント指標を追加",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement/",
+      "reason": "今日の優先度外（HydraFusion記事でCopilot関連はカバー）"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic、Claude Developer Platform管理APIのユーザー管理エンドポイントをGA移行",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "reason": "今日の優先度外（企業向け技術情報・緊急性低）"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic、AIがウェルビーイングに与える影響を測定する研究に500万ドルを助成",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "reason": "セレンディピティとして採用"
+    },
+    {
+      "category": "news",
+      "title": "日銀が9月利上げ決定 政策金利1.25%へ",
+      "url": "https://kabucho.com/articles/boj-rate-hike-1-25-percent-2026-09-16",
+      "reason": "過去7日（2026-09-21）に同トピック（日経記事）を掲載済み"
+    },
+    {
+      "category": "news",
+      "title": "台風25号 日本の東へ遠ざかる 記録的大雨で被害多数",
+      "url": "https://weathernews.jp/news/202609/220021/",
+      "reason": "NHK台風被害まとめ記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "ガザ停戦後も人道危機続く — MSF",
+      "url": "https://www.msf.or.jp/news/press/detail/pse20260413nt.html",
+      "reason": "今日の優先度外（速報性が低い）"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画ちいかわ 公開59日で興収158.4億円突破・2026年公開作品興行1位に",
+      "url": "https://news.mynavi.jp/article/20260921-5004042/",
+      "reason": "過去7日（2026-09-21）に同トピック（オリコン記事）を掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "timeleszメンバー・猪俣周杜容疑者が傷害容疑で逮捕",
+      "url": "https://news.infoseek.co.jp/article/sponichin_20260921_0043/",
+      "reason": "過去7日（2026-09-21）に同トピックを小記事として掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "踊る大捜査線 N.E.W. 公開記念 連続ドラマ全11話を5夜連続でフジテレビが放送中",
+      "url": "https://eiga.com/news/20260916/29/",
+      "reason": "過去7日（2026-09-21）に同トピックを小記事として掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "踊る大捜査線 N.E.W. 公開初日に推定興収2.72億円",
+      "url": "https://x.com/Mashima_Sherry/status/2100939138220658893",
+      "reason": "過去7日（2026-09-21）に同トピックを中記事として掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画ちいかわ 2026年公開興行ランキング第1位に確定",
+      "url": "https://game.watch.impress.co.jp/docs/news/2142548.html",
+      "reason": "過去7日（2026-09-21）に同トピックを掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "嵐「Five」2026年上半期オリコンデジタルシングル1位",
+      "url": "https://www.oricon.co.jp/news/2463232/full/",
+      "reason": "今日の優先度外（上半期集計結果で速報性が低い）"
+    },
+    {
+      "category": "entertainment",
+      "title": "ABCテレビ『キスは捜査のあとで』第9話放送",
+      "url": "https://www.crg.jp/post/abc%E3%83%86%E3%83%AC%E3%83%93%E3%80%8E%E3%82%AD%E3%82%B9%E3%81%AF%E6%8D%9C%E6%9F%BB%E3%81%AE%E3%81%82%E3%81%A8%E3%81%A7%E3%80%8F%E7%AC%AC%EF%BC%99%E8%A9%B1%E6%94%BE%E9%80%81",
+      "reason": "今日の優先度外（視聴率未発表・速報性低）"
+    },
+    {
+      "category": "hobby",
+      "title": "キヤノン「EOS R8 Mark II」正式発表",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2141068.html",
+      "reason": "過去7日（2026-09-21）にレビュー記事として掲載済み"
+    },
+    {
+      "category": "hobby",
+      "title": "キヤノン「EOS R8 Mark II」詳細レビュー",
+      "url": "https://digicame-info.com/2026/09/eos-r8-mark-ii-7.html",
+      "reason": "過去7日（2026-09-21）に同製品を既掲載"
+    },
+    {
+      "category": "hobby",
+      "title": "4K60fps HDRを4km先にワイヤレス伝送する「DJI SDR Transmission 2」",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2141925.html",
+      "reason": "今日の優先度外（Z5IIC・カレー万博を優先）"
+    },
+    {
+      "category": "hobby",
+      "title": "『ファイアーエムブレム 万紫千紅』主人公4人の誰から始める？",
+      "url": "https://www.famitsu.com/article/202609/87782",
+      "reason": "過去7日（2026-09-17）掲載済みURLに該当"
+    },
+    {
+      "category": "hobby",
+      "title": "『ファイアーエムブレム 万紫千紅』がメタスコア「89/100」の高得点を獲得",
+      "url": "https://news.denfaminicogamer.jp/news/260917k",
+      "reason": "除外URLリストに含まれる（指定済み）"
+    },
+    {
+      "category": "hobby",
+      "title": "The Blood of Dawnwalker — ウィッチャー元開発者独立新作が3日で100万本",
+      "url": "https://news.denfaminicogamer.jp/news/260901o",
+      "reason": "セレンディピティとして採用"
+    },
+    {
+      "category": "hobby",
+      "title": "東京カレー万博2026 - 新宿で開催！百名店48種が集結",
+      "url": "https://irohameguri.jp/kugai/tokyocurrybanpac/",
+      "reason": "カレー万博中記事（shinjukuevent.com）に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "東京カレー万博2026 開幕、熊本の本格スパイスカレー「ジンダギースパイス」が新大久保に参戦",
+      "url": "https://www.gummaumaimono.info/entry/2026/08/28/180130",
+      "reason": "カレー万博中記事に統合（参照情報として言及）"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 9,
+    "small": 14,
+    "serendipity": 3,
+    "total": 29
+  }
+}
