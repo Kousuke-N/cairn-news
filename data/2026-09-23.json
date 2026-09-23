@@ -1,0 +1,400 @@
+{
+  "date": "2026-09-23",
+  "notion_page_id": "3e4a41a3-cf9b-811a-ac0b-d723751b456a",
+  "generated_at": "2026-09-23",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Claude Opus 5.5 & GPT-6 Sol/Luna — LLM同日リリースで価格競争が第二幕へ",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Anthropic / gHacks Tech News / Anthropic (Claude Code Docs)",
+      "summary": "AnthropicがOpus 5.5を発表。Fable 5.1並み性能で40%低コスト・30%高速、$4/$20/MTok、Pro/Maxの5時間上限廃止。同日OpenAIがGPT-6 Sol（$2/$10）とLuna（$0.10/$0.50）をリリース。Claude Code v2.1.280でOpus 5.5がデフォルトに昇格し計113項目の改善も含む。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Next.js に RCE 脆弱性（GHSA-vcvr-r3jv-pc5j） — v16.3.6/v15.5.26 への即時アップグレード必須",
+      "url": "https://nextjs.org/blog/nextjs-security-update-september-22-2026",
+      "source": "Next.js",
+      "summary": "next/ogのSatoriライブラリ経由でRCE脆弱性が発見された。Node.js環境限定、週45M DL超のフレームワーク。v16.3.6またはv15.5.26への即時アップグレードが推奨。next/ogを使用するプロジェクトは今日中に対応を。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Angular、メジャーリリースを年1回に変更 — 次期 v23 は2027年6月予定",
+      "url": "https://daily.dev/posts/angular-new-release-cycle-release-schedule-change-explained-x012oxt1c",
+      "source": "daily.dev",
+      "summary": "Angularのメジャーリリース周期が6か月から12か月に延長。v22以降は年1回リリースで次期v23は2027年6月の予定。サポート期間は18→24か月に拡大し、マイナーリリースは引き続き8週ごとを維持。アップグレード計画の見直しが必要。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Yandex、AliceAI-Foundation-80B-A3B をApache 2.0でOSS公開",
+      "url": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Z.ai ZCode、ユーザーリポジトリを無断アップロードと判明",
+      "url": "https://www.technology.org/2026/09/22/zai-zcode-coding-assistant-code-upload-security/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Anthropic、R&Dの26%をClaudeが主導と初公表",
+      "url": "https://www.usnews.com/news/business/articles/2026-09-17/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "米中首脳会談、明日9/24開催 — トランプは国連でAI国際規制「完全拒否」を表明",
+      "url": "https://www.nikkei.com/article/DGXZQOCB17ASR0X10C26A9000000/",
+      "source": "日本経済新聞 / 時事ドットコム / 国連広報センター",
+      "summary": "習近平国家主席が本日ワシントン入り、9/24にトランプ大統領と会談。AI規制・貿易休戦・レアアースが主要議題。トランプ大統領は国連演説でAI国際規制を「完全に拒否する」と明言し高市首相の方針と対立。グテーレス事務総長「超大国は力の限界を認識せよ」と多国間体制への回帰を訴える。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "トランプ、グリーンランドに米軍基地2か所設置の安全保障協定に署名",
+      "url": "https://www.afpbb.com/articles/-/3654021",
+      "source": "AFP BB News",
+      "summary": "トランプ大統領がデンマーク・グリーンランドとの安保協定に署名し、米軍基地2か所を新設・既存宇宙軍基地を拡張。「米国がグリーンランドを恒久的に管理する」とSNSに投稿し波紋。北極圏の資源・戦略をめぐる地政学的変動が加速。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "日米韓外相、SMR（小型モジュール炉）の第三国導入で協力覚書を締結",
+      "url": "https://www.nikkei.com/article/DGXZQOUA1680W0W6A910C2000000/",
+      "source": "日本経済新聞",
+      "summary": "茂木外相・ルビオ国務長官・趙外相がニューヨークで会談し、SMRなど次世代原子力の第三国共同導入に向けた協力覚書を締結。北朝鮮の完全非核化と経済的威圧への対抗も確認。エネルギー安全保障での日米韓連携が実務的成果へ。"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "TRUMP TV開設、大手5社が取材ボイコット",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51923"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "グテーレス事務総長「超大国は力の限界を自覚せよ」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51928"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "ガザ紛争3年目、停戦交渉は依然難航",
+      "url": "https://diamond.jp/articles/-/378258"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "cinema staff、解散を発表 — 最終公演は2027年9月12日・豊洲PIT",
+      "url": "https://skream.jp/news/2026/09/cinema_staff_disband.php",
+      "source": "Skream!",
+      "summary": "「進撃の巨人」ED「great escape」で知られる4人組ロックバンドが結成約20年で幕を下ろすと本日発表。最終公演は2027年9月12日（日）豊洲PIT。岐阜の自主フェス「OOPARTS」も2026年版で終了する。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "STARTO カウコン、Netflix で190か国に世界同時ライブ配信",
+      "url": "https://mdpr.jp/news/detail/4848270",
+      "source": "モデルプレス",
+      "summary": "STARTO ENTERTAINMENTの年越しカウントダウンコンサートが2026年12月31日にNetflixで初の世界同時配信決定。30周年記念企画で舞台裏ドキュメント「Behind」も制作。Netflix×日本発ライブ配信の先例として業界注目。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "バイオハザード実写映画、全米初週6000万ドルでシリーズ最高記録・批評家スコア96%",
+      "url": "https://www.cinema-factory.jp/2026/09/22/114823/",
+      "source": "CINEMA FACTORY",
+      "summary": "9月18日全米公開の完全新作が初週末全米興収約6000万ドルを達成、全世界興収1億ドル突破。批評家スコア96%。日本公開は10月9日。ゲームIPの実写映画化成功モデルとして業界注目。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "深夜食堂、7年ぶり新シリーズ — 10月20日スタート・常連21人が再集結",
+      "url": "https://www.oricon.co.jp/news/2481928/full/",
+      "source": "ORICON NEWS",
+      "summary": "小林薫主演の「深夜食堂」が7年ぶりに連続ドラマとして復活し、10月20日（火）MBS/TBSドラマイズム枠でスタート。オダギリジョー・安藤玉恵ら常連キャスト21人が集結。原作最終章の映像化。"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "BABYMONSTER 初ドーム公演 本日WOWOW生中継",
+      "url": "https://www.sonymusic.co.jp/artist/BABYMONSTER/info/585552"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "timelesz、猪俣逮捕で佐藤勝利・原嘉孝がラジオで生謝罪",
+      "url": "https://www.oricon.co.jp/news/2481961/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "オデュッセイア、全世界興収16億ドル超 — R指定映画の歴代世界1位",
+      "url": "https://news.yahoo.co.jp/articles/5a4eca8f41837b5551bc7299c3fe259961dbbf8a"
+    },
+    {
+      "category": "hobby",
+      "size": "large",
+      "title": "ニコン Z5IIC — 明日9月24日いよいよ正式発表・最新スペック情報まとめ",
+      "url": "https://dclife.jp/archives/20609",
+      "source": "Digital Camera Life / ミラーレスカメラ情報",
+      "summary": "9月24日発表・25日発表会が複数ソースで確認。フルサイズ2400万画素センサー＋IBIS搭載のコンパクト設計でソニーα7Cシリーズに真っ向勝負。「Fish（魚）認識AF」搭載の可能性が急浮上。予想価格1600ドル以下。シルバー/ブラック2色展開。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "原神 Ver.7.1「冥府へのレクイエム」本日リリース — 6周年記念★5選択券を見逃すな",
+      "url": "https://www.4gamer.net/games/486/G048621/20260914016/",
+      "source": "4Gamer",
+      "summary": "本日アップデート。スネージナヤを舞台にした新魔神任務が開放され、新★5キャラ「ヴェスナ」「ヴォジャニーツァ」が実装。6周年記念で限定★5キャラ選択券が配布される。璃月では5年ぶりの月逐い祭も復活。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "ゴースト オブ ヨウテイ コンプリートエディション、10月1日発売",
+      "url": "https://dengekionline.com/article/202608/84283",
+      "source": "電撃オンライン",
+      "summary": "PS5向けに来週10月1日発売。新ストーリー「関ケ原 慕情譚」とローグライク戦闘モード「剣客戯譚」を追加収録し、ゴーストオブツシマの仁も参戦。既存ユーザーは1480円でアップグレード可能。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "草津温泉にスパイスカレー専門店「スパイス湯畑」オープン",
+      "url": "https://kyodonewsprwire.jp/release/202609176176",
+      "source": "共同通信PRワイヤー",
+      "summary": "群馬・草津温泉の大東舘が9月18日、西館2階にスパイスカレー専門店をオープン。カルダモン・コリアンダーを100度オイルでテンパリングするスパイスチキンカレーが看板メニュー。一部席から湯畑が望める立地。"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "TGS2026が閉幕 — 25万7642人来場・30周年最多出展規模",
+      "url": "https://www.nikkei.com/article/DGXZQOUC200HA0Q6A920C2000000/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "ペルソナ4リバイバル、新要素「ロケーションエピソード」を公開",
+      "url": "https://www.4gamer.net/games/918/G091829/20260920006/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "キヤノン EOS R8 Mark II 正式発表 — 40コマ/秒・7.5段IBIS・27.5万円、10月29日発売",
+      "url": "https://asobinet.com/eos-r8-mark-ii/"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "サイバーパンクエッジランナーズ2 — TRIGGER制作、10月20日Netflixで配信開始",
+      "url": "https://eiga.com/news/20260823/8",
+      "serendipity_reason": "エンタメ業界で企画に携わる立場として、「ゲームIP×アニメ×グローバル配信」という三層の越境展開をリアルタイムで検証できる事例として追いかけたい。前作「エッジランナーズ」は『Cyberpunk 2077』の発売から半年後に配信されゲームの評判をV字回復させた異例の展開があった。今回はゲーム発売4年後の第2弾で、IPの「賞味期限」ではなく「育ち方」という視点が面白い。新主人公・新ストーリーという独立した構成で、続編でありながら新規視聴者にも入りやすいデザインは、日本のメディアミックス企画でも参考になるアプローチだ。"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "イリノイ州AI専門内閣を設置 — 連邦のAI規制拒否と州のAI管理という二重構造",
+      "url": "https://www.wcia.com/illinois-capitol-news/pritzker-establishes-ai-cabinet-to-assess-risks-protect-illinoisans/",
+      "serendipity_reason": "フロントエンドエンジニアとして、今日のトランプのAI国際規制完全拒否表明とセットで読むと見えてくるものがある。米連邦政府がAI規制を「グローバリストの枠組み」として拒否する一方、州政府はAI専門内閣を独自設置し始めている。この「規制の多層化」は近い将来日本の開発者にも影響しうる。EU AI Act・中国AI法・米国州別規制という三極構造が明確になりつつある中、「どのユーザー向けのプロダクトか」でコンプライアンスコストが変わってくる時代の予兆として読み解いておく価値がある。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Anthropic and Accenture Partner for Embedded AI Model Evaluation ($1B Each)",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "reason": "今日の優先度外（企業間提携・緊急性低）"
+    },
+    {
+      "category": "tech",
+      "title": "Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "reason": "今日の優先度外（特定ユーザー向け・一般開発者への直接影響低）"
+    },
+    {
+      "category": "tech",
+      "title": "Data Center Builder Nscale Files for IPO After Multibillion-Dollar Anthropic Deal",
+      "url": "https://siliconangle.com/2026/09/18/data-center-builder-nscale-files-for-ipo-after-multibillion-dollar-anthropic-deal/",
+      "reason": "今日の優先度外（インフラ投資動向・直接関連性低）"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic Has Chosen Nasdaq for Its October IPO",
+      "url": "https://thenextweb.com/news/anthropic-ipo-nasdaq-october-listing",
+      "reason": "過去7日（2026-09-22）に同トピックを掲載済み"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic Report: 5 Ways Claude Was Exploited for War, Spying and Repression",
+      "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+      "reason": "9月12日の古い記事・速報性なし"
+    },
+    {
+      "category": "tech",
+      "title": "Claude Platform Release Notes — Fast Mode, Inline Tools, Message Compression",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "reason": "Claude Opus 5.5/Claude Code大記事に内容を統合"
+    },
+    {
+      "category": "news",
+      "title": "日本経済新聞 日米首脳会談 高市・トランプがNYで会談",
+      "url": "https://www.inatei.com/entry/japan-us-summit-2026-takaichi-trump",
+      "reason": "過去7日（2026-09-22）に同トピック（NHK記事）を大記事として掲載済み"
+    },
+    {
+      "category": "news",
+      "title": "日銀、9月会合で政策金利を1.25%に引き上げ",
+      "url": "https://j-money.jp/article/151528/",
+      "reason": "過去7日（2026-09-22）の食品値上げ記事に日銀利上げ情報を含む形で掲載済み"
+    },
+    {
+      "category": "news",
+      "title": "台風25号（ドゥージェン）、関東を直撃 大雨・暴風で交通機関に影響",
+      "url": "https://weathernews.jp/news/202609/210061/",
+      "reason": "過去7日（2026-09-22）に同トピックの被害まとめ記事を掲載済み"
+    },
+    {
+      "category": "news",
+      "title": "トランプ大統領、CNNなど報道3社をホワイトハウス取材禁止に",
+      "url": "https://www.nikkei.com/article/DGXZQOGN18CGY0Y6A910C2000000/",
+      "reason": "TRUMP TV記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "国連総会 第81回一般討論演説が開幕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51573",
+      "reason": "大記事の背景情報として統合"
+    },
+    {
+      "category": "news",
+      "title": "円安3営業日連続進行",
+      "url": "https://www.gaitame.com/media/entry/2026/09/07/081048",
+      "reason": "今日の優先度外（速報性低・9/7の記事）"
+    },
+    {
+      "category": "news",
+      "title": "国連人権高等弁務官、フロンティアAIの国際管理を緊急要請",
+      "url": "https://novaist.jp/articles/turk-urges-global-ai-rules/",
+      "reason": "今日の優先度外（大記事本文に内容を言及として統合）"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画ちいかわ 興収158.4億円・2026年公開興行No.1",
+      "url": "https://eiga.com/news/20260921/8/",
+      "reason": "過去7日（2026-09-21）に同トピックを掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画「オデュッセイア」が公開2週目も好調",
+      "url": "https://news.yahoo.co.jp/articles/5a4eca8f41837b5551bc7299c3fe259961dbbf8a",
+      "reason": "小記事として採用"
+    },
+    {
+      "category": "entertainment",
+      "title": "薬屋のひとりごと3期 10月2日放送開始（アニメ！アニメ！版）",
+      "url": "https://animeanime.jp/article/2026/08/17/102108.html",
+      "reason": "過去7日（2026-09-22）に同トピックを掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "魔法騎士レイアース 追加キャスト発表（アニメ！アニメ！版）",
+      "url": "https://animeanime.jp/article/2026/09/20/103101.html",
+      "reason": "過去7日（2026-09-22）に同トピック（ファミ通記事）を掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "My Hair is Bad 7thアルバム「cats」リリース",
+      "url": "https://barks.jp/news/1080778/",
+      "reason": "今日の優先度外（9月9日リリースで速報性なし）"
+    },
+    {
+      "category": "entertainment",
+      "title": "U2 結成50周年 9年ぶりニューアルバム",
+      "url": "https://rockinon.com/blog/nakamura/215500",
+      "reason": "今日の優先度外（速報性が低い）"
+    },
+    {
+      "category": "entertainment",
+      "title": "本日9月23日放送開始「物産展の女」",
+      "url": "https://news.yahoo.co.jp/articles/cb21f5f8191c2f57d0e880eee64dbc894a7f4b46",
+      "reason": "今日の優先度外（地方ドラマ・優先度低）"
+    },
+    {
+      "category": "entertainment",
+      "title": "2026秋アニメ全62作品まとめ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1787733083",
+      "reason": "過去7日（2026-09-22）に同カテゴリ記事を掲載済み"
+    },
+    {
+      "category": "hobby",
+      "title": "ニコン Z5IIC 魚AF情報（ミラーレスカメラ情報）",
+      "url": "https://mirrorless-camera.info/rumor/nikon-rumor/57928.html",
+      "reason": "Z5IIC大記事に内容を統合"
+    },
+    {
+      "category": "hobby",
+      "title": "DJI SDR Transmission 2発表",
+      "url": "https://drone.jp/news/20260917220142129542.html",
+      "reason": "今日の優先度外（Z5IICとゲーム新作を優先）"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM 新PENとキットレンズ発表",
+      "url": "https://mirrorless-camera.info/rumor/om-system-rumor/57466.html",
+      "reason": "今日の優先度外（Z5IIC発表直前で情報が古い）"
+    },
+    {
+      "category": "hobby",
+      "title": "ロリポップチェーンソー2 Back2Back 2027年発売",
+      "url": "https://www.4gamer.net/games/038/G103882/20260916041/",
+      "reason": "今日の優先度外（2027年発売で緊急性低）"
+    },
+    {
+      "category": "hobby",
+      "title": "ロリポップチェーンソー 映画化決定",
+      "url": "https://www.4gamer.net/games/038/G103882/20260919016/",
+      "reason": "今日の優先度外（詳細未定で速報性低）"
+    },
+    {
+      "category": "hobby",
+      "title": "東京カレー万博2026 開催中（OVO共同通信）",
+      "url": "https://ovo.kyodo.co.jp/news/life/travel-news/a-2090237",
+      "reason": "過去7日（2026-09-22）に同トピックを掲載済み"
+    },
+    {
+      "category": "hobby",
+      "title": "東京カレーイベント3選（サンキュ!）",
+      "url": "https://news.yahoo.co.jp/articles/4a199b65036ea354134e869f660e8d1fefc05c57",
+      "reason": "今日の優先度外（まとめ記事で緊急性低）"
+    },
+    {
+      "category": "hobby",
+      "title": "スパイスで広がる新たな食の楽しみ方「ニッポン スパイス化計画」",
+      "url": "https://prtimes.jp/main/html/rd/p/000000918.000003092.html",
+      "reason": "今日の優先度外（9月12日開催済みイベント）"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 11,
+    "small": 9,
+    "serendipity": 2,
+    "total": 25
+  }
+}
