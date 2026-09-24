@@ -1,0 +1,398 @@
+{
+  "date": "2026-09-24",
+  "notion_page_id": "3e5a41a3-cf9b-815a-9546-d25e430e5fff",
+  "generated_at": "2026-09-24",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Angular 22.1.0 — Signal Forms安定版・Zoneless描画が実用段階へ",
+      "url": "https://arc.dev/employer-blog/angular-latest-version-your-friendly-guide-to-new-features-and-updates-in-2026/",
+      "source": "Arc Dev Blog",
+      "summary": "Angular 22（6月3日）でSignal Formsが正式安定版に。Zoneless レンダリングも Angular 22.1.0（7月30日）でさらに安定化し実務水準へ。Angular ARIA統合・Fortune 500での採用拡大。deep_dive_topicにより大記事に昇格。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Next.js — 9/30 に Critical 含む 9 件脆弱性を一括修正予定",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026",
+      "source": "Next.js Official Blog",
+      "summary": "9/22のnext/og RCE緊急パッチに続き、Vercelは9/30にNext.js 16.3.7/15.5.27をリリースしCritical×1・High×2を含む計9件の脆弱性を一括修正予定。影響範囲は30日公開時に判明。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "OpenAI codex-plugin-cc — Claude Code 内から Codex レビューが実行可能に",
+      "url": "https://smartscope.blog/en/blog/codex-plugin-cc-openai-claude-code-2026/",
+      "source": "SmartScope Blog",
+      "summary": "OpenAIがClaude Code向け公式プラグイン「codex-plugin-cc」をリリース。/codex:adversarial-reviewコマンドでCodexによるコードレビューが実行可能に。公開から数時間でGitHubスター3,700超。競合から補完関係へという転換点。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Grok 4.7 リリース — 2.1兆パラメータでコーディング推論を強化",
+      "url": "https://sqmagazine.co.uk/xai-launches-grok-4-7-coding-model/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "AI市場シェア速報 — Claude 11%・Gemini 30%に急伸、ChatGPT は 70%→50%台へ",
+      "url": "https://ai.sakuru-games.com/genai-weekly-news-20260914-20260920/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "AIコーディングアシスタント2026：AWS「Kiro」・Google「Antigravity」・Claude Code が三つ巴",
+      "url": "https://www.shakudo.io/blog/best-ai-coding-assistants"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "米中首脳会談、ホワイトハウスで本日開催 — 貿易・AI・台湾が焦点",
+      "url": "https://www.nbcnews.com/world/asia/trump-xi-summit-meet-white-house-tensions-taiwan-trade-ai-rcna598073",
+      "source": "NBC News / CNN / Nikkei Asia",
+      "summary": "習近平主席がホワイトハウスでトランプ大統領と今年2度目の首脳会談。11月期限の貿易休戦延長・AI規制・半導体輸出が主要議題。CNNは「実質より象徴的」と分析。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "台風25号 死者10人・千葉堤防決壊で浸水継続",
+      "url": "https://www.nikkei.com/article/DGXZQOUD230AP0T20C26A9000000/",
+      "source": "日本経済新聞",
+      "summary": "台風25号の被害が深刻化。死者10人・行方不明4人、住宅600棟超被害。北印旛沼の堤防決壊による広域浸水継続。台風26号も週末接近見込みで二次被害が懸念される。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "FRB 0.25%利上げ — 米9月PMI急上昇で10月追加利上げ観測が70%に",
+      "url": "https://gentosha-go.com/articles/-/81874",
+      "source": "ゴールドオンライン / ダイヤモンドZAi",
+      "summary": "FRBが9月FOMCで0.25%利上げ（FF金利3.75〜4.00%）。9月PMI58.4と急上昇でバーFRB理事が追加利上げ示唆。10月追加利上げ観測70%・米10年債5.13%台へ。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "イタリア 36年ぶり原発再導入法が上院で成立",
+      "url": "https://www.tokyo-np.co.jp/article/517307",
+      "source": "東京新聞",
+      "summary": "イタリア上院が原発再導入法を賛成81・反対51で可決。1986年以来36年ぶりの政策転換でSMR（2033〜34年稼働想定）を想定。メローニ首相「勇気ある選択」。世論57%が賛成。"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "台風26号（スリゲ）、週末に強い勢力で沖縄の南へ",
+      "url": "https://weathernews.jp/news/202609/240181/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "大谷翔平 右腕炎症から復帰、初打席で右前ヒット",
+      "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260924-0176"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "北朝鮮外相、日米韓非核化要求を「実現不可能な妄想」と強く反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52177"
+    },
+    {
+      "category": "entertainment",
+      "size": "large",
+      "title": "WEST. 9月30日をもって活動終了 — 7人揃って電撃発表",
+      "url": "https://news.infoseek.co.jp/article/sponichin_20260924_0178/",
+      "source": "スポニチアネックス",
+      "summary": "8月末の藤井流星・小瀧望の脱退宣言を受け、7人全員での活動終了を決断。動画でファンに謝罪。10月以降は個人活動継続。STARTOの主要グループ解散で業界再編が加速か。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "ゴジラ-0.0 — 邦画初「Filmed For IMAX」・11月3日公開",
+      "url": "https://natalie.mu/eiga/news/668306",
+      "source": "映画ナタリー",
+      "summary": "山崎貴監督続編。邦画初Filmed For IMAX・日米ほぼ同時公開。神木隆之介・浜辺美波続投。第64回NY映画祭ガラ部門選出。11/3ゴジラの日公開、11/6北米。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "錦戸亮、23年ぶり朝ドラ「ブラッサム」出演決定",
+      "url": "https://eiga.com/news/20260924/17/",
+      "source": "映画.com",
+      "summary": "「てるてる家族」（2003年）以来約23年ぶりの朝ドラ出演。洋画家・東郷青児モデルの夏井銀児役。常識にとらわれない自由な画家として主人公と関わる。"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "サイバーパンク: エッジランナーズ2、10月20日 Netflix 独占配信",
+      "url": "https://natalie.mu/comic/news/686028"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "the GazettE ボーカル RUKI、意識障害で救急搬送・入院中",
+      "url": "https://natalie.mu/music/news/690749"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "石原さとみ×野木亜紀子 8年ぶりタッグ「ポリティカルパン」10/7 フジ",
+      "url": "https://natalie.mu/eiga/news/685653"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "2026秋アニメ63作品 — 薬屋3期・魔法騎士レイアース30年ぶり新作など",
+      "url": "https://animeanime.jp/article/2026/08/29/102484.html"
+    },
+    {
+      "category": "hobby",
+      "size": "large",
+      "title": "Nikon Z5IIC 正式発表 — 1,399ドル・EVFレス・魚認識AF搭載",
+      "url": "https://www.nikon.com/company/news/2026/0924_01/",
+      "source": "Nikon公式 / デジカメinfo / CAMEOTA.com",
+      "summary": "本日9/24正式発表。有効2450万画素フルサイズBSI CMOS+EXPEED 7、7.5段IBIS、4K/60p・N-RAW対応。EVFレスのフラットトップ620g。魚認識AF搭載。ボディ1,399.95ドル、10月中旬発売。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "原神 Ver.7.1「冥府へのレクイエム」— 6周年特典が歴代最大規模",
+      "url": "https://gamewith.jp/gamedb/5126/articles/63555",
+      "source": "ゲームウィズ",
+      "summary": "限定★5キャラ2体無料配布（歴代初）+原石1600個+紡がれた運命10個。新★5「ヴェスナ（平野綾）」「ヴォジャニーツァ（伊藤かな恵）」実装。6周年特典は期間内に必ず受け取りたい。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "SILENT HILL: Townfall + CONTROL Resonant — 本日2作同時発売",
+      "url": "https://blog.ja.playstation.com/2026/09/23/20260923-silent-hill-townfall-launch-reminder-s/",
+      "source": "PlayStation Blog",
+      "summary": "SILENT HILL: Townfallは1996年スコットランドの孤島舞台の一人称ホラー（PS5・Steam・Epic）。CONTROL ResonantはDualSenseフル活用の超常アクション続編。週末の選択肢2本。"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "ペルソナ6、Nintendo Switch2・PS5・Xbox・PC 同時発売に決定",
+      "url": "https://www.famitsu.com/article/202609/87349"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "「第二世代キーマカレー」が定番化へ — 2026年最大のカレートレンド",
+      "url": "https://note.com/currysoken/n/nc09d5d09b737"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "今田美桜×チ・チャンウク「メリーベリーラブ」— 日テレ×CJ ENM 初の日韓共同制作＋Disney+ 世界配信",
+      "url": "https://www.cinematoday.jp/news/N0151842",
+      "serendipity_reason": "エンタメ業界で企画に携わる立場として、これは「日本コンテンツのグローバル展開モデルの転換点」として注目したい。従来の韓国ドラマの日本輸入ではなく、日本の地上波放送局（日本テレビ）と韓国最大のコンテンツ会社（CJ ENM）が対等にコプロダクションを組み、Disney+で世界同時配信するという構造が画期的だ。K-POPファン層の日本市場への影響がドラマ制作の中核に入り込んできたことを示す事例であり、今後の日本エンタメの国際共同制作の文法を占う試金石となる。"
+    },
+    {
+      "category": "news",
+      "size": "serendipity",
+      "title": "イタリア 36年ぶり原発再導入法成立 — AI時代の電力需要が地政学を動かす",
+      "url": "https://www.tokyo-np.co.jp/article/517307",
+      "serendipity_reason": "フロントエンドエンジニアとして知っておきたい「インフラ」の話。AI普及によるデータセンター電力需要の爆発的増加が、欧州のエネルギー政策に具体的な変化を起こし始めている構図として読み解きたい。イタリアはEU最大の電力輸入国で、原発ゼロを維持してきた国がSMR含む原発再導入に踏み切った背景には、AI・クラウド需要急増による電力不足への危機感がある。このトレンドはデータセンター立地、ひいてはSaaS/クラウドサービスのコスト構造にも波及しうる。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Claude Fable 5.1 + Mythos 5.1 リリース",
+      "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1/",
+      "reason": "9月1日リリースで3週間以上前の情報。過去ダイジェストの範囲外だが速報性がなく今日の優先度外"
+    },
+    {
+      "category": "tech",
+      "title": "TypeScript 7.0 正式リリース詳細",
+      "url": "https://devblogs.microsoft.com/typescript/",
+      "reason": "7月8日リリースで約2ヶ月半前。Angular記事で触れているため重複"
+    },
+    {
+      "category": "tech",
+      "title": "Claude Fable 5.1 コーディング強化詳細",
+      "url": "https://www.androidheadlines.com/2026/09/anthropic-upgrades-claude-fable-5-1-model.html",
+      "reason": "macrumors記事と内容重複、かつ9/1の古い記事"
+    },
+    {
+      "category": "tech",
+      "title": "LangGraph vs Smolagents vs CrewAI 2026比較",
+      "url": "https://infurotech.com/blogs/ai-agent-frameworks-in-2026-langgraph-smolagents-crewai-which-one-should-your-te",
+      "reason": "有用だが今日の速報性なし。shakudo.io記事のAIコーディングアシスタント比較で代替"
+    },
+    {
+      "category": "tech",
+      "title": "AI Agents 2026 フレームワークベンチマーク比較",
+      "url": "https://dev.to/pooyagolchian/ai-agents-in-2026-langgraph-vs-crewai-vs-smolagents-with-real-benchmarks-on-local-llms-4ma1",
+      "reason": "上記と同様、今日の優先度外"
+    },
+    {
+      "category": "tech",
+      "title": "2026年フロントエンド開発次世代フレームワーク",
+      "url": "https://www.iamjava.com/article0179/",
+      "reason": "今日の優先度外（背景解説記事）"
+    },
+    {
+      "category": "tech",
+      "title": "新AIエージェントツール2026年9月初旬ウェーブ",
+      "url": "https://www.dutchstartup.ai/en/news/a-wave-of-new-ai-agent-tools-is-emerging-around-early-september-2026",
+      "reason": "9月初旬の記事で速報性なし"
+    },
+    {
+      "category": "tech",
+      "title": "Next.js RCE脆弱性 CVE-2026-94545 詳細",
+      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "reason": "9/22に昨日の朝刊で既報。nextjs.org公式9/30告知記事を採用"
+    },
+    {
+      "category": "tech",
+      "title": "Storybook 11 Alpha 0 リリース",
+      "url": "https://github.com/storybookjs/storybook/discussions/36230",
+      "reason": "9/2のリリースで速報性低。今日の優先度外"
+    },
+    {
+      "category": "news",
+      "title": "米中首脳会談 CNN分析（独立記事）",
+      "url": "https://www.cnn.com/2026/09/24/politics/trump-xi-meeting-china-ai",
+      "reason": "大記事の参考URLとして統合"
+    },
+    {
+      "category": "news",
+      "title": "米中首脳会談 Nikkei Asia ライブ中継",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-president-en-route-to-us",
+      "reason": "大記事の参考URLとして統合"
+    },
+    {
+      "category": "news",
+      "title": "台風25号 NHK続報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52115",
+      "reason": "nikkei.com記事と内容重複"
+    },
+    {
+      "category": "news",
+      "title": "FRB 追加利上げ観測（外為どっとコム）",
+      "url": "https://www.gaitame.com/media/entry/2026/09/24/071111",
+      "reason": "gentosha-go/zai記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "ChatGPT音声モデル「GPT-Live」大型アップデート",
+      "url": "https://www.watch.impress.co.jp/docs/news/2123658.html",
+      "reason": "今日の優先度外（テック記事に重複感あり）"
+    },
+    {
+      "category": "news",
+      "title": "日経平均 最高値圏維持",
+      "url": "https://diamond.jp/zai/articles/-/1056604",
+      "reason": "今日の優先度外（経済詳細記事）"
+    },
+    {
+      "category": "news",
+      "title": "サッカー日本代表 vsウルグアイ キリンチャレンジ",
+      "url": "https://www.soccer-king.jp/news/japan/national/fixed/2188011.html",
+      "reason": "今日の優先度外（スポーツニュース）"
+    },
+    {
+      "category": "entertainment",
+      "title": "STARTOカウコン Netflix配信（音楽ナタリー版）",
+      "url": "https://natalie.mu/music/news/690624",
+      "reason": "前日（9/23）に同トピック（mdpr.jp）を掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "「オデュッセイア」詳細（theriver.jp）",
+      "url": "https://theriver.jp/odyssey-jp-date/",
+      "reason": "前日（9/23）に同トピックの記事を掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "今田美桜「メリーベリーラブ」（通常記事）",
+      "url": "https://www.cinematoday.jp/news/N0151842",
+      "reason": "セレンディピティ枠として採用"
+    },
+    {
+      "category": "entertainment",
+      "title": "横浜流星「LOST10」TBS初単独主演",
+      "url": "https://www.oricon.co.jp/news/2471088/full/",
+      "reason": "今日の優先度外（錦戸亮・ゴジラ-0.0を優先）"
+    },
+    {
+      "category": "entertainment",
+      "title": "大泉洋「俺たちの箱根駅伝」場面写真",
+      "url": "https://www.oricon.co.jp/news/2481089/full/",
+      "reason": "今日の優先度外"
+    },
+    {
+      "category": "entertainment",
+      "title": "日向坂46 18thシングル「イチャイチャ虫」",
+      "url": "https://natalie.mu/music/news/684372",
+      "reason": "今日の優先度外（9/30発売で速報性低）"
+    },
+    {
+      "category": "entertainment",
+      "title": "B&ZAI 矢花黎ミュージカル単独初主演",
+      "url": "https://natalie.mu/music/news/690623",
+      "reason": "今日の優先度外（2027年1月公演で緊急性低）"
+    },
+    {
+      "category": "hobby",
+      "title": "Nikon Z5IIC newsshooter詳細",
+      "url": "https://www.newsshooter.com/2026/09/23/nikon-z5iic-announced/",
+      "reason": "nikon公式+デジカメinfo+cameotaの大記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "原神 限定★5配布イベント詳細（でんファミ）",
+      "url": "https://news.denfaminicogamer.jp/news/260912x",
+      "reason": "gamewith記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "原神 新★5キャラ映像（でんファミ）",
+      "url": "https://news.denfaminicogamer.jp/news/260912y",
+      "reason": "gamewith記事に統合"
+    },
+    {
+      "category": "hobby",
+      "title": "SILENT HILL: Townfall ファミ通レビュー",
+      "url": "https://www.famitsu.com/article/202609/88405",
+      "reason": "PlayStation Blog記事と内容重複"
+    },
+    {
+      "category": "hobby",
+      "title": "PS5/PS4 9月発売注目ソフトガイド",
+      "url": "https://blog.ja.playstation.com/2026/09/01/20260901-monthly-picks-s/",
+      "reason": "CONTROL Resonant+SILENT HILL記事に情報統合"
+    },
+    {
+      "category": "hobby",
+      "title": "PlayStation Plus 9月ゲームカタログ",
+      "url": "https://blog.ja.playstation.com/2026/09/10/20260910-psplus-game-catalog-o/",
+      "reason": "今日の優先度外（9/10の記事で速報性低）"
+    },
+    {
+      "category": "hobby",
+      "title": "スパイスカレーキットおすすめランキング2026年9月",
+      "url": "https://kenja-monosashi.com/spice-curry-set",
+      "reason": "キーマカレー定番化記事を優先"
+    }
+  ],
+  "article_counts": {
+    "large": 4,
+    "medium": 8,
+    "small": 12,
+    "serendipity": 2,
+    "total": 26
+  }
+}
