@@ -1,0 +1,391 @@
+{
+  "date": "2026-09-28",
+  "notion_page_id": "3e9a41a3-cf9b-8129-896c-cad523aa407f",
+  "generated_at": "2026-09-28",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "feedback_collected": {
+    "date": "2026-09-27",
+    "notion_page_id": "3e8a41a3-cf9b-8139-98ca-d4ec8a3fc112",
+    "checkboxes_checked": [],
+    "comments": []
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "OpenAI DevDay 2026明日開催 — 常駐型エージェント「O」＋セキュリティ特化「GPT-6 Cyber」で次世代AI本格化",
+      "url": "https://www.testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday/",
+      "source": "Testing Catalog / Forbes / Crypt0's News",
+      "summary": "9月29日（月）サンフランシスコ・Fort MasonでOpenAI DevDay 2026が開催。最大の注目は常駐型AIエージェント「O」で、チャットを閉じた後も長期タスクを処理し続け、専用メールアドレスを持つ設計。ChatGPT Pro（$100/月）で提供予定とされ、コード内にも「O」の参照が確認済み。加えてサイバーセキュリティ特化モデル「GPT-6 Cyber」と複数ビジネスシステムにまたがるマネージドエージェントの発表も濃厚。Sam Altmanがキーノートに登壇し無料ライブストリームも配信予定。エンタープライズ向けオーケストレーション基盤が本格整備され、Salesforce・ServiceNow等の既存ベンダーへの影響も不可避。DevDay後のOpenAI戦略が明日午後（日本時間）に明らかになる。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "台風26号（スリゲ）本州接近へ — 沖縄・奄美で暴風・高波が継続、週中に関東上陸の可能性も",
+      "url": "https://tenki.jp/forecaster/yosh_ika/2026/09/28/40771.html",
+      "source": "tenki.jp / 沖縄タイムス（気象庁第8報）",
+      "summary": "台風26号（スリゲ）が9月28日午前、中心気圧945hPa・最大風速50m/sの「非常に強い」勢力で沖縄島北西約120kmに位置し北東進中。大東島地方では最大風速23m/sに達し高波警戒が継続。今後の進路は北東方向で、30日以降に関東南部への接近・上陸の可能性がある。気象庁は第8報を発表し厳重な警戒を呼びかけている。先月の台風25号による千葉・内房線被災が発生したばかりで、連続上陸リスクへの備えが急務。週明けは本土の天気も不安定化が見込まれ、外出・旅行計画の見直しが必要。10月5日の臨時国会では台風対策・エネルギー補助延長も議題に上がる見通し。"
+    },
+    {
+      "category": "entertainment",
+      "size": "large",
+      "title": "NHK朝ドラ「ブラッサム」本日スタート — 宇野千代モデルの昭和文学×YOASOBI「咲き誇れ」で初回から「名作の予感」",
+      "url": "https://mdpr.jp/drama/detail/4850886",
+      "source": "モデルプレス",
+      "summary": "NHK連続テレビ小説第115作「ブラッサム」が9月28日（月）から放送開始。大正〜昭和を生きた作家・宇野千代をモデルに、石橋静河主演・綿矢りさ脚本で描く一代記。加賀まりこが演じる85歳の珠の晩年から描く異色の幕開けが「映画のような質感」「めちゃくちゃ豪華」と好評。主題歌YOASOBIの「咲き誇れ」が初オンエア。第1話では桜（ブラッサム）を連想させるモチーフが衣装・小道具・セットの細部に仕込まれ「細かすぎる演出」としてSNSで話題に。大阪放送局制作で2027年3月末まで約半年間放送予定。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "ホルムズ海峡・イラン情勢（9/28）— 開放交渉が進展も原油は3営業日ぶり下落、トランプ拒否で状況流動的",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_09_28_wtioil/",
+      "source": "OANDA Japan",
+      "summary": "イランが9月28日、ホルムズ海峡開放に向けた条件を米国に提示。これを受け原油供給懸念が後退しWTI原油が3営業日ぶりに下落。ただしトランプ大統領は提案を拒否との報道もあり状況は流動的。9月の海峡通過原油は日量936万バレルで危機前比約6割まで回復しているが封鎖継続リスクは残存。本日の長期金利上昇とも連動する動きで、エネルギー問題が金融市場にも波及している。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Next.js 9月30日セキュリティリリース予告 — Critical×1・High×2含む計9件のCVE、v16.3.7とv15.5.27をリリース",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026",
+      "source": "Next.js公式ブログ",
+      "summary": "Next.jsが明後日9月30日にv16.3.7とv15.5.27をリリース予定。Critical 1件・High 2件・Medium 5件・Low 1件の計9件の脆弱性に対応。フロントエンドエンジニアはリリース公開後の即時アップデートが推奨。詳細なCVEアドバイザリはリリース時に公表予定。本番環境での影響を最小化するためリリース前に更新テスト環境を準備しておきたい。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude Code v2.1.283リリース — チームのAIモデル利用制限・LLMゲートウェイ対応・CLAUDE.md監査コマンド追加",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "Claude Code Docs（Anthropic公式）",
+      "summary": "9月25日リリース。チームで利用可能なモデルをavailableModelsMatchやdeniedModelsで固定・制限できる設定が追加され、企業ガバナンスに対応。LLMゲートウェイ向けx-claude-code-prompt-idヘッダー対応、OpenTelemetryへのツール出力ログ追加。/doctor prompt-auditコマンドでCLAUDE.mdを自動監査できるようになった。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "大の里、大相撲秋場所で1年ぶり6度目の優勝 — 「つらい時期過ごしたがよかった」と復活コメント",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52808",
+      "source": "NHKニュース",
+      "summary": "横綱・大の里が昨日9月27日（千秋楽）、大関・安青錦との相星決戦を制し12勝3敗で秋場所優勝。昨年秋場所以来1年ぶり・6場所ぶりの6度目の優勝で「長くてつらい時期を過ごしたが、優勝という形で終われてよかった」と喜びを語った。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "臨時国会10月5日召集 — 消費税引き下げ・議員定数削減・21法案が焦点、69日間の会期",
+      "url": "https://www.jiji.com/jc/article?k=2026091800485&g=pol",
+      "source": "時事ドットコム",
+      "summary": "政府は来週月曜・10月5日に臨時国会を召集。12月12日まで69日間。第2次高市改造内閣発足後初の本格論戦となり、食料品消費税引き下げ法案・国会議員定数削減が主要焦点。政府提出21法案のうち生活直結の消費税関連が最大の注目を集める。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "【明日9/30期限】Ghost of Yōtei Complete Edition — 境井家の鎧・先行アンロック特典が明日締め切り",
+      "url": "https://himanekoblog.hatenablog.com/entry/2026/09/27/104210",
+      "source": "ひまなねこのひまつぶし",
+      "summary": "10月1日（木）発売の『Ghost of Yōtei Complete Edition』で、予約特典「境井家の鎧」先行アンロックの申込期限が明日9月30日（水）まで。既存プレイヤー向けアップグレードは1,480円。新ストーリー「関ケ原 慕情譚」とサバイバルモード「剣客戯譚」（ツシマの境井仁も参戦）が追加。明日中に確認を。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "WEST.、残り2日で9/30活動終了 — 7人全員で最後のラジオ放送「明るすぎて逆に怖い」と複雑な声",
+      "url": "https://8and.jp/2026/09/28/west-%E3%81%8C9%E6%9C%8830%E6%97%A5%E3%81%A7%E6%B4%BB%E5%8B%95%E7%B5%82%E4%BA%86%E3%81%B8%E3%80%807%E4%BA%BA%E6%8F%83%E3%81%A3%E3%81%9F%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE/",
+      "source": "8and",
+      "summary": "9月30日の活動終了まで残り2日のWEST.が7人全員で最後のラジオ放送に臨んだ。ラストライブなしの幕引きにファンから不満も噴出しているが、当日は「明るすぎて逆に怖い」「これが最後と思うと切ない」とSNSで複雑な反応。今日から始まった朝ドラ「ブラッサム」と同じ日に終わりへの秒読みが続く。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Anthropic × Accenture：5年・計20億ドルの「埋め込み評価」AI安全性パートナーシップを締結",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Angular 22.2 RC0リリース — @boundary構文・SignalファーストのRC継続改善、安定版は10月前半予定",
+      "url": "https://frontendminds.com/blog/angular-latest-version-2026"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Anthropicライフサイエンス検証プログラム開始 — 承認研究機関がMythos・Opus・Sonnetへアクセス可能に",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "長期金利3.095%に上昇・2年金利31年半ぶり高水準 — 中東情勢×日銀利上げ観測が国債売りを加速",
+      "url": "https://www.nikkei.com/article/DGXZQOFL280PU0Y6A920C2000000/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "米中貿易摩擦「休戦」を2ヶ月延長で合意 — 中国商務省が確認、米国側が関税引き下げリストを公表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52866"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "アジア競技大会2026（愛知・名古屋）9/28時点 — 日本は金37個・2位、山下一貴がマラソン金",
+      "url": "https://www.vietnam.vn/ja/bang-tong-sap-huy-chuong-asiad-2026-hom-nay-28-9"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "「踊る大捜査線 N.E.W.」週末動員1位 — 10年ぶりの帰還でヒットスタート、「映画ちいかわ」2位続く",
+      "url": "https://www.cinematoday.jp/news/N0157107"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "「薬屋のひとりごと」3期が10月2日（木）日テレ系スタート — 分割2クール・後宮から市井へ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1761098158"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "「ゴジラ-0.0」NY映画祭でキングギドラ登場を公式発表 — 邦画初「Filmed For IMAX」、11月3日公開",
+      "url": "https://eiga.com/news/20260928/11"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Nikon Z5IIC本日正式発売発表 — EVFなし・有効2450万画素・EXPEED 7搭載、国内10月23日・238,700円",
+      "url": "https://www.jp.nikon.com/company/news/2026/0928_01/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "崩壊スターレイルVer.4.6本日配信＋原神6周年無料★5招待イベント開催中（本日確認を）",
+      "url": "https://gamehack.jp/385263/"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "東京カレー万博2026 — 新宿・大久保公園で〜10/7、全国48店舗・スパイスカレーから南インド料理まで入場無料",
+      "url": "https://www.shinjukuevent.com/tokyo-curry-expo-2026/",
+      "serendipity_reason": "台風26号の進路次第だが今週末（10/4〜5）も開催中（残り9日）。全国48店舗のカレーが新宿・大久保公園に集結するという、グルメ系ニュースでは見かけないスケールの年1回イベント。スパイスカレー・ビリヤニ・ドーサまで揃い、入場無料（飲食は200円券制）。「行こうと思って行けていない」ものの筆頭に入る前に、台風後の週末で動くきっかけになれば。"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "Google ADK for Kotlin 1.0 GA — Android×AIエージェント開発がPythonと同等に、LiteRT-LMで端末完結AIも",
+      "url": "https://www.infoq.com/news/2026/09/google-adk-1-0-released/",
+      "serendipity_reason": "フロントエンドエンジニアとしてはAngular/React/Next.jsの延長線にいるが、AIエージェント開発の主戦場は今やPython→Kotlinへと広がっている。オンデバイスAI（LiteRT-LM）とハイブリッドクラウドAI（Firebase AI Logic）がシームレスにつながる設計は「ブラウザの先」にある次の開発パラダイムの予告編かもしれない。明日のOpenAI DevDayで常駐型エージェント「O」が発表されるなら、端末上でのエージェント実行は次の自然な帰結。フロントエンドの外側で何が起きているかを知る機会として。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "OpenAI DevDayでマネージドエージェント発表へ（Forbes）",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/openai-plans-to-introduce-managed-agents-at-devday-2026/",
+      "reason": "DevDay大記事（large）に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "OpenAI DevDay 2026でGPT-6 Cyber発表予定",
+      "url": "https://www.crypt0snews.com/news/2026-09-25-openai-s-september-29-devday-brings-a-fourth-security-model-.html",
+      "reason": "DevDay大記事（large）に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "CNBC: AnthropicがAccentureを「第1号埋め込み評価者」に選定",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+      "reason": "Anthropic公式発表記事と同一トピック、small枠で採用済み"
+    },
+    {
+      "category": "tech",
+      "title": "GitHub Copilot for JetBrains 1.18.0 — AIアシスト承認・組織スキル共有",
+      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains/",
+      "reason": "medium枠の上限に達したため除外"
+    },
+    {
+      "category": "tech",
+      "title": "GitHub Copilot 9月14日週 — Jira/Sentry統合・HydraFusion自動モデルルーティング",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14/",
+      "reason": "9/21週のCopilot記事（昨日掲載済み）と近い内容"
+    },
+    {
+      "category": "tech",
+      "title": "AI Agents News Brief 9月15日",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-september-15-2026",
+      "reason": "週次まとめは個別記事で代替可能、週次頻度で掲載すると重複感が出る"
+    },
+    {
+      "category": "tech",
+      "title": "AI Agents News Brief 9月20日",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-september-20-2026",
+      "reason": "週次まとめは個別記事で代替可能"
+    },
+    {
+      "category": "tech",
+      "title": "2026年9月版 生成AI主要8サービス料金早見表",
+      "url": "https://www.businessinsider.jp/article/2609-how-much-did-major-generative-ai-service-fees/",
+      "reason": "実用参考情報だが今日の速報性と比較して優先度が低い"
+    },
+    {
+      "category": "news",
+      "title": "台風26号 気象庁第8報（沖縄タイムス）",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1932710",
+      "reason": "台風大記事（large）にtenki.jpと合わせて統合済み"
+    },
+    {
+      "category": "news",
+      "title": "東証533円高",
+      "url": "https://www.daily.co.jp/society/economics/2026/09/28/0020868682.shtml",
+      "reason": "株式市場動向は長期金利small記事に関連情報として含めた"
+    },
+    {
+      "category": "news",
+      "title": "ロシア ウクライナに軍事侵攻（9月28日の動き）随時更新",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47016",
+      "reason": "新たな進展なし、昨日以前の記事と変化なし"
+    },
+    {
+      "category": "news",
+      "title": "防災庁 11月2日発足を決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52328",
+      "reason": "重要だが9/25既報、今日の台風情報の方が緊急度が高い"
+    },
+    {
+      "category": "news",
+      "title": "高市首相・トランプ大統領の首脳会談（日経）",
+      "url": "https://www.nikkei.com/article/DGXZQOUA244P10U6A920C2000000/",
+      "reason": "昨日（9/27）のdata fileに高市×トランプ電話会談記事が掲載済み"
+    },
+    {
+      "category": "news",
+      "title": "高市首相動静 9月25日〜27日",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52776",
+      "reason": "relevance: low、27日は終日公邸で新規情報なし"
+    },
+    {
+      "category": "entertainment",
+      "title": "朝ドラ「ブラッサム」初回 演出のこだわり（モデルプレス）",
+      "url": "https://mdpr.jp/drama/detail/4850848",
+      "reason": "初回反響large記事に内容を統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.「ラストライブ」なき幕引きにファン悲嘆（SmartFLASH）",
+      "url": "https://smart-flash.jp/entertainment/entertainment-news/430267/",
+      "reason": "WEST. medium記事（8and）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "ゴジラ-0.0 IMAX版ポスター・最速上映決定（映画.com）",
+      "url": "https://eiga.com/news/20260924/14/",
+      "reason": "ゴジラsmall記事（映画.com NY映画祭）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "ゴジラ-0.0 キングギドラ（でんふぁみにこゲーマー）",
+      "url": "https://news.denfaminicogamer.jp/news/260927j",
+      "reason": "ゴジラsmall記事（映画.com）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "アニメ「サイバーパンク: エッジランナーズ2」本編映像公開",
+      "url": "https://www.gamespark.jp/article/2026/09/23/172665.html",
+      "reason": "10/20配信、今週の速報性が低く枠の優先度から除外"
+    },
+    {
+      "category": "entertainment",
+      "title": "Fujii Kaze EP「You (feat. UMI)」配信スタート",
+      "url": "https://www.oricon.co.jp/news/2482330/full/",
+      "reason": "9/25既報、今週の速報性が低い"
+    },
+    {
+      "category": "entertainment",
+      "title": "新アニメ「魔法騎士レイアース」10月7日放送・追加キャスト",
+      "url": "https://www.famitsu.com/article/202609/88701",
+      "reason": "薬屋のひとりごと3期small記事を優先、秋アニメ枠2枠で十分"
+    },
+    {
+      "category": "entertainment",
+      "title": "cinema staff 結成20年で解散、豊洲PITでラストライブ",
+      "url": "https://natalie.mu/music/news/690638",
+      "reason": "9/23既報、今日の速報性なし"
+    },
+    {
+      "category": "entertainment",
+      "title": "STARTO社「カウコン」Netflix世界190カ国同時ライブ配信",
+      "url": "https://www.oricon.co.jp/news/2481950/full/",
+      "reason": "12月のコンテンツで今日の緊急度が低い、セレンディピティとして検討したが東京カレー万博を優先"
+    },
+    {
+      "category": "hobby",
+      "title": "Nikon Z5IIC EVFレス設計への批評的レビュー（asobinet）",
+      "url": "https://asobinet.com/info-review-z5iic-pp/",
+      "reason": "Nikon Z5IIC small記事（公式発表）に統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "Nikon Z5IIC DPReview「コンパクトさより撮影能力を優先」",
+      "url": "https://cameota.com/nikon/52332.html",
+      "reason": "Nikon Z5IIC small記事（公式発表）に統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM PEN 先行展示レポート（デジカメWatch）",
+      "url": "https://dc.watch.impress.co.jp/docs/news/eventreport/2142435.html",
+      "reason": "10月下旬発売で今週の緊急度低い、Nikon記事を優先"
+    },
+    {
+      "category": "hobby",
+      "title": "CONTROL Resonant 海外レビューハイスコア（Game*Spark）",
+      "url": "http://www.gamespark.jp/article/2026/09/28/172859.html",
+      "reason": "9/24発売済み、昨日までの速報を過ぎた段階"
+    },
+    {
+      "category": "hobby",
+      "title": "CONTROL Resonant Steam同接3万4000人超（AUTOMATON）",
+      "url": "https://automaton-media.com/articles/newsjp/20260925-469963/",
+      "reason": "9/25既報、Game*Spark記事と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "SILENT HILL Townfall ファミ通レビュー",
+      "url": "https://www.famitsu.com/article/202609/88405",
+      "reason": "昨日（9/27）のdata fileにSILENT HILL Townfall Metacriticまとめ記事が掲載済み"
+    },
+    {
+      "category": "hobby",
+      "title": "SILENT HILL Townfall GAME Watchレビュー",
+      "url": "https://game.watch.impress.co.jp/docs/review/rev1/2140652.html",
+      "reason": "昨日の掲載と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "SILENT HILL Townfall クリアレビュー（note）",
+      "url": "https://note.com/naked_arahabaki/n/nea4c690e6a46",
+      "reason": "昨日の掲載と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "Ghost of Yōtei DLC「関ケ原 慕情譚」10月2日配信（GAME Watch）",
+      "url": "https://game.watch.impress.co.jp/docs/news/2132470.html",
+      "reason": "Ghost of Yōtei CE medium記事に統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "原神 Ver.7.1「冥府へのレクイエム」・6周年（gamebiz）",
+      "url": "https://gamebiz.jp/news/433054",
+      "reason": "崩スタ+原神 small記事に統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "食べログマガジン カレー新店情報",
+      "url": "https://magazine.tabelog.com/articles/501273",
+      "reason": "東京カレー万博serendipityを採用済み"
+    }
+  ]
+}
