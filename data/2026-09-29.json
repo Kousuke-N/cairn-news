@@ -1,0 +1,406 @@
+{
+  "date": "2026-09-29",
+  "notion_page_id": "3eaa41a3-cf9b-8174-855f-d10eafa512cb",
+  "generated_at": "2026-09-29",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "feedback_collected": {
+    "date": "2026-09-28",
+    "source_page_id": "3e9a41a3-cf9b-8129-896c-cad523aa407f",
+    "checkboxes_checked": [],
+    "comments": [],
+    "notes": "No checkboxes checked, no comments on 2026-09-28 page"
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Angular 22 Signal Forms・Zoneless 正式安定版 — Reactive Forms移行判断のいま",
+      "url": "https://businesstechnavigator.com/news/angular-v22-released-signals-first-onpush-2026",
+      "source": "Business Tech Navigator / ITNEXT / Angular In Depth / Syncfusion Blog",
+      "summary": "Angular 22（2026年6月3日GA）でSignal FormsとZonelessアーキテクチャが安定版（LTS候補）に昇格した。Zonelessは Zone.jsを廃止しSignals・AsyncPipeによる明示的通知でUI更新する方式で、デバッグ予測可能性向上・バンドル削減・SSR改善が主なメリット。Signal Formsへの移行は全フォーム一斉置換は不要で、SignalFormControlを既存FormGroupに組み込む段階的移行APIを利用可能。OnPushがデフォルト変更検知戦略に変更、HTTPクライアントもFetch APIに切り替えた。Angular 22はLTS候補のため安定採用に最適なタイミングで、エンタープライズでの再評価が加速中。まず tsconfig.jsonでzoneless:trueに設定し、新規コンポーネントはOnPushをデフォルトに。既存フォームはSignalFormControlを1フォームから試験導入して展開範囲を広げることを推奨。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "ホルムズ海峡・イラン情勢 深掘り — 原油105ドル超え・日本は備蓄放出と補助金再開で応戦",
+      "url": "https://global-scm.com/blog/?p=7557",
+      "source": "グローバルSCM / OANDA Japan / igrid / 地経学研究所",
+      "summary": "ホルムズ海峡封鎖が長期化し9月時点で原油が105ドルを突破。商業船舶通航は平常時の約7%、日本関連タンカー45隻が湾内滞留、戦争リスク保険料は40倍に高騰。イランが9/28に通航料条件での合意を提示したがトランプ大統領は即日拒否し実質的出口なし。8月18日の60日交渉期限切れ後もイランは封鎖継続を警告。日本は45日分の石油備蓄放出を決定しガソリン補助金を再開、中央アジア・南米への調達多角化を急ぐ。長期金利の上昇（3.095%）にも影響しており、10/5臨時国会ではエネルギー補助延長が争点の一つとなる。"
+    },
+    {
+      "category": "hobby",
+      "size": "large",
+      "title": "Ghost of Yōtei Complete Edition — 本日が特典最終確認・明後日10/1発売直前チェックリスト",
+      "url": "https://game8.jp/ps5/813818",
+      "source": "Game8 / Gizmodo Japan / MP1st",
+      "summary": "Ghost of Yōtei Complete Editionが10月1日（木）発売。境井家の鎧先行アンロック申込期限は明日9/30（水）が最終日。既存オーナー向けアップグレードDLCは$14.99（約1,480円）。新ストーリーDLC「関ケ原 慕情譚」（Echoes of Sekigahara）ではアツの旧友・永門が登場し関ヶ原時代を舞台に展開、ローグライクモード「剣客戯譚」（Most Wanted）ではツシマの境井仁も参戦。アップデート2.000が既に配信中。完全版（新規）$69.99。Amazonで16%割引プレオーダーも受付中。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Next.js v16.3.7/v15.5.27 明日9/30セキュリティリリース — 9件CVE詳細（SSRF・認証バイパス等）",
+      "url": "https://dev.to/davekurian/nextjs-secures-framework-with-nine-critical-patch-updates-164p",
+      "source": "DEV Community",
+      "summary": "Next.jsが明日9/30にv16.3.7/v15.5.27をリリース予定。Critical 1件・High 2件・Medium 5件・Low 1件の計9件の脆弱性を修正。SSRF・認証バイパス・DoSが含まれる見込み。9/22にも別のRCE脆弱性（Satori）が既に修正済み。本番環境向けに今日中のテスト環境準備を推奨。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "TypeScript 7.0 Beta — Go言語リライト「Project Corsa」でビルド10倍・型チェック30倍高速化",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta",
+      "source": "Microsoft Dev Blog / Zenn",
+      "summary": "MicrosoftがTypeScript 7.0 Betaを発表。Go言語へのポート（Project Corsa）でビルド10倍・型チェック30倍・メモリ2.9倍削減を実現。npm install -D @typescript/native-preview@betaで試用可能。TypeScript 6との型チェック互換性を維持しつつ.tsファイルをビルドなしで実行可能。Angular・Next.js等フレームワークへの影響は移行ガイドを確認。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "GitHub Copilot に Claude Fable 5.1＋Gemini 3.8 Flash 追加 — JetBrains向けハーネスもGA",
+      "url": "https://www.ai-souken.com/article/github-copilot-updates-2026",
+      "source": "AI総研",
+      "summary": "GitHub CopilotにClaude Fable 5.1（Pro+/Max/Business/Enterprise）とGemini 3.8 Flash（全プラン）が追加。エージェントワークフローでのコンテンツ除外機能が実装され機密コードをAIのコンテキストから除外可能。JetBrains向けCopilotハーネスがGAになり即時機能追加が可能に。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "台風26号 最新（9/29）— 明日30日から伊豆諸島に接近、前線も活発化",
+      "url": "https://tenki.jp/forecaster/s_ono/2026/09/29/40788.html",
+      "source": "tenki.jp",
+      "summary": "台風26号（スリゲ）は9/29時点で日本の南を北東進中。30日（水）〜10/1（木）にかけて伊豆諸島に接近する見込みで、接近前から前線活動が活発化。速度次第で関東本州への影響タイミングが変化する可能性があり引き続き最新情報の確認が必要。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "臨時国会10/5召集を与野党に正式伝達 — 消費税減税・議員定数削減が焦点、69日間会期",
+      "url": "https://www.nippon.com/ja/news/yjj2026092900123/",
+      "source": "nippon.com（共同通信配信）",
+      "summary": "木原官房長官が9/29、衆参両院の議運委理事会に10/5召集を正式伝達。12/12まで69日間。飲食料品の消費税率引き下げ（現行8%→1%）関連法案と議員定数削減法案が主要争点。国会改革（質問主意書電子化・委員会ライブ配信義務化等）も論点に。与党は参院少数のため野党協力取り付けが最大課題。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "WEST. 明日9/30 最終章 — ツアーオフショット公開・ラストラジオ、ファン複雑な反応",
+      "url": "https://coki.jp/?p=93722",
+      "source": "coki.jp / THE FIRST TIMES",
+      "summary": "WEST.が明日9/30をもって活動終了。ラストライブなしの幕引きに批判も続く中、ツアーファイナルのオフショット写真が公式SNSで公開され7人の最後の記録としてファンに拡散。前日9/29も各種SNSでのメッセージ発信が続いており「明るすぎて逆に怖い」という声に加え「ありがとう」という感謝コメントも多数。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "薬屋のひとりごと3期 10/2（明後日）放送直前 — OPはヨルシカ・劇場版12月も決定",
+      "url": "https://realsound.jp/movie/2026/08/post-2492868.html",
+      "source": "Real Sound / アニメアニメ",
+      "summary": "10月2日（金）23時よりNTV系「FRIDAY ANIME NIGHT」枠で薬屋のひとりごと3期が放送開始。新キャストに上田麗奈参加、OPテーマはヨルシカ「雲を抜け風下へ私だけ」。後宮から市井・隣国へ舞台が広がる新展開。9/27には先行上映会も実施済み。さらに劇場版『亡妃の秘宝』が12/11公開も決定しTV×映画の連動展開。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "東京カレー万博2026 今週末で終了（〜10/7）— 台風後の週末が最終チャンス",
+      "url": "https://report.iko-yo.net/articles/33350",
+      "source": "いこーよ 体験レポート",
+      "summary": "大久保公園で開催中の東京カレー万博2026が10月7日（水）で終了。食べログ百名店・予約困難店も参加する全国48店舗が集結しビリヤニ・焼きたてドーサも充実。入場無料・200円刻みの食券制。台風26号通過後の来週末（10/4〜5）が残り最後のチャンス。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "OpenAI DevDay 2026 本日PT午前10時開幕 — 常時稼働型エージェント「Aeon」発表が有力視",
+      "url": "https://cryptobriefing.com/openai-aeon-ai-agent-devday-2026/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Sakana AI「Fugu Max」— 日本発・動的ルーティング型マルチエージェントLLM、100万トークン対応",
+      "url": "https://openrouter.ai/models/sakana/fugu-max"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Angular in 2026 中間レビュー — Signal成熟とAI生成コード品質の現実、エンタープライズ再選定が増加",
+      "url": "https://angularindepth.com/article/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "日本人口1億2297万人・減少幅が過去最大 — 2026年国勢調査確定値、外国人は400万人超え",
+      "url": "https://www.nippon.com/ja/japan-data/h02859/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "iPS心筋細胞シート「リハート」保険適用後初手術 — 重症虚血性心筋症患者に実施",
+      "url": "https://kumanichi.com/articles/2016302"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "関東で震度4（M4.9）— 茨城南部震源・本日夕方発生、津波なし",
+      "url": "https://udn.com/news/story/6809/9199797"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "天皇皇后両陛下の熊本訪問を30日に延期 — 熊本地震10年節目、台風接近で天候不良",
+      "url": "https://kumanichi.com/articles/1994397"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "大谷翔平ら日本人5選手がオールMLB候補 — 史上最多の同時選出、大谷は指名打者部門トップ",
+      "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/mlb-japanese-players-2026/blt229c9a5d9cd809f1"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "ゴジラ-0.0 神木隆之介×浜辺美波続投・N.Y.上陸映像公開 — 11月3日公開・邦画初Filmed For IMAX",
+      "url": "https://realsound.jp/movie/2026/04/post-2367701.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "魔法騎士レイアース 29年ぶり新アニメ化 — 10月7日（火）テレ朝系開始、佐倉綾音×大久保瑠美×高橋李依",
+      "url": "https://www.famitsu.com/article/202603/70027"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "2026秋アニメ全33作品まとめ — 薬屋3期・ドラゴンボール超 ビルス・レイアース・PSYREN・幻想水滸伝",
+      "url": "https://www.oricon.co.jp/special/76282/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Nikon Z5IIC 発売前情報まとめ — 10月23日発売・$1,399.95・EVFレスのVlog向けフルフレーム",
+      "url": "https://www.minnacamera.com/mags/6467"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "崩壊スターレイルVer.4.6「パール」ピックアップ開始 — 千星シティ「生研院」新ストーリー展開中",
+      "url": "https://www.inside-games.jp/release/prtimes/20260920/308532.html"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "「React・Vue・Angular戦争は終わったのか？」2026年フロントエンド現状分析",
+      "url": "https://devworks.jp/blog/426",
+      "serendipity_reason": "日々Angularを書いているエンジニアとして、自分の技術選択の客観的位置づけを把握できる記事。「Reactが依然最大シェアだが、Angular 22のSignals/Zonelessによる競争力復活でエンタープライズでの再評価が進んでいる」というのは、社内での採用議論・技術選定の説明責任を果たす上での武器になる。「なぜAngularか」を改めて言語化するきっかけに。"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "ジャパニーズカレーフェスティバル2026 渋谷・虎ノ門ヒルズで〜10/4まで開催",
+      "url": "https://www.timeout.jp/tokyo/ja/news/japanese-curry-festival-2026-082126",
+      "serendipity_reason": "東京カレー万博（大久保公園〜10/7）と同じ週に渋谷・虎ノ門ヒルズでも「ジャパニーズカレーフェスティバル2026」が開催中（〜10/4）。都内2大カレーイベントが同時開催という、スパイスカレー好きにとっては黄金の週。台風26号が通過した後の平日（10/1〜4）を狙えば空いている可能性も。「SPICE UP! JAPAN」テーマで日本独自のカレー文化を発信する企画は、エンタメ業界の仕事視点でも参考になる。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Reactive Forms → Signal Forms 実践移行ガイド（Angular 22）",
+      "url": "https://itnext.io/reactive-forms-to-signal-forms-a-practical-migration-guide-for-angular-45458d609ab8",
+      "reason": "Angular大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Signal Forms vs Reactive Forms: Angular 22 移行判断フレームワーク",
+      "url": "https://dev.to/abdelaaziz_ouakala/signal-forms-vs-reactive-forms-when-should-you-upgrade-your-forms-angular-22-guide-3cmh",
+      "reason": "Angular大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Angular Zoneless Change Detection 完全解説（Syncfusion Blog）",
+      "url": "https://www.syncfusion.com/blogs/post/angular-zoneless-change-detection.md",
+      "reason": "Angular大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Angular Signals 2026: 基礎からアーキテクチャレベルのパターンまで",
+      "url": "https://dev.to/amankhan55/angular-signals-in-2026-from-fundamentals-to-architect-level-patterns-55l5",
+      "reason": "Angular大記事に内容を統合、small枠の上限"
+    },
+    {
+      "category": "tech",
+      "title": "TypeScript 7.0の襲来 — tsgoがもたらすパラダイムシフト（Zenn）",
+      "url": "https://zenn.dev/chot/articles/30da2a9194a081",
+      "reason": "TypeScript 7.0 Beta中記事（Microsoft Dev Blog）に統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic、Claude DocsとSlidesを発表（ITmedia）",
+      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
+      "reason": "9/17既報トピック、今週の速報性なし"
+    },
+    {
+      "category": "tech",
+      "title": "生成AI関連ニュース ベスト5（2026/9/18〜9/25）",
+      "url": "https://gais.jp/news-2026-09-25/",
+      "reason": "週次まとめは個別記事で代替可能"
+    },
+    {
+      "category": "tech",
+      "title": "React・Vue・Angular戦争フロントエンド現状 → セレンディピティに昇格",
+      "url": "https://devworks.jp/blog/426",
+      "reason": "セレンディピティ枠に選出"
+    },
+    {
+      "category": "news",
+      "title": "高市首相「消費減税大綱を9月決定」（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2021681",
+      "reason": "臨時国会中記事（nippon.com）と同一トピック"
+    },
+    {
+      "category": "news",
+      "title": "首相、野党に消費減税法案の協力要請（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2038766",
+      "reason": "臨時国会中記事に内容を統合済み"
+    },
+    {
+      "category": "news",
+      "title": "臨時国会10/5召集 国会改革も論点に（KSB瀬戸内海放送）",
+      "url": "https://news.ksb.co.jp/ann/article/16915398",
+      "reason": "臨時国会中記事と同一トピック"
+    },
+    {
+      "category": "news",
+      "title": "ホルムズ海峡封鎖でWTI原油92ドル台（OANDA Japan）",
+      "url": "https://www.oanda.jp/lab-education/?p=126953",
+      "reason": "ホルムズ大記事（グローバルSCM・105ドル台）に統合済み"
+    },
+    {
+      "category": "news",
+      "title": "ホルムズ危機で日本が検討すべきエネルギー安全保障戦略",
+      "url": "https://instituteofgeoeconomics.org/research/2026041701/",
+      "reason": "ホルムズ大記事に内容を統合済み、research paperは速報性低い"
+    },
+    {
+      "category": "news",
+      "title": "臨時国会 消費減税・議員定数削減が焦点（デイリースポーツ）",
+      "url": "https://www.daily.co.jp/society/politics/2026/09/29/0020872584.shtml",
+      "reason": "臨時国会中記事（nippon.com）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.藤井流星&小瀧望 脱退時期は未定（秋田魁新報）",
+      "url": "https://www.sakigake.jp/news/article/20260831OR0002/",
+      "reason": "WEST.の背景情報だが8月末既報。中記事で今日の最新動向を優先"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.『KAMIGATA EXPO PARK FES 2026』出演見合わせ",
+      "url": "https://www.sakigake.jp/news/article/20260915OR0130/",
+      "reason": "9/15既報、今日の速報性なし"
+    },
+    {
+      "category": "entertainment",
+      "title": "朝ドラ『ブラッサム』主題歌はYOASOBI「咲き誇れ」（Real Sound）",
+      "url": "https://realsound.jp/movie/2026/07/post-2468534.html",
+      "reason": "昨日（9/28）大記事で掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "朝ドラ『ブラッサム』追加キャスト 遠藤憲一&井浦新",
+      "url": "https://www.sakigake.jp/news/article/20260709OR0066/",
+      "reason": "7月既報、昨日大記事で掲載済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "薬屋のひとりごと 3期 放送直前・9/27先行上映（アニメアニメ）",
+      "url": "https://animeanime.jp/article/2026/09/16/102979.html",
+      "reason": "薬屋中記事（Real Sound）に統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "ゴジラ-0.0 大規模撮影の舞台裏公開【メイキング映像】",
+      "url": "https://www.sakigake.jp/news/article/20260827OR0036/",
+      "reason": "8月末既報、ゴジラsmall記事（Real Sound）に統合"
+    },
+    {
+      "category": "entertainment",
+      "title": "ゴジラ-0.0 公開日は2026年11月3日（VG+）",
+      "url": "https://virtualgorillaplus.com/movie/godzilla-minus-0/",
+      "reason": "ゴジラsmall記事（Real Sound）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.最終章ツアーオフショット（THE FIRST TIMES）",
+      "url": "https://www.thefirsttimes.jp/?p=837864",
+      "reason": "WEST.中記事（coki.jp）に内容を統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "2026年秋アニメ注目作まとめ（電撃オンライン）",
+      "url": "https://dengekionline.com/article/202609/86287",
+      "reason": "秋アニメ全33作品まとめ（ORICON NEWS）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "YOASOBI 朝ドラ『ブラッサム』主題歌担当（Real Sound）",
+      "url": "https://realsound.jp/2026/07/post-2468660.html",
+      "reason": "昨日大記事で掲載済み、7月既報"
+    },
+    {
+      "category": "hobby",
+      "title": "Amazon ゴーストオブヨウテイCE 予約16%割引（Gizmodo Japan）",
+      "url": "https://www.gizmodo.jp/article/amazon-ghost-of-yotei-complete-preorder/",
+      "reason": "Ghost of Yōtei大記事に内容を統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "Ghost of Yotei Update 2.000 CE発売準備パッチ（MP1st）",
+      "url": "https://mp1st.com/?p=315024",
+      "reason": "Ghost of Yōtei大記事に内容を統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "Nikon Z5IIC正式発表 EVFレス・Fstoppers記事",
+      "url": "https://fstoppers.com/gear/nikon-announces-new-z5iic-904727",
+      "reason": "Nikon Z5IIC small記事（みんなカメラ）と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "2026年9月カメラ・レンズ新製品発表まとめ（みんなカメラ）",
+      "url": "https://www.minnacamera.com/mags/6364",
+      "reason": "月次まとめは個別新製品記事で代替可能"
+    },
+    {
+      "category": "hobby",
+      "title": "Honkai: Star Rail V4.6 Special Program Overview（Icy Veins）",
+      "url": "https://www.icy-veins.com/gacha/news/honkai-star-rail-v4-6-special-program-overview/",
+      "reason": "崩壊スターレイルsmall記事（inside-games.jp）と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "原神Ver.7.1「冥府へのレクイエム」9/23リリース（inside-games.jp）",
+      "url": "https://www.inside-games.jp/release/prtimes/20260923/308614.html",
+      "reason": "昨日small記事「崩壊スタ＋原神」に近いトピック、Ver.7.1は9/23既報"
+    },
+    {
+      "category": "hobby",
+      "title": "原神6周年特別コラボ・限定グッズ（アニメアニメ）",
+      "url": "https://animeanime.jp/release/prtimes/20260923/314554.html",
+      "reason": "昨日のsmall記事（崩スタ+原神6周年）で掲載済み"
+    },
+    {
+      "category": "hobby",
+      "title": "東京カレー万博 現地レポート → 中記事に昇格",
+      "url": "https://report.iko-yo.net/articles/33350",
+      "reason": "中記事に選出済み"
+    },
+    {
+      "category": "hobby",
+      "title": "ジャパニーズカレーフェスティバル2026 → セレンディピティに昇格",
+      "url": "https://www.timeout.jp/tokyo/ja/news/japanese-curry-festival-2026-082126",
+      "reason": "セレンディピティ枠に選出"
+    }
+  ]
+}
