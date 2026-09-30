@@ -1,0 +1,324 @@
+{
+  "date": "2026-09-30",
+  "notion_page_id": null,
+  "generated_at": "2026-09-30",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "feedback_collected": {
+    "date": "2026-09-29",
+    "source_page_id": "3eaa41a3-cf9b-8174-855f-d10eafa512cb",
+    "checkboxes_checked": [],
+    "comments": [],
+    "notes": "No checkboxes checked, no comments on 2026-09-29 page"
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Plugin4Shell: AIコーディングエージェントにゼロクリックRCE脆弱性 — Claude Code・Codex修正済み、Copilot・Gemini CLI未対応",
+      "url": "https://aicybr.com/blog/plugin4shell-ai-coding-agents-claude-code-codex-copilot-gemini-cli",
+      "source": "AI Cybersecurity Blog",
+      "summary": "9月18日公開のPlugin4Shell（CVE相当）は、SHA-ピン整合性チェックの欠陥を突いてAIコーディングエージェントのプラグイン機構を悪用するゼロクリックRCE脆弱性。Claude Code・Codex・GitHub Copilot・Gemini CLIの4製品が影響。Anthropic（Claude Code）とOpenAI（Codex）はパッチ済みで最新版アップデートで対応完了。Microsoft（Copilot）とGoogle（Gemini CLI）は9/30時点で未対応。日常的にCopilotを使用するフロントエンドエンジニアは即座にプラグイン自動更新を無効化し公式パッチを待つことを推奨。"
+    },
+    {
+      "category": "entertainment",
+      "size": "large",
+      "title": "10月エンタメ解禁ラッシュ — ドラゴンボール超ビルス・救命病棟24時・相棒season25が今月一斉スタート",
+      "url": "https://realsound.jp/movie/2026/09/post-2511123.html",
+      "source": "Real Sound / ファミ通 / 秋田魁新報",
+      "summary": "10月は大型コンテンツが週単位で解禁される月。①10/11「ドラゴンボール超 ビルス」（フジ系）— 2015年版を大規模リニューアル・OP主題歌はメガテラ・ゼロ、放送後30分でPrime Video配信 ②10/12「救命病棟24時 第6シリーズ」（月9）— 13年ぶり復活・江口洋介×松嶋菜々子16年ぶり再集結 ③10/21「相棒season25」（テレ朝）— 現行連ドラ歴代最長の節目。薬屋3期（10/2）・レイアース（10/7）と合わせ週単位で大型コンテンツが連続するエンタメ業界の書き入れ時が本格スタート。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Angular 22.2 新機能 — Router Resources API・@boundary構文がDeveloper Preview入り",
+      "url": "https://blog.ninja-squad.com/2026/09/23/what-is-new-angular-22.2",
+      "source": "Ninja Squad Blog",
+      "summary": "Angular v22.2が9月23日リリース。①RouterリソースAPI（Dev Preview）：Resolverの後継でSignals統合・リソース並列ロード・ナビゲーションブロック制御が可能 ②@boundary構文（Dev Preview）：Reactのエラーバウンダリ相当のコンポーネントレベルエラー捕捉機構。テンプレートでのprivateプロパティ使用も解禁。昨日のAngular 22 Signal Forms大記事に続き、フレームワークの進化が続く。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Anthropic AIがR&D 26%を自律主導 — 2月の1%未満から8か月で急増・AGI移行指標",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
+      "source": "ITmedia AIplus",
+      "summary": "Anthropic Instituteが自社R&Dタスクの26%をClaudeがほぼ自律的に主導していると発表。2月時点では1%未満だった自動化率が8か月で急増。約950エージェントが同時稼働し実験・仮説検証・コード生成を担う。AIがAIを改善するフィードバックループの加速をLLM動向の重要指標として記録しておく価値がある。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "OpenAI Agents API パブリックベータ全開発者に解放 — Codexと同一インフラ提供",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "source": "OpenAI",
+      "summary": "9月10日よりAgents APIをパブリックベータとして全API開発者に公開。Codexを動かすのと同じインフラで、ツール使用・サブエージェント調整・永続セッション管理が可能。実行環境はOpenAI管理サンドボックス・自社インフラ・パートナーサンドボックスから選択可能。Agents API自体は無料でモデルとツール使用分のみ課金。AIエージェント開発の参入障壁が一段下がった。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "臨時国会10/5まで残り5日 — 消費税減税・議員定数削減、各党最終調整の局面",
+      "url": "https://kumanichi.com/articles/2035012",
+      "source": "熊本日日新聞（共同通信）",
+      "summary": "10月5日召集の臨時国会まで残り5日。飲食料品消費税を8%→1%に引き下げる関連法案と衆院議員定数削減法案が2大争点。高市首相が野党各党に協力要請。与党は参院少数のため野党合意形成が鍵。定数削減法案に反対する女性40人発起人の「定数削減反対！連合」も設立され市民運動も拡大中。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "イラン、ホルムズ海峡通行手数料徴収法案を国会審議中 — 封鎖から手数料へ局面転換か",
+      "url": "https://www.afpbb.com/articles/-/3627567",
+      "source": "AFPBB（AFP）",
+      "summary": "ホルムズ海峡問題に新展開。イランが海峡通過船舶から「手数料」を徴収する法律を国会審議中。原油1バレルあたり1ドル程度を暗号資産または人民元で徴収とも報道。米国は強く反対しており完全解除には至っていないが、「軍事対立」から「法的・経済的枠組みの模索」へと局面が変化しつつある。昨日のホルムズ大記事の続報。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "WEST. 本日9/30をもって12年の歴史に幕 — SNSに「お疲れ様」と「ありがとう」が溢れる",
+      "url": "https://www.daily.co.jp/gossip/2026/08/31/0020765813.shtml",
+      "source": "デイリースポーツ",
+      "summary": "WEST.が本日9月30日をもってグループ活動を終了。8月30日の藤井流星・小瀧望の電撃脱退発表後に解散を決断。2014年デビューから12年、ラストライブなしの幕引きへの批判も続く中、最終日を迎えた。SNSは感謝と複雑な感情が交差。7人全員は10月以降もSTARTO社でソロ活動を継続。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "下北沢カレーフェスティバル2026 — 東京カレー万博終了直後の10/8から25日間開催",
+      "url": "https://iko-yo.net/events/524306",
+      "source": "いこーよ",
+      "summary": "東京カレー万博2026（〜10/7）が終わると翌日から下北沢カレーフェスティバル2026（10/8〜25）が始まる。15周年記念でセガの「ぷよぷよ」「ソニック」とコラボ。100軒超の飲食店が参加し普段カレーを出さない店も特別メニューを提供。毎年10万人以上が訪れる人気イベント。大久保→下北沢と2大カレー祭りを連続制覇できる絶好の秋。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Claude安全フィルタによるブロックリクエストへの課金開始（9/25）",
+      "url": "https://gigazine.net/news/20260925-claude-safeguard-block-request/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "SvelteKit 3 RC公開 — Vite 8移行・shallow routing統合・Remote Forms改善",
+      "url": "https://svelte.dev/blog/sveltekit-3-release-candidate"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Svelte September 2026定例更新 — SvelteMapに新メソッド・createContextがhas()返却",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-september-2026"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "能登半島・和倉温泉11旅館が宿泊再開 — 地震から2年8か月、観光復興が本格化",
+      "url": "https://www.westjr.co.jp/press/article/2026/09/16/items/260916_00_press_wakuraonsen_event.pdf"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "日銀1.25%利上げ余波 — 12月1.5%・2027年Q1 1.75%予測、変動型住宅ローンに上昇圧力",
+      "url": "https://www.daiwa-am.co.jp/specialreport/market_letter/20260918_02.pdf"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "米中貿易休戦2か月延長で合意 — 9/24首脳会談、AI・台湾・レアアースも議題に",
+      "url": "https://www.newsweekjapan.jp/articles/-/335026"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "メイドインアビス 劇場版「目覚める神秘」10月23日公開 — 劇場シリーズ第1部スタート",
+      "url": "https://dengekionline.com/article/202607/80678"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Ghost of Yōtei CE 本日9/30が先行予約特典「境井家の鎧」締切 — 明日10/1発売",
+      "url": "https://automaton-media.com/articles/newsjp/20260812-459932/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "SIGMA 20-60mm F2.8-4 DG Contemporary 本日発売 — 20mm始まりの明るい広角ズーム",
+      "url": "https://press.sigmaphoto.com/product/09/sigma-announces-20-60mm-f2-8-4-dg-contemporary/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "PS Plus 10月フリープレイ 本日発表予定 — 9月タイトルは本日終了",
+      "url": "https://www.nme.com/guides/gaming-guides/ps-plus-october-2026-games-3967266"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Dynasty Warriors 3: Complete Edition Remastered 明日10/1発売 — UE5採用・本日先行予約締切",
+      "url": "https://gematsu.com/2026/06/dynasty-warriors-3-complete-edition-remastered-launches-october-1"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "Cognition SWE-2 — コスト81%減・ステップ数58%減の自律コーディングモデルが登場",
+      "url": "https://runtimewire.com/article/cognition-swe-2-coding-model-scott-wu",
+      "serendipity_reason": "フロントエンドエンジニアとして「自分の仕事がAIに置き換わる速度」のリアルな指標として。SWE-2はDevinの後継で同等品質をコスト1/5で実現。「補助ツール」から「並走するエンジニア」へのパラダイムシフトが今まさに起きている実感を得るのに最適。今日のPlugin4Shell対応やAngular 22.2実装など日常業務を変えるAIの加速を俯瞰する機会に。"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "2026年WEB開発の基本になる変化 — メタフレームワーク一元化・Server Actions標準化の現実",
+      "url": "https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8",
+      "serendipity_reason": "Angular・Next.js・SvelteKitの個別動向を追いながら、それを貫く2026年フロントエンドの共通言語を俯瞰できる。「バックエンドをフロントリポジトリに統合する構成が主流」という観察はエンタメ業界での開発案件選定の際の武器になる。Angularがこの潮流にどう対応するかを考える土台にも。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "TypeScript 7.0 正式リリース（gihyo.jp）",
+      "url": "https://gihyo.jp/article/2026/07/typescript-7-0",
+      "reason": "7月8日リリースの既報。昨日TypeScript 7.0 Betaとして中記事掲載済み"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic Claude 新酵素「ART」発見（anthropic.com）",
+      "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "reason": "過去7日掲載済みURL（www.anthropic.com/news/claude-discovers-novel-enzyme-system）と同一トピック"
+    },
+    {
+      "category": "tech",
+      "title": "Cursor「Projects」機能リリース",
+      "url": "https://cursor.com/blog",
+      "reason": "9/10リリース、速報性が低い"
+    },
+    {
+      "category": "tech",
+      "title": "フロントエンドカンファレンス福岡2026参加レポート（LayerX）",
+      "url": "https://tech.layerx.co.jp/entry/2026/09/11/165709",
+      "reason": "過去7日掲載済みURL"
+    },
+    {
+      "category": "tech",
+      "title": "Frontend Nation 2026まとめ（Zenn）",
+      "url": "https://zenn.dev/abalol/articles/1f067e7346d185",
+      "reason": "セレンディピティ枠のzenn記事と重複トピック、今日の新鮮度低い"
+    },
+    {
+      "category": "tech",
+      "title": "Claudeがセキュリティテストで無断アクセス4件（ITmedia）",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
+      "reason": "9/9既報、速報性低い"
+    },
+    {
+      "category": "news",
+      "title": "台風21号沖縄接近（琉球新報）",
+      "url": "https://ryukyushimpo.jp/news/entry-3596829.html",
+      "reason": "「9月31日」という存在しない日付を含み、台風番号も文脈と矛盾。情報の信頼性に問題あり除外"
+    },
+    {
+      "category": "news",
+      "title": "第2次高市改造内閣発足（kumanichi）",
+      "url": "https://kumanichi.com/articles/2033420",
+      "reason": "9/16-17既報、速報性低い"
+    },
+    {
+      "category": "news",
+      "title": "日本実質賃金7か月連続プラス（Business Today）",
+      "url": "https://www.businesstoday.com.my/2026/08/05/japan-real-wages-rise-for-sixth-straight-month/",
+      "reason": "8月5日の記事、速報性なし"
+    },
+    {
+      "category": "news",
+      "title": "習近平9/23-25ワシントン訪問（秋田魁新報）",
+      "url": "https://www.sakigake.jp/news/article/20260818CO0048/",
+      "reason": "過去7日（9/24米中首脳会談）として既に関連記事掲載済み"
+    },
+    {
+      "category": "news",
+      "title": "衆院議員定数削減法案・女性40人反対団体設立（kumanichi）",
+      "url": "https://kumanichi.com/articles/2008050",
+      "reason": "臨時国会中記事（2035012）に統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.中間淳太が生放送で謝罪（秋田魁新報）",
+      "url": "https://www.sakigake.jp/news/article/20260909OR0051/",
+      "reason": "9/9既報、WEST.中記事（daily.co.jp）に内容統合"
+    },
+    {
+      "category": "entertainment",
+      "title": "薬屋のひとりごと3期10/2スタート（ぴあ）",
+      "url": "https://lp.p.pia.jp/article/news/440242/index.html",
+      "reason": "過去7日掲載済み（realsound.jp/movie/2026/08/post-2492868.html）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "魔法騎士レイアース10/7スタート（めちゃコミック）",
+      "url": "https://mechacomic.jp/free/mechamaga/news/184805",
+      "reason": "過去7日掲載済み（famitsu.com/article/202603/70027）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "踊る大捜査線 N.E.W. 9/18公開（MovieWalker）",
+      "url": "https://press.moviewalker.jp/news/article/1334526/",
+      "reason": "9/18公開の既報、速報性低い"
+    },
+    {
+      "category": "entertainment",
+      "title": "秋アニメ2026全33作品（オリコン/anime）",
+      "url": "https://www.oricon.co.jp/anime/2026_autumn/",
+      "reason": "過去7日掲載済み（oricon.co.jp/special/76282/）と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "バズリズム LIVE 2026（ローチケ）",
+      "url": "https://l-tike.com/ntvzero/event/buzzrhythm26.html",
+      "reason": "11月のイベント情報、速報性低い"
+    },
+    {
+      "category": "hobby",
+      "title": "Rayman Legends Retold 10/1発売（One More Game）",
+      "url": "https://onemoregame.ph/2026/06/rayman-legends-retold-announcement-oct-1/",
+      "reason": "明日発売だが、既に3つの明日発売ゲーム情報を含むためsmall枠調整で除外"
+    },
+    {
+      "category": "hobby",
+      "title": "ニコン Z5IIC発表（CineD）",
+      "url": "https://www.cined.com/jp/?p=377398",
+      "reason": "過去7日掲載済み（minnacamera.com/mags/6467）と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "2026年9月カメラ新製品まとめ（みんなカメラ）",
+      "url": "https://www.minnacamera.com/mags/6364",
+      "reason": "過去7日掲載済みURL"
+    },
+    {
+      "category": "hobby",
+      "title": "Sony Cyber-shot RX10 V日本発売（くんこく）",
+      "url": "https://kunkoku.jp/sony-camera-teaser-202607-2.html",
+      "reason": "7月発売の既報"
+    },
+    {
+      "category": "hobby",
+      "title": "Leica SL3-P発売（Camera Jabber）",
+      "url": "https://camerajabber.com/photography-news/leica-unveils-sl3-p-with-pro-hybrid-performance/",
+      "reason": "6月発売の既報"
+    },
+    {
+      "category": "hobby",
+      "title": "印度カリー子「スパイスとカレー入門」増補改訂版（丸善ジュンク堂）",
+      "url": "https://www.maruzenjunkudo.co.jp/products/9784768331552",
+      "reason": "5月発売の既報、速報性なし"
+    },
+    {
+      "category": "hobby",
+      "title": "Blood of Dawnwalker 9月発売（Game*Spark）",
+      "url": "https://www.gamespark.jp/article/2026/06/03/167336.html",
+      "reason": "6月記事・9月発売済みで速報性なし"
+    }
+  ]
+}
