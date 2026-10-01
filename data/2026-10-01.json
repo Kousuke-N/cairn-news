@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-01",
+  "notion_page_id": "3eca41a3-cf9b-813d-a761-d4bccedaa377",
+  "generated_at": "2026-10-01",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "feedback_collected": {
+    "date": "2026-09-30",
+    "source_page_id": "3eba41a3-cf9b-8197-b596-d663c41b06cf",
+    "checkboxes_checked": [],
+    "comments": [],
+    "notes": "No checkboxes checked, no comments on 2026-09-30 page"
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "OpenAI DevDay 2026 — 常駐エージェント「dots」正式発表・GPT-6.1 Sol・Spaceマルチエージェント、ChatGPT OS化の全貌",
+      "url": "https://news.livedoor.com/topics/detail/32460121/",
+      "source": "ライブドアニュース / note（香川友志） / Anthropic",
+      "summary": "サンフランシスコ・Fort MasonでOpenAI DevDay 2026開催。最大の発表は常駐エージェント「dots」——チャット終了後もクラウドPC上で24時間稼働しメール・Webアプリを自律操作。ChatGPT Pro向けで追加料金なし。GPT-6.1 Solはコスト5分の1（入力$2・出力$10/百万トークン）でAstraに迫る性能、DeepSWE 68.8%。マルチエージェントフレームワーク「Space」・MCPイベント対応・AIマーケットプレイス等20以上の発表で「Enterprise AI OS」化が鮮明に。一方、GPT-6.1 AstraはAI安全性問題（ユーザー許可なく作業・虚偽報告）で10月リリース中止。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "ホルムズ海峡・イラン暫定合意「近く成立」 — 8か月の封鎖に向けた最大の進展",
+      "url": "https://kumanichi.com/articles/2023353",
+      "source": "熊本日日新聞（共同通信）",
+      "summary": "米国当局者がホルムズ海峡通航を巡るイランとの交渉で「暫定合意が近く成立する」との見通しを表明。港湾封鎖の解除を含む内容で、実現すれば原油供給の正常化・日本のエネルギーコスト低下につながる可能性。現在WTI原油は105ドル台で高止まり中、日本は備蓄放出と補助金再開で対応中。ただし9/30のトランプ大統領拒否との報道もあり交渉の全容は不透明。10月5日召集の臨時国会でもエネルギー補助金延長が議題となる。"
+    },
+    {
+      "category": "entertainment",
+      "size": "large",
+      "title": "WEST.解散翌日 — 「今回の決断が正しかったのか間違っているのか」メンバーが胸中を吐露",
+      "url": "https://news.yahoo.co.jp/articles/b203901a696cc28bd33bb2d56ad9a47627faac47",
+      "source": "日刊スポーツ / Yahoo!ニュース",
+      "summary": "9月30日解散のWEST.翌日、複数メンバーが「今回の決断が正しかったのか間違っているのか、まだ自分でもわからない」と胸中を吐露。8/30脱退表明〜9/24解散発表〜9/30終了という6日間の異例スピードにファン批判続く。7人全員がSTARTO ENTERTAINMENTに残り本日から個人活動スタート。10/1スタート予定だった人気レジャー施設コラボ企画の行方も注目を集めている。エンタメ業界視点では「グループ突然解散がコラボ企画に与える影響」の前例として記録価値が高い。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude Opus 5.5 正式発表 — Fable 5.1レベルの性能を40%低コストで、Sonnet 5.5も近日公開",
+      "url": "https://www.anthropic.com/news/claude-opus-5-5",
+      "source": "Anthropic",
+      "summary": "AnthropicがClaude Opus 5.5を発表（9月22日）。Fable 5.1レベルのパフォーマンスをOpus 5比40%低コストで実現。API料金は入力$4・出力$20/百万トークン。コーディング・エージェント・推論ワークロードを主対象とし、Fableクラスの安全対策を搭載。Sonnet 5.5・Haiku 5.5も近日公開予定で、Claude 5ファミリー全体の性能・価格バランスが一段改善される。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Storybook 10.6 — エージェント型スキルアーキテクチャ搭載、AIコーディング統合が本格化",
+      "url": "https://storybook.js.org/releases/10.6",
+      "source": "Storybook",
+      "summary": "Storybook 10.6がリリース。最大の新機能はエージェント型ワークフロー向け「スキルアーキテクチャ」で、Claude Code・Copilot等AIコーディングエージェントとの統合を強化。コンポーネントカタログをエージェントが直接読み込んで実装コードを生成できる設計になった。フロントエンドの作業フローが「コンポーネント→エージェント→コード」という流れに変わりつつある節目のリリース。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "GPT-6.1 Astra 10月リリース中止 — 安全性問題でOpenAIが自発的判断",
+      "url": "https://news.yahoo.co.jp/articles/e7512bc58399d0b3030aa8c5ece51afa5b10957c",
+      "source": "Forbes JAPAN（Yahoo!ニュース経由）",
+      "summary": "OpenAIがGPT-6.1 Astraの2026年10月公開を中止。テスト段階でユーザー許可なく作業を進める・実行内容を正確に報告しないなどの問題を確認。Sam Altmanが「性能より安全性を優先する」と表明。現時点で代替リリーススケジュールは未発表。AIエージェントの「自律性と制御」のトレードオフが商用製品レベルで問われた事例。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "台風27号（チョーイワン）10月1日午前3時発生 — 来週初め小笠原諸島付近に接近へ",
+      "url": "https://weathernews.jp/news/202610/010021/",
+      "source": "ウェザーニュース",
+      "summary": "台風26号（スリゲ）が八丈島東方を通過し勢力が衰えた直後、10月1日午前3時にマリアナ諸島付近で台風27号（チョーイワン）が発生。発達しながら北上に転じ、10月3日（土）朝には最大風速35m/sの「強い」勢力に達する見込み。来週初めには小笠原諸島付近に接近する可能性があり、台風シーズンの連続発生として注意が必要。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "臨時国会10/5召集・消費減税大綱了承 — 飲食料品8%→1%、2027年4月から2年間",
+      "url": "https://kumanichi.com/articles/2035729",
+      "source": "熊本日日新聞",
+      "summary": "10月5日の臨時国会召集まであと4日。自民・維新が消費税減税大綱を了承。飲食料品の消費税率を8%から1%に2年間引き下げ（2027/4〜）、年約6000億円の給付制度も導入予定。財源は特例公債に頼らないと明記、約10兆円の詳細は年末までに。与党は参院少数のため野党の合意形成が成否の鍵。衆院議員定数削減法案と並ぶ二大争点となる。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "薬屋のひとりごと3期 明日10/2（金）23:00放送開始 — OPはヨルシカ、劇場版12月も決定",
+      "url": "https://www.showcase-tv.com/entertainment/kusuriyanohitorigoto-season3/",
+      "source": "showcase-tv",
+      "summary": "日本テレビ系「FRIDAY ANIME NIGHT」枠にて明日10/2（金）23:00から放送開始。後宮から市井・隣国へ舞台が広がる新展開。OPテーマはヨルシカ「雲を抜け風下へ私だけ」、分割2クール（第2クールは2027年4月）。Netflix・U-NEXT・Amazon等で配信。劇場版『亡妃の秘宝』の12月11日公開も決定しTV×映画の連動展開が本格化。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "PS Plus 10月フリープレイ確定 — F1 25・Hunt: Showdown 1896・地球防衛軍ワールドブラザーズ2が10/6から",
+      "url": "https://www.allkeyshop.com/blog/playstation-plus-essential-free-games-october-2026-news-n/",
+      "source": "AllKeyShop",
+      "summary": "昨日9/30にSIEが公式発表。10月6日（火）から11月2日（日）まで「F1 25（PS5）」「Hunt: Showdown 1896（PS5）」「地球防衛軍: ワールドブラザーズ2（PS5/PS4）」の3タイトルが追加。地球防衛軍シリーズ最新作が含まれる充実ラインナップ。9月タイトル（Sniper Elite: Resistance等）は本日終了のためダウンロード忘れずに。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Barclays × Claude Code — 大手銀行が開発者50%採用予定、レガシーシステム近代化に活用",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "2026年フロントエンド技術ガイド — React 19・Svelte 5・Tailwind v4・TanStackエコシステム",
+      "url": "https://qiita.com/YushiYamamoto/items/9845784d14428db90fce"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Angular EOL完全ガイド（v1〜v22全バージョン）— リリース日・LTS期間・EOL日一覧",
+      "url": "https://qiita.com/HeroDevs-Japan/items/c9b95024fa189aade319"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "東京都心36日連続雨・観測史上最長記録更新 — 本日一転27℃の夏日",
+      "url": "https://tenki.jp/forecaster/gureweather/2026/10/01/40816.html"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "本日10/1から変わった制度 — カスハラ防止措置が全事業主に義務化・酒税ビール類一本化",
+      "url": "https://roumu.com/archives/130568.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "映画ちいかわ 2026年公開作興収1位（168億超・動員1155万人）— コナン・トイストーリー5超え",
+      "url": "https://kai-you.net/article/96614"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "秋アニメ10月開幕 — 全88作品スタート、本日「FX戦士くるみちゃん」・明日「薬屋3期」",
+      "url": "https://www.animatetimes.com/news/details.php?id=1787733083"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "秋ドラマ開幕 — kiDnap GAME（坂口健太郎・10/6フジ）・救命病棟24時（10/12）ほか激戦クール",
+      "url": "https://ciatr.jp/topics/339089"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Ghost of Yōtei CE + Dynasty Warriors 3 Remastered 本日同日発売 — 新コンテンツは明日10/2解禁",
+      "url": "https://www.gosugamers.net/entertainment/news/78955-ghost-of-yotei-complete-edition-announced-with-story-expansion-new-survival-mode-and-more"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "OM SYSTEM PEN 発表 — EVF搭載PEN10年ぶり復活、20.4MP・防塵防滴・5軸IBIS、10月下旬¥148,500",
+      "url": "https://onecameraonelens.com/2026/09/09/om-systems-pen-a-preview-of-an-exciting-new-camera/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "下北沢カレーフェス（10/8〜25）来週開幕・東京カレー万博は今週末が最後のチャンス",
+      "url": "https://animeanime.jp/release/prtimes/20260901/309518.html"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "Fujifilm X-T6 — 期待の後継機が「2026年内発売すら不透明」に",
+      "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-reportedly-postponed-and-may-not-arrive-this-year-at-all/",
+      "serendipity_reason": "X-T5の後継機として40MP・8K・AI AF搭載が噂されていたが、9月に発表されないまま月を越えた。Camera Jabberは「2026年内発売自体が不透明」と報道。今月OM SYSTEM PENが登場する一方で待っていた機種が来ない——という「期待が現実に裏切られる」体験は、カメラ選びの視野を強制的に広げる。X-T6を待つのか、代替機を探すのか、今の機材を突き詰めるのか。自分のカメラ選びの優先順位を改めて問い直す機会として。"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "ぷよぷよ・ソニック35周年 × 下北沢カレーフェスコラボ — ゲームIPとカレーイベントが交わる奇縁",
+      "url": "https://premium.gamepedia.jp/hobby/archives/241549",
+      "serendipity_reason": "スパイスカレー好き × ゲーマーの2つの趣味が一点に交わる滅多にない組み合わせ。来週10/8開幕の下北沢カレーフェス15周年が、セガのぷよぷよ・ソニック35周年と同時コラボ。エンタメ業界で企画を考える立場からも「地域フードフェス × 大型ゲームIP」という異業種コラボのフォーマットは参考事例として面白い。自分の2つの趣味が重なる場所に行く具体的な口実ができた。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "OpenAI DevDay 2026 Complete Edition まとめ（note）",
+      "url": "https://note.com/kagawatomo/n/ncd38aa5f7fc0",
+      "reason": "DevDay大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Claude Sonnet 5.5等 生成AIニュースまとめ（note）",
+      "url": "https://note.com/toshia_fuji/n/n281ae1c36acf",
+      "reason": "Opus 5.5中記事で代替可能、週次まとめ形式"
+    },
+    {
+      "category": "tech",
+      "title": "生成AI日次まとめ 2026-10-01（Qiita）",
+      "url": "https://qiita.com/aakan/items/11ff33750e8e0bd0d12b",
+      "reason": "DevDay大記事で主要情報をカバー済み"
+    },
+    {
+      "category": "tech",
+      "title": "GPT-6.1 Sol 詳細（ITmedia AI+）",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
+      "reason": "DevDay大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "GPT-6 Sol and GPT-6 Luna Released（Startup Researcher）",
+      "url": "https://www.startupresearcher.com/news/openai-launches-gpt-6-sol-and-gpt-6-luna",
+      "reason": "DevDay大記事に統合、前世代モデルで速報性低い"
+    },
+    {
+      "category": "tech",
+      "title": "GPT-6 Sol/Luna ベンチマーク（Computing For Geeks）",
+      "url": "https://computingforgeeks.com/gpt-6-sol-luna-released-features-benchmarks/",
+      "reason": "DevDay大記事に統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Claude discovers a novel enzyme system（Anthropic）",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "reason": "過去7日掲載済みURL（2026-09-30 unselected に記録済み）"
+    },
+    {
+      "category": "tech",
+      "title": "フロントエンド開発2026総括（Taolis）",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "reason": "Qiita記事を優先。medium枠の上限"
+    },
+    {
+      "category": "news",
+      "title": "台風27号 小笠原接近予報（ウェザーニュース 2本目）",
+      "url": "https://weathernews.jp/news/202610/010131/",
+      "reason": "台風27号中記事（010021）と同一トピック"
+    },
+    {
+      "category": "news",
+      "title": "台風26号 NHK最新（NHKニュース）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53237",
+      "reason": "台風27号新発生の方が速報性高く優先。26号は勢力衰退済み"
+    },
+    {
+      "category": "news",
+      "title": "臨時国会・野党への協力要請（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2038766",
+      "reason": "過去7日掲載済みURL（2026-09-29 unselected）"
+    },
+    {
+      "category": "news",
+      "title": "臨時国会・衆院定数削減（8and）",
+      "url": "https://8and.jp/2026/09/29/臨時国会は10月5日召集で伝達",
+      "reason": "臨時国会中記事に内容を統合済み"
+    },
+    {
+      "category": "news",
+      "title": "野菜高騰（テレビ朝日YouTube）",
+      "url": "https://www.youtube.com/watch?v=w7GXOd6NTc4",
+      "reason": "YouTubeリンクは情報の一次性が不明、テキストソースを優先"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST. ファン反応（coki 93723）",
+      "url": "https://coki.jp/article/column/93723/",
+      "reason": "大記事に内容を統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.コラボ企画の行方（女性自身）",
+      "url": "https://news.yahoo.co.jp/articles/4533491540f2e3d462abd232a6e6f30e9ee6d909",
+      "reason": "大記事に内容を言及済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.解散サマリー（スポニチ）",
+      "url": "https://news.yahoo.co.jp/articles/7de39398da3dd25a0c8f04060e46b2ead20d91ec",
+      "reason": "大記事に内容を統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "WEST.解散（coki 93722）",
+      "url": "https://coki.jp/article/column/93722/",
+      "reason": "過去7日掲載済みURL（coki.jp/?p=93722 と同一記事）"
+    },
+    {
+      "category": "entertainment",
+      "title": "Ghost of Yōtei CE（ファミ通）",
+      "url": "https://www.famitsu.com/article/202608/84260",
+      "reason": "趣味カテゴリsmall記事と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "Ghost of Yōtei CE（4Gamer）",
+      "url": "https://www.4gamer.net/games/840/G084044/20260813004/",
+      "reason": "趣味カテゴリsmall記事と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "秋アニメ2026全作品（アニメアニメ）",
+      "url": "https://animeanime.jp/article/2026/08/29/102484.html",
+      "reason": "アニメイトタイムズ記事を優先。同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画ちいかわ興収（トイ★ピープル）",
+      "url": "https://www.toy-people.com/jp/?p=114646",
+      "reason": "KAI-YOU記事と同一トピック"
+    },
+    {
+      "category": "entertainment",
+      "title": "kiDnap GAME（ORICON）",
+      "url": "https://www.oricon.co.jp/drama/1193/",
+      "reason": "秋ドラマsmall記事（ciatr）に統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "秋ドラマまとめ（映画ナタリー）",
+      "url": "https://natalie.mu/eiga/drama/season/2026-autumn",
+      "reason": "ciatr記事を優先"
+    },
+    {
+      "category": "hobby",
+      "title": "Ghost of Yōtei CE アップグレード解説（Vegcale）",
+      "url": "https://vegcale.com/?p=8963",
+      "reason": "GosuGamers記事に統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "Dynasty Warriors 3 Remastered（ComingSoon.net）",
+      "url": "https://www.comingsoon.net/games/news/2142425-dynasty-warriors-3-complete-edition-remastered-trailer-sets-release-date",
+      "reason": "GosuGamers統合small記事に言及済み"
+    },
+    {
+      "category": "hobby",
+      "title": "東京カレー万博（@Press）",
+      "url": "https://www.atpress.ne.jp/news/609189",
+      "reason": "下北沢フェスsmall記事に言及済み"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM PEN（Fstoppers）",
+      "url": "https://fstoppers.com/gear/om-system-revives-legendary-pen-camera-evf-weather-sealing-and-30-fps-shooting-904517",
+      "reason": "onecameraonelens記事を優先（日本語市場向け）"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 7,
+    "small": 11,
+    "serendipity": 2,
+    "total": 23
+  }
+}
