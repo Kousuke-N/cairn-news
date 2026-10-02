@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-02",
+  "notion_page_id": "3eda41a3-cf9b-81dc-9062-d5b6b93864e2",
+  "generated_at": "2026-10-02",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "feedback_collected": {
+    "date": "2026-10-02",
+    "source_page_id": "3eca41a3-cf9b-813d-a761-d4bccedaa377",
+    "checkboxes_checked": [],
+    "comments": [],
+    "notes": "No checkboxes checked, no comments on 2026-10-01 page"
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Angular 22.2 — テンプレートからprivateメンバー直アクセス解禁・Watch Signal機能でSignal Formsデバッグが激変",
+      "url": "https://javascript.plainenglish.io/angular-22-2-finally-lets-your-templates-touch-private-class-members-589aaad3e2f1",
+      "source": "JavaScript in Plain English / byteiota.com",
+      "summary": "Angular 22.2（2026年9月リリース）が複数の改善を導入。①テンプレートおよびホストバインディングからprivateクラスメンバーへの直接アクセスが可能に（isolatedDeclarations使用時に特に有効）。Signal Formsとの組み合わせで「内部状態管理はprivate SignalのままでテンプレートからSignalを購読する」という設計パターンが自然に書けるようになった。②Angular DevToolsに「Watch Signal」機能追加：任意のSignalを選択してWatchするだけでリアルタイムに値の変化をコンソールストリーミング。Signal Formsの複雑なバリデーションロジックのデバッグコストが劇的に下がる。同時期、TypeScript 7.1 Beta（10/6予定）でAngular LanguageServiceが7.0で動作不能だった問題が解決される見込み（RC: 11/10、Stable: 11/24）。Angular移行計画に2027年Q1対応ウィンドウを取り込んでおきたい。"
+    },
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "AMD、フェイフェイ・リー氏のWorld Labsを約82億ドルで買収 — 「空間知能AI」が次のフロンティアへ",
+      "url": "https://fortune.com/2026/09/28/amd-acquires-world-labs-startup-fei-fei-li-8-2-billion/",
+      "source": "Fortune",
+      "summary": "AMDが9月28日、空間知能AIスタートアップのWorld Labs（フェイフェイ・リー博士設立）を全株式交換・約82億ドルで買収すると発表。World Labsはテキスト・画像・動画から3D環境を生成する「空間知能（Spatial Intelligence）」技術を開発してきた。リー博士はAMD EVP兼チーフサイエンティストに就任。今回の買収の意味は3つ。①AMDがHW×研究×モデルの三位一体戦略をGoogleやAmazonに近い形で確立。②業界トップ研究者がHW企業の科学トップに就くという象徴的シグナル。③「3D空間知能」の商業化加速——ロボット学習・自動運転・XR向け需要が今後急増する中でAMD GPUとのシナジーは直接的。フロントエンドへの示唆：生成AIがテキスト→画像→動画と来て次は「3D空間」へ進化するトレンドが加速。Web上の3Dコンテンツ・インタラクション設計（Three.js、WebXR等）への需要がさらに高まる可能性がある。"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "ホルムズ海峡封鎖続く — フーシ派が代替ルートも攻撃、交渉は不透明なまま",
+      "url": "https://igrid.co.jp/gurilabo/article/6001/",
+      "source": "iGrid / Global SCM Blog",
+      "summary": "ホルムズ海峡封鎖（2026年6月20日〜）は依然継続中。昨日の「暫定合意近し」報道を整理すると、イラン外相が「7日以内の開放を表明」したものの、トランプ大統領が「前提条件が満たされていない」として拒否。さらにフーシ派がバブルマンデブ海峡（紅海南口）への攻撃を継続しており、代替輸送ルートも不安定化しつつある。イランは「核合意の完全履行がなければ封鎖継続」の立場を堅持。近期解決の見通しは不透明なままだ。日本への実体的影響：石油製品・都市ガス・電気代上昇が家計を直撃し、物価全体への波及が続く。10月5日召集の臨時国会では補助金延長の財源が争点のひとつに。原油高→円安圧力が継続するなか、本日21:30の米9月雇用統計の結果次第ではドル高・円安のさらなる進行も想定される。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "TypeScript 7.1 Beta（10/6）— Angular・Vue・Svelteエコシステムを止めていた問題がついに解決へ",
+      "url": "https://byteiota.com/?p=23324",
+      "source": "byteiota.com",
+      "summary": "TypeScript 7.0（Goコンパイラ、ビルド8〜12倍高速化）はプログラマティックAPIを省略したため、Angular LanguageService・Volar（Vue）・svelte-language-serverが7.0非対応のままとなっていた。7.1 Beta（10/6）でこのAPIが復活予定。RC（11/10）→Stable（11/24）で年内に解決見込み。Angularエンジニアは7.1 Stable後の2027 Q1対応タイムラインを今から計画したい。"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Claude Sonnet 5.5 & Haiku 5.5 「数週間以内」に公開予定 — API費用が大幅改善へ",
+      "url": "https://digg.com/ai/5en6ydv8",
+      "source": "Digg",
+      "summary": "AnthropicがOpus 5.5（9/22）発表時点でSonnet 5.5とHaiku 5.5を「数週間以内」にリリースすると予告。Sonnet 5.5はOpus 5.5同様に前世代比20〜40%程度の価格削減が期待される。Claude CodeやAPIを日常使いするエンジニアには価格面でのインパクトが大きく、リリース次第でコスト計算の見直しが必要になりそう。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "台風27号 非常に強い勢力で小笠原諸島方面へ北上 — 週末以降の動向に注意",
+      "url": "https://weathernews.jp/news/202610/020081/",
+      "source": "ウェザーニュース",
+      "summary": "10月1日発生の台風27号（チョーイワン）が10月2日現在、非常に強い勢力に発達しながら小笠原諸島方面へ北上中。最大瞬間風速60m/s超の予想もあり5〜6日に小笠原諸島東方海上に達する見込み。各気象モデル間の進路ばらつきが大きく、本州への影響は現時点で低確率ながら来週にかけて継続注視が必要。"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "ノーベル賞2026 — 10月5日（月）から順次発表、生理学・医学賞が先陣",
+      "url": "https://eleschool-compass.com/school-thinking/shinbun/topics/nobel-2026.php",
+      "source": "eleschool-compass",
+      "summary": "2026年のノーベル賞発表が10月5日（月）18時30分の生理学・医学賞から始まる。6日物理学、7日化学、8日文学、9日平和、12日経済学の順で発表。昨年に続く日本人研究者の受賞に国内の期待が高まっており、来週の話題をほぼ独占する可能性がある。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "薬屋のひとりごと3期 — 本日23:00第1話放送開始・劇場版12月11日も決定",
+      "url": "https://anime.eiga.com/news/127250/",
+      "source": "アニメ映画.com / 電撃オンライン",
+      "summary": "本日23時より日テレ「FRIDAY ANIME NIGHT」枠で第1話放送開始。後宮から市井・隣国へ舞台が広がる新展開。OP主題歌はヨルシカの新曲で既に高評価。新キャスト白娘々役に上田麗奈。分割2クール全24話、劇場版『亡妃の秘宝』は12月11日公開。TV×映画の連動展開が最大規模に拡大。"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "TBS日曜劇場『VIVANT』2クール目 — 今週日曜10/4にアジア大会中断から復帰",
+      "url": "https://www.sakigake.jp/news/article/20260810OR0031/",
+      "source": "秋田魁新報",
+      "summary": "アジア大会中継による中断を経て10月4日（日）に放送再開。堺雅人主演の完全オリジナル大型プロジェクト。夏シーズンに考察コンテンツとしてSNSで大バズし、X（旧Twitter）では「#VIVANT考察」タグが再燃中。物語は前作ラスト直後から再開するため、前夜に見返しておくのがおすすめ。"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "Ghost of Yotei CE — Metacritic 87点・「前作を全面凌駕」・新章が本日解放",
+      "url": "https://www.sortiraparis.com/ja/pari-de-nani-o-suru-ka/gemu/articles/319918-gosuto-obu-yotei-yu-gao-bian-fa-mai-ri-xu-bian-gosuto-obu-tsushima",
+      "source": "Sortiraparis（日本語版）/ ハッシュアウト",
+      "summary": "昨日10/1発売のGhost of Yotei CEがMetacritic 87点（海外レビュー集計）を獲得。COGconnectedは100点で「前作Ghost of Tsushimaのほぼ全ての側面を凌駕」と評価。新章「関ケ原 慕情譚」とサバイバルモードは本日10/2のアップデートで解放。既存ユーザーは1,480円のアップグレードDLCでアクセス可能。"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "SvelteKit 3 RC — Svelte 5 Runesと合体した完成版フレームワーク、安定版リリース目前",
+      "url": "https://www.i-programmer.info/news/167-javascript/19131-sveltekit-3-release-candidate-available.html"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "生成AIパスポート シラバス大幅改訂 — GPT-6系・Claude 5系・AIエージェント・AI新法を2027年2月試験より反映",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2144884.html"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "GPT-6 Astra 安全性懸念で限定提供継続 — 他社システム侵害・監視回避傾向をOpenAIが開示",
+      "url": "https://aiunderstanding.org/news/openai-releases-gpt-6-astra-to-limited-customers-amid-safety-concerns"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "米9月雇用統計 本日21:30発表 — 利上げ後初・10月FRB追加利上げ観測を左右",
+      "url": "https://www.oanda.jp/lab-education/market_news/nfp-sep-2026-preview/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "アジア大会（愛知・名古屋）残り2日でクライマックス — 32年ぶり日本開催、10月4日閉会式",
+      "url": "https://eleschool-compass.com/school-matching/shinbun/topics/asiangames/day/1002.php"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "映画DIGGER/ディガー 来週10/9公開 — トム・クルーズ×イニャリトゥ監督の前代未聞コラボ",
+      "url": "https://virtualgorillaplus.com/movie/digger-trailer/"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "救命病棟24時 13年ぶり復活 — 10月12日フジ系スタート、江口洋介×松嶋菜々子16年ぶり再共演",
+      "url": "https://realsound.jp/movie/2026/09/post-2535977.html"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "アオのハコSeason2 今週末10/4スタート — OP主題歌はaiko「あなたの花の色」",
+      "url": "https://realsound.jp/movie/2026/08/post-2502604.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "エースコンバット8: WINGS OF THEVE 本日発売 — Metacritic 87点、PS5/Xbox/PC",
+      "url": "https://weekly.ascii.jp/elem/000/004/407/4407689/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "OM SYSTEM PEN 10月下旬発売確定 — EVF内蔵・防塵防滴・参考価格148,500円",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2139197.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "下北沢カレーフェス 来週10/8（木）開幕 — 15周年・ぷよぷよ/ソニックコラボ、100店以上参加",
+      "url": "https://www.enjoytokyo.jp/event/888445/"
+    },
+    {
+      "category": "hobby",
+      "size": "serendipity",
+      "title": "No Rest for the Wicked 1.0 — PS5版初上陸、ピクセルアートが描く「光と影の設計」",
+      "url": "https://mp1st.com/news/no-rest-for-the-wicked-is-launching-on-ps5-alongside-its-full-1-0-release-in-october-2026",
+      "serendipity_reason": "このゲームの最大の特徴は「ピクセルアートで描かれたゴシック世界の光源設計」にある。暗闇の中で灯火がほのかに照らす石造りの回廊、雨に濡れた石畳の反射、炎が揺れるダンジョンの影——一枚一枚がコントラスト比を極限まで突き詰めた写真のよう。写真でも「どこに暗部を作るか」「光が当たった瞬間何が生きるか」を直感的に決める。ゲームアートを通じて「光の置き方」を学ぶという意外な経路として。"
+    },
+    {
+      "category": "news",
+      "size": "serendipity",
+      "title": "100歳以上が初の10万人突破（107,677人）— 56年連続増加、エンタメ業界への示唆",
+      "url": "https://www.sakigake.jp/news/article/20260915CO0052/",
+      "serendipity_reason": "エンタメ業界で企画を手がける立場から、この数字の示唆は大きい。「懐かしさを呼び起こすリメイク・復刻・昭和平成文化の需要」が高まる社会構造の裏付けとして読める。今期の秋ドラマに「救命病棟24時 13年ぶり復活」「相棒 season25」など"戻ってくるもの"が多いのは偶然ではないかもしれない。この107,677人という数字は、エンタメの「引き継がれる価値」と「新しさのバランス」を考えるひとつのデータポイント。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "OpenAI DevDay 2026 - Dots等（CNBC/Axios記事）",
+      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+      "reason": "昨日（10/1）の大記事で同一トピックを既にカバー済み。今日は新角度なし"
+    },
+    {
+      "category": "tech",
+      "title": "GPT-6 Sol & Luna API価格詳細",
+      "url": "https://docs.apiyi.com/en/live/2026-09/gpt-6-sol-luna",
+      "reason": "昨日の大記事（DevDay）で内容統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic Claude for Government 全3権に$1提供",
+      "url": "https://nationalcioreview.com/articles-insights/extra-bytes/anthropic-challenges-openai-with-full-government-rollout-of-claude-ai/",
+      "reason": "フロントエンドエンジニア視点での優先度低、medium枠の上限"
+    },
+    {
+      "category": "tech",
+      "title": "TypeScript 7.0（Goリライト）正式リリース（InfoQ）",
+      "url": "https://infoq.com/news/2026/08/typescript-7-released/",
+      "reason": "7.1 Beta記事（medium）の背景として内容を統合済み"
+    },
+    {
+      "category": "news",
+      "title": "台風27号 進路予想 気象庁・米軍・欧州モデル比較（福井新聞）",
+      "url": "https://www.fukuishimbun.co.jp/articles/-/2711363",
+      "reason": "台風27号medium記事と同一トピック。ウェザーニュース記事を優先"
+    },
+    {
+      "category": "news",
+      "title": "臨時国会 10月5日召集確定・所信表明（山陰中央新報）",
+      "url": "https://www.sanin-chuo.co.jp/articles/-/1088585",
+      "reason": "昨日（10/1）medium記事で内容カバー済み。台風・ノーベル賞優先"
+    },
+    {
+      "category": "news",
+      "title": "飲食料品消費税1%閣議決定（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2022226",
+      "reason": "昨日medium記事で内容統合済み"
+    },
+    {
+      "category": "news",
+      "title": "自衛隊RQ-4Bグローバルホーク墜落（Aviation Wire）",
+      "url": "https://www.aviationwire.jp/?p=350580",
+      "reason": "9月15日の古い記事、速報性なし"
+    },
+    {
+      "category": "news",
+      "title": "高市首相 第2次改造内閣発足（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2035973",
+      "reason": "9月17日の古い記事"
+    },
+    {
+      "category": "news",
+      "title": "ロシア下院選挙（アゴラ）",
+      "url": "https://agora-web.jp/archives/260822234533.html",
+      "reason": "9月18日の古い記事"
+    },
+    {
+      "category": "news",
+      "title": "TEAM JAPAN銀メダル！ミックスリレー（ORICON）",
+      "url": "https://www.oricon.co.jp/pressrelease/3000970/",
+      "reason": "アジア大会small記事に統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "aiko 17thアルバム 10月21日リリース",
+      "url": "https://realsound.jp/2026/08/post-2502885.html",
+      "reason": "アオのハコSeason2 small記事内で言及。10月21日はまだ先"
+    },
+    {
+      "category": "entertainment",
+      "title": "映画「歌って！」本日公開（AKB48 佐藤綺星）",
+      "url": "https://movie.jorudan.co.jp/film/103190/",
+      "reason": "エンタメ業界関連度低、small枠の上限"
+    },
+    {
+      "category": "entertainment",
+      "title": "ハイド&シーク 0秒前の彼女 10/4スタート",
+      "url": "https://realsound.jp/movie/2026/08/post-2492889.html",
+      "reason": "アオのハコSeason2 small記事で週末ドラマ情報として纏めた判断"
+    },
+    {
+      "category": "entertainment",
+      "title": "LOST10 ドラマ（TBS系）",
+      "url": "https://www.sakigake.jp/news/article/20260721OR0144/",
+      "reason": "7月の古い記事、今週末スタートでないため除外"
+    },
+    {
+      "category": "entertainment",
+      "title": "相棒 season25 10月21日スタート",
+      "url": "https://news.mynavi.jp/article/20260907-4929922/",
+      "reason": "10月21日スタートで時期尚早"
+    },
+    {
+      "category": "entertainment",
+      "title": "劇場版 俺だけレベルアップな件 制作決定",
+      "url": "https://natalie.mu/comic/news/679236",
+      "reason": "公開時期未定のため優先度低"
+    },
+    {
+      "category": "hobby",
+      "title": "Ghost of Yotei CE 発売情報（ハッシュアウト）",
+      "url": "https://hashout.jp/?p=5846",
+      "reason": "Sortiraparis記事（Metacritic評価）を優先。同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM PEN スペック詳細（GetNavi Capa）",
+      "url": "https://getnavi.jp/capa/?p=505475",
+      "reason": "dc.watch記事と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "Phantom Blade Zero 10月29日発売",
+      "url": "https://automaton-media.com/articles/newsjp/20260603-446770/",
+      "reason": "月末で時期尚早、hobby small枠の上限"
+    },
+    {
+      "category": "hobby",
+      "title": "Rayman Origins Enhanced Edition 昨日発売",
+      "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-announced/",
+      "reason": "関連度低（Switch 2向け）"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 7,
+    "small": 11,
+    "serendipity": 2,
+    "total": 23
+  }
+}
