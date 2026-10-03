@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-03",
+  "notion_page_id": "3eea41a3-cf9b-8186-8593-cd0a59bd7f70",
+  "generated_at": "2026-10-03",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "feedback_collected": {
+    "date": "2026-10-03",
+    "source_page_id": "3eda41a3-cf9b-81dc-9062-d5b6b93864e2",
+    "checkboxes_checked": [],
+    "comments": [],
+    "notes": "No checkboxes checked, no comments on 2026-10-02 page"
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "React 19.3 — ViewTransition と Fragment Refs が安定版に、JSアニメーションライブラリ不要の時代へ",
+      "url": "https://react.dev/blog/2026/09/09/react-19-3",
+      "source": "React Official Blog"
+    },
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "AIエージェントが職場に着地した週 — OpenAI dots・Meta・Microsoft Copilot Code・Amazon Ads Agentが一斉本番展開",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+      "source": "Bloomberg / AI Agents Directory"
+    },
+    {
+      "category": "news",
+      "size": "large",
+      "title": "アジア大会 日本219個で史上最多更新 — 本日サッカー・バレーボール同日決勝、2冠なるか",
+      "url": "https://news.web.nhk.or.jp/newsweb/na/nd-20261002de53882",
+      "source": "NHK / スポーツ速報"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Cloudflare Clef — テキストを生成しない意思決定AI、エージェントワークフローを38ms以下で高速化",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2145211.html",
+      "source": "PC Watch"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "TypeScript 7 が WebStorm に統合 — Angular/Reactで最大12倍の型チェック高速化",
+      "url": "https://blog.jetbrains.com/webstorm/2026/09/typescript-7-in-webstorm-faster-coding-assistance-for-angular-and-react-no-migration-required/",
+      "source": "JetBrains Blog"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "ホルムズ海峡 60日停戦合意の全容が判明 — 航路分担・凍結資産・核査察の三本柱",
+      "url": "https://www.kucoin.com/ja/blog/jp-us-iran-agreement-2026-strait-of-hormuz",
+      "source": "KuCoin"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "台風27号 5〜6日に小笠原近海でピーク925hPa予想、関東も波浪注意",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/03/40842.html",
+      "source": "tenki.jp"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "らんま1/2 第3期 本日10/3から放送・Netflix配信スタート — 約30年ぶり復活の「恋愛格闘ラブコメ」",
+      "url": "https://www.oricon.co.jp/anime/1222/",
+      "source": "Oricon"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "VIVANT 2クール目 明日10/4 第19話から放送再開 — 衝撃の第18話後2週間の待ちが最高潮",
+      "url": "https://vegcale.com/?p=9110",
+      "source": "vegcale.com"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "Ghost of Yotei CE — 発売48時間でPS Store 96%・Metacritic 87点、前作超えを数値が裏付け",
+      "url": "https://intoindiegames.com/features/news/ghost-of-yotei-has-a-96-5-star-rating-on-the-playstation-store/",
+      "source": "IntoIndieGames"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Claude Frontier Academy 設立 — $1億・1万人FDEエンジニア育成計画",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "ELYZA 国産思考型LLM「ELYZA-Thinking-1.0-llm-jp-4-33b」無料公開",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Angular 22.1 — Rolldownがデフォルトバンドラーに昇格、linkedSignalにカスタムsetter追加",
+      "url": "https://blog.ninja-squad.com/2026/07/29/what-is-new-angular-22.1"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "北朝鮮 弾道ミサイル発射 2026年10回目 — EEZ外に落下",
+      "url": "https://kumanichi.com/articles/2024383"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "ノーベル賞2026 来週月曜から発表 — 日本人受賞に期待、候補分野は量子・AI・構造生物学",
+      "url": "https://kaisya-factory.work/nobel-prize-2026-happyo/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "副操縦士、オマーン当局が過激思想懸念で飛行禁止 — 機長刺傷事件の背景に安全網の穴",
+      "url": "https://news.web.nhk.or.jp/newsweb/na/nd-20261003de54041"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "アオのハコ Season2 明日10/4 日曜16:30 — 放送枠を深夜から夕方に格上げ、aikoが主題歌",
+      "url": "https://mechacomic.jp/free/mechamaga/news/184712"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "魔法騎士レイアース 今週水曜10/7放送開始 — 約30年ぶり完全新作、佐倉綾音×大久保瑠美×高橋李依",
+      "url": "https://www.famitsu.com/article/202603/70027"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "サイバーパンク:エッジランナーズ2 10/20 Netflix配信 — TRIGGER制作、全10話",
+      "url": "https://automaton-media.com/articles/newsjp/20260821-461535/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "No Rest for the Wicked — 10月27日PS5・PC 1.0正式発売確定、Switch 2版も予定",
+      "url": "https://feedbagel.com/post/no-rest-for-the-wicked-the-arpg-soulslike-from-ori-dev-is-officially-coming-to-s"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Phantom Blade Zero 10月29日発売（9/9から延期） — カンフーパンクアクション、今月末",
+      "url": "https://kamigame.jp/game/141470/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "OM SYSTEM PEN 10月下旬発売・¥148,500確定 — EVF内蔵・防塵防滴・Silver/Blackの2色",
+      "url": "https://www.minnacamera.com/mags/1545"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "Claude、CRISPR類似構造の新規酵素システムを自力で発見",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "serendipity_reason": "毎日コードを書くときに使っているClaudeが、生物学の研究室でCRISPR様リピートを持つ未知の酵素システムを発見した——LLMに「新しいことを教える」のではなく、LLMが「世界に存在しなかった知識を生み出す」フェーズへの移行を象徴する事例。フロントエンドエンジニアが日常ツールとして使うものが、同時に科学加速装置でもあるという感覚を少し持ち続けておきたい。"
+    },
+    {
+      "category": "entertainment",
+      "size": "serendipity",
+      "title": "秋アニメ2026 全33本中「続編・復活」が過半数 — IP経済の成熟が見せるエンタメ業界の意思決定",
+      "url": "https://www.oricon.co.jp/anime/2026_autumn/",
+      "serendipity_reason": "らんま1/2（約30年ぶり）・魔法騎士レイアース（約30年ぶり）・VIVANT 2クール目・アオのハコSeason2・サイバーパンク:エッジランナーズ2・相棒season25...2026年秋アニメは続編・リメイク・復活が過半数を占める異常な構成になっている。これは「実証済みIPを育てる経済合理性」と「新IPを立ち上げるリスク回避」が同時に働いた結果。エンタメ業界で企画を立てる立場として、ゼロから作ることへの逆風と、30年後に使えるIPを今どう仕込むかという問いを同時に考えさせられる。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "AI Agents News Brief Oct 1 (LlamaIndex Extract v2.5・Restate $20M)",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026",
+      "reason": "Oct 2 briefの内容に統合。同一ソースの重複"
+    },
+    {
+      "category": "tech",
+      "title": "Claude CRISPR enzyme discovery（セレンディピティへ移動）",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "reason": "セレンディピティ枠に採用"
+    },
+    {
+      "category": "tech",
+      "title": "Barclays deploys Claude enterprise-wide",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "reason": "エンタープライズ事例、フロントエンドエンジニア視点での優先度低"
+    },
+    {
+      "category": "tech",
+      "title": "Angular 22・TypeScript 7・Flutter 3.47 roadmap",
+      "url": "https://nextsoftcorp.com/en/blog/angular-typescript-7-flutter-3-47-whats-new-2026-en",
+      "reason": "Angular 22.1 small記事で内容カバー済み"
+    },
+    {
+      "category": "tech",
+      "title": "AI News まとめ 2026-10-01（Qiita）",
+      "url": "https://qiita.com/aakan/items/11ff33750e8e0bd0d12b",
+      "reason": "個別ニュースで内容カバー済み、二重掲載回避"
+    },
+    {
+      "category": "news",
+      "title": "アジア大会 柔道混合団体",
+      "url": "https://www.olympics.com/ja/news/asian-games-2026-judo-results",
+      "reason": "アジア大会large記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "ノーベル化学賞候補者予想（Chem-Station）",
+      "url": "https://www.chem-station.com/blog/2026/09/nobel2026pre.html",
+      "reason": "ノーベル賞small記事に統合"
+    },
+    {
+      "category": "news",
+      "title": "六ヶ所村 核燃料再処理工場 延期（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2008121",
+      "reason": "6月の古い記事。速報性なし"
+    },
+    {
+      "category": "entertainment",
+      "title": "Ghost of Yotei DLC詳細（Push Square）",
+      "url": "https://pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more",
+      "reason": "8月の古い告知。IntoIndieGamesの発売後評価記事を優先"
+    },
+    {
+      "category": "entertainment",
+      "title": "No Rest for the Wicked 日本語詳細（Automaton）",
+      "url": "https://automaton-media.com/articles/newsjp/no-rest-for-the-wicked-20260603-446782/",
+      "reason": "Feedbagel記事と同一トピック。small枠で1本に絞る"
+    },
+    {
+      "category": "entertainment",
+      "title": "薬屋3期＋劇場版複合展開詳細（Selectra）",
+      "url": "https://selectra.jp/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0/news/kusuriya-no-hitorigoto-season3-movie",
+      "reason": "10/2の薬屋medium記事と内容重複。今日はらんま1/2の初日を優先"
+    },
+    {
+      "category": "entertainment",
+      "title": "2026秋アニメ全33作品まとめ（Oricon）",
+      "url": "https://www.oricon.co.jp/anime/2026_autumn/",
+      "reason": "セレンディピティ枠で引用"
+    },
+    {
+      "category": "entertainment",
+      "title": "メイドインアビス 劇場版 目覚める神秘 10/23（アニメアニメ）",
+      "url": "https://animeanime.jp/article/2026/03/29/97325.html",
+      "reason": "3月の古い告知記事。公開（10/23）直前週に掲載予定"
+    },
+    {
+      "category": "entertainment",
+      "title": "アオアシ Season2 明日10/4（Real Sound）",
+      "url": "https://realsound.jp/movie/2026/03/post-2331222.html",
+      "reason": "3月の古い告知。エンタメsmall枠の上限。アオのハコを優先"
+    },
+    {
+      "category": "hobby",
+      "title": "OM SYSTEM PEN dpreview詳細",
+      "url": "https://www.dpreview.com/om-system-pen-2026-press-release/",
+      "reason": "みんなカメラ記事と同一トピック"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 7,
+    "small": 12,
+    "serendipity": 2,
+    "total": 24
+  }
+}
