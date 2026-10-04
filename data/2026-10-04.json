@@ -1,0 +1,335 @@
+{
+  "date": "2026-10-04",
+  "notion_page_id": "3efa41a3-cf9b-8109-9858-f3c691934214",
+  "generated_at": "2026-10-04",
+  "preferences_applied": {
+    "category_weight": {
+      "tech": 1.4,
+      "news": 1.0,
+      "entertainment": 1.0,
+      "hobby": 1.0
+    },
+    "deep_dive_topics": [
+      "Angular Zoneless・Signal Forms",
+      "イラン情勢・エネルギー市場"
+    ]
+  },
+  "feedback_collected": {
+    "date": "2026-10-04",
+    "source_page_id": "3eea41a3-cf9b-8186-8593-cd0a59bd7f70",
+    "checkboxes_checked": [],
+    "comments": [],
+    "notes": "No checkboxes checked, no comments on 2026-10-03 page"
+  },
+  "selected_articles": [
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "Angular v22 正式リリース — Signal Forms安定版・MCP統合・AIエージェントスキルで「AIネイティブフレームワーク」へ",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+      "source": "Angular Blog / ProgrammerSpace / BrainDetox"
+    },
+    {
+      "category": "tech",
+      "size": "large",
+      "title": "SpaceX、CursorのAnysphereを600億ドル全株式交換で買収 — 毎日使うツールの「所有者」が変わる",
+      "url": "https://nasdaq.com/articles/spacex-buy-cursor-maker-anysphere-60-bln-all-stock-deal",
+      "source": "NASDAQ"
+    },
+    {
+      "category": "entertainment",
+      "size": "large",
+      "title": "VIVANT 2期 視聴率6話連続15%超え・今夜第19話放送再開 — アジア大会2週間休止が「焦らし効果」を生んだか",
+      "url": "https://news.livedoor.com/article/detail/31964134/",
+      "source": "livedoor NEWS / TheTV.jp"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "TypeScript 7.1 Beta 今週火曜10/6リリース予定 — Angular・Vue・Svelte対応が年内に解決へ",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/",
+      "source": "Microsoft DevBlogs"
+    },
+    {
+      "category": "tech",
+      "size": "medium",
+      "title": "Google Gemini 4 年内早期リリース予定 — Q4モデル競争が最終局面へ",
+      "url": "https://aphnetworks.com/news/32247-google-plans-gemini-4-release-year-end",
+      "source": "APH Networks"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "アジア大会 本日18時閉幕・閉会式 — 日本史上最多成績で32年ぶり国内開催に幕",
+      "url": "https://eleschool-compass.com/school-matching/shinbun/topics/asiangames/heikaishiki.php",
+      "source": "eleschool-compass"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "ノーベル賞×臨時国会 — 明日10/5から始まる激動の一週間",
+      "url": "https://eleschool-compass.com/school-matching/shinbun/topics/nobel-2026.php",
+      "source": "eleschool-compass / 琉球新報"
+    },
+    {
+      "category": "news",
+      "size": "medium",
+      "title": "フライドバイ機 副操縦士が機長を斧で襲撃 — 乗客が制圧、イスラエルがテロと断定",
+      "url": "https://www.youtube.com/watch?v=A28PGgxqEos",
+      "source": "テレビ朝日ニュース"
+    },
+    {
+      "category": "entertainment",
+      "size": "medium",
+      "title": "魔法騎士レイアース 今週水曜10/7テレ朝系放送開始 — 梶浦由記音楽・佐倉綾音×大久保瑠美×高橋李依",
+      "url": "https://dengekionline.com/article/202603/70187",
+      "source": "電撃オンライン"
+    },
+    {
+      "category": "hobby",
+      "size": "medium",
+      "title": "OM SYSTEM PEN ハンズオンレポート — EVF復活・防塵防滴・Profile Control機能、発売直前実機確認",
+      "url": "https://dc.watch.impress.co.jp/docs/news/eventreport/2142435.html",
+      "source": "DC Watch"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Accenture × Anthropic提携を大幅拡大 — 3万人Claude研修・Accenture Anthropic Business Group設立",
+      "url": "https://www.nasdaq.com/articles/accenture-expands-anthropic-partnership"
+    },
+    {
+      "category": "tech",
+      "size": "small",
+      "title": "Anthropic Enterprise Frontier Safeguards発表 — 100社以上と共同開発したゼロデータ保持+悪用検知の企業向け安全基盤",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "台風27号 今週5〜6日に小笠原諸島接近 — 最大瞬間風速60m/s超の予報も",
+      "url": "https://weathernews.jp/news/202609/300241/"
+    },
+    {
+      "category": "news",
+      "size": "small",
+      "title": "自民党 消費税1%減税大綱了承 — 飲食料品2027年4月から2年間、明日臨時国会へ",
+      "url": "https://kumanichi.com/articles/2034861"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "らんま1/2 第3期 MAPPA制作×Netflix独占配信スタート — 横浜中華街コラボも決定",
+      "url": "https://premium.gamepedia.jp/hobby/archives/126463"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "アオのハコ Season2 × アオアシ Season2 — 本日「日曜アニメDAY」同時スタート",
+      "url": "https://dengekionline.com/article/202609/86287"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "バイオハザード完全新作リブート映画 来週10/9公開 — 吹替は下野紘×早見沙織",
+      "url": "https://www.fashion-press.net/movies/25555"
+    },
+    {
+      "category": "entertainment",
+      "size": "small",
+      "title": "あにいもうと テレ朝「土曜ドラマ10」新枠 — 榮倉奈々12年ぶり主演×赤楚衛二初W主演",
+      "url": "https://realsound.jp/movie/2026/09/post-2519713.html"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "ジャパニーズカレーフェス 本日最終日！ — 渋谷・原宿・虎ノ門ヒルズ、駆け込みチャンス",
+      "url": "https://www.timeout.jp/tokyo/ja/news/japanese-curry-festival-2026-082126"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "No Rest for the Wicked — 10/27発売から2027年3月へ再延期（大幅変更）",
+      "url": "https://godisageek.com/?p=311815"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "下北沢カレーフェス 今週木曜10/8開幕 — 第15回・プヨプヨ/ソニックコラボ・135店舗",
+      "url": "https://san-tatsu.jp/pressrelease/461048/"
+    },
+    {
+      "category": "hobby",
+      "size": "small",
+      "title": "Phantom Blade Zero 10/29 PS5発売 — カンフーパンク×アクションRPG、今月末",
+      "url": "https://www.gosugamers.net/entertainment/news/78529-phantom-blade-zero-delayed-to-october-2026-as-pre-orders-open-this-summer"
+    },
+    {
+      "category": "tech",
+      "size": "serendipity",
+      "title": "Fujifilm 2026年：カメラ本体ゼロ・レンズ22本という「エコシステム売り」への転換",
+      "url": "https://www.fujirumors.com/?p=143186",
+      "serendipity_reason": "X-T5を使い、X-T6の登場をずっと待っている身として「2026年はFujifilmがカメラ本体を1台も出さない年」という現実はショックが大きい。でもそれと同時に、22本という前例のない本数のレンズを投入するという事実は別の意味を持つ。「ボディ売り」から「システム売り」へ——シャッターを押す装置ではなく、レンズ・光学・体験の生態系を売るモデルへの転換だ。これはソフトウェア産業が「ライセンス売り」から「SaaS/エコシステム売り」に移行した構造と同じ論理だし、エンタメ産業が「単発タイトル」から「フランチャイズIP」に重心を移した動きとも共鳴する。「今すぐ使える製品がない」ことへの苛立ちより、「なぜボディゼロ年を選んだか」という意思決定の論理を理解したほうが、カメラシステムへの投資判断も変わるかもしれない。"
+    },
+    {
+      "category": "news",
+      "size": "serendipity",
+      "title": "スポーツが「国内」と「北米」で同時に最高潮を迎える日曜日 — 大谷翔平×アジア大会閉幕日",
+      "url": "https://www.daily.co.jp/mlb/2026/09/16/0020824272.shtml",
+      "serendipity_reason": "今日10月4日は奇妙なほど「スポーツ熱」が重なっている。国内では第20回アジア大会が33年ぶりの国内開催の最終日を迎え、北米ではロサンゼルス・ドジャース（大谷翔平）がポストシーズンに突入する。「日本人が同時に二つの場所でスポーツを応援する日」という構造は、コンテンツの分散・競合を考える上での示唆がある。SNSのタイムラインは今日「アジア大会」と「ドジャース」が混在する複雑な光景になるはず。スポーツコンテンツが生み出す自然発生的なコミュニティ熱量をどう読むか、エンタメ企画者として問い直すきっかけとして。"
+    }
+  ],
+  "unselected_articles": [
+    {
+      "category": "tech",
+      "title": "Angular Addicts #50（Angular In Depth）",
+      "url": "https://angularindepth.com/article/angular-addicts-50-angular-22-agentic-angular-deploying-to-the-cloud-m/",
+      "reason": "Angular v22大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Angular v22 Embraces AI Agents詳細解説（BrainDetox）",
+      "url": "https://braindetox.kr/en/posts/angular_v22_ai_agent_flows_2026.html",
+      "reason": "Angular v22大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Angular CLI's new MCP詳細（ProgrammerSpace）",
+      "url": "https://programmerspace.substack.com/p/angular-clis-new-mcp-ai-just-got",
+      "reason": "Angular v22大記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Cognition SWE-2 benchmarks（AICybr）",
+      "url": "https://aicybr.com/blog/cognition-swe-2-coding-model-benchmarks-training",
+      "reason": "過去7日掲載済みトピック（SWE-2）に近い、medium枠の上限"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic Accenture embedded evaluation（Anthropic）",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "reason": "Accenture small記事に内容を統合済み"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "reason": "ニッチ領域、フロントエンドエンジニア視点での優先度低"
+    },
+    {
+      "category": "tech",
+      "title": "Svelte August 2026（Svelte Blog）",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-august-2026",
+      "reason": "8月の記事、速報性低い"
+    },
+    {
+      "category": "tech",
+      "title": "Vite 8 Release（UBOS Tech）",
+      "url": "https://ubos.tech/news/vite-8-release-rust%e2%80%91based-rolldown-bundler-boosts-performance/",
+      "reason": "3月リリースの既報、速報性なし"
+    },
+    {
+      "category": "tech",
+      "title": "Anthropic improving alignment security（Anthropic）",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "reason": "8月末の既報、Accenture記事で代替可能"
+    },
+    {
+      "category": "news",
+      "title": "アジア大会日本選手団933人参加認定（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2020420",
+      "reason": "閉幕medium記事に統合済み"
+    },
+    {
+      "category": "news",
+      "title": "大谷翔平 ドジャースプレーオフ（デイリースポーツ）",
+      "url": "https://www.daily.co.jp/mlb/2026/09/16/0020824272.shtml",
+      "reason": "セレンディピティ枠に昇格"
+    },
+    {
+      "category": "news",
+      "title": "沖縄 米海兵隊員逮捕（livedoor）",
+      "url": "https://news.livedoor.com/lite/topics_detail/26347330/",
+      "reason": "ユーザーの主要関心外、small枠の上限"
+    },
+    {
+      "category": "news",
+      "title": "自民党消費税1%大綱（熊本日日新聞）",
+      "url": "https://kumanichi.com/articles/2034861",
+      "reason": "smallとして選択"
+    },
+    {
+      "category": "news",
+      "title": "簗農水大臣予算カット発言（テレビ朝日）",
+      "url": "https://www.youtube.com/watch?v=2EZeX9yZkMA",
+      "reason": "政治問題だが直接関連度低、YouTube URLのみで情報源不安定"
+    },
+    {
+      "category": "entertainment",
+      "title": "VIVANT第19話 放送情報（TheTV.jp）",
+      "url": "https://thetv.jp/program/0001063280/9/",
+      "reason": "VIVANT大記事に統合済み"
+    },
+    {
+      "category": "entertainment",
+      "title": "バーテックスフォース 10/3スタート（MechaMaga）",
+      "url": "https://mechacomic.jp/free/mechamaga/news/214745",
+      "reason": "オリジナルアニメだがユーザーの主要関心外"
+    },
+    {
+      "category": "entertainment",
+      "title": "マジカル★エクスプローラー（gamebiz.jp）",
+      "url": "https://gamebiz.jp/news/423329",
+      "reason": "ライトノベルアニメ化、エンタメsmall枠の上限"
+    },
+    {
+      "category": "entertainment",
+      "title": "魔法少女育成計画restart（ナタリー）",
+      "url": "https://natalie.mu/comic/news/638401",
+      "reason": "10年ぶり続編は面白いが、ユーザーの主要関心外"
+    },
+    {
+      "category": "entertainment",
+      "title": "傷だらけ聖女より報復 Season2（koubo.jp）",
+      "url": "https://koubo.jp/article/90540",
+      "reason": "海外ファン向け、エンタメsmall枠の上限"
+    },
+    {
+      "category": "entertainment",
+      "title": "アオアシ Season2（livedoor）",
+      "url": "https://news.livedoor.com/article/detail/31663427/",
+      "reason": "アオのハコ+アオアシ合体small記事に統合済み"
+    },
+    {
+      "category": "hobby",
+      "title": "Fujifilm FF260002 規制登録（FujiRumors）",
+      "url": "https://www.fujirumors.com/?p=143838",
+      "reason": "Fujifilmセレンディピティ記事と同一トピック"
+    },
+    {
+      "category": "hobby",
+      "title": "Ghost of Yotei 500万本（Digital Citizen Life）",
+      "url": "https://www.digitalcitizen.life/ghost-of-yotei-reportedly-nears-5-million-sales-as-playstations-2026-lineup-struggles/",
+      "reason": "昨日・一昨日でGhost of Yoteiを複数回掲載済み。繰り返し回避"
+    },
+    {
+      "category": "hobby",
+      "title": "ACE COMBAT 8 10/2発売（PlayStation Blog）",
+      "url": "https://blog.playstation.com/2026/06/02/ace-combat-8-wings-of-theve-launches-globally-october-2-on-ps5/",
+      "reason": "10/2発売のため「明日発売」の速報性はなし。hobby small枠の上限"
+    },
+    {
+      "category": "hobby",
+      "title": "東京カレー万博2026（Walker Plus）",
+      "url": "https://www.walkerplus.com/article/1398711/",
+      "reason": "10/7まで開催中だが、下北沢カレーフェス（10/8-25）small記事と重複トピック"
+    }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 7,
+    "small": 12,
+    "serendipity": 2,
+    "total": 24
+  }
+}
