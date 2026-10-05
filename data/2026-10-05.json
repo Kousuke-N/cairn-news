@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-05",
+  "notion_page_id": "3f0a41a3-cf9b-81fb-beb1-fe95cd402424",
+  "generated_at": "2026-10-05",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "feedback_collected": {
+    "date": "2026-10-05",
+    "source_page_id": "3efa41a3-cf9b-8109-9858-f3c691934214",
+    "checkboxes_checked": [],
+    "comments": [],
+    "notes": "No checkboxes checked, no comments on 2026-10-04 page"
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "Angular 年次リリースへ移行 + v22.2 privateメンバー解禁 — 安定と進化の新サイクル",
+      "url": "https://angularindepth.com/article/angular-new-release-cycle-release-schedule-change-explained/",
+      "source": "Angular In Depth + JavaScript in Plain English"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "Anthropic 怒濤の3連発 — IPO 10月検討・Claude R&D 26%自律化・Sonnet 5.5リリース",
+      "url": "https://www.storyboard18.com/digital/anthropic-plans-october-ipo-may-exceed-60-billion-as-it-rivals-openai-ws-l-93408.htm",
+      "source": "Storyboard18 / Business Today / SiliconANGLE"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "秋クール2026「復活と続編」の波 — 救命病棟月9復活・サイバーパンク2・薬屋のひとりごと3期",
+      "url": "https://www.sakigake.jp/news/article/20260826OR0008/",
+      "source": "オリコンニュース / 電撃オンライン"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular 年次リリース×CopilotKit統合 — AIとAngularが融合する次のフェーズ",
+      "url": "https://angularindepth.com/article/ng-news-26-18-angular-annual-releases-copilotkit-integration/",
+      "source": "Angular In Depth"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "臨時国会きょう召集 — 消費税減税・衆院定数削減が焦点、高市首相が本日所信表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54388",
+      "source": "NHK"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "ノーベル生理学・医学賞 本日18:30発表 — 森和俊・柳沢正史の両氏が有力候補",
+      "url": "https://www.nikkei.com/article/DGXZQOSG301NO0Q6A930C2000000/",
+      "source": "日本経済新聞"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "台風「トリプル台風」発生 — 三連休（10/9〜11）に日本近海接近のおそれ",
+      "url": "https://weathernews.jp/news/202610/050101/",
+      "source": "ウェザーニュース"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "米9月雇用統計 NFP 2.9万人増と大幅下振れ — 10月利上げ観測後退",
+      "url": "https://www.gaitame.com/media/entry/2026/10/05/152453",
+      "source": "外為どっとコム"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "RICOH GR IVx 開発発表 — GRシリーズ初の標準画角（40mm換算）モデル、冬以降発売",
+      "url": "https://news.ricoh-imaging.co.jp/rim_info2/2026/20260827_042443.html",
+      "source": "Ricoh Imaging Japan"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "Final Fantasy Resonance 10/22発売 — HD-2D・ガチャなし・シリーズキャラ召喚できるターン制RPG",
+      "url": "https://gamingtrend.com/news/square-enix-unveils-final-fantasy-resonance-a-turn-based-love-letter-to-the-series/",
+      "source": "Gaming Trend"
+    },
+    { "category": "tech", "size": "small", "title": "Angular v20 LTS 2026年11月28日終了 — v22以上への移行が急務", "url": "https://herodevs.com/blog-posts/angular-version-history-every-release-date-support-window-and-end-of-life-date-from-angularjs-to-angular-22" },
+    { "category": "tech", "size": "small", "title": "Anthropic×Accenture Embedded Evaluation — 各社$10億超の安全性評価連携", "url": "https://www.anthropic.com/news/accenture-embedded-evaluation" },
+    { "category": "tech", "size": "small", "title": "Anthropic Life Sciences Verification Program — 生命科学研究者向け緩和セーフガード制度", "url": "https://www.anthropic.com/news/life-sciences-verification-program" },
+    { "category": "news", "size": "small", "title": "沖縄・米海兵隊員（20歳）が女性への強盗殺人容疑で逮捕", "url": "https://www.youtube.com/watch?v=eQgWyxRnjUQ" },
+    { "category": "news", "size": "small", "title": "ブラジル大統領選 10/25に決選投票 — ボルソナロvsルーラ", "url": "https://news.web.nhk/newsweb/na/nd-20261005de54416" },
+    { "category": "news", "size": "small", "title": "米軍 英国基地からB-1爆撃機を全撤収 — テロ準備事件に伴う異例対応", "url": "https://www.youtube.com/watch?v=S5iphw24PZA" },
+    { "category": "entertainment", "size": "small", "title": "VIVANT 最終回11月8日確定・後半「重大サプライズ」予告", "url": "https://www.crank-in.net/news/191565/1" },
+    { "category": "entertainment", "size": "small", "title": "らんま1/2 第3期 MAPPA制作 10/3〜土曜深夜・Netflix即日配信", "url": "https://dengekionline.com/article/202607/82490" },
+    { "category": "entertainment", "size": "small", "title": "薬屋のひとりごと 第3期 10/2スタート + 12月11日劇場版「亡妃の秘宝」", "url": "https://dengekionline.com/article/202608/84556" },
+    { "category": "entertainment", "size": "small", "title": "魔法騎士レイアース 今週水曜10/7テレ朝スタート（29年ぶり新作）", "url": "https://mechacomic.jp/free/mechamaga/news/184805" },
+    { "category": "entertainment", "size": "small", "title": "バイオハザード リブート映画 10/9公開（吹替:下野紘・早見沙織）", "url": "https://hollywoodreporter.jp/news/200841/" },
+    { "category": "hobby", "size": "small", "title": "Ace Combat 8 Metacritic 88点 — 2026年最高評価クラスのゲームに", "url": "https://www.digitalcitizen.life/ace-combat-8-reviews-put-it-among-2026s-highest-rated-games/" },
+    { "category": "hobby", "size": "small", "title": "No Rest for the Wicked 1.0版 今月PS5正式リリース（60時間超）", "url": "https://norestforthewicked.com/news/no-rest-for-the-wicked-1-0-launch-month-revealed" },
+    { "category": "hobby", "size": "small", "title": "Fujifilm X-T6 発表が2027年に延期の可能性（X Summit キャンセル）", "url": "https://www.photographytalk.com/fujifilm-x-t6-rumors/" },
+    { "category": "hobby", "size": "small", "title": "Panasonic LX100M3 10/17発売予定（マイクロフォーサーズ+Leicaズーム）", "url": "https://www.kfconcept.com/blog/panasonic-to-release-the-lx100m3-camera-on-october-17th" },
+    { "category": "hobby", "size": "small", "title": "Tales of Eternia Remastered 10/16全プラットフォーム発売", "url": "https://en.bandainamcoent.eu/tales-of/news/journey-between-two-worlds-begins-tales-of-eternia-remastered-october" },
+    { "category": "hobby", "size": "small", "title": "COD: Modern Warfare 4 10/23発売 — 初の完全次世代機専用", "url": "https://www.callofduty.com/blog/2026/05/call-of-duty-modern-warfare-4-announcement" },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "ウクライナ軍 ドローン+地上ロボットのみで176km²奪還 — 「人間なし」の作戦が現実に",
+      "url": "https://www.businessinsider.jp/article/2604-ukraine-russia-position-taken-without-using-troops-just-robots-drones/",
+      "serendipity_reason": "AnthropicがClaudeのR&D自律化比率が26%に達したと発表した同じ週に、ウクライナ軍が人間の兵士を一人も出撃させずドローンと地上ロボットのみでロシア軍陣地を制圧し176平方キロメートルを奪還した。「AIとロボットが人間の代わりにタスクを完了する」という命題が、軍事分野では既に現実の結果を生んでいる。Claude Codeがコードを書き、ドローンが戦場を制圧する——その二つが同じ週に並ぶと、自律化の波が自分の仕事領域にどの速度で迫っているかを実感できる。フロントエンドエンジニアとして「AIに何をさせるか・何をさせないか」の設計思想を鍛えるきっかけとして。"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "Anthropic 脅威インテリジェンスレポート 9月版 — 「AIを使う悪意」の現場",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "serendipity_reason": "Claude Codeで日々コードを生成する身として、自分が使っているシステムがどう悪用されているかを知ることは単なる教養ではない。サイバー攻撃・監視・生物兵器など7領域でのAI悪用事例を月次で公開するAnthropicのこのレポートは、「AIは中立なツール」という楽観論に具体的な反証を突きつける。強力なツールを使うプロとして、その暗部の最前線を定期的に読む習慣は技術倫理の具体的な実践になる。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "Angular in 2026: Mid-Year Reality Check", "url": "https://angularindepth.com/article/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality/", "reason": "過去7日掲載済みURL" },
+    { "category": "news", "title": "臨時国会召集詳細（8and）", "url": "https://8and.jp/2026/09/29/%E8%87%A8%E6%99%82%E5%9B%BD%E4%BC%9A%E3%81%AF10%E6%9C%885%E6%97%A5%E5%8F%AC%E9%9B%86%E3%81%A7%E4%BC%9A%E9%81%94%E3%81%AF12%E6%9C%8812%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%AE69/", "reason": "NHK記事に情報統合済み" },
+    { "category": "news", "title": "野党に消費減税関連法案協力要請（熊本日日新聞）", "url": "https://kumanichi.com/articles/2038766", "reason": "NHK記事に情報統合済み" },
+    { "category": "news", "title": "ノーベル賞ウィーク概況（Innovatopia）", "url": "https://innovatopia.jp/tech-social/tech-social-news/118455/", "reason": "日経記事に情報統合済み" },
+    { "category": "news", "title": "米9月雇用統計（CNN Japan）", "url": "https://www.cnn.co.jp/business/35071392.html", "reason": "外為どっとコム記事に情報統合済み" },
+    { "category": "news", "title": "台風詳細（福井新聞）", "url": "https://www.fukuishimbun.co.jp/articles/-/2714508", "reason": "ウェザーニュース記事に情報統合済み" },
+    { "category": "entertainment", "title": "2026年秋ドラマ新番組ガイド（オリコン）", "url": "https://www.oricon.co.jp/drama/2026_autumn/", "reason": "エンタメ大記事に情報統合済み" },
+    { "category": "entertainment", "title": "榮倉奈々 あにいもうと（デイリースポーツ）", "url": "https://www.daily.co.jp/gossip/2026/08/04/0020667188.shtml", "reason": "昨日（2026-10-04）掲載済みトピック" },
+    { "category": "entertainment", "title": "SixTONES 18thシングル オリコン1位（HMV）", "url": "https://www.hmv.co.jp/news/article/260707142/", "reason": "音楽ランキング系、優先度低" },
+    { "category": "entertainment", "title": "劇場版コナン 最終興収135億円", "url": "https://kumanichi.com/articles/1988579", "reason": "4月公開の最終集計で速報性低い" },
+    { "category": "hobby", "title": "Mycopunk 10/20 PS5発売（PS Plus無料）", "url": "https://www.gematsu.com/2026/09/mycopunk-launches-in-october-for-ps5-pc", "reason": "hobby small枠の上限" },
+    { "category": "hobby", "title": "and CURRYの季節を楽しむカレー（レシピ本）", "url": "https://www.maruzenjunkudo.co.jp/products/9784299078452", "reason": "書籍情報で速報性低い" },
+    { "category": "hobby", "title": "薬膳カレー 体と心を健やかに（レシピ本）", "url": "https://www.maruzenjunkudo.co.jp/products/9784058027301", "reason": "書籍情報で速報性低い" },
+    { "category": "hobby", "title": "ACE Combat 8発売確定情報（GosuGamers）", "url": "https://gosugamers.net/entertainment/news/78530-ace-combat-8-confirms-october-release-date-unveils-joker-squadron-members", "reason": "DC Watch記事（レビュー）に情報統合済み" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 7,
+    "small": 16,
+    "serendipity": 2,
+    "total": 28
+  }
+}
