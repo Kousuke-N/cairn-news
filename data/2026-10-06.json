@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-06",
+  "notion_page_id": "3f1a41a3-cf9b-81ae-850a-f7d71cf486fe",
+  "generated_at": "2026-10-06",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "TypeScript 7.1 Beta本日リリース — Angular・Vue・Sveltの7.x系移行がついに解禁",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "source": "Microsoft TypeScript Blog"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "Cloudflare×VoidZero買収 + Vite+ Beta — フロントエンドツールチェーン再編の全貌",
+      "url": "https://www.businesswire.com/news/home/20260604108073/en/Cloudflare-Acquires-VoidZero-to-Build-the-Future-of-the-AI-Native-Web",
+      "source": "Cloudflare / BusinessWire + VoidZero"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "ノーベル物理学賞 本日18:45発表 — 宮坂力・ペロブスカイト太陽電池が本命候補",
+      "url": "https://optronics-media.com/news/20261006/112635/",
+      "source": "オプトロニクスメディア / NHKニュース"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Claude Sonnet 5 — 「最もエージェンティックなSonnet」100万トークンコンテキスト搭載",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular Signals 2026 実践アーキテクチャガイド — effect()・linkedSignal()安定版後の設計指針",
+      "url": "https://dev.to/amankhan55/angular-signals-in-2026-from-fundamentals-to-architect-level-patterns-55l5",
+      "source": "DEV Community"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "日経平均 3カ月ぶり7万円台回復 — 737円高、米株堅調・円安が追い風",
+      "url": "https://online.nikkei-cnbc.co.jp/vod/65986",
+      "source": "日経CNBC"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "台風27〜29号「トリプル台風」最新 — 三連休に本州への影響も視野",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/06/40869.html",
+      "source": "日本気象協会 tenki.jp"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "映画「汝、星のごとく」10月9日公開 — 横浜流星×広瀬すず、本屋大賞原作を藤井道人が映画化",
+      "url": "https://www.fashion-press.net/movies/25305",
+      "source": "FASHION PRESS"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "OM SYSTEM PEN 今月後半発売 — EVF搭載・防塵防滴のマイクロフォーサーズ機、393g",
+      "url": "https://lapaasvoice.com/om-system-pen-camera-launch/",
+      "source": "lapaasvoice.com"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "東京カレー万博 明日10/7最終日 + 下北沢カレーフェス 10/8〜25スタート",
+      "url": "https://zaikei.co.jp/releases/3544726/",
+      "source": "財経新聞 + enjoytokyo.jp"
+    },
+    { "category": "tech", "size": "small", "title": "TypeScript 7.0 GA 移行ガイド — 10倍速コンパイラへの段階的マイグレーション手順", "url": "https://www.digitalapplied.com/blog/typescript-7-0-ga-native-compiler-migration-playbook-2026" },
+    { "category": "tech", "size": "small", "title": "Claude Code 2026年8月 新機能5選 — Artifacts・In-App Browser・Agent View・Background Agents", "url": "https://www.startuphub.ai/news/claude-code-s-mid-year-dev-push" },
+    { "category": "tech", "size": "small", "title": "Storybook 10.5 — MCP統合基盤完成、AIコーディングアシスタントがコンポーネントを認識・操作可能に", "url": "https://storybook.js.org/releases/10.5" },
+    { "category": "news", "size": "small", "title": "高市首相 所信表明「消費税減税・赤字国債に頼らない」財源確保策を強調", "url": "https://news.web.nhk/newsweb/genre/politics" },
+    { "category": "news", "size": "small", "title": "高市首相 トランプ大統領から日朝首脳会談「強い支持」確約 — 拉致3団体の訪米報告受け", "url": "https://www.nikkei.com/news/category/politics/" },
+    { "category": "news", "size": "small", "title": "FBI 中国指示で台湾総統の息子を監視 容疑者逮捕 — 在米台湾人への諜報活動が浮き彫り", "url": "https://www.afpbb.com/articles/-/3629212" },
+    { "category": "news", "size": "small", "title": "スペイン 住宅価格対策政令が否決 → 11月前倒し総選挙へ", "url": "https://www.afpbb.com/articles/-/3629212" },
+    { "category": "entertainment", "size": "small", "title": "野木亜紀子×石原さとみ「ポリティカルパン」・池井戸潤×大泉洋「箱根駅伝」— 秋ドラマ注目スタッフ一覧", "url": "https://director.blog.shinobi.jp/Entry/20506/" },
+    { "category": "entertainment", "size": "small", "title": "PSYREN 初アニメ化 — ジャンプ連載作がサテライト制作で10月から、原作ラストまで映像化宣言", "url": "https://www.famitsu.com/article/202603/70104" },
+    { "category": "entertainment", "size": "small", "title": "幻想水滸伝II TVアニメ KONAMI制作で全国32局 — OPはamazarashi「悲しみさえ大人びて」", "url": "https://game.watch.impress.co.jp/docs/news/2036824.html" },
+    { "category": "hobby", "size": "small", "title": "キングダムハーツコレクション I〜III 10/8発売 — Switch 2ネイティブ対応、セーブ引き継ぎ可能", "url": "https://novacrystallis.com/2026/06/kingdom-hearts-collection-iiii-will-come-to-switch-2-playstation-and-xbox-october-8-2026/" },
+    { "category": "hobby", "size": "small", "title": "ドラゴンズドグマ 2:ダークアリズン 10/9発売 — 新エリア追加、既存DD2所有者DLCは2,999円", "url": "https://www.gematsu.com/2026/06/dragons-dogma-ii-dark-arisen-announced-for-ps5-xbox-series-switch-2-and-pc" },
+    { "category": "hobby", "size": "small", "title": "ファイナルファンタジーレゾナンス 10/22発売 — HD-2D×ガチャなし×クラウド/ティーダ召喚", "url": "https://www.rpgsite.net/news/20619-final-fantasy-resonance-a-new-hd-2d-ff-game-launches-october-22" },
+    { "category": "hobby", "size": "small", "title": "FUJIKINA NYC 2026 富士フイルム 10/16〜18開催 — 4年ぶりNY復活、新製品発表への期待も", "url": "https://www.cined.com/es/fujifilm-fujikina-returns-to-new-york-city-in-october/" },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "トルコ・パキスタン「メッカ協定」始動 — サウジ防衛から始まるエネルギー地政学の新地図",
+      "url": "https://www.trtnihongo.com/audio/15b5e164f61b",
+      "serendipity_reason": "フロントエンドエンジニアとして毎日Claude Codeを動かしているが、そのサーバーを動かす電力はどこから来るか。米軍B-1爆撃機の英国撤収、フーシ派のサウジ攻撃、そしてトルコ・パキスタンの共同抑止体制始動——中東・南アジアの安保地図の変化は、日本のエネルギーコスト→クラウド電力コスト→LLM API料金という間接的な連鎖で自分の仕事環境に届く。preferences.yamlのdeep_dive_topics「イラン情勢・エネルギー市場」に直結する週だ。AIが自律化し、ドローンが戦場を制圧する2026年に、それらを動かすエネルギーの争奪戦がどこで起きているかを追う視座は、テックエンジニアの視野を確実に広げる。"
+    },
+    {
+      "category": "hobby", "size": "serendipity",
+      "title": "スズキ 軽乗用EV元年 — テック業界の速さと製造業の速さを比べると見えてくるもの",
+      "url": "https://kuruma-news.jp/post/1065155",
+      "serendipity_reason": "Reactが19になり、TypeScriptが7になり、Angularが22になった2026年に、日本最大の交通インフラである軽自動車市場でようやく電動化元年が来ようとしている。週1.3億ダウンロードのViteがCloudflareに買収された週と、スズキが初の軽乗用EVを発売する週は同じ時代だ。ソフトウェアエコシステムの更新速度と1億台超の既存軽自動車フリートの更新速度は全く違うリズムで動いている。自分の業界の「速さ」は絶対的なものではなく、他の産業との相対値である——それを実感することは、技術選択の判断軸を磨く上で意外と重要だと思う。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "TypeScript 7.0 GA — Angularテンプレート型チェック7.x対応待ち", "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/", "reason": "7.1 Beta記事に情報統合済み" },
+    { "category": "tech", "title": "Angular 22.2 private class member access", "url": "https://javascript.plainenglish.io/angular-22-2-finally-lets-your-templates-touch-private-class-members-589aaad3e2f1", "reason": "昨日の大記事（Angular 年次リリース+v22.2）に情報統合済み" },
+    { "category": "tech", "title": "Improving Our Alignment and Security Efforts", "url": "https://www.anthropic.com/news/improving-alignment-security-efforts", "reason": "小記事枠の上限" },
+    { "category": "tech", "title": "Model Hardware Standard Research Preview", "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview", "reason": "小記事枠の上限" },
+    { "category": "tech", "title": "Expanding Our Support for Scientists", "url": "https://www.anthropic.com/news/expanding-support-for-scientists", "reason": "昨日のAnthropic関連記事に情報統合済み" },
+    { "category": "tech", "title": "Vite+ Beta 日本語解説（labmemo）", "url": "https://labmemo.com/vite-plus-beta-unified-toolchain-2026/", "reason": "Cloudflare/VoidZero大記事に情報統合済み" },
+    { "category": "news", "title": "ノーベル賞全6賞発表スケジュール一覧（Innovatopia）", "url": "https://innovatopia.jp/tech-social/tech-social-news/118455/", "reason": "ノーベル物理学賞大記事に情報統合済み" },
+    { "category": "news", "title": "スズキ軽EV（くるまニュース）", "url": "https://kuruma-news.jp/post/1065155", "reason": "セレンディピティ枠で別URL+視点として採用" },
+    { "category": "news", "title": "自民党税制調査会 新体制発足", "url": "https://www.nikkei.com/politics/politics/", "reason": "小記事枠の上限" },
+    { "category": "news", "title": "個人情報流出 AI悪用懸念（北海道新聞）", "url": "https://www.hokkaido-np.co.jp/article/1327743/", "reason": "小記事枠の上限" },
+    { "category": "news", "title": "みずほ銀行スタートアップ支援拡充", "url": "https://www.businessinsider.jp/article/2606-blue-lab-mizuho-meet-and-impact-26spr", "reason": "小記事枠の上限" },
+    { "category": "entertainment", "title": "薬屋のひとりごと第3期（showcase-tv）", "url": "https://www.showcase-tv.com/entertainment/kusuriya-no-hitorigoto-3rd/", "reason": "昨日掲載済みトピック" },
+    { "category": "entertainment", "title": "サイバーパンク: エッジランナーズ2（電ファミニコゲーマー）", "url": "https://news.denfaminicogamer.jp/news/260628m", "reason": "昨日掲載済みトピック" },
+    { "category": "entertainment", "title": "救命病棟24時 第6シリーズ（Real Sound）", "url": "https://realsound.jp/movie/2026/09/post-2535977.html", "reason": "昨日掲載済みトピック" },
+    { "category": "entertainment", "title": "魔法騎士レイアース新アニメ（ORICON）", "url": "https://www.oricon.co.jp/special/76235/", "reason": "昨日掲載済みトピック（明日10/7放送開始予告も昨日済み）" },
+    { "category": "entertainment", "title": "秋ドラマ投票ランキング（クランクイン）", "url": "https://www.crank-in.net/news/191847/1", "reason": "野木亜紀子×石原さとみ記事に統合済み" },
+    { "category": "entertainment", "title": "Netflix 10月ラインナップ（GOAL.com）", "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/netflix-october-2026-recommended-titles/blta7be99ff426340d6", "reason": "小記事枠の上限" },
+    { "category": "entertainment", "title": "2026年10月公開映画50作品（MOVIE WALKER）", "url": "https://press.moviewalker.jp/list/coming/2026/10/", "reason": "汝、星のごとく記事に統合済み" },
+    { "category": "entertainment", "title": "ファーストボイス映画（シネマトゥデイ）", "url": "https://www.cinematoday.jp/news/N0155097", "reason": "小記事枠の上限" },
+    { "category": "entertainment", "title": "BLドラマ豊作 6作品（mikiki）", "url": "https://mikiki.tokyo.jp/articles/-/46236", "reason": "小記事枠の上限" },
+    { "category": "entertainment", "title": "Mrs. GREEN APPLE 代々木ライブ（公式）", "url": "https://mrsgreenapple.com/feature/ceremony2026", "reason": "小記事枠の上限" },
+    { "category": "entertainment", "title": "T3 PHOTO ASIA 2026（Tokyo Art Beat）", "url": "https://www.tokyoartbeat.com/events/-/T3-PHOTO-ASIA-2026/Tofrom-Yaesu-Tower/2026-10-17", "reason": "趣味(カメラ)枠で採用検討したが写真アートフェアはFUJIKINA優先" },
+    { "category": "hobby", "title": "エースコンバット8（egamers.io）", "url": "https://egamers.io/critics-crown-ace-combat-8-wings-of-theve-as-one-of-2026s-top-rated-games/", "reason": "昨日のsmall記事で同トピック掲載済み（別URL）" },
+    { "category": "hobby", "title": "地球防衛軍5 for Switch 2（D3PUBLISHER）", "url": "https://digital-release.wboy.com/business/press-releases/cision/20260610CN80285/d3publisher-announces-earth-defense-force-5-and-earth-defense-force-6-for-nintendo-switch-2", "reason": "趣味small枠の上限" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort 10/22発売", "url": "https://www.shacknews.com/article/149558/nintendo-switch-sports-resort-reveal-release-date", "reason": "趣味small枠の上限" },
+    { "category": "hobby", "title": "印度カリー子 スパイスとカレー入門 増補改訂版（丸善ジュンク堂）", "url": "https://www.maruzenjunkudo.co.jp/products/9784768331552", "reason": "書籍情報で速報性低い" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 7,
+    "small": 14,
+    "serendipity": 2,
+    "total": 26
+  }
+}
