@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-07",
+  "notion_page_id": "3f2a41a3-cf9b-81ce-a4a6-e3297af8c1e7",
+  "generated_at": "2026-10-07",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "OpenAI GPT-6.1 Astra 安全性問題でリリース中止 — 「より賢いモデル = より安全」とは限らない",
+      "url": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
+      "source": "The Next Web"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "Storybook 10.6 — Angular/VueのMCP・スキルサポートが実験的に追加、AIがコンポーネントを「操る」時代へ",
+      "url": "https://storybook.js.org/blog/storybook-10-6/",
+      "source": "Storybook"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "ノーベル化学賞 本日18:45発表 — 菅裕明東大教授「特殊ペプチド」が最有力候補",
+      "url": "https://www.nikkei.com/article/DGXZQOSG291K90Z20C26A9000000/",
+      "source": "日本経済新聞"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "秋ドラマ2026本格始動 — 「ポリティカルパン」22時・「魔法騎士レイアース」23:45が本日初回、今週末は映画「汝、星のごとく」公開",
+      "url": "https://realsound.jp/movie/2026/09/post-2537971.html",
+      "source": "Real Sound / ファミ通"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "東京カレー万博 本日21:00で終幕 → 下北沢カレーフェス 明日10/8から18日間開幕",
+      "url": "https://www.walkerplus.com/article/1445506/",
+      "source": "Walker Plus / インサイド"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Claude Frontier Academy — Anthropicが$100M投資、2027年末までにAIエンジニア1万人を育成",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Anthropicサイバー検証プログラム拡張 — 3層構成でセキュリティ専門家に高度なAI能力を提供",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular 22.1 リリースサイクル変更の全貌 — 年1回メジャー+2か月マイナーの新サイクル解説",
+      "url": "https://certificates.dev/blog/whats-new-in-angular-221",
+      "source": "certificates.dev"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "台風27号 本日中に温帯低気圧化 — 28・29号は西進継続、三連休の影響注視",
+      "url": "https://tenki.jp/forecaster/yosh_ika/2026/10/07/40879.html",
+      "source": "日本気象協会 tenki.jp"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "自民・維新 消費税1%減税大綱を了承 — 2027年4月から2年限り、来週閣議決定へ",
+      "url": "https://kumanichi.com/articles/2035729",
+      "source": "熊本日日新聞"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "簗農水相「道路予算を削減した」発言 — 野党追及で辞任要求が続出",
+      "url": "https://www.nikkan-gendai.com/articles/view/news/393735",
+      "source": "日刊ゲンダイ"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "映画「汝、星のごとく」釜山国際映画祭に正式出品 — 10/9公開直前、横浜流星が現地登壇",
+      "url": "https://www.sakigake.jp/news/article/20260901OR0205/",
+      "source": "秋田魁新報"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "秋アニメ2026は「歴史的豊作」97作品 — 5日間で50本が一斉スタート",
+      "url": "https://www.animatetimes.com/?p=2202979",
+      "source": "アニメイトタイムズ"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "「救命病棟24時」第6シリーズ 月9枠で10/12スタート — 江口×松嶋16年ぶり再共演",
+      "url": "https://vegcale.com/?p=8997",
+      "source": "vegcale.com"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "「KHコレクション I〜III」明日10/8発売 — Switch 2ネイティブ・先行レビューでも快適動作を確認",
+      "url": "https://news.denfaminicogamer.jp/news/260914g",
+      "source": "電ファミニコゲーマー"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "富士フイルム X-T6 発表が再度延期 — 2026年内リリースも不透明、FUJIKINA NYC（10/16〜18）が最後の望み",
+      "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-reportedly-postponed-and-may-not-arrive-this-year-at-all/",
+      "source": "Camera Jabber"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "「ドラゴンズドグマ2:ダークアリズン」明後日10/9発売 — 新エリア追加、Switch 2版は本編セット",
+      "url": "https://www.rpgsite.net/news/20617-dragons-dogma-2-dark-arisen-release-date",
+      "source": "RPGSite"
+    },
+    { "category": "tech", "size": "small", "title": "Barclaysが開発者の50%にClaude Codeを展開予定 — メール自動処理12万件/日を実現", "url": "https://www.anthropic.com/news/barclays-scales-claude" },
+    { "category": "tech", "size": "small", "title": "ViteConf 2026、10月15日オンライン開催 — Vite 8.1・Vite+βの最新動向が公開される見込み", "url": "https://voidzero.dev/posts/whats-new-jul-2026" },
+    { "category": "tech", "size": "small", "title": "Claudeが21時間で新規酵素系「ART」を発見 — CRISPR構造持つバクテリオファージ由来酵素", "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" },
+    { "category": "news", "size": "small", "title": "高市首相、中国を「重要な隣国」と明言 — 党内保守から反発、対中外交で路線転換を示唆", "url": "https://news.yahoo.co.jp/articles/f497486f85c1eb6f81ab0750cc2edce38f36a149" },
+    { "category": "news", "size": "small", "title": "中国外相「高市首相が台湾発言を是正すべき」— 王毅氏が日中首脳会談への障壁を改めて示す", "url": "https://www.jiji.com/jc/article?k=2026100700840&g=pol" },
+    { "category": "news", "size": "small", "title": "実質賃金2.4%増 7か月連続プラス — 2021年以来最長の連続増加、本日8月分も公表予定", "url": "https://www.kaiketsu-j.com/?p=23991" },
+    { "category": "news", "size": "small", "title": "米FOMC議事録本日公表 — 早期追加利下げへの慎重姿勢が示されるか、円相場への波及に注目", "url": "https://fx.minkabu.jp/news/380970" },
+    { "category": "entertainment", "size": "small", "title": "RADWIMPS「娑婆堕罵 -Shabadaba-」本日世界初解禁 — 「ポリティカルパン」主題歌、放送後にSNSトレンドへ", "url": "https://realsound.jp/2026/09/post-2538667.html" },
+    { "category": "entertainment", "size": "small", "title": "「VIVANT」続編が夏ドラマ満足度1位を秋も継続 — 秋ドラマ評価の比較基準に", "url": "https://www.sakigake.jp/news/article/20260810OR0031/" },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "フランス5000人逮捕の「教育デモ」× Anthropic $100M「Frontier Academy」— 人材育成への投資は誰がすべきか",
+      "url": "https://kumanichi.com/articles/2042546",
+      "serendipity_reason": "Anthropicが今週「AI エンジニア1万人を民間で育成する」と$100Mを投じた一方、フランスでは政府の教育予算削減に抗議して高校生5000人超が逮捕される事態が起きている。「教育は公共財として国家が担う」という立場と「AI時代のスキル育成は民間が主導する」という現実は、2026年の労働市場の二極化を象徴する対比だ。フロントエンドエンジニアとして「自分のスキルを誰が育てたか」を考えると、この構造変化は他人事ではない。"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "FOMC議事録本日公表 × LLM APIの円建てコスト — 金利政策がエンジニアの開発費に届くまでの道筋",
+      "url": "https://fx.minkabu.jp/news/380970",
+      "serendipity_reason": "毎日Claude CodeとAnthropic APIを使っているが、そのコストは「ドル建てAPI料金×為替レート」で決まる。FOMCが早期利下げに慎重であればドル高・円安が続き、APIの円建てコストは実質上昇する。金融政策→為替→クラウド費用→AI開発予算という連鎖は、フロントエンドエンジニアが「なぜ為替を見るのか」という問いへの具体的な答えだ。2026年以降、LLMを業務で使うエンジニアにとって為替リテラシーは開発コスト管理の必須スキルになりつつある。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "Anthropic Life Sciences Verification Program", "url": "https://www.anthropic.com/news/life-sciences-verification-program", "reason": "小記事枠の上限" },
+    { "category": "tech", "title": "Barclays scales Claude (重複)", "url": "https://www.anthropic.com/news/barclays-scales-claude", "reason": "小記事で採用済み" },
+    { "category": "tech", "title": "Anthropic IPO検討（cryptobriefing）", "url": "https://cryptobriefing.com/anthropic-poised-for-ipo-before-openai-by-q4-2026-amid-market-confidence/", "reason": "3月の古い記事（6か月超前）のため除外" },
+    { "category": "tech", "title": "Accenture embedded evaluation", "url": "https://www.anthropic.com/news/accenture-embedded-evaluation", "reason": "小記事枠の上限" },
+    { "category": "news", "title": "3つの台風の最新進路（ウェザーニュース）", "url": "https://weathernews.jp/news/202610/070031/", "reason": "tenki.jp台風記事と重複" },
+    { "category": "news", "title": "臨時国会・所信表明演説（SmartNews）", "url": "https://www.smartnews.com/news/article/4997815104373269760-%E8%87%A8%E6%99%82%E5%9B%BD%E4%BC%9A%E3%81%8C%E5%8F%AC%E9%9B%86%E3%80%81%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E3%81%AF%E6%89%80%E4%BF%A1%E8%A1%A8%E6%98%8E%E6%BC%94%E8%AA%AC%20%E4%BB%8A%E5%9B%BD%E4%BC%9A%E6%9C%80%E5%A4%A7%E3%81%AE%E7%84%A6%E7%82%B9%E3%81%AF%EF%BC%9F", "reason": "小記事「高市首相の対中発言」で本質カバー済み" },
+    { "category": "news", "title": "公明・高市首相に積極的対中外交促す", "url": "https://news.yahoo.co.jp/articles/e22978ea05d9ff20235fbb261f0058bebb297f6f", "reason": "小記事枠の上限" },
+    { "category": "news", "title": "社説：臨時国会所信表明", "url": "https://news.yahoo.co.jp/articles/4b4ecf67024d715d1c25b3b5aa2230becdfdd378", "reason": "小記事枠の上限" },
+    { "category": "news", "title": "ノーベル賞 7日は化学賞の発表日（NHK）", "url": "https://news.web.nhk/newsweb/na/nd-20261006de55098", "reason": "大記事ノーベル化学賞に統合済み" },
+    { "category": "news", "title": "ケムステ・ノーベル化学賞2026候補予想", "url": "https://www.chem-station.com/blog/2026/09/nobel2026pre.html", "reason": "大記事ノーベル化学賞に統合済み" },
+    { "category": "news", "title": "フランス高校封鎖デモ", "url": "https://kumanichi.com/articles/2042546", "reason": "セレンディピティ枠で採用済み（同URL）" },
+    { "category": "entertainment", "title": "ポリティカルパン キャスト（草刈正雄・高橋一生等）", "url": "https://realsound.jp/movie/2026/09/post-2519798.html", "reason": "大記事「秋ドラマ本格始動」に統合済み" },
+    { "category": "entertainment", "title": "ハイド&シーク 0秒前の彼女 10/4初回", "url": "https://www.sakigake.jp/news/article/20260908OR0082/", "reason": "エンタメ小記事枠の上限" },
+    { "category": "entertainment", "title": "いろはの恋は時代をかける Mrs. GREEN APPLE出演", "url": "https://www.thefirsttimes.jp/?p=877464", "reason": "エンタメ小記事枠の上限" },
+    { "category": "entertainment", "title": "アオのハコ Season2 aiko主題歌", "url": "https://realsound.jp/movie/2026/03/post-2349854.html", "reason": "秋アニメ97作品記事に統合済み" },
+    { "category": "entertainment", "title": "横浜流星&広瀬すず 今治花火大会（8月の記事）", "url": "https://www.sakigake.jp/news/article/20260811OR0010/", "reason": "釜山映画祭記事の方が直近情報として優先" },
+    { "category": "hobby", "title": "KH Collection I~III レビュー（Siliconera）", "url": "https://www.siliconera.com/review-kingdom-hearts-collection-i-iii-lets-switch-2-owners-catch-up/", "reason": "KH発売記事に統合済み" },
+    { "category": "hobby", "title": "東京カレー万博2026レポート（いこーよ）", "url": "https://report.iko-yo.net/articles/33882", "reason": "大記事「東京カレー万博最終日」に統合済み" },
+    { "category": "hobby", "title": "FUJIKINA NYC 2026（PetaPixel）", "url": "https://petapixel.com/2026/06/17/fujifilm-is-hosting-a-fujikina-in-new-york-city-this-october/", "reason": "X-T6延期+FUJIKINA記事に統合済み" }
+  ],
+  "article_counts": {
+    "large": 5,
+    "medium": 12,
+    "small": 11,
+    "serendipity": 2,
+    "total": 30
+  }
+}
