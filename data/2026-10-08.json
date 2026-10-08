@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-08",
+  "notion_page_id": "3f3a41a3-cf9b-8152-a09b-c5a43da3173d",
+  "generated_at": "2026-10-08",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "Angular 22.2.0 — Zoneless変更検知がデフォルト化、Signal Formsが安定版に昇格",
+      "url": "https://arc.dev/employer-blog/angular-latest-version-your-friendly-guide-to-new-features-and-updates-in-2026/",
+      "source": "arc.dev"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "Claude Haiku 5.5リリース × Sonnet 5.5キャッシュ半額 — 小型・大型モデルのコスト構造が変わる",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "フロントエンドカンファレンス関西2026 — 今週末10/12（月・祝）大阪グラングリーンで開催",
+      "url": "https://2026.frontend-conf.osaka.jp/",
+      "source": "フロントエンドカンファレンス関西実行委員会"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "ノーベル賞ウィーク佳境 — 昨日は化学賞・硤合憲三氏受賞、今夜20時以降は文学賞「32年ぶり日本人は？」",
+      "url": "https://www.nikkei.com/article/DGXZQOSG074NS0X01C26A0000000/",
+      "source": "日本経済新聞"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "フーシ派がサウジ空港・石油施設を連続攻撃 — 中東情勢が急変、原油価格に波紋",
+      "url": "https://www.afpbb.com/articles/-/3643940",
+      "source": "AFP BB News"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "「ポリティカルパン」初回5.6%スタート — SNSは「女ルパン最高」「野木亜紀子節最高」で大盛況",
+      "url": "https://mantan-web.jp/article/20261008dog00m200001000a.html",
+      "source": "MANTANWEB"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "FUJIKINA NYC 10/16〜18 × X-T6「いよいよ来る」リーク — Fujifilm最注目1週間が迫る",
+      "url": "https://www.fujirumors.com/?p=143658",
+      "source": "FujiRumors"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Anthropic「Claude for Startups」拡充 — 無料1年+API $1,000クレジットでスタートアップのAI採用を後押し",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular × AI「バイブコーディング」最前線 — v22テンプレート改善とAI統合の実例（日本語解説）",
+      "url": "https://note.com/masa_cloud/n/n2b07f157af8b",
+      "source": "note.com"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "OpenAI DevDay 2026まとめ — 常駐AIエージェント「Dots」・GPT-6.1 Sol・週間ユーザー12億人到達",
+      "url": "https://openai.com/blog/devday-2026-recap",
+      "source": "OpenAI"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Google Gemini 4 Argon発表 — サイバー防衛専門家向け先行公開、DeepSWE 77.9%・$2/$10/100万トークン",
+      "url": "https://betanews.com/article/gemini-4-argon-cyber-defenders-fairwind/",
+      "source": "BetaNews"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "大手ビール4社に公取委が強制調査 — アサヒ・キリン・サッポロ・サントリーが価格カルテルか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55664",
+      "source": "NHKニュース"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "台風29号 3連休中に小笠原接近 — 「非常に強い」勢力で12日頃、本土への直接影響は小さい見込み",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/08/40894.html",
+      "source": "tenki.jp"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "ランサムウェア「Qilin」の中心メンバーを日本で拘束 — ドイツへ引き渡し、国際サイバー法執行の成果",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+      "source": "NHKニュース"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "2026年上半期の企業倒産5335件 — 物価高倒産・人手不足倒産がともに過去最多",
+      "url": "https://prtimes.jp/main/html/rd/p/000001383.000043465.html",
+      "source": "帝国データバンク"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "映画「汝、星のごとく」明日10/9公開 — 横浜流星「令和のセカチュー目指す」×釜山映画祭出品",
+      "url": "https://www.daily.co.jp/gossip/2026/09/18/0020832308.shtml",
+      "source": "デイリースポーツ"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "「薬屋のひとりごと」第3期スタート+劇場版12月決定 — ヨルシカ主題歌、舞台は後宮から市井・隣国へ",
+      "url": "https://animeanime.jp/article/2026/08/29/102484.html",
+      "source": "アニメアニメ"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "秋アニメ2026近況 — 「ドラゴンボール超ビルス」11/11フジで始動、「らんま1/2第3期」も注目",
+      "url": "https://selectra.jp/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0/news/autumn-anime-guide-2026",
+      "source": "Selectra"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "坂口健太郎主演「kiDnap GAME」— アジア7都市・18か国同時展開のアジア共同制作大型ドラマ",
+      "url": "https://www.sakigake.jp/news/article/20261002OR0188/",
+      "source": "ORICON NEWS"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "下北沢カレーフェスティバル2026が本日開幕 — 15周年×ぷよぷよ・ソニックコラボで10月25日まで",
+      "url": "https://travel.watch.impress.co.jp/docs/news/1622935.html",
+      "source": "Travel Watch"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "KHコレクション[I〜III]本日発売レビュー — Switch 2で131GB・KH IIIのフレームレートに注意",
+      "url": "https://www.playnews.gg/en/reviews/kingdom-hearts-collection-i-iii-reviews-scores-and-switch-2-ps5-performance",
+      "source": "PlayNews.gg"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "「ドラゴンズドグマ2：ダークアリズン」明日10/9発売 — 新エリア・新ダンジョン12種、PS5安定60fps",
+      "url": "https://www.rpgsite.net/preview/21200-i-wish-i-got-better-read-on-dragons-dogma-2-dark-arisen-from-my-preview",
+      "source": "RPG Site"
+    },
+    { "category": "tech", "size": "small", "title": "Anthropic IPO — 10月中旬ロードショー開始か、評価額$965B（約140兆円）。S-1開示は遅延の模様", "url": "https://www.dealstreetasia.com/?p=494211", "source": "DealStreet Asia" },
+    { "category": "tech", "size": "small", "title": "生成AI×エンタメ業界の最前線 — OpenAI×Disney提携・Netflix AI Studio買収など。エンタメAI市場850億ドル超に", "url": "https://letsdatascience.com/news/hollywood-embraces-ai-transforming-film-production-3e106958", "source": "LetsDatScience" },
+    { "category": "tech", "size": "small", "title": "10月のAIニュースまとめ（日本語）— Gemini 4・国産LLM ELYZA・OpenAI DevDay・Anthropic IPOを横断整理", "url": "https://snowsystem.net/ai/ai-news-202610/", "source": "SnowSystem" },
+    { "category": "news", "size": "small", "title": "ドジャース・山本由伸「やっとスタート」ポストシーズン好投 — 大谷・佐々木朗希とNLDSでブレーブスと対戦中", "url": "https://www.tv-tokyo.co.jp/sports/articles/2026/09/042412.html", "source": "テレビ東京" },
+    { "category": "entertainment", "size": "small", "title": "ラッパーTohji、11/17東京ドームでラストライブ「TOKYO MALL」 — 2026年末引退の現代J-HIPHOP最重要アーティスト", "url": "https://kai-you.net/article/96218", "source": "KAI-YOU" },
+    { "category": "entertainment", "size": "small", "title": "Mrs. GREEN APPLE・大森元貴がドラマ初出演「いろはの恋は時代をかける」 — 上白石萌音×向井康二の時代劇に参戦", "url": "https://www.sakigake.jp/news/article/20260907OR0009/", "source": "ORICON NEWS" },
+    { "category": "hobby", "size": "small", "title": "「Final Fantasy Resonance」10/22発売 — シリーズ初のHD-2D作品、PS5・Switch 2・PC対応、$49.99", "url": "https://www.gosugamers.net/entertainment/news/78602-square-enix-announces-final-fantasy-resonance-new-hd-2d-game-based-on-brave-exvius", "source": "GosuGamers" },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "ビールカルテル × 物価高倒産5335件 — 「大企業が価格を決め、中小が倒れる」日本経済の構造",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55664",
+      "serendipity_reason": "同じ週に「大手ビール4社が価格を談合していた疑い」と「物価高・人手不足倒産が過去最多」というニュースが並んだ。大企業が生産者価格の協調を維持する一方で、そのコスト転嫁の連鎖の末端にいる中小企業・飲食店が倒れていく。フロントエンドエンジニアとしてサービス開発をしていると「エンドユーザーに価値を届ける」という感覚が身についているが、このエンドユーザーが実際に暮らしている経済の実態は、価格の「設計者」と「犠牲者」の非対称から成り立っている。"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "Anthropic IPO × エンジニアのAI依存コスト — 「ツールを作った会社が株式市場へ行く」ときに何が変わるか",
+      "url": "https://www.dealstreetasia.com/?p=494211",
+      "serendipity_reason": "毎日Claude CodeとClaude APIを使っているが、その会社がIPOを目指し評価額$965B（約140兆円）に達しようとしている。スタートアップがIPOすると「長期的品質への集中」から「四半期ごとの利益」へとインセンティブが変わりうる。AWSがAmazon本体として上場してからクラウドがエンタープライズ標準になったように、AnthropicのIPOはClaudeが「好きなAIツール」から「インフラとして管理するもの」へシフトする転換点になるかもしれない。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "ハリウッドAI・生成NPC・バーチャルアイドルの台頭（TechBullion）", "url": "https://techbullion.com/the-intelligent-entertainment-generative-npcs-virtual-celebrities-and-the-end-of-the-infinite-scroll-in-2026/", "reason": "小記事枠の上限" },
+    { "category": "tech", "title": "Anthropic for Startups（small記事統合済み）", "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/", "reason": "mediumで採用済み" },
+    { "category": "hobby", "title": "FUJIKINA NYC 2026（PetaPixel・2026年6月記事）", "url": "https://petapixel.com/2026/06/17/fujifilm-is-hosting-a-fujikina-in-new-york-city-this-october/", "reason": "4ヶ月前の古い記事のため除外。FujiRumors最新リーク記事を採用" },
+    { "category": "hobby", "title": "KH Collection Siliconera Switch 2レビュー", "url": "https://www.siliconera.com/review-kingdom-hearts-collection-i-iii-lets-switch-2-owners-catch-up/", "reason": "playnews.ggの総合レビューまとめ記事を採用済み" },
+    { "category": "hobby", "title": "KH Collection 131GB Switch 2 容量（My Nintendo News）", "url": "https://mynintendonews.com/2026/10/05/kingdom-hearts-collection-is-131gb-on-nintendo-switch-2-reviews-slightly-mixed/", "reason": "medium KH Collection記事に内容を統合済み" },
+    { "category": "hobby", "title": "DD2 DA PS5ハンズオン（The Outer Haven）", "url": "https://www.theouterhaven.net/dragons-dogma-2-dark-arisen-ps5-hands-on-preview/", "reason": "RPG Siteのプレビューに統合済み" },
+    { "category": "hobby", "title": "DD2 DA拡張版プレビュー（Gfinity Esports）", "url": "https://www.gfinityesports.com/article/dragons-dogma-2-dark-arisen-preview", "reason": "RPG Siteのプレビューに統合済み" },
+    { "category": "news", "title": "ノーベル文学賞候補まとめ（Livedoor）", "url": "https://news.livedoor.com/topics/detail/32517789/", "reason": "ノーベル賞大記事に統合済み" },
+    { "category": "news", "title": "フーシ派・サウジ連日攻撃（熊本日日新聞）", "url": "https://kumanichi.com/articles/2043059", "reason": "AFP大記事に統合済み" },
+    { "category": "entertainment", "title": "ポリティカルパン SNS反響（tvfan.kyodo.co.jp）", "url": "https://tvfan.kyodo.co.jp/news/topics/1527432", "reason": "大記事「ポリティカルパン」に統合済み" },
+    { "category": "entertainment", "title": "ポリティカルパン 野木亜紀子コラム（リアルサウンド）", "url": "https://realsound.jp/movie/2026/10/post-2546253.html", "reason": "大記事「ポリティカルパン」に統合済み" },
+    { "category": "entertainment", "title": "amazarashi「幻想水滸伝」OPテーマ（Game*Spark）", "url": "https://www.gamespark.jp/article/2026/07/05/168845.html", "reason": "エンタメ小記事枠の上限" },
+    { "category": "entertainment", "title": "ドラゴンボール超ビルス 秋フジ放送（ファミ通）", "url": "https://www.famitsu.com/article/202601/64141", "reason": "秋アニメ近況medium記事に統合済み" }
+  ],
+  "article_counts": {
+    "large": 7,
+    "medium": 15,
+    "small": 9,
+    "serendipity": 2,
+    "total": 33
+  }
+}
