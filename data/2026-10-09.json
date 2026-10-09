@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-09",
+  "notion_page_id": "3f4a41a3-cf9b-817f-a9fb-df1be971d297",
+  "generated_at": "2026-10-09",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"]
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "OpenAI GPT-6 Astra 本格展開開始 — 100万トークン超・史上初「Critical」サイバー評価モデルがChatGPT有料プランへ",
+      "url": "https://news.bgov.com/artificial-intelligence/openai-rolls-out-gpt-6-astra-model-with-cyber-guardrails-1",
+      "source": "Bloomberg Government"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "2026年ノーベル文学賞 カナダの詩人アン・カーソン氏（76）に決定 — 32年ぶりの北米受賞",
+      "url": "https://news.yahoo.co.jp/articles/28b854e25228ef9bd8112ec03dcab1203425f102",
+      "source": "AFP=時事 / Yahoo!ニュース"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "DD2ダークアリズン 本日発売！初日レビュー — Switch 2版「驚くほど良い仕上がり」12ダンジョン・新エリアの本格評価",
+      "url": "https://www.rpgsite.net/news/20617-dragons-dogma-2-dark-arisen-launches-on-october-9",
+      "source": "RPGSite"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Claude 5ファミリー更新 — Opus 5.5が前世代比40%値下げ、Sonnet 5.5が30%以上高速化",
+      "url": "https://gori.me/?p=170548",
+      "source": "ゴリミー"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Anthropic 利用規約2026年版 — 欺瞞・選挙干渉・兵器への制限を強化、11月12日施行",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Anthropic Genesis Mission — 1億5000万ドルを拠出、NASAなど15研究機関のAI科学研究を支援",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "source": "Anthropic"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "プルデンシャル生命に一部業務停止命令を検討 — 社員100人超が顧客から31億円超を不正受授",
+      "url": "https://www.sakigake.jp/news/article/20261002CO0128/",
+      "source": "秋田魁新報（共同通信）"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "ドル円157円台に下落・日経平均3日続落 — 日銀10月追加利上げ観測が円高を後押し",
+      "url": "https://fx.minkabu.jp/news/381210",
+      "source": "みんかぶFX"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "米で運転免許1.53億件がダークウェブに流出 — 身元確認サービスIDScanから漏洩か、FBIが捜査",
+      "url": "https://gadget.phileweb.com/post-132309/",
+      "source": "ファイルウェブ"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "VIVANT第2シリーズ第20話 今週末10/11（日）放送 — シャキ城潜入・乃木と野崎の最終決戦へ",
+      "url": "https://cinematoday.jp/news/N0157243",
+      "source": "シネマトゥデイ"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "救命病棟24時 13年ぶり月9復活 今週末10/12スタート — 江口洋介×松嶋菜々子16年ぶり再共演",
+      "url": "https://www.sakigake.jp/news/article/20260826OR0008/",
+      "source": "秋田魁新報"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "X-T6延期の真相 — AI AFと新フィルムシミュレーションの開発が遅延の背景か",
+      "url": "https://www.fujirumors.com/?p=144151",
+      "source": "FujiRumors"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Anthropic Cyber Mission開始 — 重要インフラ防御プログラムとOSSスキャナーを提供",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "source": "Anthropic"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "阪神・佐藤輝明 三冠王に王手 — 打率.314・39本塁打・105打点で3部門独走中",
+      "url": "https://www.daily.co.jp/tigers/2026/10/04/0020890908.shtml",
+      "source": "デイリースポーツ"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "臨時国会 代表質問で消費税減税・衆院定数削減の攻防 — 高市首相「円の信認は競争力で守る」",
+      "url": "https://kumanichi.com/articles/2039431",
+      "source": "共同通信"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "映画「汝、星のごとく」本日公開初日 — 釜山映画祭正式出品作が3連休初日に全国公開",
+      "url": "https://www.sakigake.jp/news/article/20260917OR0256/",
+      "source": "秋田魁新報"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "芦田愛菜「南田南弁護士は天才肌」10/19スタート — 韓ドラリメイク×Netflix世界配信",
+      "url": "https://www.cinematoday.jp/news/N0156766",
+      "source": "シネマトゥデイ"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "Fujikina Köln 明日10/10〜11開幕 — X-T6発表の前哨戦となるか注目",
+      "url": "https://www.fujirumors.com/?p=144187",
+      "source": "FujiRumors"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "ファイナルファンタジー レゾナンス 10/22発売 — 体験版セーブデータ引継ぎ可、PS5/Switch 2/PC対応",
+      "url": "https://www.rpgsite.net/news/20619-final-fantasy-resonance-new-hd-2d-ff-game-release-date",
+      "source": "RPGSite"
+    },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "「古代を現代の言語に翻訳する」 — ノーベル文学賞詩人とAngularのZoneless移行が示す共通構造",
+      "url": "https://news.yahoo.co.jp/articles/28b854e25228ef9bd8112ec03dcab1203425f102",
+      "serendipity_reason": "今朝のノーベル文学賞受賞者アン・カーソンの業績「古典ギリシャ語の詩形を解体し、現代英語と融合する実験」を読んで、Angular 22.2.0のZoneless変更検知への移行を思った。Zone.jsという「古いシステムを透明なラッパーで包んで動かし続ける仕組み」から、Signalという「状態変化を明示的に宣言する新しい言語」へ移行することも、一種の「古い形式を解体して現代の言語で書き直す」行為だ。ビジネスとしての言語（JavaScript/TypeScript）で動きながら、その言語の表現力の限界を感じて新しい文法を探す——これは詩人がラテン語の制約から解放されてゆく過程と構造的に同じかもしれない。"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "史上最大規模の個人情報流出 × GPT-6「Critical」サイバー能力 — AIセキュリティが臨界点に近づく",
+      "url": "https://gadget.phileweb.com/post-132309/",
+      "serendipity_reason": "今週、1.53億件の運転免許情報が流出したというニュースとOpenAI GPT-6 Astraが「史上初のCriticalサイバー能力モデル」として有料化されたというニュースが同時に届いた。個人情報の流出スケールがAIによる自動攻撃の規模と一致し始めている。GPT-6がフィッシングメール生成・ソーシャルエンジニアリング・認証情報の推測に悪用された場合、1.53億件のデータは「AIによるターゲット特定」の学習データになりうる。防御側もGemini 4 ArgonやAnthropic CVPで武装しつつあるが、攻撃側のAI活用の方が常に先行する非対称性は解消されていない。フロントエンドエンジニアとして「ユーザーの個人情報を扱うシステム」を作る立場から、この非対称性を意識した設計思想を持ちたい。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "Anthropic Claude Frontier Academy（過去7日掲載済みURL）", "url": "https://www.anthropic.com/news/claude-frontier-academy", "reason": "過去7日以内にURLが登場済み" },
+    { "category": "tech", "title": "Angular年次リリースサイクル変更（过去7日掲載済み）", "url": "https://angularindepth.com/article/angular-new-release-cycle-release-schedule-change-explained/", "reason": "過去7日以内に掲載済み" },
+    { "category": "tech", "title": "Angular 2026年前半総括（過去7日掲載済み）", "url": "https://angularindepth.com/article/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality/", "reason": "過去7日以内に掲載済み" },
+    { "category": "tech", "title": "Angular 22.1 プライベートメンバーアクセス（過去7日掲載済み）", "url": "https://certificates.dev/blog/whats-new-in-angular-221", "reason": "過去7日以内に掲載済み" },
+    { "category": "tech", "title": "Claude ART酵素発見（過去7日掲載済み）", "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system", "reason": "過去7日以内に掲載済み" },
+    { "category": "tech", "title": "Barclays Claude Code 50%採用（過去7日掲載済み）", "url": "https://www.anthropic.com/news/barclays-scales-claude", "reason": "過去7日以内に掲載済み" },
+    { "category": "tech", "title": "AnthropicサイバーVCP（過去7日掲載済み）", "url": "https://www.anthropic.com/news/cyber-verification-program", "reason": "過去7日以内に掲載済み" },
+    { "category": "tech", "title": "Vite 8リリース（2026年3月リリース、古すぎる）", "url": "https://vite.dev/blog/announcing-vite8.html", "reason": "6か月前リリースのため除外" },
+    { "category": "tech", "title": "Google AI Augustアップデート（2026年8月、古すぎる）", "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/", "reason": "2か月前のアップデートのため除外" },
+    { "category": "news", "title": "フーシ派サウジ攻撃（過去7日掲載済み）", "url": "https://kumanichi.com/articles/2043059", "reason": "過去7日以内に掲載済み" },
+    { "category": "news", "title": "イエメン政府軍バブ・エル・マンデブ作戦", "url": "https://kumanichi.com/articles/2043836", "reason": "昨日のフーシ派大記事に内容が包含、中東状況の新規大記事優先なし" },
+    { "category": "news", "title": "立花孝志氏への襲撃事件・懲役9年判決", "url": "https://news.web.nhk/newsweb", "reason": "具体的URLが不明確、掲載見送り" },
+    { "category": "news", "title": "知床沈没事故控訴審", "url": "https://www.hokkaido-np.co.jp/article/1326345/", "reason": "12月審理で現時点で動き薄く小記事枠も溢れ" },
+    { "category": "news", "title": "養育費取り決め率75%に上昇", "url": "https://news.web.nhk/newsweb", "reason": "具体的URLが不明確、掲載見送り" },
+    { "category": "news", "title": "深夜食堂6 Netflix配信決定（エンタメ記事として重複）", "url": "https://eiga.com/news/20261009/21", "reason": "エンタメ枠の上限、ニュース枠での掲載見送り" },
+    { "category": "entertainment", "title": "映画「汝、星のごとく」本日公開（昨日medium掲載済み・本日は小記事として継続）", "url": "https://www.sakigake.jp/news/article/20261008OR0188/", "reason": "昨日mediumで掲載済みのため本日は小記事のみ" },
+    { "category": "entertainment", "title": "ポリティカルパン RADWIMPS主題歌（代替URL）", "url": "https://www.sakigake.jp/news/article/20260930OR0101/", "reason": "ポリティカルパン大記事は昨日掲載済み" },
+    { "category": "entertainment", "title": "VIVANT第2シリーズ新キャスト14人発表（2026年7月記事）", "url": "https://www.sakigake.jp/news/article/20260719OR0096/", "reason": "3か月前の古い記事のため除外" },
+    { "category": "entertainment", "title": "東京リベンジャーズ三天戦争編放送開始（2026年10月2日）", "url": "https://dengekionline.com/article/202606/78288", "reason": "先週放送開始で今週の新情報なし" },
+    { "category": "hobby", "title": "Fujikina NYC 2026告知（過去7日掲載済み）", "url": "https://petapixel.com/2026/06/17/fujifilm-is-hosting-a-fujikina-in-new-york-city-this-october/", "reason": "過去7日以内に掲載済み" },
+    { "category": "hobby", "title": "X-T6延期スペック詳細（FujikinaKöln関連）", "url": "https://www.notebookcheck.net/Fujifilm-s-next-X-series-camera-is-reportedly-delayed-but-will-include-exciting-features.1362888.0.html", "reason": "FujiRumors記事で内容を統合済み" },
+    { "category": "hobby", "title": "DD2 Dark Arisen コミュニティ反応（2026年6月の古い記事）", "url": "https://www.gamespark.jp/article/2026/06/10/167814.html", "reason": "4か月前の発表時記事のため除外" },
+    { "category": "hobby", "title": "DD2 Switch 2レビュー（Lifehacker Japan）", "url": "https://www.lifehacker.jp/article/amazon-dragons-dogma2-dark-arisen/", "reason": "RPGSite初日レビューに統合済み" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort 10/22（過去7日掲載済み）", "url": "https://www.shacknews.com/article/149558/nintendo-switch-sports-resort-reveal-release-date", "reason": "過去7日以内にURLが登場済み" },
+    { "category": "hobby", "title": "2026年9月カメラ新製品まとめ（9月記事）", "url": "https://www.minnacamera.com/mags/6364", "reason": "先月の記事のため除外" },
+    { "category": "hobby", "title": "印度カリー子「スパイスとカレー入門」増補改訂版（2026年5月）", "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784768331552", "reason": "5か月前の書籍情報のため除外" },
+    { "category": "hobby", "title": "ISETANカレーフェス2026（2026年8月開催・終了済み）", "url": "https://www.mistore.jp/shopping/event/shinjuku_e/curry_10", "reason": "終了済みイベントのため除外" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 9,
+    "small": 7,
+    "serendipity": 2,
+    "total": 21
+  }
+}
