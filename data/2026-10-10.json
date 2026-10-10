@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-10",
+  "notion_page_id": "3f5a41a3-cf9b-81eb-82a1-ef936f1dfb4d",
+  "generated_at": "2026-10-10",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "OpenAI安全研究者3名を解雇 — 「安全文化は壊れている」公開書簡でAI外部監査を要求",
+      "url": "https://letsdatascience.com/blog/openai-fired-three-safety-researchers-one-was-its-link-to-the-investigators",
+      "source": "Let's Data Science / Crypto Briefing"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "Mistral Large 4 パブリックプレビュー公開 — 1兆パラメータMoEと10月27日オープンウェイト化",
+      "url": "https://letsdatascience.com/news/mistral-debuts-large-4-open-weight-model-preview-cbf9e0b5",
+      "source": "Let's Data Science"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular v22 Signal Forms・OnPushデフォルト化が安定版に — Zonelessへの移行を後押しする変化",
+      "url": "https://infoq.com/news/2026/08/angular-v22-released",
+      "source": "InfoQ"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "ChatGPT無料ユーザーの画像生成中にビジュアル広告が表示へ — 10月下旬から米国でテスト",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Google DeepMind「Gemini 4をできる限り早く出したい」— 現在ポストトレーニング段階",
+      "url": "https://thenextweb.com/news/gemini-4-release-kavukcuoglu-post-training",
+      "source": "The Next Web"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "ELYZA、国産LLM2種をApache 2.0で公開 — 33B版と32B MoE版がHugging Faceで商用利用可能に",
+      "url": "https://www.ai-market-watch.com/news/elyza-releases-two-commercially-usable-japanese-language-models-based-on-llm-jp--r2oukl",
+      "source": "AI Market Watch"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "OpenAI・Anthropic・Google・Meta幹部がNYC市議会でAIエージェントの安全保証を拒否",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "source": "CNBC"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "IDCFクラウドにランサムウェア攻撃 — 495企業・自治体のデータ取り出しが困難な状況に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146693.html",
+      "source": "PC Watch"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "台湾国慶節演説 — 頼清徳総統「中国が現状変更」と防衛力強化を表明",
+      "url": "https://news.web.nhk/newsweb/genre/international",
+      "source": "NHKニュース"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "人手不足倒産 2026年度上半期に過去最多240件 — 物価高・人件費高騰が中小に打撃",
+      "url": "https://kumanichi.com/articles/2044472",
+      "source": "熊本日日新聞 / 時事通信"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "消費税減税法案 財源論で与野党激突 — 10月国会での成立見通しが不透明に",
+      "url": "https://www.nippon.com/ja/news/yjj2026092900123/",
+      "source": "nippon.com"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "パナマ南部でM7.7大地震 — 複数建物倒壊、日本への津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/genre/international",
+      "source": "NHKニュース"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "インフルエンザ 今季初の注意報 — 昨年より約1か月早く全国で拡大",
+      "url": "https://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/r1houdoukansentantou/202610influtyuuihou.html",
+      "source": "栃木県衛生当局"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "プルデンシャル生命に10月13日から業務停止命令 — 不正金銭授受で月曜から新規契約停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54553",
+      "source": "NHKニュース"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "スカイチケットに不正アクセス — 銀行口座情報含む個人情報が流出",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2146225.html",
+      "source": "Internet Watch"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "秋ドラマ開幕週 — 救命24時が13年ぶり復活(10/12)、いろはの恋は時代をかける(10/13)が一斉スタート",
+      "url": "https://realsound.jp/movie/2026/09/post-2535977.html",
+      "source": "Real Sound"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "サイバーパンク: エッジランナーズ2 Netflix 10/20配信 — TRIGGER制作・全10話・登場人物一新",
+      "url": "https://kai-you.net/article/96317",
+      "source": "KAI-YOU"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "薬屋のひとりごと 第3期 10月2日スタート — 主題歌はヨルシカ、12月に劇場版も",
+      "url": "https://www.oricon.co.jp/anime/1168/",
+      "source": "ORICON NEWS"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "相棒season25 水谷豊復帰で10月21日初回拡大SP",
+      "url": "https://www.sakigake.jp/news/article/20260916OR0157/",
+      "source": "ORICON NEWS"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "Netflix「エデンの東」グローバル英語TVランキング1位、650万回視聴突破",
+      "url": "https://www.whats-on-netflix.com/news/east-of-eden-netflix-release-date-florence-pugh-first-look/",
+      "source": "What's on Netflix"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "メイドインアビス 劇場シリーズ第1部「目覚める神秘」10月23日公開",
+      "url": "https://www.at-s.com/media/movie/miabyss/part1/",
+      "source": "at-s.com"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "DD2ダークアリズン 発売翌日 各メディアレビュー総評 — RPGFan 95点・Push Square 9/10「本編を完全体にした」",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+      "source": "Nintendo Life / Game*Spark"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "Fujikina Cologne 2026 本日開幕 + X-T6が11月発表へ？複数筋から新情報",
+      "url": "https://www.photoscala.de/2026/09/25/fujikina-cologne-2026-zwei-tage-voller-fotografie-ideen-und-inspiration/",
+      "source": "photoscala.de / デジカメinfo"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "FFレゾナンス ファイナルトレーラー公開 — 10/22発売直前、セフィロス登場で最終確認",
+      "url": "https://jp.finalfantasy.com/news/6140",
+      "source": "FINAL FANTASY 公式"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "OM SYSTEM PEN 10月30日国内発売確定 — 予約殺到で一部は2027年春以降の納期へ",
+      "url": "https://dclife.jp/",
+      "source": "Digital Camera Life"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "Switch 2の10月が豊作 — DD2・FFレゾナンス・テイルズ エターニアなど12本",
+      "url": "https://gamerant.com/switch-2-games-coming-out-soon-october-2026-list/",
+      "source": "Game Rant"
+    },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "「クラウドが燃えた日」— IDCFランサムウェア攻撃がフロントエンドエンジニアに突きつけること",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146693.html",
+      "serendipity_reason": "IDCFクラウドへのランサムウェア攻撃で495社・自治体のデータが取り出せなくなった。これを「インフラ/バックエンドの問題」として片づけていないか、自分に問い直してほしい。フロントエンドエンジニアが設計するエラーハンドリング・フォールバック画面・データ取得のリトライロジック——これらは「サービスが完全に落ちた時」に初めてその設計の良し悪しが問われる。495社の顧客サービスのフロントエンドは今、何を表示しているか。「データが取得できない」という状況をUXレベルで想定した設計になっているか。災害時に備えるのはインフラチームだけの仕事ではない。"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "「社内で言えなかったことを外で声にする」— OpenAI安全研究者解雇とエンタメ業界の変革が重なる",
+      "url": "https://cryptobriefing.com/fired-openai-safety-researchers-open-letter/",
+      "serendipity_reason": "OpenAIの安全研究者が「社内で正当な手順で懸念を提起した」と主張しながら解雇され、外部から公開書簡で声を上げた。この「内部変革を試みたが通らず、外部から問題提起する」という構造は、エンタメ業界が2020年代前半に経験したことと重なる。内部から声を上げた人と、外に出て声を上げた人、どちらが「業界を変えたか」は一概には言えない——おそらく両方必要だった。AI業界は今まさにその「外部からの声が届く仕組み」を作ろうとしている途中にある。エンタメ業界で働く視点から見ると、この構造はよく見えるはずだ。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "Anthropic Claude Frontier Academy設立（過去7日掲載済みURL）", "url": "https://www.anthropic.com/news/claude-frontier-academy", "reason": "過去7日以内にURLが登場済み" },
+    { "category": "tech", "title": "Angular 22.2.0 TypeScript 6対応（arc.dev記事）", "url": "https://arc.dev/employer-blog/angular-latest-version-your-friendly-guide-to-new-features-and-updates-in-2026/", "reason": "過去7日以内に掲載済みURL" },
+    { "category": "tech", "title": "フロントエンドカンファレンス関西2026", "url": "https://2026.frontend-conf.osaka.jp/", "reason": "過去7日以内に掲載済みURL" },
+    { "category": "tech", "title": "フロントエンドニュース2026年10月号", "url": "https://tech.itandi.co.jp/entry/2026/09/17/180153", "reason": "月次まとめのため速報性低く他に配分" },
+    { "category": "tech", "title": "Frontend Nation 2026の発表", "url": "https://zenn.dev/abalol/articles/1f067e7346d185", "reason": "前半のカンファレンスレポートのため速報性低く除外" },
+    { "category": "tech", "title": "AI Newsまとめ Qiita 2026-10-09", "url": "https://qiita.com/aakan/items/6a4cb903f68e51f69df3", "reason": "まとめ記事のため個別記事を優先" },
+    { "category": "tech", "title": "This Week in AI 2026年10月第1週", "url": "https://www.microcenter.com/site/mc-news/article/this-week-in-ai-oct-2-2026.aspx", "reason": "英語週次まとめのため個別ニュースを優先" },
+    { "category": "news", "title": "臨時国会所信表明（policynews.jp）", "url": "https://www.policynews.jp/schedule/2026/0010.html", "reason": "消費税法案記事に内容統合" },
+    { "category": "news", "title": "企業倒産2026年度上半期5373件", "url": "https://kumanichi.com/articles/2044472", "reason": "人手不足倒産記事と同URLのため統合" },
+    { "category": "news", "title": "大阪だんじり祭り死亡事故", "url": "https://news.web.nhk/newsweb/genre/society", "reason": "地域社会ニュースのため配信優先度低く除外" },
+    { "category": "news", "title": "高知県会員サイト個人情報漏えい", "url": "https://news.web.nhk/newsweb/genre/society", "reason": "スカイチケット記事でサイバーセキュリティ流出を代表として掲載" },
+    { "category": "news", "title": "NHK紅白司会者発表（芦田愛菜等）", "url": "https://www.nhk.or.jp/kouhaku/", "reason": "ニュース枠調整で除外" },
+    { "category": "news", "title": "プロ野球クライマックスシリーズ開幕", "url": "https://npb.jp/news/detail/20260908_03.html", "reason": "スポーツニュースは関心優先度が明示されていないため除外" },
+    { "category": "news", "title": "米ICC制裁に日本首相「深く懸念」", "url": "https://www.nippon.com/ja/news/yjj2026100700867/", "reason": "重要国際ニュースだがニュース枠の本数調整で除外" },
+    { "category": "entertainment", "title": "アオのハコ Season2", "url": "https://dengekionline.com/article/202609/86287", "reason": "過去7日以内に掲載済みURL" },
+    { "category": "entertainment", "title": "Mrs. GREEN APPLE 大森元貴TBSドラマ初出演", "url": "https://www.thefirsttimes.jp/?p=877464", "reason": "秋ドラマ開幕記事に統合済み" },
+    { "category": "entertainment", "title": "2026年秋アニメ全体まとめ97作品", "url": "https://ciatr.jp/topics/339315", "reason": "薬屋等個別記事を優先" },
+    { "category": "entertainment", "title": "魔法騎士レイアース30年ぶり新作", "url": "https://mechacomic.jp/free/mechamaga/news/184800", "reason": "エンタメ枠の本数調整で除外" },
+    { "category": "entertainment", "title": "バズリズム LIVE 2026 フルラインナップ確定", "url": "https://www.thefirsttimes.jp/?p=875998", "reason": "エンタメ枠の本数調整で除外" },
+    { "category": "entertainment", "title": "米津玄師 2026 TOUR / GHOST アリーナツアー発表", "url": "https://www.thefirsttimes.jp/news/0000840280/", "reason": "エンタメ枠の本数調整で除外" },
+    { "category": "entertainment", "title": "米津玄師「夜鷹」映画キングダム主題歌", "url": "https://www.fashion-press.net/news/146775", "reason": "7月公開済み映画情報のため速報性低く除外" },
+    { "category": "hobby", "title": "らんま1/2 第3期（7月の記事）", "url": "https://animeanime.jp/article/2026/07/27/101499.html", "reason": "エンタメ枠として掲載済み。趣味枠では不要" },
+    { "category": "hobby", "title": "DD2ダークアリズン日本語レビュー（はてなブログ）", "url": "https://cofure.hatenablog.com/entry/2026/10/09/074309", "reason": "Nintendo Life / Game*Sparkのまとめ記事に統合済み" },
+    { "category": "hobby", "title": "Dragon's Dogma 2: Dark Arisen Review（Gfinity）", "url": "https://www.gfinityesports.com/article/dragons-dogma-2-dark-arisen-review-the-definitive-way-to-enjoy-a-must-play", "reason": "まとめ記事に統合済み" },
+    { "category": "hobby", "title": "X-T6 11月発表（mirrorless-camera.info）", "url": "https://mirrorless-camera.info/rumor/fujifilm-rumor/58241.html", "reason": "デジカメinfo記事と内容重複のためFujikina記事に統合済み" },
+    { "category": "hobby", "title": "OM SYSTEM PEN（lapaasvoice.com）", "url": "https://lapaasvoice.com/om-system-pen-camera-launch/", "reason": "過去7日以内に掲載済みURL" },
+    { "category": "hobby", "title": "Canon EOS R8 Mark II 10月29日発売", "url": "https://joy-camera.com/camera-new-release/", "reason": "OM SYSTEM PENとカメラ枠を調整し除外" },
+    { "category": "hobby", "title": "10月発売Switch/Switch2新作まとめ（ファミ通）", "url": "https://www.famitsu.com/article/202610/90257", "reason": "Game Rantの記事と内容重複のため1本に統合" },
+    { "category": "hobby", "title": "FFレゾナンス体験版レビュー（GameWith）", "url": "https://gamewith.jp/gamedb/17256/articles/64121", "reason": "ファイナルトレーラー記事に統合済み" },
+    { "category": "hobby", "title": "ISETANカレーフェス2026", "url": "https://www.mistore.jp/shopping/feature/foods_f1/curryfes_f.html", "reason": "8月開催の終了済みイベントのため除外" },
+    { "category": "hobby", "title": "2026年カレートレンド予測（OCEANS）", "url": "https://oceans.tokyo.jp/tag/detail/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9", "reason": "relevance: lowのため除外" }
+  ],
+  "article_counts": {
+    "large": 5,
+    "medium": 10,
+    "small": 11,
+    "serendipity": 2,
+    "total": 28
+  }
+}
