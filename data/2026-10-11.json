@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-11",
+  "notion_page_id": "3f6a41a3-cf9b-8199-9e9c-df5a99f6521b",
+  "generated_at": "2026-10-11",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "Angular 22 Signal-First Era —— Signal Forms × Zoneless 完全移行解説",
+      "url": "https://medium.com/@marcomatto/angular-22-embracing-the-signal-first-era-b1c8803acea6",
+      "source": "Medium / DEV Community / ANGULARarchitects"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "AI規制の国際転換点 2026年10月 —— EU AI Act施行・UN対立・米議会法案が一斉に動く",
+      "url": "https://insideaipolicy.com/",
+      "source": "Inside AI Policy / Gulf News / Al Jazeera / Bloomberg"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "ViteConf 2026（10月15日）+ Vite+ 正式発表 —— Rolldownベースのユニファイドツールチェーン",
+      "url": "https://byteiota.com/viteconf-2026-what-evan-you-will-drop-on-october-15/",
+      "source": "ByteIota / VoidZero"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "フロントエンドカンファレンス関西2026 本日開催（グランフロント大阪）",
+      "url": "https://fortee.jp/fec-kansai-2026",
+      "source": "fortee.jp"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Angular 22.2.1パッチリリース（9月30日）",
+      "url": "https://versionlog.com/angular/",
+      "source": "VersionLog"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "TypeScript 2026現状 —— Go-basedコンパイラ移行完了・Node.js組み込みサポート安定",
+      "url": "https://devnewsletter.com/p/state-of-typescript-2026/",
+      "source": "Dev Newsletter"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Claude Sonnet 5.5リリース —— Opus 5.5に迫る性能・速度30%向上",
+      "url": "https://theaicareerlab.com/blog/claude-sonnet-5-5-for-professionals-2026",
+      "source": "The AI Career Lab"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "サウジアラビア国際空港がフーシ派ミサイル攻撃 —— 12人死亡・300人超負傷",
+      "url": "https://www.jiji.com/jc/article?k=2026101100146&g=int",
+      "source": "時事通信 / 熊本日日新聞"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "ノーベル平和賞2026発表 —— トランプ大統領が「不名誉」と批判",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57073",
+      "source": "NHK"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "食品値上げ10月3,153品目 —— 原油高・円安で家計を直撃",
+      "url": "https://bernama.com/en/news.php?id=2613689",
+      "source": "ベルナマ通信（共同）"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "高市首相 簗農相続投 —— 道路予算削減発言問題",
+      "url": "https://kumanichi.com/articles/2044436",
+      "source": "熊本日日新聞（共同通信）"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "ウクライナ プーチン誕生日合わせの大規模攻撃",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56090",
+      "source": "NHK"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "新聞購読率 初の5割割れ —— 高市内閣支持率も調査",
+      "url": "https://www.jiji.com/jc/article?k=2026101100107&g=soc",
+      "source": "時事通信"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "IMF・世界銀行年次総会 バンコクで開幕（10/12〜）",
+      "url": "https://www.imf.org/en/meetings/2026/annual",
+      "source": "IMF公式"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "救命病棟24時 13年ぶり復活 —— 江口洋介×松嶋菜々子 明日(10/12)スタート",
+      "url": "https://realsound.jp/movie/2026/09/post-2517848.html",
+      "source": "Real Sound"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "石原さとみ×野木亜紀子 8年ぶりタッグ 秋ドラマ『ポリティカルパン』",
+      "url": "https://ciatr.jp/topics/339089",
+      "source": "ciatr"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "VIVANT続編 第19話SNS大反響 —— 2クール目も高エンゲージメント継続",
+      "url": "https://mantan-web.jp/matome/26%E5%B9%B4%E7%A7%8B%E3%83%89%E3%83%A9%E3%83%9E/",
+      "source": "まんたんウェブ"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "横浜流星 TBSサスペンス『LOST10』秋クールスタート",
+      "url": "https://www.oricon.co.jp/drama/2026_autumn/",
+      "source": "Oricon"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "京都音楽博覧会 くるり主催 本日最終日 —— マカロニえんぴつ・宮本浩次出演",
+      "url": "https://festival-life.com/167997",
+      "source": "Festival Life"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "オリコン週間デジタルシングル 10/12付最新チャート —— Eve「AIYOU」初登場",
+      "url": "https://www.oricon.co.jp/music/rankinglab/dis/2026-10-12/",
+      "source": "Oricon"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "Canon EOS R8 Mark II 10月20日発売 —— IBIS搭載の最軽量フルサイズミラーレス",
+      "url": "https://www.redsharknews.com/canon-eos-r8-mark-ii-specs-price-release-date",
+      "source": "RedShark News / Digital Camera World"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "Tales of Eternia Remastered 今週（10/15-16）発売 —— Switch 2対応RPGリマスター",
+      "url": "https://www.rpgsite.net/news/20605-tales-of-eternia-remastered-launches-on-october-16-for-ps5-ps4-xbox-switch-switch-2-and-steam",
+      "source": "RPGSite"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "OM SYSTEM PEN 10月30日発売確定 —— 14万8,500円・予約殺到で出荷遅延も",
+      "url": "https://www.bcnretail.com/news/detail/20261008_666684.html",
+      "source": "BCN Retail"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "Fujifilm X-T6 11月発表へ延期確定 —— コンポーネント不足でX-T5後継機の動向",
+      "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-reportedly-postponed-and-may-not-arrive-this-year-at-all/",
+      "source": "Camera Jabber"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "Nintendo Switch Sports Resort 10/22発売 最終プレビュー —— 12競技で高評価",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
+      "source": "Nintendo Life"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "印度カリー子『スパイスとカレー入門』増補改訂版 —— 全60品収録、ビリヤニ等追加",
+      "url": "https://www.maruzenjunkudo.co.jp/products/9784768331552",
+      "source": "丸善ジュンク堂"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "Switch 2の10月 全リリースカレンダー —— 40タイトル以上が発売予定",
+      "url": "https://bestcalendar.jp/release/switch2/2026/10",
+      "source": "ベストカレンダー"
+    },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "フーシ派が空港を攻撃した日、あなたのコードは何を表示していたか",
+      "url": "https://www.jiji.com/jc/article?k=2026101100146&g=int",
+      "serendipity_reason": "フーシ派のリヤド攻撃後、原油価格は即日上昇し中東各地の航空便が欠航した。エンタメ業界ではイベント開催コストに占める物流・エネルギー費用の割合が増え、海外ロケや大型コンサートの採算ラインが変わる。IDCFランサムウェア攻撃がデジタルインフラへの攻撃だとすれば、今日は物理インフラへの攻撃だ。エンジニアとして『自分のシステムが依存しているインフラ』をどこまで可視化できているか、改めて問い直す日として記憶しておきたい。preferences.yamlの深掘りトピック「イラン情勢・エネルギー市場」に直結。"
+    },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "新聞が半分以下になった国で、エンタメ企業はどう情報を届けるか",
+      "url": "https://www.jiji.com/jc/article?k=2026101100107&g=soc",
+      "serendipity_reason": "日本の新聞購読率が初めて5割を割った。劇場・コンサート・ドラマのプロモーションは今や紙の新聞広告からSNS・YouTube・TikTokへ移行している。しかし『SNSが届かない人』への接触経路が急速に失われている。特に50代以上の文化的消費者層がイベントを知るきっかけが減る問題は、エンタメ業界のマーケティング戦略に直接影響する。『バズらなければ知られない』という状況が、コンテンツの企画段階から『バズりやすさ』を優先させる圧力になっていないか。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "Signal Forms vs Reactive Forms: Angular 22でいつアップグレードすべきか", "url": "https://dev.to/abdelaaziz_ouakala/signal-forms-vs-reactive-forms-when-should-you-upgrade-your-forms-angular-22-guide-3cmh", "reason": "Large記事「Angular 22 Signal-First Era」に統合" },
+    { "category": "tech", "title": "Angular 21 振り返り: Signal Forms・Zoneless・Vitest・MCPサーバー完全解説", "url": "https://www.angulararchitects.io/blog/whats-new-in-angular-21-signal-forms-zone-less-vitest-angular-aria-cli-with-mcp-server/", "reason": "Large記事に統合。Angular 21は前バージョンのため速報性低い" },
+    { "category": "tech", "title": "Vite+ 正式発表: Rolldownベースのユニファイドツールチェーン", "url": "https://main.vitejs.dev/blog", "reason": "ViteConf 2026記事に統合" },
+    { "category": "tech", "title": "フロントエンド開発2026年総括: Reactシェア44.7%首位維持", "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first", "reason": "テック枠調整のため除外。Angularユーザーとしての直接関連度がやや低い" },
+    { "category": "tech", "title": "Node.js 26 LTS移行（10月28日予定）: Temporal API・年次リリースモデル", "url": "https://www.devx.com/coding/nodejs-26-lts-new-features-release-date/", "reason": "テック枠調整のため除外。発売日が10月28日と先のため今週の速報性低い" },
+    { "category": "tech", "title": "Trump政権、AI規制法より賠償責任法適用を推進", "url": "https://bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue", "reason": "Large記事「AI規制の国際転換点」に統合" },
+    { "category": "tech", "title": "UN総会でAI「超知能」安全規制をめぐる国際対立", "url": "https://gulfnews.com/technology/trump-renames-ai-super-intelligence-at-un-assembly-as-leaders-jostle-over-dangers-1.500684131", "reason": "Large記事「AI規制の国際転換点」に統合" },
+    { "category": "tech", "title": "米議会AI超知能禁止法案（Sanders/Casar）提出", "url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings", "reason": "Large記事「AI規制の国際転換点」に統合" },
+    { "category": "tech", "title": "EU AI Act、汎用AIモデルへの義務を2026年8月から強制適用開始", "url": "https://insideaipolicy.com/", "reason": "Large記事「AI規制の国際転換点」の本文URLとして使用" },
+    { "category": "news", "title": "サウジ空港で旅客機が火災 フーシ派がミサイル攻撃を主張", "url": "https://kumanichi.com/articles/2044757", "reason": "Large記事「サウジアラビア国際空港攻撃」に統合" },
+    { "category": "news", "title": "フーシ派、サウジを連日攻撃 石油関連施設も標的", "url": "https://kumanichi.com/articles/2043059", "reason": "Large記事「サウジアラビア国際空港攻撃」に統合" },
+    { "category": "news", "title": "米国のICC制裁に超党派議連や各国が即時撤回要求", "url": "https://hrn.or.jp/news/29397/", "reason": "ニュース枠の本数調整で除外。重要だが国内への影響度がやや低い" },
+    { "category": "news", "title": "維新代表、簗農相に苦言", "url": "https://kumanichi.com/articles/2044866", "reason": "簗農相問題の小記事に統合" },
+    { "category": "news", "title": "農相、道路予算削減発言を認める 辞任せず", "url": "https://www.sakigake.jp/news/article/20261002CO0146/", "reason": "簗農相問題の小記事に統合" },
+    { "category": "news", "title": "プロ野球CS・セ DeNAが巨人に2連勝でファイナルステージ進出", "url": "https://www.kanaloco.jp/sports/baseball/baystars/article-1310338.html", "reason": "スポーツニュースは関心優先度が明示されていないため除外" },
+    { "category": "news", "title": "相模原の高2殺害疑い 4少年を殺人容疑で再逮捕", "url": "https://kumanichi.com/articles/2037972", "reason": "社会事件は優先度低く除外" },
+    { "category": "news", "title": "NHK Pickup NEWS 10月11日の主要ニュースダイジェスト", "url": "https://news.web.nhk/newsweb/na/nd-20261010de57622", "reason": "メタ集約記事のため個別記事を優先" },
+    { "category": "entertainment", "title": "【2026年10月】秋アニメ大本命集結", "url": "https://www.famitsu.com/article/202609/89441", "reason": "エンタメ枠調整。昨日の朝刊でアニメ情報は十分掲載済み" },
+    { "category": "entertainment", "title": "秋アニメ2026 一覧 全67作品（Oricon）", "url": "https://www.oricon.co.jp/anime/2026_autumn/", "reason": "過去7日の類似記事と内容重複" },
+    { "category": "entertainment", "title": "dアニメストア2026年秋アニメ配信ラインナップ", "url": "https://animestore.docomo.ne.jp/animestore/CF/fall", "reason": "配信情報まとめのため除外" },
+    { "category": "entertainment", "title": "2026年10月 アニメ関連の海外の反応まとめ", "url": "https://hannoumatome.com/blog-entry-1611.html", "reason": "まとめ集約記事のため除外" },
+    { "category": "entertainment", "title": "秋ドラマ2026まとめ（クランクイン）", "url": "https://www.crank-in.net/drama/autumn2026", "reason": "ジェネリックアグリゲーター記事のため個別記事を優先" },
+    { "category": "entertainment", "title": "2026年10月公開予定の映画41作品", "url": "https://press.moviewalker.jp/list/coming/2026/10/", "reason": "エンタメ枠調整。映画情報は一覧まとめよりも個別作品を優先" },
+    { "category": "entertainment", "title": "【2026年10月以降】K-POPカムバック最新情報", "url": "https://note.com/zeno_1118/n/n92e01c2ac187", "reason": "K-POPは明示的な関心トピックでないため除外" },
+    { "category": "entertainment", "title": "2026年10月新譜リリースアーティスト情報", "url": "https://news.radiko.jp/article/edit/139714/", "reason": "エンタメ枠の本数調整で除外" },
+    { "category": "entertainment", "title": "ドラマ主題歌【2026年秋 10月期】タイアップ曲", "url": "https://www.hmv.co.jp/news/article/2001071008/", "reason": "エンタメ枠の本数調整で除外" },
+    { "category": "hobby", "title": "OM SYSTEM PEN Preview: EVF内蔵・防塵防滴", "url": "https://onecameraonelens.com/2026/09/09/om-systems-pen-a-preview-of-an-exciting-new-camera/", "reason": "BCN Retail記事（発売確定の最新情報）に統合" },
+    { "category": "hobby", "title": "Canon EOS R8 Mark II：レトロ外観と32.5MPで話題沸騰", "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canons-next-launch-is-a-retro-camera-powered-by-its-new-32-5mp-sensor-and-ive-already-got-my-credit-card-ready", "reason": "RedShark News記事に統合済み" },
+    { "category": "hobby", "title": "Fujifilm X-T6 Rumors: 仕様・発売日・価格の最新まとめ", "url": "https://www.photographytalk.com/fujifilm-x-t6-rumors/", "reason": "Camera Jabber記事に統合済み" },
+    { "category": "hobby", "title": "2026年9月のカメラ・レンズ新製品発表まとめ", "url": "https://www.minnacamera.com/mags/6364", "reason": "9月まとめのため速報性低く除外" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort 最終プレビュー（Shacknews）", "url": "https://www.shacknews.com/article/149558/nintendo-switch-sports-resort-reveal-release-date", "reason": "Nintendo Life記事に統合" },
+    { "category": "hobby", "title": "Nintendo Switch 2の2026年10月発売ソフト一覧（ベストカレンダー）", "url": "https://bestcalendar.jp/release/switch2/2026/10", "reason": "小記事として採用済み" },
+    { "category": "hobby", "title": "Nintendo Direct 2026.6.9まとめ（GIGAZINE）", "url": "https://gigazine.net/news/20260610-nintendo-direct-2026-6-9/", "reason": "6月の古い記事のため除外" },
+    { "category": "hobby", "title": "本格スパイスカレーレシピ特集24選（デリッシュキッチン）", "url": "https://delishkitchen.tv/curations/7277", "reason": "1月更新のキュレーション記事で速報性低く除外" },
+    { "category": "hobby", "title": "お家で作る本格スパイスカレー教室（Walker Plus）", "url": "https://summer.walkerplus.com/odekake/detail_e/ar0312e593455/", "reason": "地域限定・低relevanceのため除外" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 8,
+    "small": 13,
+    "serendipity": 2,
+    "total": 26
+  }
+}
