@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-12",
+  "notion_page_id": "3f7a41a3-cf9b-81c8-a2df-cbb830d04762",
+  "generated_at": "2026-10-12",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "AIエージェント「常時起動」競争 — OpenAI Dots × Google Gemini Coworkerが同時発表",
+      "url": "https://letsdatascience.com/news/openai-introduces-dots-always-on-ai-agents-at-devday-2026-2ced4872",
+      "source": "letsdatascience / Scalevise / Analytics Insight / AI Weekly"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "Angular 22 Signal-first実装ガイド — StableになったAPIと段階移行の現実解",
+      "url": "https://developer.mescius.com/blogs/whats-new-in-angular-22",
+      "source": "MESCIUS Developer Blog / Bacancy Technology / bytes.dev"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "消費税8%→1%法案を閣議決定 — 消費税導入以来36年間で初の引き下げ",
+      "url": "https://kumanichi.com/articles/2044798",
+      "source": "熊本日日新聞（共同通信）"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Claude Haiku 5.5リリース — 前世代比コスト75%削減・エフォート制御初搭載",
+      "url": "https://gori.me/it/171039",
+      "source": "gori.me"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "IMF・世界銀行年次総会 バンコクで本日開幕 — 191カ国1万5000人、35年ぶりのタイ開催",
+      "url": "https://www.imf.org/en/news/seminars/campaigns/2026/10/thailand-2026",
+      "source": "IMF公式"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "米ロ首脳、エネルギー施設への攻撃停止で合意 — ウクライナ全面停戦には至らず",
+      "url": "https://www.afpbb.com/articles/-/3568391",
+      "source": "AFP BB News"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "救命病棟24時 第6シリーズ 本日（10/12）フジ月9スタート — 13年ぶり復活の初回",
+      "url": "https://www.crank-in.net/news/190229/2",
+      "source": "crank-in.net"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "日韓香港国際共同制作『kiDnap GAME』— 坂口健太郎×イ・ジュンギW主演、18カ国地域で同時配信",
+      "url": "https://www.sakigake.jp/news/article/20261003OR0141/",
+      "source": "秋田魁新報（オリコン）"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "薬屋のひとりごと 第3期 × 12月劇場版の同時展開 — IPの多角活用事例",
+      "url": "https://animeanime.jp/article/2026/10/03/103462.html",
+      "source": "アニメアニメ！"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "OM System PEN TechRadarフルレビュー — 「スマホから乗り換え最適」の1ヶ月使用評価",
+      "url": "https://www.techradar.com/cameras/mirrorless-cameras/om-system-pen-review",
+      "source": "TechRadar"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "テイルズオブエターニア リマスター 今週（10/16）全世界同時発売 — プレビュー高評価",
+      "url": "https://www.rpgsite.net/preview/21490-tales-eternia-remastered-seems-to-understand-assignment",
+      "source": "RPGSite"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Angular Signals in 2026: アーキテクチャパターン網羅ガイド",
+      "url": "https://dev.to/amankhan55/angular-signals-in-2026-from-fundamentals-to-architect-level-patterns-55l5",
+      "source": "DEV Community"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Angular 21でZonelessがデフォルト化した経緯と現状",
+      "url": "https://ecorpit.com/angular-21-zoneless-signal-forms-mcp-2026/",
+      "source": "ecorpit.com"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "ガザ停戦から約1年 — 攻撃継続で死者1,400人超・復興の見通し立たず",
+      "url": "https://www.jcp.or.jp/akahata/aik26/2026-10-09/2026100902_01_0.php",
+      "source": "しんぶん赤旗"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "北朝鮮が弾道ミサイル発射（10/3）— 日本EEZ外落下",
+      "url": "https://www.sakigake.jp/news/article/20261003CO0025/?nv=spe",
+      "source": "秋田魁新報（共同通信）"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "出雲全日本大学選抜駅伝 本日開催（体育の日）",
+      "url": "https://www.waseda.jp/inst/athletic/?p=61791",
+      "source": "早稲田大学競技スポーツセンター"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "CLAMP『魔法騎士レイアース』約30年ぶり新アニメ化",
+      "url": "https://www.famitsu.com/article/202603/70027",
+      "source": "ファミ通"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "東京リベンジャーズ第4期「三天戦争編」JO1 OPで10/2スタート",
+      "url": "https://animeanime.jp/article/2026/10/06/103558.html",
+      "source": "アニメアニメ！"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "らんま1/2第3期 MAPPA制作×Netflix独占配信スタート",
+      "url": "https://animeanime.jp/article/2026/06/19/100213.html",
+      "source": "アニメアニメ！"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "Nintendo Switch Sports Resort（10/22）最新プレビュー高評価",
+      "url": "https://www.techradar.com/gaming/nintendo-switch/nintendo-switch-sports-resort-is-a-sun-drenched-return-to-form",
+      "source": "TechRadar"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "Fujifilm X-T6 年内発売が不透明に",
+      "url": "https://www.fujirumors.com/fujiflm-x-t6-delay-ending-the-confusion-and-time-for-a-change/",
+      "source": "Fuji Rumors"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "スパイスカレー FUJIYA 西宮今津に移転オープン",
+      "url": "https://zaikei.co.jp/releases/2802580/",
+      "source": "財経新聞"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "体育の日×AIエージェント常時起動 — エンジニアは何で汗をかくべきか",
+      "url": "https://scalevise.com/resources/openai-dots-gpt-6-astra-persistent-ai-agents/",
+      "serendipity_reason": "今日は体育の日。出雲駅伝が開催され身体を動かす意味が問われる日に、AIが「常時起動」で仕事をこなす時代が始まった。OpenAI DotsとGemini Coworkerが自律的に働くなら、エンジニアに残る仕事は何か。ルーティン的なコードはAIに委譲が進む一方、「何を作るかを決める」センスの仕事は人間に残る。身体を動かすことが最高の投資になるかもしれない日。"
+    },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "消費税1%の静かな衝撃 — エンタメ課金ビジネスへの試算",
+      "url": "https://kumanichi.com/articles/2044798",
+      "serendipity_reason": "消費税引き下げのニュースは「食品の節約」として報道されるが、エンタメ業界に勤める視点から見ると別の景色が広がる。食費が月数千円節約できれば余剰予算がコンテンツ消費に回る可能性がある。2029年の時限切れ後の「実質値上げ」を前提とした消費者心理の変化は、サブスク型コンテンツビジネスの解約率にも影響しうる。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "Google Cloud Gemini Agent With Gmail/Calendar/Drive", "url": "https://aiweekly.co/alerts/google-cloud-unveils-universal-gemini-agent-with-its-own-gmail-calendar-and", "reason": "Gemini Coworker大記事に統合" },
+    { "category": "tech", "title": "OpenAI Dots and GPT-6 Astra Signal Shift", "url": "https://scalevise.com/resources/openai-dots-gpt-6-astra-persistent-ai-agents/", "reason": "セレンディピティ枠として採用" },
+    { "category": "tech", "title": "Angular 22 Complete Guide Bacancy", "url": "https://www.bacancytechnology.com/blog/angular-22", "reason": "Angular大記事に統合" },
+    { "category": "tech", "title": "Angular Signal-first bytes.dev", "url": "https://bytes.dev/archives/494", "reason": "Angular大記事に統合" },
+    { "category": "tech", "title": "Anthropic Cyber Mission", "url": "https://www.anthropic.com/news/anthropic-cyber-mission", "reason": "過去7日掲載済みURL" },
+    { "category": "tech", "title": "Anthropic 2026 Usage Policy", "url": "https://www.anthropic.com/news/2026-usage-policy-update", "reason": "過去7日掲載済みURL" },
+    { "category": "tech", "title": "Claude Frontier Academy", "url": "https://www.anthropic.com/news/claude-frontier-academy", "reason": "過去7日掲載済みURL" },
+    { "category": "tech", "title": "Anthropic Cyber Verification Program", "url": "https://www.anthropic.com/news/cyber-verification-program", "reason": "過去7日掲載済みURL" },
+    { "category": "tech", "title": "Anthropic Genesis Mission", "url": "https://www.anthropic.com/news/genesis-mission-commitment", "reason": "過去7日掲載済みURL" },
+    { "category": "news", "title": "サウジ空港旅客機火災（kumanichi 2044757）", "url": "https://kumanichi.com/articles/2044757", "reason": "過去7日掲載済みURL" },
+    { "category": "news", "title": "フーシ派連日攻撃（kumanichi 2043059）", "url": "https://kumanichi.com/articles/2043059", "reason": "過去7日掲載済みURL" },
+    { "category": "news", "title": "サウジ攻撃3人死亡", "url": "https://kumanichi.com/articles/2044305", "reason": "昨日の大記事「サウジ空港攻撃」の続報として統合" },
+    { "category": "news", "title": "外務省サウジ危険情報更新", "url": "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C048.html", "reason": "ニュース枠調整のため除外" },
+    { "category": "news", "title": "高市首相経済成長発言", "url": "https://www.newsquawk.com/headlines/japanese-pm-takaichi-says-will-pursue-economic-growth-relentlessly", "reason": "ニュース枠調整のため除外" },
+    { "category": "news", "title": "2026年熊本地震復旧要望", "url": "https://kumanichi.com/articles/2026484", "reason": "ニュース枠調整のため除外" },
+    { "category": "news", "title": "パ・リーグCS", "url": "https://npb.jp/games/2026/info_cs.html", "reason": "スポーツは優先度低く除外" },
+    { "category": "news", "title": "タイIMF総会準備", "url": "https://kyodonewsprwire.jp/release/202603316699", "reason": "IMF本会議記事に統合" },
+    { "category": "entertainment", "title": "秋アニメ97作品ciatr", "url": "https://ciatr.jp/topics/339315", "reason": "過去7日掲載済みURL" },
+    { "category": "entertainment", "title": "ポリティカルパン高橋一生追加", "url": "https://realsound.jp/movie/2026/08/post-2503577.html", "reason": "エンタメ枠調整のため除外" },
+    { "category": "entertainment", "title": "メリーベリーラブ日韓共同制作", "url": "https://thetv.jp/program/0001078452/", "reason": "kiDnap GAME記事と重複（国際共同制作テーマ）のため除外" },
+    { "category": "entertainment", "title": "スパイダーマン洋画最高OA", "url": "https://news.livedoor.com/article/detail/31979895/", "reason": "7月の映画で速報性低く除外" },
+    { "category": "entertainment", "title": "薬屋のひとりごと劇場版Pia", "url": "https://lp.p.pia.jp/article/news/440242/index.html", "reason": "薬屋中記事に統合" },
+    { "category": "entertainment", "title": "Aぇ! group 3冠", "url": "https://www.sakigake.jp/news/article/20260623OR0003/", "reason": "6月のデータで速報性なし" },
+    { "category": "entertainment", "title": "らんま1/2追加キャストGamespark", "url": "https://www.gamespark.jp/release/prtimes/20260914/314099.html", "reason": "らんま1/2小記事に統合" },
+    { "category": "hobby", "title": "Tales of Eternia バンダイナムコ公式", "url": "https://en.bandainamcoent.eu/tales-of/news/journey-between-two-worlds-begins-tales-of-eternia-remastered-october", "reason": "過去7日掲載済みURL" },
+    { "category": "hobby", "title": "Nikon Z5IIC Fstoppers", "url": "https://fstoppers.com/gear/nikon-announces-new-z5iic-904727", "reason": "Nikon Z5IIC小記事にPetaPixelレビューを選択" },
+    { "category": "hobby", "title": "OM System PEN Fstoppers", "url": "https://fstoppers.com/gear/om-system-revives-legendary-pen-camera-evf-weather-sealing-and-30-fps-shooting-904517", "reason": "TechRadarフルレビュー記事を優先" },
+    { "category": "hobby", "title": "Canon EOS R8 Mark II DPReview", "url": "https://www.dpreview.com/canon-eos-r8-ii-press-release/", "reason": "昨日の朝刊で大記事として掲載済み（RedSharkNews記事）" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort GeekDad", "url": "https://geekdad.com/2026/10/nintendo-switch-sports-resort-preview/", "reason": "TechRadar記事に統合" },
+    { "category": "hobby", "title": "Switch 2 Sports Resort Bundle", "url": "https://www.digitalcitizen.life/nintendo-switch-2-sports-resort-bundle-launches-october-22-for-529-99/", "reason": "小記事として統合" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort Final Weapon", "url": "https://finalweapon.net/2026/09/02/nintendo-switch-sports-resort-preview/", "reason": "9月の古いプレビューのため除外" },
+    { "category": "hobby", "title": "ジャパニーズカレーフェスティバル2026", "url": "https://www.timeout.jp/tokyo/ja/news/japanese-curry-festival-2026-082126", "reason": "10/4に終了したイベントのため速報性なし" },
+    { "category": "hobby", "title": "草津温泉スパイスカレー専門店", "url": "https://www.sakigake.jp/news/article/20260918PR0050/", "reason": "9月オープンの情報で速報性低く除外" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 8,
+    "small": 10,
+    "serendipity": 2,
+    "total": 23
+  }
+}
