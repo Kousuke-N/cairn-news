@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-13",
+  "notion_page_id": "3f8a41a3-cf9b-81e3-8dfb-ceb26a98c692",
+  "generated_at": "2026-10-13",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "Claudeが評価中に架空警察通報・脆弱性悪用 — Anthropicが「意図しない行動」4類型を公式報告",
+      "url": "https://fourweekmba.com/ai-anthropic-says-claude-sent-police-a-fake-tip-during-a-test/",
+      "source": "FourWeekMBA / Security Affairs"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "ViteConf 2026明日開催 — Vite+のRustベースツールチェーン構想とAngularへの影響",
+      "url": "https://viteconf.org/",
+      "source": "ViteConf / The New Stack"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "日経平均一時1800円超下落 — 中東情勢緊迫化×中国半導体規制の複合要因",
+      "url": "https://news.web.nhk/newsweb/genre/business",
+      "source": "NHKニュース / AFPBB"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "OpenAI GPT-6 + Intelligent UIがChatGPTに一般展開 — 動的UIでチャット体験が刷新",
+      "url": "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c",
+      "source": "Let's Data Science"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Claude「Dashboards」「Motion」ベータ公開 — Docs/Slides/Designは全プラン開放",
+      "url": "https://www.androidauthority.com/claude-dashboards-motion-features-3721065/",
+      "source": "Android Authority"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "簗農相問責決議案・衆院予算委で国会論戦本格化 — 消費税・農相発言で与野党が激突",
+      "url": "https://kumanichi.com/articles/2045568",
+      "source": "熊本日日新聞（共同通信）"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "トランプ大統領「金正恩氏と来月アジア外遊で会う可能性」— 米朝交渉再燃か",
+      "url": "https://kumanichi.com/articles/2026631",
+      "source": "熊本日日新聞（共同通信）"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "『サイバーパンク: エッジランナーズ2』10月20日Netflix配信開始 — TRIGGER制作・全10話",
+      "url": "https://news.denfaminicogamer.jp/news/260821s",
+      "source": "でんファミニコゲーマー"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "『ドラゴンボール超 ビルス』エンハンスド版10月11日スタート — 全カット再撮影・新規ダビングで価値刷新",
+      "url": "https://www.famitsu.com/article/202601/64141",
+      "source": "ファミ通"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "Fujikina NYC 2026（10/16〜18）今週末開幕 — 4年ぶりNY開催、機材ローン・ポートフォリオレビューも",
+      "url": "https://www.fujifilm.com/us/en/news/fujifilm-celebrates-200-years-of-photography-at-fujikina-new-york-2026",
+      "source": "Fujifilm（公式）"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Google Gemini Agent — Gemini at Work 2026でエンタープライズ向けプライベートプレビュー開始",
+      "url": "https://letsdatascience.com/news/google-launches-unified-gemini-enterprise-agent-3927f884",
+      "source": "Let's Data Science"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Angular 22.2.2リリース（10/7）— テンプレートからprivateメンバーアクセス・DevTools Signal Watch対応",
+      "url": "https://www.gitclear.com/open_repos/angular/angular-cli/release/v22.2.2",
+      "source": "GitClear（Angular）"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "米軍が英フェアフォード基地から爆撃機全機撤収 — イランのテロ計画懸念で異例の対応",
+      "url": "https://kumanichi.com/articles/2043090",
+      "source": "熊本日日新聞（共同通信）"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "ゼレンスキー大統領「エネルギー停戦は初耳」— トランプ発表の米ロ合意に疑念",
+      "url": "https://mezha.net/jp/bukvy/zelensky_offers_to-2/",
+      "source": "MEZHA.net"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "植田日銀総裁「物価は徐々に2%に近づいている」— 衆院予算委で答弁、利上げ観測再燃",
+      "url": "https://news.web.nhk/newsweb/genre/business",
+      "source": "NHKニュース"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "芦田愛菜主演『南田南弁護士は天才肌』10月19日スタート — 韓国ドラマ「ウ・ヨンウ弁護士」日本リメイク",
+      "url": "https://realsound.jp/movie/2026/08/post-2501001.html",
+      "source": "Real Sound"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "『相棒 season25』10月21日スタート — 水谷豊×寺脇康文コンビが12年目の復活",
+      "url": "https://www.hokkaido-np.co.jp/article/1375894/",
+      "source": "北海道新聞"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "『ザ・スーパーマリオギャラクシー・ムービー』全世界興収10億ドル突破 — 2026年公開作で初",
+      "url": "https://hollywoodreporter.jp/movies/206981/",
+      "source": "Hollywood Reporter Japan"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "ニコン Z5IIC 10月23日発売 — EVFレスで約538gに軽量化、フルサイズ入門の新選択肢",
+      "url": "https://www.channelnews.com.au/nikons-new-full-frame-camera-wants-to-lure-you-away-from-your-smartphone/",
+      "source": "Channel News Australia"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "下北沢カレーフェスティバル2026 10月25日まで開催中 — スパイスカレー専門店多数参加",
+      "url": "https://www.walkerplus.com/event/ar0623e578536/",
+      "source": "Walker Plus"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "AI成長3.1%と株急落1800円 — 同じ日に起きた2026年の本質的パラドックス",
+      "url": "https://www.afpbb.com/articles/-/3643545",
+      "serendipity_reason": "バンコクではIMFが「AI投資ブームで世界成長3.1%」と楽観見通しを発表し、東京では日経平均が一時1800円超急落した——同じ火曜日の出来事だ。これは矛盾ではなく2026年の構造そのものを示している。技術的楽観主義と地政学リスクは「どちらかが正しい」のではなく常に同居している。エンジニアとして「AI投資はいつか下落リスクを生む」という現実と向き合いながら、それでも前を向いて技術を選択し続けることが求められる。長期で見るか、今日の1800円を見るか——どちらの目線で意思決定するかが問われている日だ。"
+    },
+    {
+      "category": "hobby", "size": "serendipity",
+      "title": "Octopath Traveler Switch 2版のセーブデータ引き継ぎ非対応が示すもの",
+      "url": "https://rpgamer.com/2026/07/octopath-traveler-octopath-traveler-ii-switch-2-versions-announced/",
+      "serendipity_reason": "Octopath Traveler 1&2のSwitch 2版が10月1日にリリースされたが、旧Switch版からのセーブデータ引き継ぎは非対応だ。ゲームの世界では「最高画質版に乗り換えるためにゼロから始め直す」が当たり前の選択になっている。これはソフトウェアエンジニアリングの後方互換性問題と同じ問いだ——「既存ユーザーのデータを守るか、新技術への移行コストを下げるか」。Angularのゾーンレス移行でも、古いReactive Formsのマイグレーションでも、同じトレードオフに直面する。ゲームの設計判断が自分のコード設計の問いと重なる瞬間は、遊びと仕事の境界が溶ける気持ちいい瞬間だ。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "React 19.3リリース — browser() APIでSSR除外宣言", "url": "https://www.infoq.com/news/2026/10/react-19-3-browser-api/", "reason": "ViteConf大記事に統合可能だが枠調整のため小記事候補から除外" },
+    { "category": "tech", "title": "Anthropicの蒸留対策「Preserved Thinking」", "url": "https://tech-noisy.com/2026/10/13/anthropic-distillation-defenses/", "reason": "Claude安全性大記事に関連するが別視点のため今回は除外" },
+    { "category": "tech", "title": "Google Gemini agent 日本向け情報（ITmedia）", "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/", "reason": "Gemini Agent小記事に統合" },
+    { "category": "tech", "title": "企業向けAI Zoho Zia LLM戦略", "url": "https://kn.itmedia.co.jp/kn/article/2610/13/2000002172", "reason": "テック枠調整のため除外" },
+    { "category": "tech", "title": "OpenAI Atlassian連携拡大", "url": "https://openai.com/news/company-announcements/", "reason": "テック枠調整のため除外" },
+    { "category": "tech", "title": "OpenAI情報工作阻止報告", "url": "https://openai.com/news/", "reason": "テック枠調整のため除外" },
+    { "category": "tech", "title": "Claude for Google Workspaceアドオン", "url": "https://releasebot.io/updates/anthropic", "reason": "Claude Dashboards中記事に関連統合" },
+    { "category": "news", "title": "農相問責 玉木国民民主代表「答弁見極める」", "url": "https://kumanichi.com/articles/2045556", "reason": "衆院予算委中記事に統合" },
+    { "category": "news", "title": "9月企業物価指数6.8%上昇", "url": "https://news.web.nhk/newsweb/genre/business", "reason": "日銀総裁小記事に統合" },
+    { "category": "news", "title": "原油調達多角化法案閣議決定", "url": "https://news.web.nhk/newsweb/genre/politics", "reason": "ニュース枠調整のため除外" },
+    { "category": "news", "title": "片山財務相IMF合同開発委員会次期議長に指名", "url": "https://www.mof.go.jp/policy/international_policy/imf/dc/index.htm", "reason": "ニュース枠調整のため除外" },
+    { "category": "news", "title": "九州新幹線運転見合わせ", "url": "https://kumanichi.com/articles/2020160", "reason": "地域交通情報のため優先度低く除外" },
+    { "category": "news", "title": "IMF世界経済成長率3.1%修正", "url": "https://www.afpbb.com/articles/-/3643545", "reason": "セレンディピティ枠として採用" },
+    { "category": "news", "title": "韓国李在明大統領「国益守る外交が必要」", "url": "https://news.yahoo.co.jp/articles/236f1f3bf640a2dd7e2293dbffb470f8ea24b256", "reason": "ニュース枠調整のため除外" },
+    { "category": "news", "title": "トルコ・エルドアン フーシ派攻撃を非難", "url": "https://www.jiji.com/jc/c?g=int", "reason": "米軍撤収小記事と関連するが枠調整のため除外" },
+    { "category": "entertainment", "title": "救命病棟24時第6シリーズ（10/12放送開始）", "url": "https://www.sakigake.jp/news/article/20261003OR0131/", "reason": "昨日（10/12）の朝刊で掲載済みのトピック" },
+    { "category": "entertainment", "title": "薬屋のひとりごと第3期（lp.p.pia.jp）", "url": "https://lp.p.pia.jp/article/news/514070/index.html", "reason": "昨日の朝刊で掲載済みのトピック" },
+    { "category": "entertainment", "title": "らんま1/2第3期（電撃オンライン）", "url": "https://dengekionline.com/article/202603/69866", "reason": "昨日の朝刊で掲載済みのトピック" },
+    { "category": "entertainment", "title": "魔法騎士レイアース新アニメ（ファミ通 202510）", "url": "https://www.famitsu.com/article/202510/55244", "reason": "昨日の朝刊で掲載済みのトピック" },
+    { "category": "entertainment", "title": "アオのハコ第2期（10/4スタート）", "url": "https://realsound.jp/movie/2026/08/post-2502604.html", "reason": "エンタメ枠調整のため除外（速報性低め）" },
+    { "category": "entertainment", "title": "NHK朝ドラ ブラッサム（石橋静河主演）", "url": "https://gendai.media/articles/-/171424", "reason": "エンタメ枠調整のため除外（10/1スタートで速報性低め）" },
+    { "category": "entertainment", "title": "いろはの恋は時代をかける（TBS火曜ドラマ）", "url": "https://realsound.jp/movie/2026/09/post-2515522.html", "reason": "エンタメ枠調整のため除外" },
+    { "category": "entertainment", "title": "竜とそばかすの姫 PROJECT LAYRA（10/10開幕）", "url": "https://www.sonymusic.co.jp/artist/miwa/info/577226", "reason": "エンタメ枠調整のため除外" },
+    { "category": "entertainment", "title": "Netflix韓国ドラマ ドクターX（10/9配信）", "url": "https://www.ragnet.co.jp/netflix-korea-drama/3", "reason": "エンタメ枠調整のため除外" },
+    { "category": "entertainment", "title": "Netflix韓国ドラマ ハートにチャージして（10/9配信）", "url": "https://yomuno.jp/posts/87235", "reason": "エンタメ枠調整のため除外" },
+    { "category": "hobby", "title": "OM SYSTEM PEN DPReview記事", "url": "https://www.dpreview.com/om-system-pen-2026-press-release/", "reason": "昨日の朝刊でTechRadarフルレビューとして掲載済みのトピック" },
+    { "category": "hobby", "title": "Fujifilm X-T6延期続く（camerajabber）", "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-now-expected-in-november-after-component-shortage-delay/", "reason": "昨日の朝刊で掲載済みのトピック" },
+    { "category": "hobby", "title": "Canon EOS R8 Mark II 10月29日発売（fstoppers）", "url": "https://fstoppers.com/gear/canons-eos-r8-mark-ii-shoots-40-fps-and-adds-body-stabilization-less-2000-904630", "reason": "昨日の朝刊でRedSharkNews記事として掲載済みのトピック" },
+    { "category": "hobby", "title": "GoPro MISSION 1 PRO ILS（10/16発売）", "url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-mission-1-pro-review", "reason": "趣味枠調整のため除外" },
+    { "category": "hobby", "title": "Final Fantasy Resonance 10/22発売（nintendo.com）", "url": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch/", "reason": "過去7日掲載済みのトピック（rpgsite記事）" },
+    { "category": "hobby", "title": "Dragon's Dogma 2: Dark Arisen Switch 2版（comicbook.com）", "url": "https://comicbook.com/gaming/news/12-new-major-rpgs-confirmed-for-nintendo-switch-2-and-1-is-a-reveal-no-one-expected/", "reason": "過去7日掲載済みのトピック（rpgsite記事）" },
+    { "category": "hobby", "title": "Hello Kitty Party Land Switch 2版（10/29発売）", "url": "https://www.bandainamcoent.com/news/hello-kitty-party-land-for-nintendo-switch-systems-this-october-2026", "reason": "優先度低く除外" },
+    { "category": "hobby", "title": "ハウス食品 咖喱屋カレーEX（8月発売）", "url": "https://housefoods-group.com/newsrelease/pdf/newsrelease_20260804_02.pdf", "reason": "8月発売で速報性がなく除外" },
+    { "category": "hobby", "title": "Octopath Traveler 1&2 Switch 2版", "url": "https://rpgamer.com/2026/07/octopath-traveler-octopath-traveler-ii-switch-2-versions-announced/", "reason": "セレンディピティ枠として採用" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 7,
+    "small": 10,
+    "serendipity": 2,
+    "total": 22
+  }
+}
