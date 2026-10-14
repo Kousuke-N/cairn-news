@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-14",
+  "notion_page_id": "3f9a41a3-cf9b-8158-af21-e00c0be9b565",
+  "generated_at": "2026-10-14",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "Vite+ 1.0正式リリース × ViteConf 2026 前夜——Rolldown統合とAngular CLIへの影響",
+      "url": "https://www.ithome.com.tw/news/179271",
+      "source": "iThome / VoidZero"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "フーシ派連日攻撃×ホルムズ封鎖継続——原油94ドル台で日本エネルギーコストを直撃",
+      "url": "https://www.logi-today.com/923636",
+      "source": "ロジ・トゥデイ / 熊本日日新聞"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "TIFFCOM 2026 10/28開幕——Japan IP MarketとTGFMが国際共同制作の最前線を示す",
+      "url": "https://www.gamebusiness.jp/article/2026/10/10/28281.html",
+      "source": "GameBusiness.jp"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "AnthropicがシンガポールにAIオフィス開設——政府とAI安全・評価分野でMOU締結",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular 22 Zoneless変更検知2026年完全移行チェックポイント",
+      "url": "https://www.syncfusion.com/blogs/post/angular-zoneless-change-detection",
+      "source": "Syncfusion Blog"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "OpenAI Decisions API公開ベータ開始——最大10倍高速な構造化推論",
+      "url": "https://letsdatascience.com/news/openai-opens-decisions-api-public-beta-b69a1e40",
+      "source": "letsdatascience.com"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "消費税審議難航——首相が財源論争で曖昧答弁、農相問責も交差",
+      "url": "https://www.hokkaido-np.co.jp/article/1386544/",
+      "source": "北海道新聞"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "日経平均5日続落・ドル円158円台——中東リスクが重石",
+      "url": "https://zai.diamond.jp/articles/-/497242",
+      "source": "ダイヤモンドZAi"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "FUJIKINA NYC 2026 開幕2日前——チケット$10発売、ICPとの協賛展示も",
+      "url": "https://www.fujirumors.com/?p=144357",
+      "source": "Fuji Rumors"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Claude Opus 5.5がBenchLM October 2026ランキング首位（スコア86.4）",
+      "url": "https://af.net/cn/realtime/anthropics-claude-opus-5-5-tops-october-2026-proprietary-llm-rankings/",
+      "source": "AF.NET AI News Intelligence"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Anthropic IPO評価額$2兆超の見通し——米中間選挙後2026年後半に上場か",
+      "url": "https://gaugr.app/de/blog/anthropic-ipo-2026-what-it-means-for-claude-users",
+      "source": "Gaugr"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "JR東日本など8社、近距離乗車券を2027年春からQRコードへ",
+      "url": "https://paymentnavi.com/?p=145896",
+      "source": "ペイメントナビ"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "バイオハザードリブート映画——PlayStation Production制作、10/9日本公開",
+      "url": "https://www.gamespark.jp/article/2026/04/30/165896.html",
+      "source": "Game*Spark"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "転生したら剣でしたII 10/7スタート——ABEMA先行配信",
+      "url": "https://animeanime.jp/article/2026/10/07/103583.html",
+      "source": "アニメ!アニメ!"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "ニコン Zマウントシネマレンズ9本の開発を発表——映像制作市場へ本格参入",
+      "url": "https://www.redsharknews.com/canon-sony-a7r-vi-cameras-coming-2026",
+      "source": "RedShark News"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "Vite+の「ツール統合」とカテゴリ横断する人間——全部やる人間の希少価値",
+      "url": "https://www.ithome.com.tw/news/179271",
+      "serendipity_reason": "Vite+はバンドラー・テスト・リント・フォーマットを「1つのもの」にしようとしている。ツールが統合されるほど、人間は「領域横断」で差別化する。フロントエンドエンジニアとしてエンタメ業界で働く立場から見ると、「コンテンツのプロ」と「テックのプロ」が融合した人間の希少性が急速に高まっている。TIFFCOMでデジタルプロダクション技術を理解しながらIPのファイナンスを語れる人間、Vite+の設計を理解しながら企画の収益モデルを語れる人間——ツールが統合されるほど人間は領域横断で差別化する時代に入っている。"
+    },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "ホルムズ海峡の「閉鎖」とAPIの「制限」——インフラのシングルポイント・オブ・フェイラーという普遍構造",
+      "url": "https://www.logi-today.com/923636",
+      "serendipity_reason": "ホルムズ海峡は世界の石油輸送の約20%が通過する「インフラのボトルネック」だ。1か所が詰まると世界中のコストが上がる。これはAWSやCloudflareのある地域でインシデントが起きたときの感覚と同じ構造だ。IDCFランサムウェア（先週）とホルムズ海峡封鎖、ClaudeやOpenAI APIへの依存——抽象度は違うが「インフラのSPoF」という同じ構造を持つ。石油・エネルギー・クラウドAPIへの依存地図を俯瞰して設計する習慣が今こそ必要だ。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "ViteConf 2026 明日開催（VoidZero）", "url": "https://voidzero.dev/posts/whats-new-jul-2026", "reason": "過去7日（10/7）に掲載済みURL" },
+    { "category": "tech", "title": "Claude Haiku 5.5リリース詳細（ComputingForGeeks）", "url": "https://computingforgeeks.com/claude-haiku-5-5-released-features-benchmarks/", "reason": "10/8に別URLで掲載済みトピック（claude-haiku-5-5 Anthropic）" },
+    { "category": "tech", "title": "Anthropic Cyber Verification Program拡張", "url": "https://www.anthropic.com/news/cyber-verification-program", "reason": "過去7日（10/7）に掲載済みURL" },
+    { "category": "tech", "title": "Anthropic Claude Frontier Academy", "url": "https://www.anthropic.com/news/claude-frontier-academy", "reason": "過去7日（10/7）に掲載済みURL" },
+    { "category": "tech", "title": "Anthropic Life Sciences Verification Program", "url": "https://www.anthropic.com/news/life-sciences-verification-program", "reason": "過去7日（10/7）除外リストに掲載済み" },
+    { "category": "tech", "title": "ClaudeがCRISPR様酵素発見", "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system", "reason": "過去7日（10/7）に掲載済みURL" },
+    { "category": "tech", "title": "Barclays Claude スケール展開", "url": "https://www.anthropic.com/news/barclays-scales-claude", "reason": "過去7日（10/7）に掲載済みURL" },
+    { "category": "tech", "title": "OpenAI GPT-6 Astra（CryptoBriefing）", "url": "https://cryptobriefing.com/openai-highlights-ai-milestone-stresses-urgency-with-gpt-6-astra-launch/", "reason": "10/9に別URLで掲載済みトピック" },
+    { "category": "news", "title": "サウジ空港で旅客機火災", "url": "https://kumanichi.com/articles/2044757", "reason": "過去7日（10/12）に掲載済みURL" },
+    { "category": "news", "title": "イランが緊張緩和へ仲介外交", "url": "https://kumanichi.com/articles/2043059", "reason": "過去7日（10/11）に掲載済みURL" },
+    { "category": "news", "title": "サウジ空港攻撃3人死亡", "url": "https://kumanichi.com/articles/2044305", "reason": "過去7日（10/12）除外リストに掲載済み" },
+    { "category": "news", "title": "フーシ派 サウジ空港連日攻撃（サマリー記事）", "url": "https://kumanichi.com/articles/2045499", "reason": "大記事（logi-today）に統合。同一イベントの別角度記事" },
+    { "category": "news", "title": "フーシ派サウジ石油施設攻撃", "url": "https://kumanichi.com/articles/2042778", "reason": "大記事に統合" },
+    { "category": "news", "title": "ホルムズ海峡封鎖継続イラン発言（低いURL）", "url": "https://www.logi-today.com/920647", "reason": "大記事に統合" },
+    { "category": "news", "title": "ホルムズ海峡日本経済影響分析（第一生命）", "url": "https://www.dlri.co.jp/files/macro/654940.pdf", "reason": "大記事に内容統合済み" },
+    { "category": "news", "title": "消費税減税法案20日審議入り提案", "url": "https://kumanichi.com/articles/2042949", "reason": "中記事（hokkaido-np）に統合" },
+    { "category": "news", "title": "簗農相問責決議案検討", "url": "https://kumanichi.com/articles/2044513", "reason": "中記事に統合" },
+    { "category": "news", "title": "ドル円158円台継続", "url": "https://jp.investing.com/news/stock-market-news/article-1711027", "reason": "中記事（zai.diamond.jp）に統合" },
+    { "category": "entertainment", "title": "サイバーパンク:エッジランナーズ2（eiga.com）", "url": "https://anime.eiga.com/program/112807/", "reason": "10/13、10/10に掲載済みトピック" },
+    { "category": "entertainment", "title": "芦田愛菜南田南弁護士（realsound 別URL）", "url": "https://realsound.jp/movie/2026/09/post-2523845.html", "reason": "10/13に掲載済みトピック（別URL）" },
+    { "category": "entertainment", "title": "相棒season25（tinpanblog）", "url": "https://tinpanblog.com/?p=57592", "reason": "10/13に掲載済みトピック（別URL）" },
+    { "category": "entertainment", "title": "劇場版メイドインアビス", "url": "https://anime.eiga.com/movie/111068/", "reason": "10/10に掲載済みトピック（別URL）" },
+    { "category": "entertainment", "title": "薬屋のひとりごと第3期", "url": "https://www.sakigake.jp/news/article/20261002PR0054/", "reason": "10/10、10/12に掲載済みトピック" },
+    { "category": "entertainment", "title": "ドラゴンボール超ビルス", "url": "https://realsound.jp/movie/2026/09/post-2511123.html", "reason": "10/13に掲載済みトピック" },
+    { "category": "entertainment", "title": "魔法騎士レイアース（電撃オンライン）", "url": "https://dengekionline.com/article/202606/77053", "reason": "10/12に掲載済みトピック" },
+    { "category": "entertainment", "title": "東京リベンジャーズ三天戦争編", "url": "https://www.oricon.co.jp/special/76252/", "reason": "10/12に掲載済みトピック" },
+    { "category": "entertainment", "title": "薬屋劇場版12/11公開", "url": "https://selectra.jp/ストリーミング/news/kusuriya-no-hitorigoto-season3-movie", "reason": "10/10、10/12に掲載済みトピック" },
+    { "category": "entertainment", "title": "秋アニメ97作品（ORICON）", "url": "https://www.oricon.co.jp/special/76282/", "reason": "10/10に類似記事掲載済み" },
+    { "category": "entertainment", "title": "映画汝星のごとく", "url": "https://www.cinematoday.jp/movie/rank/20261009", "reason": "10/9、10/10に掲載済みトピック" },
+    { "category": "entertainment", "title": "TIFFCOM Tokyo Gap-Financing Market（9月記事）", "url": "https://www.gamebusiness.jp/article/2026/09/11/28001.html", "reason": "大記事（10/10記事）に統合" },
+    { "category": "hobby", "title": "Canon EOS R8 Mark II（Photo Workout）", "url": "https://www.photoworkout.com/?p=222924", "reason": "10/11に掲載済みトピック（RedShark News）" },
+    { "category": "hobby", "title": "Nikon Z5IIC（Fstoppers）", "url": "https://fstoppers.com/gear/nikon-announces-new-z5iic-904727", "reason": "10/13に掲載済みトピック（channelnews）" },
+    { "category": "hobby", "title": "テイルズエターニア Switch 2技術仕様", "url": "https://nintendoeverything.com/tales-of-eternia-remastered-details-nintendo-switch-2-and-switch-frame-rate-resolution/", "reason": "10/11、10/12に掲載済みトピック" },
+    { "category": "hobby", "title": "テイルズエターニア OP映像公開", "url": "https://www.rpgsite.net/news/20846-bandai-namco-shares-tales-of-eternia-remastered-opening-movie", "reason": "10/11、10/12に掲載済みトピック" },
+    { "category": "hobby", "title": "ドラゴンズドグマ2ダークアリズン レビュー総評", "url": "https://stevivor.com/news/dragon-s-dogma-2-dark-arisen-expansion-earns-mostly-strong-reviews/", "reason": "10/10に掲載済みトピック" },
+    { "category": "hobby", "title": "ファイナルファンタジーレゾナンス", "url": "https://gamingtrend.com/news/square-enix-unveils-final-fantasy-resonance-a-turn-based-love-letter-to-the-series/", "reason": "10/9、10/10に掲載済みトピック" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort（The Sixth Axis）", "url": "https://www.thesixthaxis.com/2026/06/09/nintendo-switch-sports-resort-brings-another-12-games-to-wuhu-island/", "reason": "10/11、10/12に掲載済みトピック" },
+    { "category": "hobby", "title": "KH HD 1.5+2.5 ReMIX Switch 2", "url": "https://www.siliconera.com/?p=1117646", "reason": "10/7、10/8に掲載済みトピック" },
+    { "category": "hobby", "title": "X-T6 X Summit中止・延期", "url": "https://www.photographytalk.com/fujifilm-x-t6-rumors/", "reason": "10/7、10/9、10/11に掲載済みトピック" },
+    { "category": "hobby", "title": "Fujikina NYC ICP協賛展示（Digital Camera World）", "url": "https://www.digitalcameraworld.com/photography/trade-shows/fujifilm-fujikina-is-coming-to-the-us-turning-nyc-into-a-living-gallery-space-along-with-photo-walks-workshops-and-talks", "reason": "中記事（Fuji Rumors）に統合" },
+    { "category": "hobby", "title": "印度カリー子スパイスカレー入門増補改訂版", "url": "https://www.maruzenjunkudo.co.jp/products/9784768331552", "reason": "10/11に掲載済みURL" },
+    { "category": "hobby", "title": "Zelda Ocarina of Time Remake", "url": "https://www.levelup.com/en/news/nintendo-direct-june-2026-recap-zelda-ocarina-of-time-remake-confirmed-new-xenoblade-revealed-and-every-major-announcement/", "reason": "6月発表の古い記事のため除外" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 6,
+    "small": 6,
+    "serendipity": 2,
+    "total": 17
+  }
+}
