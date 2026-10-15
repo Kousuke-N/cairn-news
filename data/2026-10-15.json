@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-15",
+  "notion_page_id": "3faa41a3-cf9b-81d3-be5a-c691c21a1aa9",
+  "generated_at": "2026-10-15",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "ViteConf 2026本日開催 × Cloudflare傘下VoidZeroがフロントエンドを定義する",
+      "url": "https://vite.dev/blog/announcing-vite8-1",
+      "source": "Vite Blog"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "日経平均3318円安・過去3番目の暴落 × 中東フーシ派リヤド国際空港攻撃——外務省が特定危険情報",
+      "url": "https://www.excite.co.jp/news/article/Jiji_3889652/",
+      "source": "時事通信 / 外務省"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "第39回東京国際映画祭(TIFF 2026)10/26開幕 × TIFFCOM 2026 10/28開幕——業界最大の2週間",
+      "url": "https://lp.p.pia.jp/article/news/513905/index.html",
+      "source": "pia.jp"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular 22完全解説——Signal Forms安定化・OnPushデフォルト・WebMCP対応",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "source": "AngularArchitects"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "ShopifyがTailwind Labsを買収——フロントエンドCSSの商業帰属先が変わった",
+      "url": "https://www.cmswire.com/digital-experience/shopify-acquires-tailwind-labs-to-secure-css-framework/",
+      "source": "CMSWire"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Anthropic、AIエージェント評価テストを緊急停止——実サイトへの意図しないアクセスが発生",
+      "url": "https://bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites",
+      "source": "BleepingComputer"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "ウクライナでスターリンク利用制限——「米国はロシアを支援」と高官が批判",
+      "url": "https://www.afpbb.com/articles/-/3657580",
+      "source": "AFPBB News"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "『サイバーパンク: エッジランナーズ2』10月20日Netflixで配信開始",
+      "url": "https://news.denfaminicogamer.jp/news/260628m",
+      "source": "でんファミニコゲーマー"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "FUJIKINA NYC明日開幕 × X-T6トップデッキ大刷新リーク——富士フイルム2週間で全貌が見えてくる",
+      "url": "https://www.fujirumors.com/?p=144428",
+      "source": "Fuji Rumors / Fuji Addict"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "React 19.3リリース——ViewTransition・Fragment Refsが安定版に",
+      "url": "https://www.devx.com/coding/19-3-view-transitions-fragment-refs/"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Meta Muse Wonder & Muse Wonder Full公開——100万トークンコンテキスト・Active Memory搭載",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+      "source": "TechCrunch"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Anthropic、2026年米中間選挙向けにClaudeを更新——州別投票情報提供・公平性評価を改善",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "source": "Anthropic"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "パナソニック、ドラム式洗濯乾燥機64万台で発火の恐れ——部品無償交換",
+      "url": "https://www.excite.co.jp/news/article/Jiji_3889683/",
+      "source": "時事通信"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "焼肉きんぐ公式アプリに不正アクセス、1078万件の個人情報が漏洩",
+      "url": "https://rocket-boys.co.jp/?p=42522",
+      "source": "セキュリティニュース"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "日銀委員「利上げに過度に慎重にならない」——金融政策正常化方針を示す発言",
+      "url": "https://jp.investing.com/news/forex-news/article-1712496",
+      "source": "Investing.com / フィスコ"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "第2回AI日本国際映画祭2026、10月31日開幕——世界60カ国超から700件応募",
+      "url": "https://koubo.jp/article/127185",
+      "source": "公募ガイド"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "芦田愛菜主演『南田南弁護士は天才肌』10月19日放送・Netflix世界同時配信",
+      "url": "https://www.sakigake.jp/news/article/20260915OR0216/",
+      "source": "秋田魁新報"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "薬屋のひとりごと第3期放送中・劇場版12/11公開の大型展開進行",
+      "url": "https://realsound.jp/movie/2026/08/post-2492868.html",
+      "source": "Real Sound"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "Final Fantasy Resonance Switch 2デモ好印象——10月22日発売のHD-2Dターン制RPG",
+      "url": "https://www.rpgsite.net/feature/21299-final-fantasy-resonance-is-shaping-up-to-be-a-solid-experience-on-switch-2-ps5-steam-deck-and-rog-ally",
+      "source": "RPGSite"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "富士フイルム日本で価格改定——GFX100 II等最大15%値上げ（10月1日発効）",
+      "url": "https://ymcinema.com/2026/10/02/fujifilm-camera-price-increase-japan-gfx100-ii-x100vi-x-e5/",
+      "source": "Y.M.Cinema Magazine"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "セブン-イレブン「カレーフェス」——エリックサウス監修ビリヤニ・カレーが全国展開",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2130072.html",
+      "source": "グルメウォッチ（Impress）"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "「同じ週に起きた株暴落・スターリンク停止・AIテスト停止」——インフラが壊れるまで見えない",
+      "url": "https://www.excite.co.jp/news/article/Jiji_3889652/",
+      "serendipity_reason": "今日3つの「インフラ障害」ニュースが重なった。日経3318円安はCoreWeave1社の社債問題が波及した金融インフラのSPoF。ウクライナのスターリンク制限は通信インフラの外部依存。AnthropicのAIエージェントテスト停止はAIエージェントの行動インフラが制御困難になった事案。3つとも「平時は見えない、壊れたときに初めて価値がわかる」という構造が同じだ。エンジニアとして設計する時、SPOFを作るなという原則は物理・通信・金融・AIの垣根を超えた普遍構造だと気づく1週間。"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "ShopifyのTailwind買収 × CloudflareのVoidZero買収——「誰のためのオープンソース？」",
+      "url": "https://www.cmswire.com/digital-experience/shopify-acquires-tailwind-labs-to-secure-css-framework/",
+      "serendipity_reason": "今週ViteConf（Cloudflare傘下）とTailwind Labs（Shopify買収）が同じタイミングで話題になった。フロントエンドエコシステムの中心的OSSが大企業に買収される動きが続いている。TailwindもViteも「コミュニティのもの」として育ったが、今後の開発方針は買収企業の戦略に依存する。Angularもまた同様にGoogle傘下だ。「フロントエンドエコシステムを誰が握るか」という問いは、ツール選択がビジネスリスクになりうる今、エンジニアとして真剣に考える価値がある。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "CloudflareがVoidZeroを買収（Nasdaq/BusinessWire 6月記事）", "url": "https://www.nasdaq.com/press-release/cloudflare-acquires-voidzero-build-future-ai-native-web-2026-06-04", "reason": "大記事（vite.dev）に内容統合済み" },
+    { "category": "tech", "title": "Angular 22へのアップグレードガイド 破壊的変更", "url": "https://www.drcsystems.com/blogs/angular-22-features-whats-new-what-breaks-and-should-you-upgrade/", "reason": "中記事（angulararchitects）に統合" },
+    { "category": "tech", "title": "Angular's new mantra bytes.dev", "url": "https://bytes.dev/archives/494", "reason": "小記事に含めると過多" },
+    { "category": "tech", "title": "フロントエンド開発2026総括", "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first", "reason": "小記事に含めると過多" },
+    { "category": "tech", "title": "Google Gemini 4 Argon一般展開", "url": "https://gori.me/?p=170837", "reason": "掲載枠の制約により選外" },
+    { "category": "tech", "title": "Anthropic CVP拡充", "url": "https://www.anthropic.com/news/cyber-verification-program", "reason": "過去7日除外リストに掲載済みURL" },
+    { "category": "tech", "title": "Anthropic Claude Frontier Academy設立", "url": "https://www.anthropic.com/news/claude-frontier-academy", "reason": "過去7日除外リストに掲載済みURL" },
+    { "category": "tech", "title": "Anthropic ユーザーのClaudeへの暴言を11月から禁止", "url": "https://boingboing.net/2026/10/12/anthropic-wants-people-to-stop-being-mean-to-claude.html", "reason": "relevance: low、掲載枠の制約により選外" },
+    { "category": "news", "title": "茨城・常陸大宮市で核のごみ文献調査開始", "url": "https://news.web.nhk/newsweb/na/nd-20261002de53897", "reason": "掲載枠の制約により選外" },
+    { "category": "news", "title": "台風30号発生予想", "url": "https://weathernews.jp/news/202610/150091/", "reason": "掲載枠の制約により選外" },
+    { "category": "news", "title": "Netflixが850人規模の削減を計画", "url": "https://www.tikr.com/ja/blog/netflix-layoffs-report-what-800-job-cuts-mean-with-margins-near-30", "reason": "relevance: low" },
+    { "category": "entertainment", "title": "TIFFCOM 2026 カンファレンス第3弾（GameBusiness 10/6記事）", "url": "https://www.gamebusiness.jp/article/2026/10/06/28222.html", "reason": "大記事（pia.jp TIFF記事）に統合" },
+    { "category": "entertainment", "title": "TIFFCOM 2026 ビジター登録受付開始（GameBusiness 8/6記事）", "url": "https://www.gamebusiness.jp/article/2026/08/06/27630.html", "reason": "大記事に統合" },
+    { "category": "entertainment", "title": "TIFFCOM 2026 Cartoon Brew海外記事", "url": "https://cartoonbrew.com/festivals/tokyo-international-film-festival-tiffcom-265231.html", "reason": "大記事に統合" },
+    { "category": "entertainment", "title": "TVアニメ 薬屋のひとりごと第3期（selectra URL）", "url": "https://selectra.jp/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0/news/kusuriya-no-hitorigoto-season3-movie", "reason": "過去7日除外リストに掲載済みURL" },
+    { "category": "entertainment", "title": "ドラゴンボール超 ビルス（famitsu URL）", "url": "https://www.famitsu.com/article/202601/64141", "reason": "過去7日除外リストに掲載済みURL" },
+    { "category": "entertainment", "title": "魔法騎士レイアース30年ぶり新アニメ化", "url": "https://animeanime.jp/article/2026/09/20/103101.html", "reason": "掲載枠の制約により選外" },
+    { "category": "entertainment", "title": "アオのハコ Season2", "url": "https://realsound.jp/movie/2026/08/post-2492868.html", "reason": "掲載枠の制約により選外" },
+    { "category": "entertainment", "title": "救命病棟24時 13年ぶり月9復活", "url": "https://www.sakigake.jp/news/article/20260826OR0008/", "reason": "過去7日除外リストに掲載済みURL" },
+    { "category": "entertainment", "title": "小栗旬 トロント映画祭ワールドプレミア", "url": "https://www.sakigake.jp/news/article/20260915OR0226/", "reason": "掲載枠の制約により選外" },
+    { "category": "hobby", "title": "バイオハザードRE:2 Switch 2版レビュー 9.5/10", "url": "https://www.nintendoworldreport.com/review/77717", "reason": "掲載枠の制約により選外（dreadcentral記事で概要を紹介）" },
+    { "category": "hobby", "title": "Hollow Knight Silksong 物理版Switch 2 10/16発売", "url": "https://nintendoeverything.com/hollow-knight-silksong-hollow-knight-nintendo-switch-2-physical-releases-revealed/", "reason": "掲載枠の制約により選外" },
+    { "category": "hobby", "title": "Nintendo Switch 2 10月11月発売予定ガイド", "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026", "reason": "掲載枠の制約により選外" },
+    { "category": "hobby", "title": "Pokémon Legends Z-A Switch 2 Edition", "url": "https://nintendoeverything.com/?p=925999", "reason": "掲載枠の制約により選外" },
+    { "category": "hobby", "title": "Octopath Traveler I & II Switch 2版レビュー", "url": "https://www.rpgsite.net/feature/20905-octopath-traveler-i-ii-switch-2-review-vs-ps5-ps4-nintendo-switch-1-steam-deck-impressions-graphics-upgrade", "reason": "掲載枠の制約により選外" },
+    { "category": "hobby", "title": "ニコン Z5IIC発表 $1,399", "url": "https://www.diyphotography.net/?p=343673", "reason": "掲載枠の制約により選外" },
+    { "category": "hobby", "title": "カネカサンスパイス ビリヤニキット今秋発売", "url": "https://news.nissyoku.co.jp/archives/company/kaneka-sunspice", "reason": "掲載枠の制約により選外" },
+    { "category": "hobby", "title": "2026年カレートレンド予測", "url": "https://getnavi.jp/life/985279/", "reason": "relevance: low" },
+    { "category": "hobby", "title": "富士フイルム X-T6 コンポーネント不足で11月発表に延期", "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-now-expected-in-november-after-component-shortage-delay/", "reason": "大記事（fujirumors X-T6リーク）に内容統合済み" }
+  ],
+  "article_counts": {
+    "large": 3,
+    "medium": 6,
+    "small": 12,
+    "serendipity": 2,
+    "total": 23
+  }
+}
