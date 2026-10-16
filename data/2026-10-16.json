@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-16",
+  "notion_page_id": "3fba41a3-cf9b-8150-a92e-f1b1f4799a47",
+  "generated_at": "2026-10-16",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "TypeScript 7.0 正式リリース——Go製コンパイラで最大12倍の高速化",
+      "url": "https://alternativeto.net/news/2026/7/typescript-7-0-launches-with-go-based-compiler-and-up-to-12x-faster-performance/",
+      "source": "AlternativeTo"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "Claude Haiku 5.5 発表——前世代比75%低コスト・コンテキスト1M・推論強度5段階を小型モデルで初搭載",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "source": "Anthropic"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "高市首相「飲食品消費税を2027年4月から2年間1%に」——臨時国会で与野党論戦が本格化",
+      "url": "https://kumanichi.com/articles/2022598",
+      "source": "熊本日日新聞"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "第39回TIFF チケット明日10/17（土）一般発売——センターピース『ゴジラ-0.0』・ケイト・ブランシェット初参加・新部門設立",
+      "url": "https://hollywoodreporter.jp/movies/224391/",
+      "source": "ハリウッド・リポーター日本版"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "テイルズ オブ エターニア リマスター 本日発売 × Switch Sports Resort 来週10/22 × Phantom Blade Zero 10/29——10月後半ゲームラッシュ",
+      "url": "https://www.rpgsite.net/news/20638-tales-of-eternia-remastered-resolution-and-frame-rate-targets-revealed-for-ps5-switch-2-pc-xbox-and-more",
+      "source": "RPG Site"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Anthropic、独立評価機関METRにフロンティアモデルの内部アクセスを付与——AI評価の透明性強化",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Angular Addicts #48——TypeScript 6統合・OnPushデフォルト・AI開発ツール（MCP）統合事例をまとめて解説",
+      "url": "https://angularindepth.com/article/angular-addicts-48-typescript-6-onpush-as-default-ai-tools-more/",
+      "source": "Angular In Depth"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "ヤマト運輸「クロネコ代金後払い」再開——不正アクセスによる個人情報漏洩の調査は継続中",
+      "url": "https://rocket-boys.co.jp/?p=43156",
+      "source": "Rocket Boys Security Lab"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "餃子の王将社長射殺事件——工藤会系組幹部に本日京都地裁で判決",
+      "url": "https://kumanichi.com/articles/2008015",
+      "source": "熊本日日新聞"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "台風30号発生予想——13年ぶり年間30個目、19日ごろ「強い」勢力まで発達",
+      "url": "https://weathernews.jp/news/202610/150021/",
+      "source": "ウェザーニュース"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "ドジャース NLCS敗退——大谷翔平のHRも及ばずブルワーズに3連覇を阻まれる",
+      "url": "https://www.mlb.com/ja/news/dodgers-lose-nlcs-game-2-2026",
+      "source": "MLB.com 日本語版"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "劇場版『青春ブタ野郎はディアフレンドの夢を見ない』本日10/16公開——シリーズ完結",
+      "url": "https://hashout.jp/?p=12004",
+      "source": "hashout"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "劇場版『BanG Dream! Ave Mujica prima aurora』本日10/16公開——台湾と同日同時公開",
+      "url": "https://www.toy-people.com/jp/?p=106730",
+      "source": "トイ・ピープル"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "ドラゴンボール超 ビルス、10月11日よりフジテレビ系で放送開始——エンハンスド版で大幅リニューアル",
+      "url": "https://realsound.jp/movie/2026/09/post-2511123.html",
+      "source": "Real Sound"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "下北沢カレーフェスティバル2026 開催中（〜10/25）——15周年・135店舗参加・セガコラボも",
+      "url": "https://san-tatsu.jp/pressrelease/560288/",
+      "source": "さんたつ"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "FUJIKINA NYC 2026 本日〜18日開催 + X-T6は11月発表がほぼ確定（FujiRumors）",
+      "url": "https://www.fujirumors.com/?p=140589",
+      "source": "FujiRumors"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "ニコン Z5IIC 正式発表——EVFなしフルサイズ機、$1,399で10月中旬出荷開始",
+      "url": "https://fstoppers.com/gear/nikon-announces-new-z5iic-904727",
+      "source": "Fstoppers"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Angular CLI v22.2.2リリース",
+      "url": "https://github.com/angular/angular-cli/releases/tag/22.2.2",
+      "source": "GitHub / angular-cli"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "Barclays、Claude Codeを開発者の50%へ展開——1日12万通のメール分類にも活用",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source": "Anthropic"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "イエローハット・2りんかんへの不正アクセス、最大345万件超の個人情報漏洩が確定",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/07/01/55609.html",
+      "source": "ScanNetSecurity"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "物流大手3社（ヤマト・佐川・日本郵便）への不正アクセス続発——社会問題化",
+      "url": "https://kumanichi.com/articles/2046250",
+      "source": "熊本日日新聞"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "FRBウォーシュ議長、政策方向性に言及せず——10月利上げ観測が後退",
+      "url": "https://fx.minkabu.jp/news/381800",
+      "source": "みんかぶFX"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "2026年秋アニメ97作品スタート——豊作シーズン全体まとめ",
+      "url": "https://selectra.jp/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0/news/autumn-anime-guide-2026",
+      "source": "Selectra"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "TIFF第39回アニメ部門に女性監督3作品——ベルサイユのばら・名探偵コナン 紺青の拳・金の国水の国",
+      "url": "https://anime.eiga.com/event/174946/",
+      "source": "映画.com アニメ"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "10月劇場アニメ豊作まとめ——青春ブタ野郎完結・ヤマトよ永遠に完結・メイドインアビス新章",
+      "url": "https://weekly.ascii.jp/elem/000/004/439/4439790/",
+      "source": "週刊アスキー"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "キヤノン EOS R8 Mark II 10月20日発売——IBIS搭載でR8の弱点を補強",
+      "url": "https://lensandshutter.com/reviews/canon-eos-r8-mark-ii/",
+      "source": "Lens and Shutter"
+    },
+    {
+      "category": "hobby", "size": "small",
+      "title": "ONE PIECE: Grand Gourmet 10月23日発売——バンナム×カイロソフトのレストラン経営SIM",
+      "url": "https://www.gematsu.com/2026/06/bandai-namco-and-kairosoft-announce-one-piece-grand-gourmet-for-switch-2-switch-pc-ios-and-android",
+      "source": "Gematsu"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "TypeScript 7.0のGo移植 × OxcのRust移植——「フロントエンドエコシステムはもうJavaScriptではない」という事実",
+      "url": "https://alternativeto.net/news/2026/7/typescript-7-0-launches-with-go-based-compiler-and-up-to-12x-faster-performance/",
+      "serendipity_reason": "TypeScript 7.0がGoで書き直されたことで、主要フロントエンドビルドツールの「ネイティブ言語化」が一段と加速した。ESBuild（Go）、OxcとRolldown（Rust）に続き、TSコンパイラ本体もGo製に。「JavaScriptでJavaScriptをビルドする」時代が終わりつつある。Angularエンジニアとして、自分が書くコードはGoとRustで動くツールチェーン上で処理されているという認識は、今後のパフォーマンスチューニングやツール選定の発想を変えるかもしれない。「なぜJavaScriptエコシステムはJavaScript以外で書かれているのか？」という問いへの答えは、速度とメモリの物理的な限界だ。"
+    },
+    {
+      "category": "news", "size": "serendipity",
+      "title": "ヤマト・佐川・日本郵便が同時期に不正アクセス被害——「外部APIが止まったとき、あなたのサービスは大丈夫か？」",
+      "url": "https://kumanichi.com/articles/2046250",
+      "serendipity_reason": "日本の物流インフラを担う大手3社が短期間に相次いでサイバー攻撃の被害を公表した。ECサービスやフィンテックのバックエンドは配送ステータスAPIや後払い決済を通じてこれらのインフラに依存している。「外部APIが落ちたとき、自社サービスがどう振る舞うか」という問いは平時には見えにくいが、障害が起きた瞬間に大きな差が出る。昨日のAIエージェントテスト停止、スターリンク制限と合わせて、「インフラは壊れて初めて見える」という命題が今週繰り返し現れている。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "Google DeepMind Gemini 4 年内リリース表明", "url": "https://aphnetworks.com/news/32247-google-plans-gemini-4-release-year-end", "reason": "関連URL（thenextweb.com）が過去7日除外リストに掲載済み。同一トピック" },
+    { "category": "tech", "title": "CloudflareがVoidZeroを買収（BusinessWire公式）", "url": "https://secure.businesswire.com/news/home/20260604108073/en/Cloudflare-Acquires-VoidZero-to-Build-the-Future-of-the-AI-Native-Web", "reason": "昨日の大記事（vite.dev）にて内容統合済み。6月の記事で既報" },
+    { "category": "tech", "title": "Angular 22安定版リリース詳解（Bacancy）", "url": "https://www.bacancytechnology.com/blog/angular-22", "reason": "昨日の中記事（angulararchitects.io）にて同一トピック掲載済み" },
+    { "category": "tech", "title": "React 19.3リリース（react.dev公式）", "url": "https://react.dev/blog/2026/09/09/react-19-3", "reason": "昨日の小記事（devx.com）にて掲載済みトピック。異なるURLだが同一リリース情報" },
+    { "category": "news", "title": "日経平均3300円超の大幅下落（10/16）", "url": "https://fx.minkabu.jp/news/381796", "reason": "昨日の大記事にて株式市場暴落は掲載済み。継続情報のため小記事の扱いもできるが本日の新鮮度が低いため選外" },
+    { "category": "news", "title": "日本郵便 国際郵便調査請求Web受付で不正アクセス", "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56344.html", "reason": "物流大手不正アクセス小記事（kumanichi）に統合済み。内容重複" },
+    { "category": "news", "title": "トランプ大統領 軍基地銃乱射犯への銃殺刑ライブ配信中止を検討", "url": "https://kumanichi.com/articles/2045511", "reason": "掲載枠の制約により選外。国際ニュースとして関心度がやや低い" },
+    { "category": "entertainment", "title": "魔法騎士レイアース30年ぶり新アニメ化", "url": "https://www.famitsu.com/article/202603/70027", "reason": "過去7日除外リストに掲載済みURL" },
+    { "category": "entertainment", "title": "救命病棟24時第6シリーズ13年ぶり復活（sakigake）", "url": "https://www.sakigake.jp/news/article/20261003OR0134/", "reason": "過去7日除外リストに掲載済みトピック（sakigake 20260826）" },
+    { "category": "entertainment", "title": "芦田愛菜『南田南弁護士』cinematoday記事", "url": "https://www.cinematoday.jp/news/N0156913", "reason": "昨日の小記事（sakigake）にて掲載済みトピック" },
+    { "category": "entertainment", "title": "サイバーパンク:エッジランナーズ2（automaton）", "url": "https://automaton-media.com/articles/newsjp/20260821-461535/", "reason": "昨日の中記事（denfaminicogamer）にて掲載済みトピック" },
+    { "category": "entertainment", "title": "薬屋のひとりごと第3期（hokkaido-np）", "url": "https://www.hokkaido-np.co.jp/article/1382628/", "reason": "昨日の小記事（realsound）にて掲載済みトピック" },
+    { "category": "entertainment", "title": "アオのハコ第2期（ciatr）", "url": "https://ciatr.jp/topics/339315", "reason": "掲載枠の制約により選外" },
+    { "category": "entertainment", "title": "東京国際映画祭新部門CROSSCUT ASIA+（HR）", "url": "https://hollywoodreporter.jp/?p=223078", "reason": "大記事（hollywoodreporter.jp/movies/224391/）に内容統合済み" },
+    { "category": "hobby", "title": "FUJIKINA NYC 2026開幕（PetaPixel）", "url": "https://petapixel.com/2026/06/17/fujifilm-is-hosting-a-fujikina-in-new-york-city-this-october/", "reason": "昨日の大記事にてFUJIKINA NYCは掲載済み。本日の中記事FujiRumorsに統合" },
+    { "category": "hobby", "title": "富士フイルム X-T6 11月延期（camerajabber・新URL）", "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-now-expected-in-november-after-component-shortage-delay/", "reason": "中記事（FujiRumors）に内容統合済み" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort最終プレビュー（GamingBolt）", "url": "https://gamingbolt.com/?p=645986", "reason": "大記事に内容統合済み" }
+  ],
+  "article_counts": {
+    "large": 5,
+    "medium": 11,
+    "small": 11,
+    "serendipity": 2,
+    "total": 29
+  }
+}
