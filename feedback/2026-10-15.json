@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-15",
+  "source_page_id": "3faa41a3-cf9b-81d3-be5a-c691c21a1aa9",
+  "collected_at": "2026-10-16",
+  "feedback": {
+    "volume": null,
+    "increase_category": null,
+    "decrease_category": null,
+    "deep_dive_topics": [],
+    "new_sources": [],
+    "comment": null
+  },
+  "raw_checkboxes": {
+    "volume_just_right": false,
+    "volume_more": false,
+    "volume_less": false,
+    "increase_tech": false,
+    "increase_news": false,
+    "increase_entertainment": false,
+    "increase_hobby": false,
+    "decrease_tech": false,
+    "decrease_news": false,
+    "decrease_entertainment": false,
+    "decrease_hobby": false,
+    "deep_dive_viteconf": false,
+    "deep_dive_angular22": false,
+    "deep_dive_market": false
+  },
+  "preferences_updated": false,
+  "notes": "フィードバックなし（全チェックボックス未入力）"
+}
