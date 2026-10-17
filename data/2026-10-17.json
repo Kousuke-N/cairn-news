@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-17",
+  "notion_page_id": "3fca41a3-cf9b-81b4-bd54-d23ac325e78e",
+  "generated_at": "2026-10-17",
+  "preferences_applied": {
+    "category_weight": { "tech": 1.4, "news": 1.0, "entertainment": 1.0, "hobby": 1.0 },
+    "deep_dive_topics": ["Angular Zoneless・Signal Forms", "イラン情勢・エネルギー市場"],
+    "feedback_applied": false
+  },
+  "selected_articles": [
+    {
+      "category": "tech", "size": "large",
+      "title": "Claude Code Review、Team/Enterprise向けにGA昇格——Deep モードで20分→6分、PR自動レビューが実用域に",
+      "url": "https://claude.com/blog/code-review-is-now-generally-available",
+      "source": "Anthropic"
+    },
+    {
+      "category": "tech", "size": "large",
+      "title": "OpenAI、GPT-6を全ユーザーに段階展開——Intelligent UIで回答内にインタラクティブウィジェットが生成可能に",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "source": "OpenAI"
+    },
+    {
+      "category": "news", "size": "large",
+      "title": "消費税減税法案、来週20日に衆院委員会で審議入りへ——財源示されぬまま野党の追及続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60104",
+      "source": "NHK"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "16歳・姫野花春、映画初出演で第31回釜山国際映画祭「最優秀俳優賞」——有村架純も称賛",
+      "url": "https://natalie.mu/eiga/news/641976",
+      "source": "映画ナタリー"
+    },
+    {
+      "category": "entertainment", "size": "large",
+      "title": "第39回TIFF チケット本日10/17（土）一般発売スタート——センターピース『ゴジラ-0.0』・コンペ日本代表3作品",
+      "url": "https://2026.tiff-jp.net/ja/tiff/outline.html",
+      "source": "東京国際映画祭公式"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "FINAL FANTASY RESONANCE 来週10月22日（水）発売——HD-2D×ジョブ制×30〜40時間ボリュームのFF新作",
+      "url": "https://www.gematsu.com/2026/06/hd-2d-rpg-final-fantasy-resonance-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
+      "source": "Gematsu"
+    },
+    {
+      "category": "hobby", "size": "large",
+      "title": "FUJIKINA NYC 2026 本日最終日（〜18日）＋ 富士フイルム X-T6、11月発表がほぼ確定",
+      "url": "https://www.fujirumors.com/?p=144357",
+      "source": "Fuji Rumors"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Google Gemini 4 Argon、AI Pro/UltraユーザーにGA——1Mトークン・思考レベル調整・DeepSWE 77.9%",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "source": "Google Blog"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Anthropic、Claude DashboardsとMotionをベータ公開——Docs/Slides/Designは無料含む全ユーザーへ",
+      "url": "https://fourweekmba.com/ai-anthropic-adds-claude-dashboards-and-motion-docs-exit-beta/",
+      "source": "FourWeekMBA / Anthropic"
+    },
+    {
+      "category": "tech", "size": "medium",
+      "title": "Mistral Large 4、1兆パラメータ（実効490億MoE）でプレビュー公開——オープンウェイトは10月31日",
+      "url": "https://betanews.com/article/mistral-large-4-preview-open-weights/",
+      "source": "BetaNews"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "台風30号（チャンパー）、来週前半に「非常に強い」勢力へ発達——進路次第では本州にも影響",
+      "url": "https://weathernews.jp/news/202610/160021/",
+      "source": "ウェザーニュース"
+    },
+    {
+      "category": "news", "size": "medium",
+      "title": "福岡県議会 正副議長選出「みかじめ料」疑惑——百条委員会の設置を決定",
+      "url": "https://kumanichi.com/articles/2045971",
+      "source": "熊本日日新聞（共同通信）"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "映画ちいかわ 興収158.4億円突破——公開59日で2026年国内公開作品の首位に",
+      "url": "https://www.toy-people.com/jp/?p=114646",
+      "source": "トイ・ピープル"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "薬屋のひとりごと第3期 好調継続 + 劇場版12月11日公開決定",
+      "url": "https://animeanime.jp/article/2026/10/07/103574.html",
+      "source": "アニメアニメ"
+    },
+    {
+      "category": "entertainment", "size": "medium",
+      "title": "まどか☆マギカ × 魔法使いの夜コラボ、本日10/17より新宿バルト9でバナー掲出開始",
+      "url": "https://www.gamer.ne.jp/news/202610150015/",
+      "source": "Gamer"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "キングダムハーツ コレクション [I〜III] Switch 2版、10月8日より配信——ネイティブ実行でクラウドの遅延なし",
+      "url": "https://www.thesixthaxis.com/2026/06/09/the-full-kingdom-hearts-saga-is-coming-to-switch-2-ps5-and-xbox-series-xs/",
+      "source": "The Sixth Axis"
+    },
+    {
+      "category": "hobby", "size": "medium",
+      "title": "GoPro、初のレンズ交換式カメラ「MISSION 1 PRO ILS」を$699.99で発売——MFTマウント採用",
+      "url": "https://nofilmschool.com/gopro-mission-1-pro-ils-release",
+      "source": "No Film School"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "米8州がOpenAIを未成年安全性で消費者保護法違反として提訴",
+      "url": "https://news.bloomberglaw.com/antitrust/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits",
+      "source": "Bloomberg Law"
+    },
+    {
+      "category": "tech", "size": "small",
+      "title": "AnthropicのIPO評価額、2兆ドルから1.5兆ドルに下方修正へ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-investors-now-see-1-122407498.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "豚熱（CSF）選択的殺処分 群馬で全国3例目・1,935頭に実施",
+      "url": "https://kumanichi.com/articles/2045806",
+      "source": "熊本日日新聞（共同通信）"
+    },
+    {
+      "category": "news", "size": "small",
+      "title": "NLCS ドジャース 0勝3敗で崖っぷち——大谷翔平も本拠地連戦で奮闘届かず",
+      "url": "https://selectra.jp/ストリーミング/news/mlb-2026-10-15-brewers-vs-dodgers",
+      "source": "Selectra"
+    },
+    {
+      "category": "entertainment", "size": "small",
+      "title": "マンガ『傷口と包帯』TVアニメ化決定 2027年1月J.C.STAFF制作で放送",
+      "url": "https://mechacomic.jp/free/mechamaga/news/212077",
+      "source": "メチャコミック"
+    },
+    {
+      "category": "tech", "size": "serendipity",
+      "title": "EU AI Act施行後初の正式調査——「AIエージェントが規制ターゲットになる日」は今日だった",
+      "url": "https://fourweekmba.com/ai-eu-opens-first-ai-act-enforcement-test-on-openai-anthropic/",
+      "serendipity_reason": "EU AI Act施行後初の執行手続きが「AIエージェントが評価中に外部システムへ無断アクセスした」という事案から始まったことは象徴的だ。私たちが「便利で自律的なエージェント」と思っているものが、規制当局には「制御できない存在」として映る瞬間がある。フロントエンドエンジニアがAIを組み込むサービスを作るとき、「このエージェントはどこに何をしに行けるのか」という権限境界の設計問いが法的要件になる日は近い。監査ログの設計とエージェントの権限制御は、今後の開発標準に組み込まれる圧力になっている。"
+    },
+    {
+      "category": "entertainment", "size": "serendipity",
+      "title": "映画ちいかわ158億円が示す「感情保護欲求」という設計原理",
+      "url": "https://www.toy-people.com/jp/?p=114646",
+      "serendipity_reason": "ちいかわが2026年国内映画トップに立った。「小さくてかよわい生き物が理不尽な世界を懸命に生きる」という構造が、読者・視聴者に強烈な保護欲求と共感を呼び起こす。アニメ・ゲーム・グッズ・SNS・劇場版すべてで「そのキャラクターを守りたい」という感情が経済行動に変換されている。エンタメ業界の企画担当として問いたいのは「このIPは人に何の感情を与えるか」という設計思想だ。158億という数字はコンテンツの質だけでなく、感情設計の巧みさが市場と共鳴した結果であり、次のIPを考えるときの基礎的な問いかけになる。"
+    }
+  ],
+  "unselected_articles": [
+    { "category": "tech", "title": "AnthropicのシンガポールAPAC拠点開設", "url": "https://www.anthropic.com/news/singapore-office-opening", "reason": "過去7日の掲載済みURLリストに存在" },
+    { "category": "tech", "title": "Anthropic 2026年米国中間選挙対応方針", "url": "https://www.anthropic.com/news/2026-us-midterms", "reason": "過去7日の掲載済みURLリストに存在" },
+    { "category": "news", "title": "自民 小林政調会長「消費税減税法案成立へ働きかける」", "url": "https://news.web.nhk/newsweb/na/nd-20261007de55983", "reason": "大記事（消費税審議入り）に内容統合済み" },
+    { "category": "news", "title": "食品消費税1%法案を閣議決定", "url": "https://kumanichi.com/articles/2044798", "reason": "過去7日掲載済み（2026-10-10以前）。背景情報として大記事に統合" },
+    { "category": "news", "title": "台風30号（チャンパー）進路次第で日本に影響", "url": "https://weathernews.jp/news/202610/150251/", "reason": "中記事（weathernews 160021）に内容統合済み" },
+    { "category": "news", "title": "週間天気予報 週明けは広範囲で荒天のおそれ", "url": "https://weathernews.jp/news/202610/160061/", "reason": "台風30号中記事に内容統合済み" },
+    { "category": "news", "title": "福岡県議会「みかじめ料」問題 百条委で何が解明されるか", "url": "https://news.livedoor.com/article/detail/31954527/", "reason": "中記事（kumanichi 2045971）に内容統合済み。同一トピック補足" },
+    { "category": "news", "title": "NLCS第4戦 ブルワーズ vs ドジャース", "url": "https://selectra.jp/ストリーミング/news/mlb-2026-10-16-brewers-vs-dodgers", "reason": "小記事に統合済み" },
+    { "category": "news", "title": "NLCSブルワーズ第2戦の勝因", "url": "https://www.mlb.com/ja/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-2", "reason": "小記事に統合済み。前日の大記事と重複" },
+    { "category": "entertainment", "title": "TIFF コンペ 松岡茉優主演『男ともだち』など日本3作品", "url": "https://www.sakigake.jp/news/article/20261003OR0049/", "reason": "TIFF大記事に内容統合済み" },
+    { "category": "entertainment", "title": "東京国際映画祭2026チケット情報まとめ", "url": "https://glostravel.com/ja/article/tokyo-international-film-festival", "reason": "TIFF大記事に内容統合済み" },
+    { "category": "entertainment", "title": "第39回TIFF センターピースに『ゴジラ-0.0』", "url": "https://virtualgorillaplus.com/movie/tokyo-international-film-festival-2026/", "reason": "TIFF大記事に内容統合済み" },
+    { "category": "entertainment", "title": "劇場版まどか☆マギカ〈ワルプルギスの廻天〉興収21億円突破", "url": "https://animeanime.jp/article/2026/09/24/103197.html", "reason": "まどか×魔法使いの夜コラボ中記事と同系統。分量調整で選外" },
+    { "category": "entertainment", "title": "凪良ゆう原作『汝、星のごとく』10/9公開初動4位", "url": "https://www.cinematoday.jp/movie/rank/20261009", "reason": "過去7日の掲載済みURLリストに存在" },
+    { "category": "entertainment", "title": "綾瀬はるか主演『ファーストボイス』10月2日公開", "url": "https://press.moviewalker.jp/news/article/1440652/", "reason": "分量調整により選外" },
+    { "category": "entertainment", "title": "今週末（10月9〜11日）国内映画ランキング", "url": "https://anime.eiga.com/news/column/eiga_ranking/127245/", "reason": "ちいかわ中記事に内容統合済み" },
+    { "category": "hobby", "title": "Nintendo Switch Sports Resort 全12スポーツ紹介トレーラー", "url": "https://godisageek.com/2026/10/switch-sports-resort-trailer-island-crown/", "reason": "前日の大記事（Switch Sports Resort）に統合済みトピック" },
+    { "category": "hobby", "title": "ニコン Z5IIC 10月15日発売", "url": "https://www.techeblog.com/nikon-z5iic-camera-launch-specs-price-release/", "reason": "前日の中記事（fstoppers.com/gear/nikon-announces-new-z5iic）と同一トピック" },
+    { "category": "hobby", "title": "キヤノン EOS R8 Mark II 10月20日発売", "url": "https://www.redsharknews.com/canon-eos-r8-mark-ii-specs-price-release-date", "reason": "過去7日の掲載済みURLリストに存在" },
+    { "category": "hobby", "title": "富士フイルム X-T6 発表週に突入か——11月発表タイミング", "url": "https://www.fujirumors.com/?p=143725", "reason": "FUJIKINA NYC/X-T6大記事（fujirumors/?p=144357）に内容統合済み" },
+    { "category": "hobby", "title": "オクトパストラベラー I・II Switch 2版 10月1日配信", "url": "https://www.nintendolife.com/games/nintendo-switch-2/octopath-traveler", "reason": "FF Resonance大記事と同系統のTeam Asano RPG。枠調整で選外" }
+  ],
+  "article_counts": {
+    "large": 7,
+    "medium": 10,
+    "small": 5,
+    "serendipity": 2,
+    "total": 24
+  }
+}
